@@ -38,7 +38,6 @@ jobs:
         run: |
           New-Item -Path .\.sonar\scanner -ItemType Directory
           dotnet tool update dotnet-sonarscanner --tool-path .\.sonar\scanner
-
       - name: Add msbuild to PATH
         uses: microsoft/setup-msbuild@v1.1
 
@@ -48,6 +47,6 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         shell: powershell
         run: |
-          .\.sonar\scanner\dotnet-sonarscanner begin /k:"TZR-Redstonemaniac_Unity_Chess_AI" /o:"tzr-redstonemaniac" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.verbose=true
-          msbuild D:\a\Unity_Chess_AI\Unity_Chess_AI\Computer-IA.sln /t:Rebuild /v:d
+          .\.sonar\scanner\dotnet-sonarscanner begin /k:"TZR-Redstonemaniac_Unity_Chess_AI" /o:"tzr-redstonemaniac" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
+          msbuild $GITHUB_WORKSPACE\Computer-IA.sln /t:Rebuild
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
