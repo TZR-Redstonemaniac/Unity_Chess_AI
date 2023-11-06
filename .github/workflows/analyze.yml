@@ -49,5 +49,5 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"TZR-Redstonemaniac_Unity_Chess_AI" /o:"tzr-redstonemaniac" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.verbose=true
-          msbuild D:\a\Unity_Chess_AI\Unity_Chess_AI\Computer-IA.sln /t:Rebuild /v:d
+          dir
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
