@@ -1,13 +1,22 @@
-sonar.projectKey=TZR-Redstonemaniac_Unity_Chess_AI
-sonar.organization=tzr-redstonemaniac
-
-# This is the name and version displayed in the SonarCloud UI.
-sonar.projectName=Unity_Chess_AI
-sonar.projectVersion=0.0.1
-
-
-# Path is relative to the sonar-project.properties file. Replace "\" by "/" on Windows.
-sonar.sources=.
-
-# Encoding of the source code. Default is default system encoding
-sonar.sourceEncoding=UTF-8
+on:
+  # Trigger analysis when pushing in master or pull requests, and when creating
+  # a pull request.
+  push:
+    branches:
+      - master
+  pull_request:
+      types: [opened, synchronize, reopened]
+name: Main Workflow
+jobs:
+  sonarcloud:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        # Disabling shallow clone is recommended for improving relevancy of reporting
+        fetch-depth: 0
+    - name: SonarCloud Scan
+      uses: sonarsource/sonarcloud-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
