@@ -5,6 +5,9 @@ jobs:
     name: Build and analyze
     runs-on: windows-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4.1.1
+    
       - name: Set up JDK 17
         uses: actions/setup-java@v3
         with:
@@ -45,6 +48,6 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         shell: powershell
         run: |
-          .\.sonar\scanner\dotnet-sonarscanner begin /k:"TZR-Redstonemaniac_Unity_Chess_AI" /o:"tzr-redstonemaniac" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
-          msbuild Computer-IA.sln /t:Rebuild
+          .\.sonar\scanner\dotnet-sonarscanner begin /k:"TZR-Redstonemaniac_Unity_Chess_AI" /o:"tzr-redstonemaniac" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.verbose=true
+          msbuild D:\a\Unity_Chess_AI\Unity_Chess_AI\Computer-IA.sln /t:Rebuild /v:d
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
