@@ -1,0 +1,42 @@
+
+Shapes.Disc.AngRadiansStart.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csˆ ˆ("0*
+0
+ˆ ˆ(*
+1*Ô
+1
+ˆ
+ ˆ(RS
+Q
+
+ˆ9 ˆ(P)
+Shapes.Disc"
+angRadiansStartfloat"__id*
+
+valuefloatè
+å
+
+ˆ
+ ˆ(R
+
+%0void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+
+ˆ
+ ˆ(
+Shapes.Disc*C
+
+ˆ ˆ(75*3
+Shapes.ShapesMaterialUtils"
+propAngStartint*9
+
+ˆ9 ˆ(P+*)
+Shapes.Disc"
+angRadiansStartfloat*
+2*2
+2
+ˆS ˆ(S"!
+
+ˆR ˆ(S
+implicit return:
+valuefloatB
+Shapes.Disc

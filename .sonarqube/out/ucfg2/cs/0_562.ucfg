@@ -1,0 +1,50 @@
+
+!Shapes.Rectangle.FillColorEnd.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÅ Å("0*
+0
+Å Å(*
+1*û
+1
+Å
+ Å(Pf
+d
+
+Å9 Å(=
+%0Shapes.GradientFill"__id*53*1
+Shapes.Rectangle"
+fillShapes.GradientFillp
+n
+
+Å9 Å(N:
+
+%0Shapes.GradientFill"
+colorEndUnityEngine.Color"__id*
+
+valueUnityEngine.ColorŠ
+‡
+
+Å
+ Å(P
+
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*"
+
+Å
+ Å(
+Shapes.Rectangle*C
+
+Å Å(75*3
+Shapes.ShapesMaterialUtils"
+propColorEndint*J
+
+Å9 Å(N<*:
+
+%0Shapes.GradientFill"
+colorEndUnityEngine.Color*
+2*2
+2
+ÅQ Å(Q"!
+
+ÅP Å(Q
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Rectangle

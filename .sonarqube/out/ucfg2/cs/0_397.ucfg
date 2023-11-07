@@ -1,0 +1,40 @@
+
+Shapes.Disc.DashSnap.set–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs8 8("0*
+08 8(*
+1*Ê
+18
+ 8(X^
+\
+8> 8(G
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStylek
+i
+8> 8(T5
+
+%0Shapes.DashStyle"
+snapShapes.DashSnapping"__id* 
+
+valueShapes.DashSnappingè
+å
+8
+ 8(X
+
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+8
+ 8(
+Shapes.Disc*A
+8 8(55*3
+Shapes.ShapesMaterialUtils"
+propDashSnapint*C
+87 8(V7*5
+
+%0Shapes.DashStyle"
+snapShapes.DashSnapping*
+2*.
+28Y 8(Y"
+8X 8(Y
+implicit return:
+valueShapes.DashSnappingB
+Shapes.Disc

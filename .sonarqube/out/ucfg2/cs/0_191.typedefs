@@ -1,0 +1,16 @@
+•
+Shapes.PointPath<T>Shapes.DisposableMeshobjectB
+OnSetFirstDataPoint())Shapes.PointPath<T>.OnSetFirstDataPoint()8
+ClearAllPoints()$Shapes.PointPath<T>.ClearAllPoints()8
+SetPoint(int, T)$Shapes.PointPath<T>.SetPoint(int, T).
+AddPoint(T)Shapes.PointPath<T>.AddPoint(T)B
+AddPoints(params T[]))Shapes.PointPath<T>.AddPoints(params T[])€
+4AddPoints(System.Collections.Generic.IEnumerable<T>)HShapes.PointPath<T>.AddPoints(System.Collections.Generic.IEnumerable<T>)X
+ CheckCanAddContinuePoint(string)4Shapes.PointPath<T>.CheckCanAddContinuePoint(string).
+PointPath()Shapes.PointPath<T>.PointPath()*
+	Count.getShapes.PointPath<T>.Count.get*
+	Count.setShapes.PointPath<T>.Count.set2
+LastPoint.get!Shapes.PointPath<T>.LastPoint.get2
+LastPoint.set!Shapes.PointPath<T>.LastPoint.set2
+this[int].get!Shapes.PointPath<T>.this[int].get2
+this[int].set!Shapes.PointPath<T>.this[int].set

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>ShapesSamples</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>fd7999d6-cb96-9f70-6661-8a56306067fb</ProjectGuid>
+  <FullPath>C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\ShapesSamples.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\.sonarqube\conf\2\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\.sonarqube\out\2\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\.sonarqube\out\2</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

@@ -1,0 +1,2 @@
+﻿C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\Example\Editor\UserSerializableDictionaryPropertyDrawers.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\Editor\SerializableDictionaryPropertyDrawer.cs

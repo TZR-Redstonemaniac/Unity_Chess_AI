@@ -1,0 +1,216 @@
+
+ Shapes.MpbTriangle.MpbTriangle()á
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs´ ´("0*Ó$
+0
+Œ Œ(l
+j
+
+≠& ≠(9(
+%0"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbÑ
+Å
+
+≠" ≠(9?
+Shapes.MpbTriangle"'
+a"System.Collections.Generic.List<T>"__id*,*
+(
+%0"System.Collections.Generic.List<T>l
+j
+
+Æ& Æ(9(
+%1"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbÑ
+Å
+
+Æ" Æ(9?
+Shapes.MpbTriangle"'
+b"System.Collections.Generic.List<T>"__id*,*
+(
+%1"System.Collections.Generic.List<T>l
+j
+
+Ø& Ø(9(
+%2"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbÑ
+Å
+
+Ø" Ø(9?
+Shapes.MpbTriangle"'
+c"System.Collections.Generic.List<T>"__id*,*
+(
+%2"System.Collections.Generic.List<T>l
+j
+
+∞+ ∞(>(
+%3"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbâ
+Ü
+
+∞" ∞(>D
+Shapes.MpbTriangle",
+colorB"System.Collections.Generic.List<T>"__id*,*
+(
+%3"System.Collections.Generic.List<T>l
+j
+
+±+ ±(>(
+%4"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbâ
+Ü
+
+±" ±(>D
+Shapes.MpbTriangle",
+colorC"System.Collections.Generic.List<T>"__id*,*
+(
+%4"System.Collections.Generic.List<T>l
+j
+
+≤) ≤(:(
+%5"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbâ
+Ü
+
+≤  ≤(:D
+Shapes.MpbTriangle",
+hollow"System.Collections.Generic.List<T>"__id*,*
+(
+%5"System.Collections.Generic.List<T>l
+j
+
+≥, ≥(=(
+%6"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbå
+â
+
+≥  ≥(=G
+Shapes.MpbTriangle"/
+	roundness"System.Collections.Generic.List<T>"__id*,*
+(
+%6"System.Collections.Generic.List<T>l
+j
+
+¥, ¥(=(
+%7"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbå
+â
+
+¥  ¥(=G
+Shapes.MpbTriangle"/
+	scaleMode"System.Collections.Generic.List<T>"__id*,*
+(
+%7"System.Collections.Generic.List<T>l
+j
+
+µ, µ(=(
+%8"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbå
+â
+
+µ  µ(=G
+Shapes.MpbTriangle"/
+	thickness"System.Collections.Generic.List<T>"__id*,*
+(
+%8"System.Collections.Generic.List<T>l
+j
+
+∂1 ∂(B(
+%9"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbë
+é
+
+∂  ∂(BL
+Shapes.MpbTriangle"4
+thicknessSpace"System.Collections.Generic.List<T>"__id*,*
+(
+%9"System.Collections.Generic.List<T>m
+k
+
+π1 π(B)
+%10"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb∫
+∑
+
+π π(C)
+%11"System.Collections.Generic.List<T>"5Shapes.MpbTriangle.Shapes.IDashableMpb.dashOffset.set*
+Shapes.MpbTriangle*-+
+)
+%10"System.Collections.Generic.List<T>m
+k
+
+∫8 ∫(I)
+%12"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb¡
+æ
+
+∫ ∫(J)
+%13"System.Collections.Generic.List<T>"<Shapes.MpbTriangle.Shapes.IDashableMpb.dashShapeModifier.set*
+Shapes.MpbTriangle*-+
+)
+%12"System.Collections.Generic.List<T>m
+k
+
+ª/ ª(@)
+%14"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb∏
+µ
+
+ª ª(A)
+%15"System.Collections.Generic.List<T>"3Shapes.MpbTriangle.Shapes.IDashableMpb.dashSize.set*
+Shapes.MpbTriangle*-+
+)
+%14"System.Collections.Generic.List<T>m
+k
+
+º/ º(@)
+%16"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb∏
+µ
+
+º º(A)
+%17"System.Collections.Generic.List<T>"3Shapes.MpbTriangle.Shapes.IDashableMpb.dashSnap.set*
+Shapes.MpbTriangle*-+
+)
+%16"System.Collections.Generic.List<T>m
+k
+
+Ω0 Ω(A)
+%18"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbπ
+∂
+
+Ω Ω(B)
+%19"System.Collections.Generic.List<T>"4Shapes.MpbTriangle.Shapes.IDashableMpb.dashSpace.set*
+Shapes.MpbTriangle*-+
+)
+%18"System.Collections.Generic.List<T>m
+k
+
+æ2 æ(C)
+%20"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbª
+∏
+
+æ æ(D)
+%21"System.Collections.Generic.List<T>"6Shapes.MpbTriangle.Shapes.IDashableMpb.dashSpacing.set*
+Shapes.MpbTriangle*-+
+)
+%20"System.Collections.Generic.List<T>m
+k
+
+ø/ ø(@)
+%22"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb∏
+µ
+
+ø ø(A)
+%23"System.Collections.Generic.List<T>"3Shapes.MpbTriangle.Shapes.IDashableMpb.dashType.set*
+Shapes.MpbTriangle*-+
+)
+%22"System.Collections.Generic.List<T>?
+=
+%24void"Shapes.MetaMpb.MetaMpb()*
+Shapes.MetaMpb"!
+
+´ Œ(
+implicit returnB
+Shapes.MpbTriangle

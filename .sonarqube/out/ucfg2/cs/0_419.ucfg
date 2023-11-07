@@ -1,0 +1,30 @@
+
+Shapes.Draw.ColorMask.set†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csU U("0*
+0U U(*
+1*õ
+1U! U(DZ
+X
+U! U(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
+k
+U! U(2
+%1Shapes.RenderState"__id*?=*;
+
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderState•
+’
+U! U(DM
+
+%1Shapes.RenderState"1
+	colorMask$UnityEngine.Rendering.ColorWriteMask"__id*1/
+-
+value$UnityEngine.Rendering.ColorWriteMask*
+2*.
+2UE U(E"
+UD U(E
+implicit return:/-
+value$UnityEngine.Rendering.ColorWriteMaskB"
+Shapes.Draw

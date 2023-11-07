@@ -1,0 +1,6 @@
+ü
+Shapes.IMDrawerSystem.ValueTypeobjectSystem.IDisposableè
+jIMDrawer(Shapes.MetaMpb, UnityEngine.Material, UnityEngine.Mesh, int, Shapes.IMDrawer.DrawType, bool, int)zShapes.IMDrawer.IMDrawer(Shapes.MetaMpb, UnityEngine.Material, UnityEngine.Mesh, int, Shapes.IMDrawer.DrawType, bool, int)&
+	Dispose()Shapes.IMDrawer.Dispose()(
+
+IMDrawer()Shapes.IMDrawer.IMDrawer()

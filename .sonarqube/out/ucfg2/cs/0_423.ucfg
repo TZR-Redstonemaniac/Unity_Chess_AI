@@ -1,0 +1,29 @@
+
+/Shapes.ColorStack.ColorStack(UnityEngine.Color)‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\ColorStack.cs ("1*
+19 (9*
+0*Î
+0& (6ˆ
+…
+& (,)
+%0#System.Collections.Generic.Stack<T>"__id*HF*D
+Shapes.ColorStack"-
+colors#System.Collections.Generic.Stack<T>™
+–
+& (8
+
+%1void"1System.Collections.Generic.ICollection<T>.Push(T)*-+
+)
+%0#System.Collections.Generic.Stack<T>*
+
+mtxUnityEngine.Color"
+& (8
+
+
+%1void*.
+29 (9"
+8 (9
+implicit return:$
+ ( 
+mtxUnityEngine.ColorB
+Shapes.ColorStack

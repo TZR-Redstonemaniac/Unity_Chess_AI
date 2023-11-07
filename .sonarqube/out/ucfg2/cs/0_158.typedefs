@@ -1,0 +1,7 @@
+å
+Shapes.RenderStateSystem.ValueTypeobjectSystem.IEquatable<T>7
+CreateMaterial()#Shapes.RenderState.CreateMaterial()K
+Equals(Shapes.RenderState)-Shapes.RenderState.Equals(Shapes.RenderState)3
+Equals(object)!Shapes.RenderState.Equals(object)1
+GetHashCode() Shapes.RenderState.GetHashCode()1
+RenderState() Shapes.RenderState.RenderState()

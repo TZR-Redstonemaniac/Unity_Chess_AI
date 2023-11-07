@@ -1,0 +1,50 @@
+
+%Shapes.Triangle.DashShapeModifier.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs“ “("0*
+0
+“ “(*
+1*Õ
+1
+“
+ “(cd
+b
+
+“B “(K
+%0Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyleZ
+X
+
+“B “(a0
+
+%0Shapes.DashStyle"
+shapeModifierfloat"__id*
+
+valuefloatü
+ù
+
+“
+ “(c
+
+%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*!
+
+“
+ “(
+Shapes.Triangle*L
+
+“ “(@>*<
+Shapes.ShapesMaterialUtils"
+propDashShapeModifierint*@
+
+“B “(a2*0
+
+%0Shapes.DashStyle"
+shapeModifierfloat*
+2*2
+2
+“d “(d"!
+
+“c “(d
+implicit return:
+valuefloatB
+Shapes.Triangle

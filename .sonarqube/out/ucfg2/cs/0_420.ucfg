@@ -1,0 +1,50 @@
+
++Shapes.RegularPolygon.DashShapeModifier.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csç ç("0*
+0
+ç ç(*
+1*·
+1
+ç
+ ç(cj
+h
+
+çB ç(K
+%0Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStyleZ
+X
+
+çB ç(a0
+
+%0Shapes.DashStyle"
+shapeModifierfloat"__id*
+
+valuefloatÇ
+ˇ
+
+ç
+ ç(c
+
+%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*'
+
+ç
+ ç(
+Shapes.RegularPolygon*L
+
+ç ç(@>*<
+Shapes.ShapesMaterialUtils"
+propDashShapeModifierint*@
+
+çB ç(a2*0
+
+%0Shapes.DashStyle"
+shapeModifierfloat*
+2*2
+2
+çd ç(d"!
+
+çc ç(d
+implicit return:
+valuefloatB
+Shapes.RegularPolygon

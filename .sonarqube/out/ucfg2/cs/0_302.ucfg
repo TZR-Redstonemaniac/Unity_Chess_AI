@@ -1,0 +1,51 @@
+
+Shapes.Polygon.UseFill.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csê ê("0*
+0
+ê ê(*
+1*Ô
+1
+ë í(XL
+J
+
+ë ë(#
+Shapes.Polygon"
+useFillbool"__id*
+
+valuebool¿
+Ω
+
+í1 í(U	
+%0int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*?
+
+í1 í(51*/
+Shapes.Polygon"
+fillShapes.GradientFill*3
+
+íL í(S%*#
+Shapes.Polygon"
+useFillbool«
+ƒ
+
+í í(W
+
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)* 
+
+í í(
+Shapes.Polygon*C
+
+í í(/5*3
+Shapes.ShapesMaterialUtils"
+propFillTypeint*
+
+í1 í(U
+	
+%0int*
+2*2
+2
+ì ì("!
+
+ì ì(
+implicit return:
+valueboolB
+Shapes.Polygon

@@ -1,0 +1,89 @@
+
+Shapes.Triangle.this[int].get|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs ("0*
+0 (*
+1*M
+1 (6
+4
+ (
+	%capture0int"__id*
+
+indexint*
+2
+3*Í
+2 (_
+]
+ (
+%0UnityEngine.Vector3"Shapes.Triangle.A.get*
+ (
+Shapes.TriangleX
+V
+ (
+%retUnityEngine.Vector3"__id*'
+ (
+
+%0UnityEngine.Vector3*
+8*
+3
+ (*
+4
+5*Í
+4 (_
+]
+ (
+%1UnityEngine.Vector3"Shapes.Triangle.B.get*
+ (
+Shapes.TriangleX
+V
+ (
+%retUnityEngine.Vector3"__id*'
+ (
+
+%1UnityEngine.Vector3*
+8*
+5
+ (*
+6
+7*Í
+6 (_
+]
+ (
+%2UnityEngine.Vector3"Shapes.Triangle.C.get*
+ (
+Shapes.TriangleX
+V
+ (
+%retUnityEngine.Vector3"__id*'
+ (
+
+%2UnityEngine.Vector3*
+8*ó
+7! !({˜
+•
+!* !(y
+%3string"__concat*U
+!, !(qIG
+ETriangle only has four vertices, 0 to 2, you tried to access element *
+!q !(x
+
+indexintTR
+! !({%
+%4System.IndexOutOfRangeException"System.IndexOutOfRangeExceptionÇ
+Ä
+! !({%
+%5System.IndexOutOfRangeException"@System.IndexOutOfRangeException.IndexOutOfRangeException(string)*3
+! !({'
+%
+%4System.IndexOutOfRangeException*
+!* !(y
+
+%3string")
+# #(
+
+%retUnityEngine.Vector3*8
+8# #(")
+# #(
+
+%retUnityEngine.Vector3:
+indexintB
+Shapes.Triangle

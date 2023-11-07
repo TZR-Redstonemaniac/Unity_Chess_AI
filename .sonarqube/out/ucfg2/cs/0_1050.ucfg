@@ -1,0 +1,108 @@
+
+Shapes.Quad.GetQuadColor(int)x
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csI I("0*
+0I I(*
+1*M
+1J K(
+6
+4
+J J(
+	%capture0int"__id*
+
+indexint*
+2
+3*Ä
+2K K(Y
+W
+K K(
+%0UnityEngine.Color"Shapes.Quad.Color.get*
+K K(
+Shapes.QuadT
+R
+K K(
+%retUnityEngine.Color"__id*%
+K K(
+
+%0UnityEngine.Color*
+10*
+3L	 L(
+*
+4
+5*Å
+4L L(Z
+X
+L L(
+%1UnityEngine.Color"Shapes.Quad.ColorB.get*
+L L(
+Shapes.QuadT
+R
+L L(
+%retUnityEngine.Color"__id*%
+L L(
+
+%1UnityEngine.Color*
+10*
+5M	 M(
+*
+6
+7*Å
+6M M(Z
+X
+M M(
+%2UnityEngine.Color"Shapes.Quad.ColorC.get*
+M M(
+Shapes.QuadT
+R
+M M(
+%retUnityEngine.Color"__id*%
+M M(
+
+%2UnityEngine.Color*
+10*
+7N	 N(
+*
+8
+9*Å
+8N N(Z
+X
+N N(
+%3UnityEngine.Color"Shapes.Quad.ColorD.get*
+N N(
+Shapes.QuadT
+R
+N N(
+%retUnityEngine.Color"__id*%
+N N(
+
+%3UnityEngine.Color*
+10*í
+9P P(v”
+‘
+P) P(t
+%4string"__concat*Q
+P+ P(lEC
+AQuad only has four vertices, 0 to 3, you tried to access element *
+Pl P(s
+
+indexintTR
+P P(v%
+%5System.IndexOutOfRangeException"System.IndexOutOfRangeExceptionÇ
+Ä
+P P(v%
+%6System.IndexOutOfRangeException"@System.IndexOutOfRangeException.IndexOutOfRangeException(string)*3
+P P(v'
+%
+%5System.IndexOutOfRangeException*
+P) P(t
+
+%4string"'
+R R(
+
+%retUnityEngine.Color*7
+10R R("'
+R R(
+
+%retUnityEngine.Color:
+I I(&
+indexintB
+Shapes.Quad

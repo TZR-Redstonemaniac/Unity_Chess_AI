@@ -1,0 +1,26 @@
+¾
+Shapes.ConeShapes.ShapeRendererUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectD
+SetAllMaterialProperties()&Shapes.Cone.SetAllMaterialProperties()4
+ShapeClampRanges()Shapes.Cone.ShapeClampRanges(),
+GetMaterials()Shapes.Cone.GetMaterials():
+GetInitialMeshAsset()!Shapes.Cone.GetInitialMeshAsset()8
+GetBounds_Internal() Shapes.Cone.GetBounds_Internal()
+Cone()Shapes.Cone.Cone()$
+
+Radius.getShapes.Cone.Radius.get$
+
+Radius.setShapes.Cone.Radius.set$
+
+Length.getShapes.Cone.Length.get$
+
+Length.setShapes.Cone.Length.set.
+RadiusSpace.getShapes.Cone.RadiusSpace.get.
+RadiusSpace.setShapes.Cone.RadiusSpace.set*
+SizeSpace.getShapes.Cone.SizeSpace.get*
+SizeSpace.setShapes.Cone.SizeSpace.set&
+FillCap.getShapes.Cone.FillCap.get&
+FillCap.setShapes.Cone.FillCap.set6
+HasDetailLevels.getShapes.Cone.HasDetailLevels.get6
+HasDetailLevels.setShapes.Cone.HasDetailLevels.set2
+HasScaleModes.getShapes.Cone.HasScaleModes.get2
+HasScaleModes.setShapes.Cone.HasScaleModes.set

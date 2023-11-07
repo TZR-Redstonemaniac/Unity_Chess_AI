@@ -1,0 +1,50 @@
+
+Shapes.Triangle.DashOffset.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs€ €("0*
+0
+€ €(*
+1*À
+1
+€
+ €(Ud
+b
+
+€; €(D
+%0Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyleS
+Q
+
+€; €(S)
+
+%0Shapes.DashStyle"
+offsetfloat"__id*
+
+valuefloatî
+ë
+
+€
+ €(U
+
+%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*!
+
+€
+ €(
+Shapes.Triangle*E
+
+€ €(97*5
+Shapes.ShapesMaterialUtils"
+propDashOffsetint*9
+
+€; €(S+*)
+
+%0Shapes.DashStyle"
+offsetfloat*
+2*2
+2
+€V €(V"!
+
+€U €(V
+implicit return:
+valuefloatB
+Shapes.Triangle

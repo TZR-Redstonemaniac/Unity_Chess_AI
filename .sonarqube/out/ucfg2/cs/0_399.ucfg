@@ -1,0 +1,50 @@
+
+Shapes.Rectangle.DashSnap.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÿ ÿ("0*
+0
+ÿ ÿ(*
+1*â
+1
+ÿ
+ ÿ(Xe
+c
+
+ÿ> ÿ(G
+%0Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStylem
+k
+
+ÿ> ÿ(T5
+
+%0Shapes.DashStyle"
+snapShapes.DashSnapping"__id* 
+
+valueShapes.DashSnappingõ
+ò
+
+ÿ
+ ÿ(X
+
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*"
+
+ÿ
+ ÿ(
+Shapes.Rectangle*C
+
+ÿ ÿ(55*3
+Shapes.ShapesMaterialUtils"
+propDashSnapint*E
+
+ÿ7 ÿ(V7*5
+
+%0Shapes.DashStyle"
+snapShapes.DashSnapping*
+2*2
+2
+ÿY ÿ(Y"!
+
+ÿX ÿ(Y
+implicit return:
+valueShapes.DashSnappingB
+Shapes.Rectangle

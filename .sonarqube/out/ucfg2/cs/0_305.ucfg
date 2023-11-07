@@ -1,0 +1,58 @@
+
+Shapes.Polygon.FillType.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs— —("0*
+0
+— —(*
+1*ñ
+1
+˜ ™(Xd
+b
+
+˜ ˜(
+%0Shapes.GradientFill"__id*31*/
+Shapes.Polygon"
+fillShapes.GradientFillh
+f
+
+˜ ˜(4
+
+%0Shapes.GradientFill"
+typeShapes.FillType"__id*
+
+valueShapes.FillTypeÀ
+½
+
+™1 ™(U	
+%1int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*?
+
+™1 ™(51*/
+Shapes.Polygon"
+fillShapes.GradientFill*3
+
+™L ™(S%*#
+Shapes.Polygon"
+useFillboolÇ
+Ä
+
+™ ™(W
+
+%2void"(Shapes.ShapeRenderer.SetIntNow(int, int)* 
+
+™ ™(
+Shapes.Polygon*C
+
+™ ™(/5*3
+Shapes.ShapesMaterialUtils"
+propFillTypeint*
+
+™1 ™(U
+	
+%1int*
+2*2
+2
+š š("!
+
+š š(
+implicit return:
+valueShapes.FillTypeB
+Shapes.Polygon

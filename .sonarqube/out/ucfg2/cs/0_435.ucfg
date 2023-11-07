@@ -1,0 +1,47 @@
+
+#Shapes.Triangle.GetNetDashSpacing()˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs– –("0*
+0
+– –(*
+1*Ü
+1
+– –(hƒ
+€
+
+– –(h
+%0float"KShapes.ShapeRenderer.GetNetDashSpacing(Shapes.DashStyle, bool, bool, float)*!
+
+– –(0
+Shapes.Triangle*B
+
+–2 –(;4*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyle*3
+
+–= –(C%*#
+Shapes.Triangle"
+dashedbool*C
+
+–E –([5*3
+Shapes.Triangle"
+matchDashSpacingToSizebool*7
+
+–] –(f)*'
+Shapes.Triangle"
+	thicknessfloat@
+>
+
+– –(h
+%retfloat"__id*
+
+– –(h
+
+%0float*
+2*.
+2
+–i –(i"
+
+–h –(i
+
+%retfloatB
+Shapes.Triangle

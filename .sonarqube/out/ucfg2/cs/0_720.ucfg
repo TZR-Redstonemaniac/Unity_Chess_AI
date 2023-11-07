@@ -1,0 +1,33 @@
+
+Shapes.Cuboid.SizeSpace.setz
+pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Cuboid.cs ("0*
+0 (*
+1*ï
+1
+ (Tm
+k
+? (P5
+Shapes.Cuboid""
+	sizeSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpaceë
+è
+
+ (T
+
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+
+ (
+Shapes.Cuboid*B
+ (66*4
+Shapes.ShapesMaterialUtils"
+propSizeSpaceint*C
+8 (R7*5
+Shapes.Cuboid""
+	sizeSpaceShapes.ThicknessSpace*
+2*.
+2U (U"
+T (U
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.Cuboid

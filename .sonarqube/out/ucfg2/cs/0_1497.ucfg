@@ -1,0 +1,329 @@
+
+&Shapes.MetaMpb.TransferAllProperties()Å
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpb.csê ê(%"0*
+0
+í í(*
+1
+2*∑
+1
+ì ì(2U
+S
+
+ì ì(+	
+%0int"__id*42*0
+Shapes.ShapesMaterialUtils"
+	propColorintÑ
+Å
+
+ì- ì(2(
+%1"System.Collections.Generic.List<T>"__id*CA*?
+Shapes.MetaMpb"+
+color"System.Collections.Generic.List<T>¬
+ø
+
+ì ì(4
+
+%2void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*
+Shapes.MetaMpb*
+	
+%0int*,*
+(
+%1"System.Collections.Generic.List<T>*
+2*d
+2
+ñ ñ($K
+I
+
+ñ ñ($
+fillableShapes.IFillableMpb"__id*
+Shapes.MetaMpb*
+3
+4*Ä
+3
+ó õ(?X
+V
+
+ó ó(.	
+%3int"__id*75*3
+Shapes.ShapesMaterialUtils"
+propFillTypeintéã
+
+ó0 ó(A(
+%4"System.Collections.Generic.List<T>" Shapes.IFillableMpb.fillType.get*#!
+
+fillableShapes.IFillableMpb2fillType.get¥
+±
+
+ó ó(C
+
+%5void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+Shapes.MetaMpb*
+	
+%3int*,*
+(
+%4"System.Collections.Generic.List<T>Y
+W
+
+ò ò(/	
+%6int"__id*86*4
+Shapes.ShapesMaterialUtils"
+propFillSpaceintêç
+
+ò1 ò(C(
+%7"System.Collections.Generic.List<T>"!Shapes.IFillableMpb.fillSpace.get*#!
+
+fillableShapes.IFillableMpb2fillSpace.get¥
+±
+
+ò ò(E
+
+%8void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+Shapes.MetaMpb*
+	
+%6int*,*
+(
+%7"System.Collections.Generic.List<T>Y
+W
+
+ô ô(/	
+%9int"__id*86*4
+Shapes.ShapesMaterialUtils"
+propFillStartintëé
+
+ô1 ô(C)
+%10"System.Collections.Generic.List<T>"!Shapes.IFillableMpb.fillStart.get*#!
+
+fillableShapes.IFillableMpb2fillStart.getƒ
+¡
+
+ô ô(E
+%11void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*
+Shapes.MetaMpb*
+	
+%9int*-+
+)
+%10"System.Collections.Generic.List<T>Y
+W
+
+ö ö(.
+
+%12int"__id*75*3
+Shapes.ShapesMaterialUtils"
+propColorEndintóî
+
+ö0 ö(E)
+%13"System.Collections.Generic.List<T>"$Shapes.IFillableMpb.fillColorEnd.get*#!
+
+fillableShapes.IFillableMpb2fillColorEnd.get≈
+¬
+
+ö ö(G
+%14void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*
+Shapes.MetaMpb*
+
+
+%12int*-+
+)
+%13"System.Collections.Generic.List<T>X
+V
+
+õ õ(-
+
+%15int"__id*64*2
+Shapes.ShapesMaterialUtils"
+propFillEndintçä
+
+õ/ õ(?)
+%16"System.Collections.Generic.List<T>"Shapes.IFillableMpb.fillEnd.get*#!
+
+fillableShapes.IFillableMpb2fillEnd.get≈
+¬
+
+õ õ(A
+%17void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*
+Shapes.MetaMpb*
+
+
+%15int*-+
+)
+%16"System.Collections.Generic.List<T>*
+4*d
+4
+û û($K
+I
+
+û û($
+dashableShapes.IDashableMpb"__id*
+Shapes.MetaMpb*
+5
+6*“
+5
+ü •(GY
+W
+
+ü ü(.
+
+%18int"__id*75*3
+Shapes.ShapesMaterialUtils"
+propDashSizeintèå
+
+ü0 ü(A)
+%19"System.Collections.Generic.List<T>" Shapes.IDashableMpb.dashSize.get*#!
+
+dashableShapes.IDashableMpb2dashSize.get∑
+¥
+
+ü ü(C
+%20void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+Shapes.MetaMpb*
+
+
+%18int*-+
+)
+%19"System.Collections.Generic.List<T>Y
+W
+
+† †(.
+
+%21int"__id*75*3
+Shapes.ShapesMaterialUtils"
+propDashTypeintèå
+
+†0 †(A)
+%22"System.Collections.Generic.List<T>" Shapes.IDashableMpb.dashType.get*#!
+
+dashableShapes.IDashableMpb2dashType.get∑
+¥
+
+† †(C
+%23void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+Shapes.MetaMpb*
+
+
+%21int*-+
+)
+%22"System.Collections.Generic.List<T>b
+`
+
+° °(7
+
+%24int"__id*@>*<
+Shapes.ShapesMaterialUtils"
+propDashShapeModifierint°û
+
+°9 °(S)
+%25"System.Collections.Generic.List<T>")Shapes.IDashableMpb.dashShapeModifier.get*#!
+
+dashableShapes.IDashableMpb2dashShapeModifier.get∑
+¥
+
+° °(U
+%26void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+Shapes.MetaMpb*
+
+
+%24int*-+
+)
+%25"System.Collections.Generic.List<T>Z
+X
+
+¢ ¢(/
+
+%27int"__id*86*4
+Shapes.ShapesMaterialUtils"
+propDashSpaceintëé
+
+¢1 ¢(C)
+%28"System.Collections.Generic.List<T>"!Shapes.IDashableMpb.dashSpace.get*#!
+
+dashableShapes.IDashableMpb2dashSpace.get∑
+¥
+
+¢ ¢(E
+%29void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+Shapes.MetaMpb*
+
+
+%27int*-+
+)
+%28"System.Collections.Generic.List<T>Y
+W
+
+£ £(.
+
+%30int"__id*75*3
+Shapes.ShapesMaterialUtils"
+propDashSnapintèå
+
+£0 £(A)
+%31"System.Collections.Generic.List<T>" Shapes.IDashableMpb.dashSnap.get*#!
+
+dashableShapes.IDashableMpb2dashSnap.get∑
+¥
+
+£ £(C
+%32void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+Shapes.MetaMpb*
+
+
+%30int*-+
+)
+%31"System.Collections.Generic.List<T>[
+Y
+
+§ §(0
+
+%33int"__id*97*5
+Shapes.ShapesMaterialUtils"
+propDashOffsetintìê
+
+§2 §(E)
+%34"System.Collections.Generic.List<T>""Shapes.IDashableMpb.dashOffset.get*#!
+
+dashableShapes.IDashableMpb2dashOffset.get∑
+¥
+
+§ §(G
+%35void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+Shapes.MetaMpb*
+
+
+%33int*-+
+)
+%34"System.Collections.Generic.List<T>\
+Z
+
+• •(1
+
+%36int"__id*:8*6
+Shapes.ShapesMaterialUtils"
+propDashSpacingintïí
+
+•3 •(G)
+%37"System.Collections.Generic.List<T>"#Shapes.IDashableMpb.dashSpacing.get*#!
+
+dashableShapes.IDashableMpb2dashSpacing.get∑
+¥
+
+• •(I
+%38void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+Shapes.MetaMpb*
+
+
+%36int*-+
+)
+%37"System.Collections.Generic.List<T>*
+6*å
+6
+© ©(vt
+
+© ©(
+%39void"(Shapes.MetaMpb.TransferShapeProperties()*
+Shapes.MetaMpb2TransferShapeProperties()*
+7*2
+7
+™ ™("!
+
+™ ™(
+implicit returnB
+Shapes.MetaMpb

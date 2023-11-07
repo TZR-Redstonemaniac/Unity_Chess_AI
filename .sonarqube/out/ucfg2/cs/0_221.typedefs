@@ -1,0 +1,16 @@
+Ü
+Shapes.CuboidShapes.ShapeRendererUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectF
+SetAllMaterialProperties()(Shapes.Cuboid.SetAllMaterialProperties()6
+ShapeClampRanges() Shapes.Cuboid.ShapeClampRanges().
+GetMaterials()Shapes.Cuboid.GetMaterials()<
+GetInitialMeshAsset()#Shapes.Cuboid.GetInitialMeshAsset():
+GetBounds_Internal()"Shapes.Cuboid.GetBounds_Internal()"
+Cuboid()Shapes.Cuboid.Cuboid()"
+Size.getShapes.Cuboid.Size.get"
+Size.setShapes.Cuboid.Size.set,
+SizeSpace.getShapes.Cuboid.SizeSpace.get,
+SizeSpace.setShapes.Cuboid.SizeSpace.set8
+HasDetailLevels.get!Shapes.Cuboid.HasDetailLevels.get8
+HasDetailLevels.set!Shapes.Cuboid.HasDetailLevels.set4
+HasScaleModes.getShapes.Cuboid.HasScaleModes.get4
+HasScaleModes.setShapes.Cuboid.HasScaleModes.set

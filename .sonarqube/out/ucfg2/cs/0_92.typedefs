@@ -1,0 +1,14 @@
+¾
+Shapes.MpbPolygonShapes.MetaMpbobjectShapes.IFillableMpbH
+TransferShapeProperties()+Shapes.MpbPolygon.TransferShapeProperties().
+MpbPolygon()Shapes.MpbPolygon.MpbPolygon()^
+$Shapes.IFillableMpb.fillColorEnd.get6Shapes.MpbPolygon.Shapes.IFillableMpb.fillColorEnd.get^
+$Shapes.IFillableMpb.fillColorEnd.set6Shapes.MpbPolygon.Shapes.IFillableMpb.fillColorEnd.setT
+Shapes.IFillableMpb.fillEnd.get1Shapes.MpbPolygon.Shapes.IFillableMpb.fillEnd.getT
+Shapes.IFillableMpb.fillEnd.set1Shapes.MpbPolygon.Shapes.IFillableMpb.fillEnd.setX
+!Shapes.IFillableMpb.fillSpace.get3Shapes.MpbPolygon.Shapes.IFillableMpb.fillSpace.getX
+!Shapes.IFillableMpb.fillSpace.set3Shapes.MpbPolygon.Shapes.IFillableMpb.fillSpace.setX
+!Shapes.IFillableMpb.fillStart.get3Shapes.MpbPolygon.Shapes.IFillableMpb.fillStart.getX
+!Shapes.IFillableMpb.fillStart.set3Shapes.MpbPolygon.Shapes.IFillableMpb.fillStart.setV
+ Shapes.IFillableMpb.fillType.get2Shapes.MpbPolygon.Shapes.IFillableMpb.fillType.getV
+ Shapes.IFillableMpb.fillType.set2Shapes.MpbPolygon.Shapes.IFillableMpb.fillType.set

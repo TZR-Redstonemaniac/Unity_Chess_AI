@@ -1,0 +1,33 @@
+
+"Shapes.RegularPolygon.Geometry.set‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.cs; ;("0*
+0; ;(*
+1*Ÿ
+1;
+ ;(S…
+‚
+;? ;(OD
+Shapes.RegularPolygon")
+geometryShapes.RegularPolygonGeometry"__id**(
+&
+valueShapes.RegularPolygonGeometry‚
+ÿ
+;
+ ;(S
+
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*%
+;
+ ;(
+Shapes.RegularPolygon*B
+; ;(66*4
+Shapes.ShapesMaterialUtils"
+propAlignmentint*R
+;8 ;(QF*D
+Shapes.RegularPolygon")
+geometryShapes.RegularPolygonGeometry*
+2*.
+2;T ;(T"
+;S ;(T
+implicit return:(&
+valueShapes.RegularPolygonGeometryB
+Shapes.RegularPolygon

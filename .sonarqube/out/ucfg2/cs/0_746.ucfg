@@ -1,0 +1,33 @@
+
+(Shapes.RegularPolygon.ThicknessSpace.set‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.csN N("0*
+0N N(*
+1*–
+1N
+ N(^z
+x
+ND N(ZB
+Shapes.RegularPolygon"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpace…
+‚
+N
+ N(^
+
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*%
+N
+ N(
+Shapes.RegularPolygon*G
+N N(;;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*P
+N= N(\D*B
+Shapes.RegularPolygon"'
+thicknessSpaceShapes.ThicknessSpace*
+2*.
+2N_ N(_"
+N^ N(_
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.RegularPolygon

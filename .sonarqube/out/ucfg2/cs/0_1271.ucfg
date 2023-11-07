@@ -1,0 +1,42 @@
+
+%Shapes.ShapeRenderer.ZOffsetUnits.setƒ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs… …("0*
+0
+… …(*
+1*÷
+1
+…
+ …(eU
+S
+
+…O …(c-
+Shapes.ShapeRenderer"
+zOffsetUnitsint"__id*
+
+valueint‰
+†
+
+…
+ …(e
+
+%0void"<Shapes.ShapeRenderer.SetIntOnAllInstancedMaterials(int, int)*&
+
+…
+ …('
+Shapes.ShapeRenderer*G
+
+…) …(M9*7
+Shapes.ShapesMaterialUtils"
+propZOffsetUnitsint*=
+
+…O …(c/*-
+Shapes.ShapeRenderer"
+zOffsetUnitsint*
+2*2
+2
+…f …(f"!
+
+…e …(f
+implicit return:
+valueintB
+Shapes.ShapeRenderer

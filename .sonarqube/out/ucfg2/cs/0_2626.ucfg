@@ -1,0 +1,57 @@
+
+Shapes.Draw.Position.set‡
+}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateMatrix.cs/ /("0*
+0/ /(*
+1*š
+10 2(e
+c
+0 0(
+
+%0UnityEngine.Matrix4x4"__id*42*0
+Shapes.Draw"
+matrixUnityEngine.Matrix4x4o
+m
+0 0(+
+
+%0UnityEngine.Matrix4x4"
+m03float"__id*.,**
+
+valueUnityEngine.Vector3"
+
+xfloate
+c
+1 1(
+
+%1UnityEngine.Matrix4x4"__id*42*0
+Shapes.Draw"
+matrixUnityEngine.Matrix4x4o
+m
+1 1(+
+
+%1UnityEngine.Matrix4x4"
+m13float"__id*.,**
+
+valueUnityEngine.Vector3"
+
+yfloate
+c
+2 2(
+
+%2UnityEngine.Matrix4x4"__id*42*0
+Shapes.Draw"
+matrixUnityEngine.Matrix4x4o
+m
+2 2(+
+
+%2UnityEngine.Matrix4x4"
+m23float"__id*.,**
+
+valueUnityEngine.Vector3"
+
+zfloat*
+2*.
+23 3("
+3 3(
+implicit return:
+valueUnityEngine.Vector3B"
+Shapes.Draw

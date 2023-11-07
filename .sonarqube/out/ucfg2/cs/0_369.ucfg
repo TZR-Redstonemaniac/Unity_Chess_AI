@@ -1,0 +1,50 @@
+
+Shapes.Rectangle.DashOffset.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csô ô("0*
+0
+ô ô(*
+1*Â
+1
+ô
+ ô(Ue
+c
+
+ô; ô(D
+%0Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStyleS
+Q
+
+ô; ô(S)
+
+%0Shapes.DashStyle"
+offsetfloat"__id*
+
+valuefloatï
+ì
+
+ô
+ ô(U
+
+%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*"
+
+ô
+ ô(
+Shapes.Rectangle*E
+
+ô ô(97*5
+Shapes.ShapesMaterialUtils"
+propDashOffsetint*9
+
+ô; ô(S+*)
+
+%0Shapes.DashStyle"
+offsetfloat*
+2*2
+2
+ôV ô(V"!
+
+ôU ô(V
+implicit return:
+valuefloatB
+Shapes.Rectangle

@@ -1,0 +1,31 @@
+
+?Shapes.GradientFill.GetRadialOriginWorld(UnityEngine.Transform)€
+vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.cs^ ^(%"0*
+0^ ^(*
+1*€
+1^9 ^(X‘
+Ž
+^9 ^(X
+%0UnityEngine.Vector3"KShapes.GradientFill.GetWorldPos(UnityEngine.Transform, UnityEngine.Vector3)*#
+^9 ^(D
+Shapes.GradientFill*)
+^F ^(H
+
+tfUnityEngine.Transform*J
+^J ^(V>*<
+Shapes.GradientFill"#
+radialOriginUnityEngine.Vector3X
+V
+^9 ^(X
+%retUnityEngine.Vector3"__id*'
+^9 ^(X
+
+%0UnityEngine.Vector3*
+2*8
+2^Y ^(Y")
+^X ^(Y
+
+%retUnityEngine.Vector3:'
+^' ^(3
+tfUnityEngine.TransformB
+Shapes.GradientFill

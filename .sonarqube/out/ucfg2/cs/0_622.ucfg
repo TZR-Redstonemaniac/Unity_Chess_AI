@@ -1,0 +1,43 @@
+
+Shapes.ArrayPool<T>.Free(T[])
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs
+ 
+("0*
+0
+ 
+(*
+1*Ï
+1
+( 
+(8º
+·
+
+( 
+(8
+
+%0void"1System.Collections.Generic.ICollection<T>.Push(T)*R
+
+( 
+(,F*D
+Shapes.ArrayPool<T>"+
+pool#System.Collections.Generic.Stack<T>*
+
+3 
+(6
+
+
+objT[]*
+2*.
+2
+9 
+(9"
+
+8 
+(9
+implicit return:
+
+ 
+("
+
+objT[]B"
+Shapes.ArrayPool<T>

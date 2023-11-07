@@ -1,0 +1,63 @@
+
+*Shapes.Polyline.SetAllMaterialProperties()~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.cs·" ·(:"0*
+0
+· ·(*
+1*ø
+1
+¸ º(>è
+å
+
+¸ ¸(;
+
+%0void")Shapes.ShapeRenderer.SetFloat(int, float)*!
+
+¸ ¸(
+Shapes.Polyline*D
+
+¸ ¸(.6*4
+Shapes.ShapesMaterialUtils"
+propThicknessint*7
+
+¸0 ¸(9)*'
+Shapes.Polyline"
+	thicknessfloatþ
+û
+
+¹ ¹(H
+
+%1void"%Shapes.ShapeRenderer.SetInt(int, int)*!
+
+¹ ¹(	
+Shapes.Polyline*I
+
+¹ ¹(1;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*L
+
+¹3 ¹(F>*<
+Shapes.Polyline"'
+thicknessSpaceShapes.ThicknessSpaceõ
+ò
+
+º º(=
+
+%2void"%Shapes.ShapeRenderer.SetInt(int, int)*!
+
+º º(	
+Shapes.Polyline*D
+
+º º(,6*4
+Shapes.ShapesMaterialUtils"
+propAlignmentint*H
+
+º. º(;:*8
+Shapes.Polyline"#
+geometryShapes.PolylineGeometry*
+2*2
+2
+» »("!
+
+» »(
+implicit returnB
+Shapes.Polyline

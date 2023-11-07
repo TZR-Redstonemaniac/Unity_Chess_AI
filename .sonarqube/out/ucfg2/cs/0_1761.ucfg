@@ -1,0 +1,53 @@
+
+<Shapes.ShapeRenderer.SetVector4Now(int, UnityEngine.Vector4)ƒ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csÝ Ý(&"0*
+0
+Ý Ý(*
+1*è
+1
+Þ ß(}
+{
+
+Þ Þ('
+%0!UnityEngine.MaterialPropertyBlock"Shapes.ShapeRenderer.Mpb.get*&
+
+Þ Þ(
+Shapes.ShapeRendereræ
+ã
+
+Þ Þ(
+
+%1void"EUnityEngine.MaterialPropertyBlock.SetVector(int, UnityEngine.Vector4)*7
+
+Þ Þ()
+'
+%0!UnityEngine.MaterialPropertyBlock*
+
+Þ Þ(
+
+propint*,
+
+Þ Þ(
+
+valueUnityEngine.Vector4j
+h
+
+ß ß(
+
+%2void"&Shapes.ShapeRenderer.ApplyProperties()*&
+
+ß ß(
+Shapes.ShapeRenderer*
+2*2
+2
+à à("!
+
+à à(
+implicit return:
+
+Ý( Ý(0
+propint:*
+
+Ý2 Ý(?
+valueUnityEngine.Vector4B
+Shapes.ShapeRenderer

@@ -1,0 +1,43 @@
+
+Shapes.Triangle.ColorC.set~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs¯ ¯("0*
+0
+¯ ¯(*
+1*ü
+1
+¯
+ ¯(Gf
+d
+
+¯7 ¯(E0
+Shapes.Triangle"
+colorCUnityEngine.Color"__id*
+
+valueUnityEngine.Colorý
+ú
+
+¯
+ ¯(G
+
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*!
+
+¯
+ ¯(
+Shapes.Triangle*A
+
+¯ ¯(53*1
+Shapes.ShapesMaterialUtils"
+
+propColorCint*@
+
+¯7 ¯(E2*0
+Shapes.Triangle"
+colorCUnityEngine.Color*
+2*2
+2
+¯H ¯(H"!
+
+¯G ¯(H
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Triangle

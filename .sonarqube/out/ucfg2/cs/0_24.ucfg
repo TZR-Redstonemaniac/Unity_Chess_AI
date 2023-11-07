@@ -1,0 +1,24 @@
+
+3Shapes.GradientFillStack.GradientFillStack()!staticâ
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\GradientFillStack.cs
+ 
+()"0*ó
+0 (\Z
+: ([)
+%0#System.Collections.Generic.Stack<T>"#System.Collections.Generic.Stack<T>t
+r
+> (Y
+
+%1void"+System.Collections.Generic.Stack<T>.Stack()*-+
+)
+%0#System.Collections.Generic.Stack<T>í
+è
+. ([N
+Shapes.GradientFillStack"0
+	gradients#System.Collections.Generic.Stack<T>"__id*-+
+)
+%0#System.Collections.Generic.Stack<T>"
+
+ (
+implicit returnB"
+Shapes.GradientFillStack

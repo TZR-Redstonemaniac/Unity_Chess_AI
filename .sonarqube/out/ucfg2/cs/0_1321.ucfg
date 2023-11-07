@@ -1,0 +1,27 @@
+
+$Shapes.ShapeRenderer.StencilComp.getƒ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs   ("0*
+0
+   (*
+1*»
+1
+ 
+  (¤
+¡
+
+ 
+  (-
+%ret%UnityEngine.Rendering.CompareFunction"__id*^
+
+ 
+  (P*N
+Shapes.ShapeRenderer"4
+stencilComp%UnityEngine.Rendering.CompareFunction*
+2*N
+2
+   ("=
+
+   (/
+-
+%ret%UnityEngine.Rendering.CompareFunctionB
+Shapes.ShapeRenderer

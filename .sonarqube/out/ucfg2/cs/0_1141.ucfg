@@ -1,0 +1,30 @@
+
+EShapes.ShapesExtensions.SetInt_Shapes(UnityEngine.Material, int, int)
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesExtensions.csJ (W"0*
+0 (*
+1*³
+1" "(ž
+›
+" "(
+
+%0void"%UnityEngine.Material.SetInt(int, int)*'
+" "(
+
+mUnityEngine.Material*
+" "(
+	
+idint*
+" "(
+
+valueint*
+2*.
+2$ $("
+$ $(
+implicit return:%
+Y (h
+mUnityEngine.Material:
+j (p	
+idint:
+r ({
+valueintB"
+Shapes.ShapesExtensions

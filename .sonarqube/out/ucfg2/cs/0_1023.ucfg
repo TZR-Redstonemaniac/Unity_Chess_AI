@@ -1,0 +1,23 @@
+
+.Shapes.MatrixStack.Push(UnityEngine.Matrix4x4)ƒ
+yC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MatrixStack.cs ("0*
+0 (*
+1*ê
+16 (PÕ
+Ò
+6 (P
+
+%0void"1System.Collections.Generic.ICollection<T>.Push(T)*U
+6 (>I*G
+Shapes.MatrixStack"/
+matrices#System.Collections.Generic.Stack<T>*0
+E (N$
+"
+	prevStateUnityEngine.Matrix4x4*
+2*.
+2Q (Q"
+P (Q
+implicit return:.
+ (0"
+	prevStateUnityEngine.Matrix4x4B"
+Shapes.MatrixStack

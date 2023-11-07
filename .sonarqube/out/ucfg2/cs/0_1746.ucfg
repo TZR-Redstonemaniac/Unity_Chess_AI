@@ -1,0 +1,45 @@
+
+8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)ƒ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csÉ É($"0*
+0
+É É(*
+1*Æ
+1
+Ê Ë(Ã
+À
+
+Ê Ê(
+
+%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*&
+
+Ê Ê(
+Shapes.ShapeRenderer*
+
+Ê Ê(
+
+propint**
+
+Ê Ê(
+
+valueUnityEngine.Colorj
+h
+
+Ë Ë(
+
+%1void"&Shapes.ShapeRenderer.ApplyProperties()*&
+
+Ë Ë(
+Shapes.ShapeRenderer*
+2*2
+2
+Ì Ì("!
+
+Ì Ì(
+implicit return:
+
+É& É(.
+propint:(
+
+É0 É(;
+valueUnityEngine.ColorB
+Shapes.ShapeRenderer

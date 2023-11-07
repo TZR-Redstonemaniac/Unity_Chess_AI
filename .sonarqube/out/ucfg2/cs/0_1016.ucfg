@@ -1,0 +1,37 @@
+
+Shapes.Draw.TextLineSpacing.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csš š("0*
+0
+š š(*
+1*·
+1
+š! š(D\
+Z
+
+š! š(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+š! š(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyleX
+V
+
+š! š(D.
+
+%1Shapes.TextStyle"
+lineSpacingfloat"__id*
+
+valuefloat*
+2*2
+2
+šE š(E"!
+
+šD š(E
+implicit return:
+valuefloatB"
+Shapes.Draw

@@ -1,0 +1,33 @@
+
+Shapes.ShapeRenderer.ZTest.setÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csy y("0*
+0y y(*
+1*æ
+1y
+ y(`ë
+é
+yO y(\H
+Shapes.ShapeRenderer".
+zTest%UnityEngine.Rendering.CompareFunction"__id*20
+.
+value%UnityEngine.Rendering.CompareFunctionï
+í
+y
+ y(`
+
+%0void"<Shapes.ShapeRenderer.SetIntOnAllInstancedMaterials(int, int)*$
+y
+ y('
+Shapes.ShapeRenderer*>
+y) y(F2*0
+Shapes.ShapesMaterialUtils"
+	propZTestint*V
+yH y(^J*H
+Shapes.ShapeRenderer".
+zTest%UnityEngine.Rendering.CompareFunction*
+2*.
+2ya y(a"
+y` y(a
+implicit return:0.
+value%UnityEngine.Rendering.CompareFunctionB
+Shapes.ShapeRenderer

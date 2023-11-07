@@ -1,0 +1,38 @@
+
+Shapes.Quad.AutoSetD()z
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs¨ ¨("0*
+0
+¨ ¨(*
+1*Ö
+1
+¨ ¨(C_
+]
+
+¨< ¨(A
+%0UnityEngine.Vector3"Shapes.Quad.DAuto.get*
+
+¨< ¨(A
+Shapes.QuadÞ
+Û
+
+¨ ¨(C
+
+%1void"9Shapes.ShapeRenderer.SetVector3(int, UnityEngine.Vector3)*
+
+¨ ¨(
+Shapes.Quad*<
+
+¨! ¨(:.*,
+Shapes.ShapesMaterialUtils"
+propDint*)
+
+¨< ¨(A
+
+%0UnityEngine.Vector3*
+2*2
+2
+¨D ¨(D"!
+
+¨C ¨(D
+implicit returnB
+Shapes.Quad

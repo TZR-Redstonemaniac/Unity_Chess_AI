@@ -1,0 +1,33 @@
+
+Shapes.Line.ColorStart.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs9 9("0*
+09 9(*
+1*á
+19
+ 9(E_
+]
+96 9(C+
+Shapes.Line"
+colorUnityEngine.Color"__id*
+
+valueUnityEngine.Colorë
+è
+9
+ 9(E
+
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+9
+ 9(
+Shapes.Line*>
+9 9(42*0
+Shapes.ShapesMaterialUtils"
+	propColorint*9
+96 9(C-*+
+Shapes.Line"
+colorUnityEngine.Color*
+2*.
+29F 9(F"
+9E 9(F
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Line

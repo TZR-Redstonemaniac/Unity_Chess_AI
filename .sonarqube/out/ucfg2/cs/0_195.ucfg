@@ -1,0 +1,27 @@
+
+4Shapes.ShapeRendererFillable.ShapeRendererFillable()‰
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRendererFillable.cs
+ 
+(,"0*
+0> >(<:
+E (W
+%0Shapes.GradientFill"Shapes.GradientFill[
+Y
+I (U
+
+%1void""Shapes.GradientFill.GradientFill()*
+
+%0Shapes.GradientFillp
+n
+> (W=
+Shapes.ShapeRendererFillable"
+fillShapes.GradientFill"__id*
+
+%0Shapes.GradientFillP
+N
+
+%2void"$Shapes.ShapeRenderer.ShapeRenderer()*
+Shapes.ShapeRenderer"
+	 >(
+implicit returnB 
+Shapes.ShapeRendererFillable

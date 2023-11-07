@@ -1,0 +1,20 @@
+
+€SerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary(System.Collections.Generic.IDictionary<TKey, TValue>)‡
+}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.csn n("1*
+1p p(*
+0*º
+0n? n(J¥
+¢
+n? n(K
+
+%0void"ˆSerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase(System.Collections.Generic.IDictionary<TKey, TValue>)*=;9
+7SerializableDictionaryBase<TKey, TValue, TValueStorage>*@>
+<
+dict4System.Collections.Generic.IDictionary<TKey, TValue>*
+2*.
+2p p("
+p p(
+implicit return:H
+n n(=<
+dict4System.Collections.Generic.IDictionary<TKey, TValue>B75
+3SerializableDictionary<TKey, TValue, TValueStorage>

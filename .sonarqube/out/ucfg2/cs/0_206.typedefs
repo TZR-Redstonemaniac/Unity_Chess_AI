@@ -1,0 +1,28 @@
+ª
+Shapes.MpbRegularPolygonShapes.MetaMpbobjectShapes.IFillableMpbShapes.IDashableMpbO
+TransferShapeProperties()2Shapes.MpbRegularPolygon.TransferShapeProperties()C
+MpbRegularPolygon(),Shapes.MpbRegularPolygon.MpbRegularPolygon()e
+$Shapes.IFillableMpb.fillColorEnd.get=Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillColorEnd.gete
+$Shapes.IFillableMpb.fillColorEnd.set=Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillColorEnd.set[
+Shapes.IFillableMpb.fillEnd.get8Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillEnd.get[
+Shapes.IFillableMpb.fillEnd.set8Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillEnd.set_
+!Shapes.IFillableMpb.fillSpace.get:Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillSpace.get_
+!Shapes.IFillableMpb.fillSpace.set:Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillSpace.set_
+!Shapes.IFillableMpb.fillStart.get:Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillStart.get_
+!Shapes.IFillableMpb.fillStart.set:Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillStart.set]
+ Shapes.IFillableMpb.fillType.get9Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillType.get]
+ Shapes.IFillableMpb.fillType.set9Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillType.seta
+"Shapes.IDashableMpb.dashOffset.get;Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashOffset.geta
+"Shapes.IDashableMpb.dashOffset.set;Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashOffset.seto
+)Shapes.IDashableMpb.dashShapeModifier.getBShapes.MpbRegularPolygon.Shapes.IDashableMpb.dashShapeModifier.geto
+)Shapes.IDashableMpb.dashShapeModifier.setBShapes.MpbRegularPolygon.Shapes.IDashableMpb.dashShapeModifier.set]
+ Shapes.IDashableMpb.dashSize.get9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSize.get]
+ Shapes.IDashableMpb.dashSize.set9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSize.set]
+ Shapes.IDashableMpb.dashSnap.get9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSnap.get]
+ Shapes.IDashableMpb.dashSnap.set9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSnap.set_
+!Shapes.IDashableMpb.dashSpace.get:Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSpace.get_
+!Shapes.IDashableMpb.dashSpace.set:Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSpace.setc
+#Shapes.IDashableMpb.dashSpacing.get<Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSpacing.getc
+#Shapes.IDashableMpb.dashSpacing.set<Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSpacing.set]
+ Shapes.IDashableMpb.dashType.get9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashType.get]
+ Shapes.IDashableMpb.dashType.set9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashType.set

@@ -1,0 +1,86 @@
+
+'Shapes.Torus.SetAllMaterialProperties()y
+oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Torus.cs6" 6(:"0*
+06 6(*
+1*æ
+
+17 <(=Ô
+Ñ
+7 7(5
+
+%0void")Shapes.ShapeRenderer.SetFloat(int, float)*
+7 7(
+Shapes.Torus*?
+7 7(+3*1
+Shapes.ShapesMaterialUtils"
+
+propRadiusint*/
+7- 7(3#*!
+Shapes.Torus"
+radiusfloatÚ
+×
+8 8(;
+
+%1void")Shapes.ShapeRenderer.SetFloat(int, float)*
+8 8(
+Shapes.Torus*B
+8 8(.6*4
+Shapes.ShapesMaterialUtils"
+propThicknessint*2
+80 8(9&*$
+Shapes.Torus"
+	thicknessfloatð
+í
+9 9(H
+
+%2void"%Shapes.ShapeRenderer.SetInt(int, int)*
+9 9(	
+Shapes.Torus*G
+9 9(1;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*G
+93 9(F;*9
+Shapes.Torus"'
+thicknessSpaceShapes.ThicknessSpaceê
+ç
+: :(B
+
+%3void"%Shapes.ShapeRenderer.SetInt(int, int)*
+: :(	
+Shapes.Torus*D
+: :(.8*6
+Shapes.ShapesMaterialUtils"
+propRadiusSpaceint*D
+:0 :(@8*6
+Shapes.Torus"$
+radiusSpaceShapes.ThicknessSpaceß
+Ü
+; ;(@
+
+%4void")Shapes.ShapeRenderer.SetFloat(int, float)*
+; ;(
+Shapes.Torus*A
+; ;(-5*3
+Shapes.ShapesMaterialUtils"
+propAngStartint*8
+;/ ;(>,**
+Shapes.Torus"
+angRadiansStartfloatÛ
+Ø
+< <(<
+
+%5void")Shapes.ShapeRenderer.SetFloat(int, float)*
+< <(
+Shapes.Torus*?
+< <(+3*1
+Shapes.ShapesMaterialUtils"
+
+propAngEndint*6
+<- <(:**(
+Shapes.Torus"
+angRadiansEndfloat*
+2*.
+2= =("
+= =(
+implicit returnB
+Shapes.Torus

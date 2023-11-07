@@ -1,0 +1,47 @@
+
+KShapes.PolylinePath.AddPoint(UnityEngine.Vector3, float, UnityEngine.Color)Ñ
+zC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PolylinePath.cs2% 2(-"0*
+02 2(*
+1*á
+1	2^ 2(î?=
+	2h 2(í
+%0Shapes.PolylinePoint"Shapes.PolylinePoint¢
+ü
+	2h 2(í
+%1Shapes.PolylinePoint"QShapes.PolylinePoint.PolylinePoint(UnityEngine.Vector3, UnityEngine.Color, float)*)
+	2h 2(í
+
+%0Shapes.PolylinePoint*(
+2{ 2(~
+
+posUnityEngine.Vector3**
+
+2Ä 2(Ö
+
+colorUnityEngine.Color*"
+
+2á 2(ê
+
+	thicknessfloatã
+à
+	2^ 2(î
+
+%2void"Shapes.PointPath<T>.AddPoint(T)*#
+2^ 2(f
+Shapes.PolylinePath*)
+	2h 2(í
+
+%0Shapes.PolylinePoint*
+2*2
+2
+2ï 2(ï"!
+
+2î 2(ï
+implicit return:&
+2/ 2(:
+posUnityEngine.Vector3:
+2< 2(K
+	thicknessfloat:&
+2M 2(X
+colorUnityEngine.ColorB
+Shapes.PolylinePath

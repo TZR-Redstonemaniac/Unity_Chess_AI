@@ -1,0 +1,31 @@
+
+RShapes.ShapesExtensions.SetInt_Shapes(UnityEngine.MaterialPropertyBlock, int, int)
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesExtensions.cs&J &(W"0*
+0& &(*
+1*œ
+1* *(∫
+∑
+* *(
+
+%0void"2UnityEngine.MaterialPropertyBlock.SetInt(int, int)*6
+* *(*
+(
+mpb!UnityEngine.MaterialPropertyBlock*
+* *(
+	
+idint*
+* *(
+
+valueint*
+2*.
+2, ,("
+, ,(
+implicit return:4
+&Y &(w(
+mpb!UnityEngine.MaterialPropertyBlock:
+&y &(	
+idint:
+
+&Å &(ä
+valueintB"
+Shapes.ShapesExtensions

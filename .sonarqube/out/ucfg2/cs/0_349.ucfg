@@ -1,0 +1,53 @@
+
+ Shapes.Rectangle.DashSpacing.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csí í("0*
+0
+í í(*
+1*
+1
+î ï(Le
+c
+
+î î(
+%0Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStyleT
+R
+
+î î(*
+
+%0Shapes.DashStyle"
+spacingfloat"__id*
+
+valuefloate
+c
+
+ï6 ï(I
+%1float"$Shapes.Rectangle.GetNetDashSpacing()*"
+
+ï6 ï(G
+Shapes.RectangleÒ
+Ï
+
+ï ï(K
+
+%2void",Shapes.ShapeRenderer.SetFloatNow(int, float)*"
+
+ï ï(
+Shapes.Rectangle*F
+
+ï ï(48*6
+Shapes.ShapesMaterialUtils"
+propDashSpacingint*
+
+ï6 ï(I
+
+%1float*
+2*2
+2
+ğ ğ("!
+
+ğ ğ(
+implicit return:
+valuefloatB
+Shapes.Rectangle

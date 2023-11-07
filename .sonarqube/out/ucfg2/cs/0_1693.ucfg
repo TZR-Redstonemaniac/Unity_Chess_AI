@@ -1,0 +1,61 @@
+
+&Shapes.ShapeRenderer.ApplyProperties()É
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csó ó(("0*
+0
+ó ó(*
+1*É
+1
+ò ö(4k
+i
+
+ò ò(
+
+%0void"'Shapes.ShapeRenderer.VerifyComponents()*&
+
+ò ò(
+Shapes.ShapeRenderer}
+{
+
+ô ô('
+%1!UnityEngine.MaterialPropertyBlock"Shapes.ShapeRenderer.Mpb.get*&
+
+ô ô(
+Shapes.ShapeRendererÈ
+Ê
+
+ô ô(
+
+%2void"HUnityEngine.Renderer.SetPropertyBlock(UnityEngine.MaterialPropertyBlock)*I
+
+ô ô(;*9
+Shapes.ShapeRenderer"
+rndUnityEngine.MeshRenderer*7
+
+ô ô()
+'
+%1!UnityEngine.MaterialPropertyBlockëé
+
+ö ö(
+%3Shapes.MeshUpdateMode"'Shapes.ShapeRenderer.MeshUpdateMode.get*&
+
+ö ö(
+Shapes.ShapeRenderer2MeshUpdateMode.get*
+2
+3*Å
+2
+õ õ(k
+i
+
+õ õ(
+
+%4void"'Shapes.ShapeRenderer.UpdateMeshBounds()*&
+
+õ õ(
+Shapes.ShapeRenderer*
+3*2
+3
+ú ú("!
+
+ú ú(
+implicit returnB
+Shapes.ShapeRenderer

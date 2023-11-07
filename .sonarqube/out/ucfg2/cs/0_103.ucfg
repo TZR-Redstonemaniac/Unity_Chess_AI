@@ -1,0 +1,61 @@
+
+$Shapes.MpbPolyline2D.MpbPolyline2D()á
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csï ï("0*Û
+0
+£ £(l
+j
+
+ó, ó(=(
+%0"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbé
+ã
+
+ó  ó(=I
+Shapes.MpbPolyline2D"/
+	alignment"System.Collections.Generic.List<T>"__id*,*
+(
+%0"System.Collections.Generic.List<T>l
+j
+
+ò, ò(=(
+%1"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbé
+ã
+
+ò  ò(=I
+Shapes.MpbPolyline2D"/
+	scaleMode"System.Collections.Generic.List<T>"__id*,*
+(
+%1"System.Collections.Generic.List<T>l
+j
+
+ô, ô(=(
+%2"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbé
+ã
+
+ô  ô(=I
+Shapes.MpbPolyline2D"/
+	thickness"System.Collections.Generic.List<T>"__id*,*
+(
+%2"System.Collections.Generic.List<T>l
+j
+
+ö1 ö(B(
+%3"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbì
+ê
+
+ö  ö(BN
+Shapes.MpbPolyline2D"4
+thicknessSpace"System.Collections.Generic.List<T>"__id*,*
+(
+%3"System.Collections.Generic.List<T>>
+<
+
+%4void"Shapes.MetaMpb.MetaMpb()*
+Shapes.MetaMpb"!
+
+ï £(
+implicit returnB
+Shapes.MpbPolyline2D

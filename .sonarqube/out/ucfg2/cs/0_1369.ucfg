@@ -1,0 +1,42 @@
+
+(Shapes.ShapeRenderer.StencilReadMask.setÉ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs≥ ≥("0*
+0
+≥ ≥(*
+1*É
+1
+≥
+ ≥(kZ
+X
+
+≥R ≥(i1
+Shapes.ShapeRenderer"
+stencilReadMaskbyte"__id*
+
+valuebyteê
+ç
+
+≥
+ ≥(k
+
+%0void"<Shapes.ShapeRenderer.SetIntOnAllInstancedMaterials(int, int)*&
+
+≥
+ ≥('
+Shapes.ShapeRenderer*J
+
+≥) ≥(P<*:
+Shapes.ShapesMaterialUtils"
+propStencilReadMaskint*A
+
+≥R ≥(i3*1
+Shapes.ShapeRenderer"
+stencilReadMaskbyte*
+2*2
+2
+≥l ≥(l"!
+
+≥k ≥(l
+implicit return:
+valuebyteB
+Shapes.ShapeRenderer

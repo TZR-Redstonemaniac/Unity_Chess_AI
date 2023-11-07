@@ -1,0 +1,42 @@
+
+$Shapes.ShapeRenderer.StencilComp.setƒ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs¡ ¡("0*
+0
+¡ ¡(*
+1*Ü
+1
+¡
+ ¡(l™
+–
+
+¡U ¡(hN
+Shapes.ShapeRenderer"4
+stencilComp%UnityEngine.Rendering.CompareFunction"__id*20
+.
+value%UnityEngine.Rendering.CompareFunction©
+¦
+
+¡
+ ¡(l
+
+%0void"<Shapes.ShapeRenderer.SetIntOnAllInstancedMaterials(int, int)*&
+
+¡
+ ¡('
+Shapes.ShapeRenderer*F
+
+¡) ¡(L8*6
+Shapes.ShapesMaterialUtils"
+propStencilCompint*^
+
+¡N ¡(jP*N
+Shapes.ShapeRenderer"4
+stencilComp%UnityEngine.Rendering.CompareFunction*
+2*2
+2
+¡m ¡(m"!
+
+¡l ¡(m
+implicit return:0.
+value%UnityEngine.Rendering.CompareFunctionB
+Shapes.ShapeRenderer

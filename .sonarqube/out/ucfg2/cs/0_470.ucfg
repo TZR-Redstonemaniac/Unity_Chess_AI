@@ -1,0 +1,29 @@
+
+UShapes.Polygon.SetPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>){
+qC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polygon.cs@ @("0*
+0@ @(*
+1*‡
+1A B(œ
+™
+A A(
+
+%0void"1System.Collections.Generic.ICollection<T>.Clear()*N
+A A(B*@
+Shapes.Polygon",
+points"System.Collections.Generic.List<T>Ó
+Ð
+B B(
+
+%1void"UShapes.Polygon.AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>)*
+B B(
+Shapes.Polygon*A
+B B(5
+3
+points)System.Collections.Generic.IEnumerable<T>*
+2*.
+2C C("
+C C(
+implicit return:?
+@ @(43
+points)System.Collections.Generic.IEnumerable<T>B
+Shapes.Polygon

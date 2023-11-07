@@ -1,0 +1,39 @@
+
+?Shapes.ShapesMaterialUtils.GetPolylineMat(Shapes.PolylineJoins)„
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesMaterialUtils.cs¤  ¤(."0*
+0
+¤ ¤(*
+1*é
+1
+¤H ¤(_î
+ë
+
+¤H ¤(_
+%0Shapes.ShapesMaterials"7System.Collections.Generic.ICollection<T>.this[int].get*X
+
+¤H ¤(TJ*H
+Shapes.ShapesMaterialUtils"(
+matsPolylineShapes.ShapesMaterials[]*,
+
+¤U ¤(^
+
+joinShapes.PolylineJoinsb
+`
+
+¤H ¤(_
+%retShapes.ShapesMaterials"__id*,
+
+¤H ¤(_
+
+%0Shapes.ShapesMaterials*
+2*?
+2
+¤` ¤(`".
+
+¤_ ¤(` 
+
+%retShapes.ShapesMaterials:*
+
+¤0 ¤(B
+joinShapes.PolylineJoinsB"
+Shapes.ShapesMaterialUtils

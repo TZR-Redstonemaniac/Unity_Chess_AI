@@ -1,0 +1,50 @@
+
+'Shapes.RegularPolygon.FillLinearEnd.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÃ Ã("0*
+0
+Ã Ã(*
+1*
+1
+Ã
+ Ã(Rk
+i
+
+Ã: Ã(>
+%0Shapes.GradientFill"__id*:8*6
+Shapes.RegularPolygon"
+fillShapes.GradientFillu
+s
+
+Ã: Ã(P=
+
+%0Shapes.GradientFill" 
+	linearEndUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3•
+’
+
+Ã
+ Ã(R
+
+%1void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*'
+
+Ã
+ Ã(
+Shapes.RegularPolygon*B
+
+Ã Ã(84*2
+Shapes.ShapesMaterialUtils"
+propFillEndint*M
+
+Ã: Ã(P?*=
+
+%0Shapes.GradientFill" 
+	linearEndUnityEngine.Vector3*
+2*2
+2
+ÃS Ã(S"!
+
+ÃR Ã(S
+implicit return:
+valueUnityEngine.Vector3B
+Shapes.RegularPolygon

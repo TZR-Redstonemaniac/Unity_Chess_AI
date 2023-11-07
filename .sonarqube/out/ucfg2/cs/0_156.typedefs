@@ -1,0 +1,54 @@
+¶
+Shapes.LineShapes.ShapeRendererUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectShapes.IDashableD
+SetAllMaterialProperties()&Shapes.Line.SetAllMaterialProperties()8
+GetBounds_Internal() Shapes.Line.GetBounds_Internal(),
+GetMaterials()Shapes.Line.GetMaterials():
+GetInitialMeshAsset()!Shapes.Line.GetInitialMeshAsset()4
+ShapeClampRanges()Shapes.Line.ShapeClampRanges()<
+SetAllDashValues(bool)"Shapes.Line.SetAllDashValues(bool)6
+GetNetDashSpacing()Shapes.Line.GetNetDashSpacing()
+Line()Shapes.Line.Line()*
+this[int].getShapes.Line.this[int].get*
+this[int].setShapes.Line.this[int].set(
+Geometry.getShapes.Line.Geometry.get(
+Geometry.setShapes.Line.Geometry.set*
+ColorMode.getShapes.Line.ColorMode.get*
+ColorMode.setShapes.Line.ColorMode.set"
+	Color.getShapes.Line.Color.get"
+	Color.setShapes.Line.Color.set,
+ColorStart.getShapes.Line.ColorStart.get,
+ColorStart.setShapes.Line.ColorStart.set(
+ColorEnd.getShapes.Line.ColorEnd.get(
+ColorEnd.setShapes.Line.ColorEnd.set"
+	Start.getShapes.Line.Start.get"
+	Start.setShapes.Line.Start.set
+End.getShapes.Line.End.get
+End.setShapes.Line.End.set*
+Thickness.getShapes.Line.Thickness.get*
+Thickness.setShapes.Line.Thickness.set4
+ThicknessSpace.getShapes.Line.ThicknessSpace.get4
+ThicknessSpace.setShapes.Line.ThicknessSpace.set&
+EndCaps.getShapes.Line.EndCaps.get&
+EndCaps.setShapes.Line.EndCaps.set6
+HasDetailLevels.getShapes.Line.HasDetailLevels.get6
+HasDetailLevels.setShapes.Line.HasDetailLevels.setD
+MatchDashSpacingToSize.get&Shapes.Line.MatchDashSpacingToSize.getD
+MatchDashSpacingToSize.set&Shapes.Line.MatchDashSpacingToSize.set$
+
+Dashed.getShapes.Line.Dashed.get$
+
+Dashed.setShapes.Line.Dashed.set(
+DashSize.getShapes.Line.DashSize.get(
+DashSize.setShapes.Line.DashSize.set.
+DashSpacing.getShapes.Line.DashSpacing.get.
+DashSpacing.setShapes.Line.DashSpacing.set,
+DashOffset.getShapes.Line.DashOffset.get,
+DashOffset.setShapes.Line.DashOffset.set*
+DashSpace.getShapes.Line.DashSpace.get*
+DashSpace.setShapes.Line.DashSpace.set(
+DashSnap.getShapes.Line.DashSnap.get(
+DashSnap.setShapes.Line.DashSnap.set(
+DashType.getShapes.Line.DashType.get(
+DashType.setShapes.Line.DashType.set:
+DashShapeModifier.get!Shapes.Line.DashShapeModifier.get:
+DashShapeModifier.set!Shapes.Line.DashShapeModifier.set

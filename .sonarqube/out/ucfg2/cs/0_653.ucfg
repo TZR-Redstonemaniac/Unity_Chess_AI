@@ -1,0 +1,33 @@
+
+Shapes.Triangle.B.set|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csq q("0*
+0q q(*
+1*ë
+1q
+ q(?c
+a
+q4 q(=-
+Shapes.Triangle"
+bUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3ñ
+î
+q
+ q(?
+
+%0void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*
+q
+ q(
+Shapes.Triangle*:
+q q(2.*,
+Shapes.ShapesMaterialUtils"
+propBint*;
+q4 q(=/*-
+Shapes.Triangle"
+bUnityEngine.Vector3*
+2*.
+2q@ q(@"
+q? q(@
+implicit return:
+valueUnityEngine.Vector3B
+Shapes.Triangle

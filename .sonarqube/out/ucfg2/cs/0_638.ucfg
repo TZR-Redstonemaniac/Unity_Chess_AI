@@ -1,0 +1,41 @@
+
+Shapes.Line.DashSpacing.set–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csd d("0*
+0d d(*
+1*ç
+1e f(L^
+\
+e e(
+%0Shapes.DashStyle"__id*20*.
+Shapes.Line"
+	dashStyleShapes.DashStyleR
+P
+e e(*
+
+%0Shapes.DashStyle"
+spacingfloat"__id*
+
+valuefloatW
+U
+f6 f(I
+%1float"Shapes.Line.GetNetDashSpacing()*
+f6 f(G
+Shapes.LineÅ
+Â
+f f(K
+
+%2void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+f f(
+Shapes.Line*D
+f f(48*6
+Shapes.ShapesMaterialUtils"
+propDashSpacingint*
+f6 f(I
+
+%1float*
+2*.
+2g g("
+g g(
+implicit return:
+valuefloatB
+Shapes.Line

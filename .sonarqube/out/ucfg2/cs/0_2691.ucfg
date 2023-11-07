@@ -1,0 +1,49 @@
+
+}Shapes.Draw.Texture_Placement_Internal(UnityEngine.Texture, (UnityEngine.Rect rect, UnityEngine.Rect uvs), UnityEngine.Color)~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\Draw.csè% è(?"0*ô
+0
+ì ì(Bc
+a
+
+ì ì(,
+%0UnityEngine.Rect"__id*53*1
+
+	placement(T1, T2)"
+rectUnityEngine.Rectb
+`
+
+ì. ì(;
+%1UnityEngine.Rect"__id*42*0
+
+	placement(T1, T2)"
+uvsUnityEngine.Rect”
+‘
+
+ì ì(D
+
+%2void"hShapes.Draw.Texture_Internal(UnityEngine.Texture, UnityEngine.Rect, UnityEngine.Rect, UnityEngine.Color)*"
+Shapes.Draw*" 
+
+textureUnityEngine.Texture*
+
+%0UnityEngine.Rect*
+
+%1UnityEngine.Rect*
+
+colorUnityEngine.Color*
+1*2
+1
+í í("!
+
+í í(
+implicit return:,
+
+é é(
+textureUnityEngine.Texture:#
+
+ê ê("
+	placement(T1, T2):(
+
+ë ë(
+colorUnityEngine.ColorB"
+Shapes.Draw

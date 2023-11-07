@@ -1,0 +1,24 @@
+
+)Shapes.PointPath<T>.AddPoints(params T[])Å
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PointPath.cs. .("0*
+0. .(*
+1*∑
+1.- .(M¢
+ü
+.- .(M
+
+%0void"HShapes.PointPath<T>.AddPoints(System.Collections.Generic.IEnumerable<T>)*#
+.- .(6
+Shapes.PointPath<T>*
+.8 .(K
+
+
+ptsT[]*
+2*.
+2.N .(N"
+.M .(N
+implicit return:
+. .('
+
+ptsT[]B
+Shapes.PointPath<T>

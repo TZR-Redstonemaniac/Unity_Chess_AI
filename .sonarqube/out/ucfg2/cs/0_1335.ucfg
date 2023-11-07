@@ -1,0 +1,42 @@
+
+&Shapes.ShapeRenderer.StencilOpPass.setÉ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csß ß("0*
+0
+ß ß(*
+1*–
+1
+ß
+ ß(pè
+å
+
+ßW ß(lJ
+Shapes.ShapeRenderer"0
+stencilOpPassUnityEngine.Rendering.StencilOp"__id*,*
+(
+valueUnityEngine.Rendering.StencilOpß
+§
+
+ß
+ ß(p
+
+%0void"<Shapes.ShapeRenderer.SetIntOnAllInstancedMaterials(int, int)*&
+
+ß
+ ß('
+Shapes.ShapeRenderer*H
+
+ß) ß(N:*8
+Shapes.ShapesMaterialUtils"
+propStencilOpPassint*Z
+
+ßP ß(nL*J
+Shapes.ShapeRenderer"0
+stencilOpPassUnityEngine.Rendering.StencilOp*
+2*2
+2
+ßq ß(q"!
+
+ßp ß(q
+implicit return:*(
+valueUnityEngine.Rendering.StencilOpB
+Shapes.ShapeRenderer

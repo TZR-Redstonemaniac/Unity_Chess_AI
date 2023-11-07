@@ -1,0 +1,50 @@
+
+"Shapes.RegularPolygon.DashType.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs‰ ‰("0*
+0
+‰ ‰(*
+1*à
+1
+‰
+ ‰(Xj
+h
+
+‰> ‰(G
+%0Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStylee
+c
+
+‰> ‰(T1
+
+%0Shapes.DashStyle"
+typeShapes.DashType"__id*
+
+valueShapes.DashTypeö
+ó
+
+‰
+ ‰(X
+
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*'
+
+‰
+ ‰(
+Shapes.RegularPolygon*C
+
+‰ ‰(55*3
+Shapes.ShapesMaterialUtils"
+propDashTypeint*A
+
+‰7 ‰(V3*1
+
+%0Shapes.DashStyle"
+typeShapes.DashType*
+2*2
+2
+‰Y ‰(Y"!
+
+‰X ‰(Y
+implicit return:
+valueShapes.DashTypeB
+Shapes.RegularPolygon

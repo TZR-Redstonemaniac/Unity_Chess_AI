@@ -1,0 +1,103 @@
+
+cShapes.PolylinePath.AddArcPoints(UnityEngine.Vector3, UnityEngine.Vector3, float, bool, int, float)Ü
+zC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PolylinePath.csô ô("0*
+0
+ô ô(*
+1*≤
+1
+ö ö(!ò
+ï
+
+ö ö(!
+
+%0bool"4Shapes.PointPath<T>.CheckCanAddContinuePoint(string)*%
+
+ö ö(
+Shapes.PolylinePath*
+
+ö ö(!
+AddArcPoints*
+3
+2*˜
+2
+õ ù(Wt
+r
+
+õ õ(#
+%1Shapes.PolylinePoint"!Shapes.PointPath<T>.LastPoint.get*%
+
+õ õ(#
+Shapes.PolylinePathT
+R
+
+õ õ(#
+ppNextShapes.PolylinePoint"__id*
+
+%1Shapes.PolylinePointu
+s
+
+ú ú(>
+
+ppNextShapes.PolylinePoint"
+pointUnityEngine.Vector3"__id*
+
+nextUnityEngine.Vector3ù
+ö
+
+ù ù(V
+
+%2void"dShapes.PolylinePath.AddArcPoints(UnityEngine.Vector3, Shapes.PolylinePoint, float, bool, int, float)*%
+
+ù ù(
+Shapes.PolylinePath*-
+
+ù ù(
+
+cornerUnityEngine.Vector3*.
+
+ù ù( 
+
+ppNextShapes.PolylinePoint*
+
+ù! ù('
+
+radiusfloat*"
+
+ù) ù(3
+
+
+useDensitybool*'
+
+ù5 ù(E
+
+targetPointCountint*&
+
+ùG ù(T
+
+pointsPerTurnfloat*
+3*2
+3
+û û("!
+
+û û(
+implicit return:+
+
+ô ô(#
+cornerUnityEngine.Vector3:)
+
+ô% ô(1
+nextUnityEngine.Vector3:
+
+ô3 ô(?
+radiusfloat: 
+
+ôA ô(P
+
+useDensitybool:%
+
+ôR ô(f
+targetPointCountint:$
+
+ôh ô({
+pointsPerTurnfloatB
+Shapes.PolylinePath

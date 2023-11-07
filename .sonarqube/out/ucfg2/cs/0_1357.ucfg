@@ -1,0 +1,42 @@
+
+%Shapes.ShapeRenderer.StencilRefID.setƒ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs­ ­("0*
+0
+­ ­(*
+1*÷
+1
+­
+ ­(bW
+U
+
+­L ­(`.
+Shapes.ShapeRenderer"
+stencilRefIDbyte"__id*
+
+valuebyte‡
+„
+
+­
+ ­(b
+
+%0void"<Shapes.ShapeRenderer.SetIntOnAllInstancedMaterials(int, int)*&
+
+­
+ ­('
+Shapes.ShapeRenderer*D
+
+­) ­(J6*4
+Shapes.ShapesMaterialUtils"
+propStencilIDint*>
+
+­L ­(`0*.
+Shapes.ShapeRenderer"
+stencilRefIDbyte*
+2*2
+2
+­c ­(c"!
+
+­b ­(c
+implicit return:
+valuebyteB
+Shapes.ShapeRenderer

@@ -1,0 +1,24 @@
+
+-Shapes.DashStack.Push(bool, Shapes.DashStyle)Å
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DashStack.cs ("0*
+0 (*
+1*œ
+1C (g∫
+∑
+C (g
+
+%0void"1System.Collections.Generic.ICollection<T>.Push(T)*Q
+C (IE*C
+Shapes.DashStack"-
+dashes#System.Collections.Generic.Stack<T>*
+P (e
+	{unknown}*
+2*.
+2h (h"
+g (h
+implicit return:
+ ((
+prevOnbool:)
+* (=
+	prevStateShapes.DashStyleB"
+Shapes.DashStack

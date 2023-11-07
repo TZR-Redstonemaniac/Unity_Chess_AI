@@ -1,0 +1,78 @@
+† 
+Shapes.RegularPolygonShapes.ShapeRendererUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectShapes.IDashableShapes.IFillableF
+SetAllDashValues(bool),Shapes.RegularPolygon.SetAllDashValues(bool)@
+GetNetDashSpacing())Shapes.RegularPolygon.GetNetDashSpacing()@
+SetFillProperties())Shapes.RegularPolygon.SetFillProperties()N
+SetAllMaterialProperties()0Shapes.RegularPolygon.SetAllMaterialProperties()>
+ShapeClampRanges()(Shapes.RegularPolygon.ShapeClampRanges()6
+GetMaterials()$Shapes.RegularPolygon.GetMaterials()B
+GetBounds_Internal()*Shapes.RegularPolygon.GetBounds_Internal():
+RegularPolygon()&Shapes.RegularPolygon.RegularPolygon()N
+MatchDashSpacingToSize.get0Shapes.RegularPolygon.MatchDashSpacingToSize.getN
+MatchDashSpacingToSize.set0Shapes.RegularPolygon.MatchDashSpacingToSize.set.
+
+Dashed.get Shapes.RegularPolygon.Dashed.get.
+
+Dashed.set Shapes.RegularPolygon.Dashed.set2
+DashSize.get"Shapes.RegularPolygon.DashSize.get2
+DashSize.set"Shapes.RegularPolygon.DashSize.set8
+DashSpacing.get%Shapes.RegularPolygon.DashSpacing.get8
+DashSpacing.set%Shapes.RegularPolygon.DashSpacing.set6
+DashOffset.get$Shapes.RegularPolygon.DashOffset.get6
+DashOffset.set$Shapes.RegularPolygon.DashOffset.set4
+DashSpace.get#Shapes.RegularPolygon.DashSpace.get4
+DashSpace.set#Shapes.RegularPolygon.DashSpace.set2
+DashSnap.get"Shapes.RegularPolygon.DashSnap.get2
+DashSnap.set"Shapes.RegularPolygon.DashSnap.set2
+DashType.get"Shapes.RegularPolygon.DashType.get2
+DashType.set"Shapes.RegularPolygon.DashType.setD
+DashShapeModifier.get+Shapes.RegularPolygon.DashShapeModifier.getD
+DashShapeModifier.set+Shapes.RegularPolygon.DashShapeModifier.set*
+Fill.getShapes.RegularPolygon.Fill.get*
+Fill.setShapes.RegularPolygon.Fill.set0
+UseFill.get!Shapes.RegularPolygon.UseFill.get0
+UseFill.set!Shapes.RegularPolygon.UseFill.set2
+FillType.get"Shapes.RegularPolygon.FillType.get2
+FillType.set"Shapes.RegularPolygon.FillType.set4
+FillSpace.get#Shapes.RegularPolygon.FillSpace.get4
+FillSpace.set#Shapes.RegularPolygon.FillSpace.setB
+FillRadialOrigin.get*Shapes.RegularPolygon.FillRadialOrigin.getB
+FillRadialOrigin.set*Shapes.RegularPolygon.FillRadialOrigin.setB
+FillRadialRadius.get*Shapes.RegularPolygon.FillRadialRadius.getB
+FillRadialRadius.set*Shapes.RegularPolygon.FillRadialRadius.set@
+FillLinearStart.get)Shapes.RegularPolygon.FillLinearStart.get@
+FillLinearStart.set)Shapes.RegularPolygon.FillLinearStart.set<
+FillLinearEnd.get'Shapes.RegularPolygon.FillLinearEnd.get<
+FillLinearEnd.set'Shapes.RegularPolygon.FillLinearEnd.set>
+FillColorStart.get(Shapes.RegularPolygon.FillColorStart.get>
+FillColorStart.set(Shapes.RegularPolygon.FillColorStart.set:
+FillColorEnd.get&Shapes.RegularPolygon.FillColorEnd.get:
+FillColorEnd.set&Shapes.RegularPolygon.FillColorEnd.set.
+
+Border.get Shapes.RegularPolygon.Border.get.
+
+Border.set Shapes.RegularPolygon.Border.set.
+
+Hollow.get Shapes.RegularPolygon.Hollow.get.
+
+Hollow.set Shapes.RegularPolygon.Hollow.set,
+	Sides.getShapes.RegularPolygon.Sides.get,
+	Sides.setShapes.RegularPolygon.Sides.set4
+Roundness.get#Shapes.RegularPolygon.Roundness.get4
+Roundness.set#Shapes.RegularPolygon.Roundness.set,
+	Angle.getShapes.RegularPolygon.Angle.get,
+	Angle.setShapes.RegularPolygon.Angle.set.
+
+Radius.get Shapes.RegularPolygon.Radius.get.
+
+Radius.set Shapes.RegularPolygon.Radius.set2
+Geometry.get"Shapes.RegularPolygon.Geometry.get2
+Geometry.set"Shapes.RegularPolygon.Geometry.set8
+RadiusSpace.get%Shapes.RegularPolygon.RadiusSpace.get8
+RadiusSpace.set%Shapes.RegularPolygon.RadiusSpace.set4
+Thickness.get#Shapes.RegularPolygon.Thickness.get4
+Thickness.set#Shapes.RegularPolygon.Thickness.set>
+ThicknessSpace.get(Shapes.RegularPolygon.ThicknessSpace.get>
+ThicknessSpace.set(Shapes.RegularPolygon.ThicknessSpace.set@
+HasDetailLevels.get)Shapes.RegularPolygon.HasDetailLevels.get@
+HasDetailLevels.set)Shapes.RegularPolygon.HasDetailLevels.set

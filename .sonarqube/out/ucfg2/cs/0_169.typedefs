@@ -1,0 +1,15 @@
+ì
+Shapes.MetaMpbobjectSystem.IDisposable™
+CTransfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)}
+5Transfer(int, System.Collections.Generic.List<float>)DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)™
+CTransfer(int, System.Collections.Generic.List<UnityEngine.Texture>)RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Texture>)‹
+<PreAppendCheck(Shapes.ShapeDrawState, UnityEngine.Matrix4x4)KShapes.MetaMpb.PreAppendCheck(Shapes.ShapeDrawState, UnityEngine.Matrix4x4)5
+ExtractDrawCall() Shapes.MetaMpb.ExtractDrawCall()E
+ApplyDirectlyToMaterial()(Shapes.MetaMpb.ApplyDirectlyToMaterial()A
+TransferAllProperties()&Shapes.MetaMpb.TransferAllProperties()%
+	Dispose()Shapes.MetaMpb.Dispose()%
+	MetaMpb()Shapes.MetaMpb.MetaMpb()/
+HasContent.getShapes.MetaMpb.HasContent.get/
+HasContent.setShapes.MetaMpb.HasContent.setC
+HasMultipleInstances.get'Shapes.MetaMpb.HasMultipleInstances.getC
+HasMultipleInstances.set'Shapes.MetaMpb.HasMultipleInstances.set

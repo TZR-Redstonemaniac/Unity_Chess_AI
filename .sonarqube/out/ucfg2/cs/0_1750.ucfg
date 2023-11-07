@@ -1,0 +1,53 @@
+
+,Shapes.ShapeRenderer.SetFloatNow(int, float)ƒ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csÎ Î($"0*
+0
+Î Î(*
+1*Ë
+1
+Ï Ð(}
+{
+
+Ï Ï('
+%0!UnityEngine.MaterialPropertyBlock"Shapes.ShapeRenderer.Mpb.get*&
+
+Ï Ï(
+Shapes.ShapeRendererÉ
+Æ
+
+Ï Ï(
+
+%1void"6UnityEngine.MaterialPropertyBlock.SetFloat(int, float)*7
+
+Ï Ï()
+'
+%0!UnityEngine.MaterialPropertyBlock*
+
+Ï Ï(
+
+propint*
+
+Ï Ï(
+
+valuefloatj
+h
+
+Ð Ð(
+
+%2void"&Shapes.ShapeRenderer.ApplyProperties()*&
+
+Ð Ð(
+Shapes.ShapeRenderer*
+2*2
+2
+Ñ Ñ("!
+
+Ñ Ñ(
+implicit return:
+
+Î& Î(.
+propint:
+
+Î0 Î(;
+valuefloatB
+Shapes.ShapeRenderer

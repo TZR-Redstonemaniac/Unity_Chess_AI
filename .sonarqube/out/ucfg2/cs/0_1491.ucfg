@@ -1,0 +1,54 @@
+
+\Shapes.ShapesMath.InverseLerp(UnityEngine.Vector2, UnityEngine.Vector2, UnityEngine.Vector2)y
+oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesMath.csX( X(3"0*
+0X X(*
+1*Ž
+1XZ X(oÝ
+Ú
+X\ X(a
+%0UnityEngine.Vector2"HUnityEngine.Vector2.operator -(UnityEngine.Vector2, UnityEngine.Vector2)*"
+UnityEngine.Vector2*&
+X\ X(]
+
+vUnityEngine.Vector2*&
+X` X(a
+
+aUnityEngine.Vector2Ý
+Ú
+Xh X(m
+%1UnityEngine.Vector2"HUnityEngine.Vector2.operator -(UnityEngine.Vector2, UnityEngine.Vector2)*"
+UnityEngine.Vector2*&
+Xh X(i
+
+bUnityEngine.Vector2*&
+Xl X(m
+
+aUnityEngine.Vector2ß
+Ü
+XZ X(o
+%2UnityEngine.Vector2"HUnityEngine.Vector2.operator /(UnityEngine.Vector2, UnityEngine.Vector2)*"
+UnityEngine.Vector2*'
+X\ X(a
+
+%0UnityEngine.Vector2*'
+Xh X(m
+
+%1UnityEngine.Vector2X
+V
+XZ X(o
+%retUnityEngine.Vector2"__id*'
+XZ X(o
+
+%2UnityEngine.Vector2*
+2*8
+2Xp X(p")
+Xo X(p
+
+%retUnityEngine.Vector2:$
+X5 X(>
+aUnityEngine.Vector2:$
+X@ X(I
+bUnityEngine.Vector2:$
+XK X(T
+vUnityEngine.Vector2B"
+Shapes.ShapesMath

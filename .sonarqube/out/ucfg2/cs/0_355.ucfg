@@ -1,0 +1,50 @@
+
+Shapes.Polygon.FillColorEnd.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¿ ¿("0*
+0
+¿ ¿(*
+1*÷
+1
+¿
+ ¿(Pd
+b
+
+¿9 ¿(=
+%0Shapes.GradientFill"__id*31*/
+Shapes.Polygon"
+fillShapes.GradientFillp
+n
+
+¿9 ¿(N:
+
+%0Shapes.GradientFill"
+colorEndUnityEngine.Color"__id*
+
+valueUnityEngine.Colorˆ
+…
+
+¿
+ ¿(P
+
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)* 
+
+¿
+ ¿(
+Shapes.Polygon*C
+
+¿ ¿(75*3
+Shapes.ShapesMaterialUtils"
+propColorEndint*J
+
+¿9 ¿(N<*:
+
+%0Shapes.GradientFill"
+colorEndUnityEngine.Color*
+2*2
+2
+¿Q ¿(Q"!
+
+¿P ¿(Q
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Polygon

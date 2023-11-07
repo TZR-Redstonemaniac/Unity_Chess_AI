@@ -1,0 +1,13 @@
+
+=SerializableDictionary<TKey, TValue>.SerializableDictionary()‡
+}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.csK K("1*¹
+1M M(¤
+¡
+
+%0void"TSerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase()*=;9
+7SerializableDictionaryBase<TKey, TValue, TValueStorage>*
+0*.
+0M M("
+M M(
+implicit returnB(&
+$SerializableDictionary<TKey, TValue>

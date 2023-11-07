@@ -1,0 +1,32 @@
+
+;Shapes.Triangle.SetTriangleVertex(int, UnityEngine.Vector3)|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs< <(""0*
+0< <(*
+1*˜
+1<B <(U¦
+£
+<B <(U
+%0UnityEngine.Vector3"Shapes.Triangle.this[int].set*
+<B <(F
+Shapes.Triangle*
+<G <(L
+
+indexint* 
+
+valueUnityEngine.Vector3[
+Y
+<B <(U
+%retUnityEngine.Vector3"__id**
+<B <(U
+
+valueUnityEngine.Vector3*
+2*8
+2<V <(V")
+<U <(V
+
+%retUnityEngine.Vector3:
+<$ <(-
+indexint:(
+</ <(<
+valueUnityEngine.Vector3B
+Shapes.Triangle

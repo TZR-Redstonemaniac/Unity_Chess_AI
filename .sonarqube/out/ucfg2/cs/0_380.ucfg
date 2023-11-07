@@ -1,0 +1,33 @@
+
+Shapes.Line.ColorEnd.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs? ?("0*
+0? ?(*
+1*ê
+1?
+ ?(Kb
+`
+?9 ?(I.
+Shapes.Line"
+colorEndUnityEngine.Color"__id*
+
+valueUnityEngine.Colorñ
+î
+?
+ ?(K
+
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+?
+ ?(
+Shapes.Line*A
+? ?(75*3
+Shapes.ShapesMaterialUtils"
+propColorEndint*<
+?9 ?(I0*.
+Shapes.Line"
+colorEndUnityEngine.Color*
+2*.
+2?L ?(L"
+?K ?(L
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Line

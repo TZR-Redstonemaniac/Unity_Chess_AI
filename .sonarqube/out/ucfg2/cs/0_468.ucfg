@@ -1,0 +1,30 @@
+
+ Shapes.Draw.StencilWriteMask.set†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csn n("0*
+0n n(*
+1*º
+1n! n(KZ
+X
+n! n(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
+k
+n! n(2
+%1Shapes.RenderState"__id*?=*;
+
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderState[
+Y
+n! n(K4
+
+%1Shapes.RenderState"
+stencilWriteMaskbyte"__id*
+
+valuebyte*
+2*.
+2nL n(L"
+nK n(L
+implicit return:
+valuebyteB"
+Shapes.Draw

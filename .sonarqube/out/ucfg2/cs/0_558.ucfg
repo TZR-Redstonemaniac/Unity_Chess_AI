@@ -1,0 +1,48 @@
+
+Shapes.Disc.ColorStart.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csj j("0*
+0j j(*
+1*Ë
+1k l(T_
+]
+k- k(:+
+Shapes.Disc"
+colorUnityEngine.Color"__id*
+
+valueUnityEngine.Colorè
+å
+k k(<
+
+%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+k k(
+Shapes.Disc*>
+k k(+2*0
+Shapes.ShapesMaterialUtils"
+	propColorint*9
+k- k(:-*+
+Shapes.Disc"
+colorUnityEngine.Colori
+g
+l: l(Q5
+Shapes.Disc"$
+colorOuterStartUnityEngine.Color"__id*
+
+valueUnityEngine.Colorÿ
+ü
+l l(S
+
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+l l(
+Shapes.Disc*H
+l l(8<*:
+Shapes.ShapesMaterialUtils"
+propColorOuterStartint*C
+l: l(Q7*5
+Shapes.Disc"$
+colorOuterStartUnityEngine.Color*
+2*.
+2m m("
+m m(
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Disc

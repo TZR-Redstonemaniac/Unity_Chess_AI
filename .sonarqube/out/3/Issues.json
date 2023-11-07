@@ -1,0 +1,2347 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.7.0.0",
+        "fileVersion": "4.7.0-3.23465.3 (b5c9211b)",
+        "semanticVersion": "4.7.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "USG0001",
+          "level": "warning",
+          "message": "Only allowed to have one file passed in with extension '.AdditionalFile.txt'",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NetworkManager.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 35,
+                  "endLine": 7,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NetworkManager.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 35,
+                  "endLine": 8,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Convenience/Converter.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 14,
+                  "endLine": 3,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/FenManager.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 14,
+                  "endLine": 3,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 14,
+                  "endLine": 4,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'GeneralManager' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/GeneralManager.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 14,
+                  "endLine": 3,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'Visualizer' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/Visualizer.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 14,
+                  "endLine": 7,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'Converter' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Convenience/Converter.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 14,
+                  "endLine": 3,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'PointGenerator' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/PointGenerator.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 14,
+                  "endLine": 5,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'FenManager' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/FenManager.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 14,
+                  "endLine": 3,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 31,
+                  "endLine": 9,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'prevSquares' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 31,
+                  "endLine": 9,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 31,
+                  "endLine": 10,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'prevPieces' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 31,
+                  "endLine": 10,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 26,
+                  "endLine": 12,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'NetworkManager' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NetworkManager.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 14,
+                  "endLine": 5,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'enPassantSquare' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 26,
+                  "endLine": 12,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 32,
+                  "endLine": 13,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'prevEnPassantSquares' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 32,
+                  "endLine": 13,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 29,
+                  "endLine": 15,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field 'layers' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NetworkManager.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 21,
+                  "endLine": 12,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'prevColorToMove' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 29,
+                  "endLine": 15,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'NeuralNetwork' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NeuralNetwork.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 14,
+                  "endLine": 5,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 30,
+                  "endLine": 17,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'prevWKCastling' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 30,
+                  "endLine": 17,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 30,
+                  "endLine": 18,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'prevWQCastling' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 30,
+                  "endLine": 18,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 30,
+                  "endLine": 19,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'Board' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 14,
+                  "endLine": 4,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'prevBKCastling' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 30,
+                  "endLine": 19,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 30,
+                  "endLine": 20,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 23,
+                  "endLine": 22,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 23,
+                  "endLine": 23,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'colorToMove' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 23,
+                  "endLine": 22,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'prevBQCastling' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 30,
+                  "endLine": 20,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'opponentColor' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 23,
+                  "endLine": 23,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 24,
+                  "endLine": 25,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'wKingsideCastle' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 24,
+                  "endLine": 25,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 24,
+                  "endLine": 26,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'wQueensideCastle' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 24,
+                  "endLine": 26,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 24,
+                  "endLine": 27,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'bKingsideCastle' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 24,
+                  "endLine": 27,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 24,
+                  "endLine": 28,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2223",
+          "level": "warning",
+          "message": "Change the visibility of 'bQueensideCastle' or make it 'const' or 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 24,
+                  "endLine": 28,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/SerializableDictionaryExample.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 31,
+                  "endLine": 15,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'MovementManager' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/MovementManager.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 14,
+                  "endLine": 6,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/SerializableDictionaryExample.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 36,
+                  "endLine": 16,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/MovementManager.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 35,
+                  "endLine": 17,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2386",
+          "level": "warning",
+          "message": "Use an immutable collection or reduce the accessibility of the public static field 'prevSquares'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 19,
+                  "endLine": 9,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2386",
+          "level": "warning",
+          "message": "Use an immutable collection or reduce the accessibility of the public static field 'prevPieces'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 19,
+                  "endLine": 10,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2386",
+          "level": "warning",
+          "message": "Use an immutable collection or reduce the accessibility of the public static field 'enPassantSquare'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 19,
+                  "endLine": 12,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2386",
+          "level": "warning",
+          "message": "Use an immutable collection or reduce the accessibility of the public static field 'prevEnPassantSquares'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 19,
+                  "endLine": 13,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2386",
+          "level": "warning",
+          "message": "Use an immutable collection or reduce the accessibility of the public static field 'prevColorToMove'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 19,
+                  "endLine": 15,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2386",
+          "level": "warning",
+          "message": "Use an immutable collection or reduce the accessibility of the public static field 'prevWKCastling'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 19,
+                  "endLine": 17,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2386",
+          "level": "warning",
+          "message": "Use an immutable collection or reduce the accessibility of the public static field 'prevWQCastling'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 19,
+                  "endLine": 18,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2386",
+          "level": "warning",
+          "message": "Use an immutable collection or reduce the accessibility of the public static field 'prevBKCastling'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 19,
+                  "endLine": 19,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2386",
+          "level": "warning",
+          "message": "Use an immutable collection or reduce the accessibility of the public static field 'prevBQCastling'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Board.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 19,
+                  "endLine": 20,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'SerializableDictionaryExample' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/SerializableDictionaryExample.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 14,
+                  "endLine": 5,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1104",
+          "level": "warning",
+          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 100,
+                  "startColumn": 12,
+                  "endLine": 100,
+                  "endColumn": 16
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'RenderPieces' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Renderers/RenderPieces.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 14,
+                  "endLine": 6,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'Layer' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/Layer.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 14,
+                  "endLine": 3,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'ColorArrayStorage' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 14,
+                  "endLine": 13,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field 'screenWidth' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Renderers/RenderPieces.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 17,
+                  "endLine": 30,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field 'screenHeight' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Renderers/RenderPieces.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 17,
+                  "endLine": 31,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'Piece' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Core/Piece.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 23,
+                  "endLine": 3,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'IntDoubleDictionary' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 14,
+                  "endLine": 19,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'StringStringDictionary' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 14,
+                  "endLine": 7,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'IntIntDoubleDictionary' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 14,
+                  "endLine": 22,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'SerializableDictionary' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 96,
+                  "startColumn": 21,
+                  "endLine": 96,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'RenderBoard' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Renderers/RenderBoard.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 14,
+                  "endLine": 7,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'ObjectColorDictionary' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 14,
+                  "endLine": 10,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'StringColorArrayDictionary' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 14,
+                  "endLine": 16,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'SerializableDictionaryBase' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 23,
+                  "endLine": 7,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'SerializableDictionary' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 14,
+                  "endLine": 73,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 14,
+                  "endLine": 7,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 8,
+                  "endLine": 7,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add a 'protected' constructor 'StringStringDictionary(SerializationInfo, StreamingContext)'."
+            }
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 14,
+                  "endLine": 22,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 8,
+                  "endLine": 22,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add a 'protected' constructor 'IntIntDoubleDictionary(SerializationInfo, StreamingContext)'."
+            }
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 14,
+                  "endLine": 16,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 8,
+                  "endLine": 16,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add a 'protected' constructor 'StringColorArrayDictionary(SerializationInfo, StreamingContext)'."
+            }
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 14,
+                  "endLine": 10,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 8,
+                  "endLine": 10,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add a 'protected' constructor 'ObjectColorDictionary(SerializationInfo, StreamingContext)'."
+            }
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 14,
+                  "endLine": 19,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 8,
+                  "endLine": 19,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add a 'protected' constructor 'IntDoubleDictionary(SerializationInfo, StreamingContext)'."
+            }
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 14,
+                  "endLine": 73,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 8,
+                  "endLine": 73,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add 'System.SerializableAttribute' attribute on 'SerializableDictionary' because it implements 'ISerializable'."
+            }
+          }
+        },
+        {
+          "ruleId": "S2436",
+          "level": "warning",
+          "message": "Reduce the number of generic parameters in the 'SerializableDictionaryBase' class to no more than the 2 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 23,
+                  "endLine": 7,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'SerializableDictionary' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 14,
+                  "endLine": 104,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 14,
+                  "endLine": 104,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 8,
+                  "endLine": 104,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add 'System.SerializableAttribute' attribute on 'SerializableDictionary' because it implements 'ISerializable'."
+            }
+          }
+        },
+        {
+          "ruleId": "S2436",
+          "level": "warning",
+          "message": "Reduce the number of generic parameters in the 'SerializableDictionary' class to no more than the 2 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 14,
+                  "endLine": 104,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/FenManager.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 24,
+                  "endLine": 21,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/FenManager.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 9,
+                  "endLine": 22,
+                  "endColumn": 12
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/FenManager.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 9,
+                  "endLine": 29,
+                  "endColumn": 16
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/FenManager.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 13,
+                  "endLine": 30,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/FenManager.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 13,
+                  "endLine": 34,
+                  "endColumn": 17
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/FenManager.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 17,
+                  "endLine": 35,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/FenManager.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 17,
+                  "endLine": 38,
+                  "endColumn": 21
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/FenManager.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 60,
+                  "endLine": 39,
+                  "endColumn": 61
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/FenManager.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 48,
+                  "endLine": 47,
+                  "endColumn": 49
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/FenManager.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 50,
+                  "endLine": 48,
+                  "endColumn": 51
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/FenManager.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 53,
+                  "endLine": 50,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+1",
+              "2": "+2 (incl 1 for nesting)",
+              "3": "+1",
+              "4": "+3 (incl 2 for nesting)",
+              "5": "+1",
+              "6": "+4 (incl 3 for nesting)",
+              "7": "+1",
+              "8": "+1",
+              "9": "+1"
+            }
+          }
+        },
+        {
+          "ruleId": "S3442",
+          "level": "warning",
+          "message": "Change the visibility of this constructor to 'protected'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 2,
+                  "endLine": 14,
+                  "endColumn": 8
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1940",
+          "level": "warning",
+          "message": "Use the opposite operator ('<=') instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NeuralNetwork.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 17,
+                  "endLine": 31,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3442",
+          "level": "warning",
+          "message": "Change the visibility of this constructor to 'protected'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 2,
+                  "endLine": 18,
+                  "endColumn": 8
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1940",
+          "level": "warning",
+          "message": "Use the opposite operator ('<=') instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/MovementManager.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 17,
+                  "endLine": 67,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3904",
+          "level": "warning",
+          "message": "Provide an 'AssemblyVersion' attribute for assembly 'Assembly-CSharp'.",
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S1104": {
+          "id": "S1104",
+          "shortDescription": "Fields should not have public accessibility",
+          "fullDescription": "Public fields in public classes do not respect the encapsulation principle and have three main disadvantages:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1104",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1118": {
+          "id": "S1118",
+          "shortDescription": "Utility classes should not have public constructors",
+          "fullDescription": "Whenever there are portions of code that are duplicated and do not depend on the state of their container class, they can be centralized inside a \"utility class\". A utility class is a class that only has static members, hence it should not be instantiated.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1450": {
+          "id": "S1450",
+          "shortDescription": "Private fields only used as local variables in methods should become local variables",
+          "fullDescription": "When the value of a private field is always assigned to in a class' methods before being read, then it is not being used to store class information. Therefore, it should become a local variable in the relevant methods to prevent any misunderstanding.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1450",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1940": {
+          "id": "S1940",
+          "shortDescription": "Boolean checks should not be inverted",
+          "fullDescription": "It is needlessly complex to invert the result of a boolean comparison. The opposite comparison should be made instead.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1940",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2223": {
+          "id": "S2223",
+          "shortDescription": "Non-constant static fields should not be visible",
+          "fullDescription": "Unlike instance fields, which can only be accessed by code having a hold on the instance, static fields can be accessed by any code having visibility of the field and its type.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2223",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2386": {
+          "id": "S2386",
+          "shortDescription": "Mutable fields should not be \"public static\"",
+          "fullDescription": "public static mutable fields of classes which are accessed directly should be protected to the degree possible. This can be done by reducing the accessibility of the field or by changing the return type to an immutable type.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2386",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2436": {
+          "id": "S2436",
+          "shortDescription": "Types and methods should not have too many generic parameters",
+          "fullDescription": "A method or class with too many type parameters has likely aggregated too many responsibilities and should be split.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2436",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3442": {
+          "id": "S3442",
+          "shortDescription": "\"abstract\" classes should not have \"public\" constructors",
+          "fullDescription": "The abstract modifier in a class declaration is used to indicate that a class is intended only to be a base class of other classes, not instantiated on its own.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3442",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3776": {
+          "id": "S3776",
+          "shortDescription": "Cognitive Complexity of methods should not be too high",
+          "fullDescription": "This rule raises an issue when the code cognitive complexity of a function is above a certain threshold.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3903": {
+          "id": "S3903",
+          "shortDescription": "Types should be defined in named namespaces",
+          "fullDescription": "Types are declared in namespaces in order to prevent name collisions and as a way to organize them into the object hierarchy. Types that are defined outside any named namespace are in a global namespace that cannot be referenced in code.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3903",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3904": {
+          "id": "S3904",
+          "shortDescription": "Assemblies should have version information",
+          "fullDescription": "The AssemblyVersion attribute is used to specify the version number of an assembly. An assembly is a compiled unit of code, which can be marked with a version number by applying the attribute to an assembly’s source code file.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3904",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3925": {
+          "id": "S3925",
+          "shortDescription": "\"ISerializable\" should be implemented correctly",
+          "fullDescription": "The ISerializable interface is the mechanism to control the type serialization process. If not implemented correctly this could result in an invalid serialization and hard-to-detect bugs.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3925",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "USG0001": {
+          "id": "USG0001",
+          "shortDescription": "Error with Additional file for Unity Source Generator",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "SourceGenerator",
+            "isEnabledByDefault": true
+          }
+        }
+      }
+    }
+  ]
+}

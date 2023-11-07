@@ -1,0 +1,50 @@
+
+GShapes.Polyline.AddPoint(UnityEngine.Vector3, UnityEngine.Color, float)~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.csŸ Ÿ("0*
+0
+Ÿ Ÿ(*
+1*¨
+1ŸL Ÿ(‡A?
+ŸV Ÿ(…
+%0Shapes.PolylinePoint"Shapes.PolylinePoint®
+«
+ŸV Ÿ(…
+%1Shapes.PolylinePoint"QShapes.PolylinePoint.PolylinePoint(UnityEngine.Vector3, UnityEngine.Color, float)*+
+ŸV Ÿ(…
+
+%0Shapes.PolylinePoint*/
+
+Ÿi Ÿ(q!
+
+positionUnityEngine.Vector3**
+
+Ÿs Ÿ(x
+
+colorUnityEngine.Color*#
+Ÿz Ÿ(ƒ
+
+	thicknessfloatœ
+™
+ŸL Ÿ(‡
+
+%2void".Shapes.Polyline.AddPoint(Shapes.PolylinePoint)*!
+
+ŸL Ÿ(T
+Shapes.Polyline*+
+ŸV Ÿ(…
+
+%0Shapes.PolylinePoint*
+2*6
+2Ÿˆ Ÿ(ˆ"#
+Ÿ‡ Ÿ(ˆ
+implicit return:-
+
+Ÿ Ÿ((
+positionUnityEngine.Vector3:(
+
+Ÿ* Ÿ(5
+colorUnityEngine.Color: 
+
+Ÿ7 Ÿ(F
+	thicknessfloatB
+Shapes.Polyline

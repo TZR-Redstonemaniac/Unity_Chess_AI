@@ -1,0 +1,33 @@
+
+Shapes.Cone.SizeSpace.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Cone.cs" "("0*
+0" "(*
+1*é
+1"
+ "(Tk
+i
+"? "(P3
+Shapes.Cone""
+	sizeSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpaceç
+ä
+"
+ "(T
+
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+"
+ "(
+Shapes.Cone*B
+" "(66*4
+Shapes.ShapesMaterialUtils"
+propSizeSpaceint*A
+"8 "(R5*3
+Shapes.Cone""
+	sizeSpaceShapes.ThicknessSpace*
+2*.
+2"U "(U"
+"T "(U
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.Cone

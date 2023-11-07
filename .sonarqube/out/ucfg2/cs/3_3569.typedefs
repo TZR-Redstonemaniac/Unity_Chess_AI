@@ -1,0 +1,6 @@
+¿
+Layerobject(
+Layer(int, int)Layer.Layer(int, int)>
+CalculateOutputs(double[]) Layer.CalculateOutputs(double[])"
+GetWeights()Layer.GetWeights() 
+GetBiases()Layer.GetBiases()

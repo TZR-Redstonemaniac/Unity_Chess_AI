@@ -1,0 +1,52 @@
+
+Shapes.Line.this[int].setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs ("0*
+0 (*
+1*
+1 (*
+2
+3*ç
+2 (!{
+y
+ (!
+%0UnityEngine.Vector3"Shapes.Line.End.set*
+ (
+Shapes.Line* 
+
+valueUnityEngine.Vector3V
+T
+ (! 
+	%capture0UnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3*
+4*é
+3$ (1}
+{
+$ (1
+%1UnityEngine.Vector3"Shapes.Line.Start.set*
+$ ()
+Shapes.Line* 
+
+valueUnityEngine.Vector3V
+T
+$ (1 
+	%capture0UnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3*
+4*g
+4
+ (1S
+Q
+
+ (1
+%2UnityEngine.Vector3"__id*$"
+ 
+	%capture0UnityEngine.Vector3*
+5*.
+52 (2"
+1 (2
+implicit return:
+
+iint:
+valueUnityEngine.Vector3B
+Shapes.Line

@@ -1,0 +1,71 @@
+
+Shapes.Quad.DAuto.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs¦ ¦("0*
+0
+¦ ¦(*
+1*Ù
+1
+¦ ¦('[
+Y
+
+¦ ¦(
+%0UnityEngine.Vector3"Shapes.Quad.A.get*
+
+¦ ¦(
+Shapes.Quad[
+Y
+
+¦  ¦(!
+%1UnityEngine.Vector3"Shapes.Quad.C.get*
+
+¦  ¦(!
+Shapes.Quad[
+Y
+
+¦$ ¦(%
+%2UnityEngine.Vector3"Shapes.Quad.B.get*
+
+¦$ ¦(%
+Shapes.Quadå
+â
+
+¦  ¦(%
+%3UnityEngine.Vector3"HUnityEngine.Vector3.operator -(UnityEngine.Vector3, UnityEngine.Vector3)*"
+UnityEngine.Vector3*)
+
+¦  ¦(!
+
+%1UnityEngine.Vector3*)
+
+¦$ ¦(%
+
+%2UnityEngine.Vector3å
+â
+
+¦ ¦('
+%4UnityEngine.Vector3"HUnityEngine.Vector3.operator +(UnityEngine.Vector3, UnityEngine.Vector3)*"
+UnityEngine.Vector3*)
+
+¦ ¦(
+
+%0UnityEngine.Vector3*)
+
+¦  ¦(%
+
+%3UnityEngine.Vector3\
+Z
+
+¦ ¦('
+%retUnityEngine.Vector3"__id*)
+
+¦ ¦('
+
+%4UnityEngine.Vector3*
+2*<
+2
+¦( ¦(("+
+
+¦' ¦((
+
+%retUnityEngine.Vector3B
+Shapes.Quad

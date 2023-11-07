@@ -1,0 +1,37 @@
+
+RenderBoard.Awake()u
+kC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Renderers\RenderBoard.cs ("0*
+0 (*
+1*×
+1 (,><
+ (1
+%0UnityEngine.Material"UnityEngine.MaterialÈ
+Å
+ (1
+%1UnityEngine.Material"1UnityEngine.Material.Material(UnityEngine.Shader)*(
+ (1
+
+%0UnityEngine.Material*@
+% (04*2
+RenderBoard"!
+boardShaderUnityEngine.Shaderj
+h
+ (16
+RenderBoard"%
+boardMaterialUnityEngine.Material"__id*
+
+%0UnityEngine.MaterialË
+È
+ (+
+%2UnityEngine.Material"!UnityEngine.UI.Image.material.set*A
+ (5*3
+RenderBoard""
+
+backgroundUnityEngine.UI.Image*:8*6
+RenderBoard"%
+boardMaterialUnityEngine.Material*
+2*.
+2 ("
+ (
+implicit returnB
+RenderBoard

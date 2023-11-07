@@ -1,0 +1,39 @@
+
+&Shapes.ShapesTextPool.ShapesTextPool()}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesTextPool.cs (,"0*È
+0v v(\Z
+' (?)
+%0#System.Collections.Generic.Stack<T>"#System.Collections.Generic.Stack<T>t
+r
++ (=
+
+%1void"+System.Collections.Generic.Stack<T>.Stack()*-+
+)
+%0#System.Collections.Generic.Stack<T>•
+’
+ (?Q
+Shapes.ShapesTextPool"6
+elementsPassive#System.Collections.Generic.Stack<T>"__id*-+
+)
+%0#System.Collections.Generic.Stack<T>|z
+0 (R9
+%23System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>š
+—
+4 (P
+
+%3void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*=;
+9
+%23System.Collections.Generic.Dictionary<TKey, TValue>´
+±
+ (R`
+Shapes.ShapesTextPool"E
+elementsActive3System.Collections.Generic.Dictionary<TKey, TValue>"__id*=;
+9
+%23System.Collections.Generic.Dictionary<TKey, TValue>Z
+X
+
+%4void")UnityEngine.MonoBehaviour.MonoBehaviour()*
+UnityEngine.MonoBehaviour"
+ v(
+implicit returnB
+Shapes.ShapesTextPool

@@ -1,0 +1,102 @@
+
+<Shapes.DrawCommand.OnPostRenderBuiltInRP(UnityEngine.Camera)ƒ
+yC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawCommand.csc c(#"0*
+0c c(*
+1*Ñ
+1d d(K¹
+¶
+d d(K
+
+%0bool"GSystem.Collections.Generic.ICollection<T>.TryGetValue(TKey, out TValue)*n
+d d(b*`
+Shapes.DrawCommand"H
+cBuffersRendering3System.Collections.Generic.Dictionary<TKey, TValue>*'
+d& d()
+
+camUnityEngine.Camera*<
+d+ d(I0
+.
+drawCmds"System.Collections.Generic.List<T>*
+2
+7*¸
+2e e(#‹
+ˆ
+e e(	
+%1int"3System.Collections.Generic.ICollection<T>.Count.get*<
+e e(0
+.
+drawCmds"System.Collections.Generic.List<T>i
+g
+e e(#	
+%2int"%!binary_implicit_operator_passthrough*
+e e(
+	
+%1int*
+e" e(#2+
+)
+e e(#
+iint"__id*
+	
+%2int*
+3*
+3e% e(+*
+4
+7*º
+4f	 f(*¶
+³
+f	 f(
+%3Shapes.DrawCommand"7System.Collections.Generic.ICollection<T>.this[int].get*<
+f	 f(0
+.
+drawCmds"System.Collections.Generic.List<T>*
+f f(
+
+
+iintj
+h
+f	 f(*
+
+%4bool"(Shapes.DrawCommand.CheckIfRenderIsDone()*&
+f	 f(
+
+%3Shapes.DrawCommand*
+5
+6*Ô
+5g h(¶
+³
+g g(
+%5Shapes.DrawCommand"7System.Collections.Generic.ICollection<T>.this[int].get*<
+g g(0
+.
+drawCmds"System.Collections.Generic.List<T>*
+g g(
+
+
+iint\
+Z
+g g(
+
+%6void"Shapes.DrawCommand.Clear()*&
+g g(
+
+%5Shapes.DrawCommand¨
+¥
+h h(
+
+%7void"7System.Collections.Generic.ICollection<T>.RemoveAt(int)*<
+h h(0
+.
+drawCmds"System.Collections.Generic.List<T>*
+h h(
+
+
+iint*
+6*
+6e- e(0*
+3*.
+7l l("
+l l(
+implicit return:%
+c% c(/
+camUnityEngine.CameraB"
+Shapes.DrawCommand

@@ -1,0 +1,40 @@
+
+Shapes.Disc.DashType.set–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs< <("0*
+0< <(*
+1*¾
+1<
+ <(X^
+\
+<> <(G
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStylec
+a
+<> <(T1
+
+%0Shapes.DashStyle"
+typeShapes.DashType"__id*
+
+valueShapes.DashTypeä
+á
+<
+ <(X
+
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+<
+ <(
+Shapes.Disc*A
+< <(55*3
+Shapes.ShapesMaterialUtils"
+propDashTypeint*?
+<7 <(V3*1
+
+%0Shapes.DashStyle"
+typeShapes.DashType*
+2*.
+2<Y <(Y"
+<X <(Y
+implicit return:
+valueShapes.DashTypeB
+Shapes.Disc

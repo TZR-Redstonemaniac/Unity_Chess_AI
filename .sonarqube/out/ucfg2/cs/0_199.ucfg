@@ -1,0 +1,40 @@
+
+!Shapes.PointPath<T>.LastPoint.getÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PointPath.cs ("0*
+0 (*
+1*î
+1 (,†
+ù
+ ('	
+%0int"3System.Collections.Generic.ICollection<T>.Count.get*Q
+ (!E*C
+Shapes.PointPath<T>"*
+path"System.Collections.Generic.List<T>i
+g
+ (+	
+%1int"%!binary_implicit_operator_passthrough*
+ ('
+	
+%0int*
+* (+2ª
+∏
+ (,
+%2T"7System.Collections.Generic.ICollection<T>.this[int].get*Q
+ (E*C
+Shapes.PointPath<T>"*
+path"System.Collections.Generic.List<T>*
+ (+
+	
+%1int4
+2
+ (,	
+%retT"__id*
+ (,	
+
+%2T*
+2*&
+2- (-"
+, (-
+	
+%retTB
+Shapes.PointPath<T>

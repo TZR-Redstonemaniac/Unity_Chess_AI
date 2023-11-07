@@ -1,0 +1,24 @@
+•	
+Shapes.TorusShapes.ShapeRendererUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectE
+SetAllMaterialProperties()'Shapes.Torus.SetAllMaterialProperties()5
+ShapeClampRanges()Shapes.Torus.ShapeClampRanges()-
+GetMaterials()Shapes.Torus.GetMaterials();
+GetInitialMeshAsset()"Shapes.Torus.GetInitialMeshAsset()9
+GetBounds_Internal()!Shapes.Torus.GetBounds_Internal()
+Torus()Shapes.Torus.Torus()%
+
+Radius.getShapes.Torus.Radius.get%
+
+Radius.setShapes.Torus.Radius.set+
+Thickness.getShapes.Torus.Thickness.get+
+Thickness.setShapes.Torus.Thickness.set5
+ThicknessSpace.getShapes.Torus.ThicknessSpace.get5
+ThicknessSpace.setShapes.Torus.ThicknessSpace.set/
+RadiusSpace.getShapes.Torus.RadiusSpace.get/
+RadiusSpace.setShapes.Torus.RadiusSpace.set7
+AngRadiansStart.get Shapes.Torus.AngRadiansStart.get7
+AngRadiansStart.set Shapes.Torus.AngRadiansStart.set3
+AngRadiansEnd.getShapes.Torus.AngRadiansEnd.get3
+AngRadiansEnd.setShapes.Torus.AngRadiansEnd.set7
+HasDetailLevels.get Shapes.Torus.HasDetailLevels.get7
+HasDetailLevels.set Shapes.Torus.HasDetailLevels.set

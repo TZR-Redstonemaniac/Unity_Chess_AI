@@ -1,0 +1,42 @@
+
+"Shapes.ShapeRenderer.ColorMask.setƒ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csŒ Œ("0*
+0
+Œ Œ(*
+1*Ó
+1
+Œ
+ Œ(h•
+’
+
+ŒS Œ(dK
+Shapes.ShapeRenderer"1
+	colorMask$UnityEngine.Rendering.ColorWriteMask"__id*1/
+-
+value$UnityEngine.Rendering.ColorWriteMask¤
+¡
+
+Œ
+ Œ(h
+
+%0void"<Shapes.ShapeRenderer.SetIntOnAllInstancedMaterials(int, int)*&
+
+Œ
+ Œ('
+Shapes.ShapeRenderer*D
+
+Œ) Œ(J6*4
+Shapes.ShapesMaterialUtils"
+propColorMaskint*[
+
+ŒL Œ(fM*K
+Shapes.ShapeRenderer"1
+	colorMask$UnityEngine.Rendering.ColorWriteMask*
+2*2
+2
+Œi Œ(i"!
+
+Œh Œ(i
+implicit return:/-
+value$UnityEngine.Rendering.ColorWriteMaskB
+Shapes.ShapeRenderer

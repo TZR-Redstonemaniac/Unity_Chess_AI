@@ -1,0 +1,130 @@
+
+(Shapes.MpbQuad.TransferShapeProperties()‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs¯ ¯(1"0*
+0
+¯ ¯(*
+1*‹
+1
+° ¶(,œ
+™
+
+° °(+
+
+%0void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
+
+° °(
+Shapes.MpbQuad*<
+
+° °(&.*,
+Shapes.ShapesMaterialUtils"
+propAint*K
+
+°( °()=*;
+Shapes.MpbQuad"'
+a"System.Collections.Generic.List<T>œ
+™
+
+± ±(+
+
+%1void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
+
+± ±(
+Shapes.MpbQuad*<
+
+± ±(&.*,
+Shapes.ShapesMaterialUtils"
+propBint*K
+
+±( ±()=*;
+Shapes.MpbQuad"'
+b"System.Collections.Generic.List<T>œ
+™
+
+² ²(+
+
+%2void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
+
+² ²(
+Shapes.MpbQuad*<
+
+² ²(&.*,
+Shapes.ShapesMaterialUtils"
+propCint*K
+
+²( ²()=*;
+Shapes.MpbQuad"'
+c"System.Collections.Generic.List<T>¦
+£
+
+³ ³(5
+
+%3void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
+
+³ ³(
+Shapes.MpbQuad*A
+
+³ ³(+3*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*P
+
+³- ³(3B*@
+Shapes.MpbQuad",
+colorB"System.Collections.Generic.List<T>¦
+£
+
+´ ´(5
+
+%4void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
+
+´ ´(
+Shapes.MpbQuad*A
+
+´ ´(+3*1
+Shapes.ShapesMaterialUtils"
+
+propColorCint*P
+
+´- ´(3B*@
+Shapes.MpbQuad",
+colorC"System.Collections.Generic.List<T>¦
+£
+
+µ µ(5
+
+%5void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
+
+µ µ(
+Shapes.MpbQuad*A
+
+µ µ(+3*1
+Shapes.ShapesMaterialUtils"
+
+propColorDint*P
+
+µ- µ(3B*@
+Shapes.MpbQuad",
+colorD"System.Collections.Generic.List<T>œ
+™
+
+¶ ¶(+
+
+%6void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
+
+¶ ¶(
+Shapes.MpbQuad*<
+
+¶ ¶(&.*,
+Shapes.ShapesMaterialUtils"
+propDint*K
+
+¶( ¶()=*;
+Shapes.MpbQuad"'
+d"System.Collections.Generic.List<T>*
+2*2
+2
+· ·("!
+
+· ·(
+implicit returnB
+Shapes.MpbQuad

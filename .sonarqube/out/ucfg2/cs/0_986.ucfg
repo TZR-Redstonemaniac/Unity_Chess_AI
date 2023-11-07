@@ -1,0 +1,30 @@
+
+TShapes.GradientFill.SetRadialOriginWorld(UnityEngine.Transform, UnityEngine.Vector3)€
+vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.cs_ _(""0*
+0_ _(*
+1*â
+1_K _({Í
+Ê
+_K _({
+
+%0void"dShapes.GradientFill.SetWorldPos(UnityEngine.Transform, ref UnityEngine.Vector3, UnityEngine.Vector3)*#
+_K _(V
+Shapes.GradientFill*)
+_X _(Z
+
+tfUnityEngine.Transform*J
+_\ _(l>*<
+Shapes.GradientFill"#
+radialOriginUnityEngine.Vector3*0
+_n _(y$
+"
+worldOriginUnityEngine.Vector3*
+2*.
+2_| _(|"
+_{ _(|
+implicit return:'
+_$ _(0
+tfUnityEngine.Transform:.
+_2 _(E"
+worldOriginUnityEngine.Vector3B
+Shapes.GradientFill

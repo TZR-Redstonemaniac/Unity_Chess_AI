@@ -1,0 +1,32 @@
+
+3Shapes.Quad.SetQuadVertex(int, UnityEngine.Vector3)x
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csE E("0*
+0E E(*
+1*
+1E> E(Qž
+›
+E> E(Q
+%0UnityEngine.Vector3"Shapes.Quad.this[int].set*
+E> E(B
+Shapes.Quad*
+EC E(H
+
+indexint* 
+
+valueUnityEngine.Vector3[
+Y
+E> E(Q
+%retUnityEngine.Vector3"__id**
+E> E(Q
+
+valueUnityEngine.Vector3*
+2*8
+2ER E(R")
+EQ E(R
+
+%retUnityEngine.Vector3:
+E  E()
+indexint:(
+E+ E(8
+valueUnityEngine.Vector3B
+Shapes.Quad

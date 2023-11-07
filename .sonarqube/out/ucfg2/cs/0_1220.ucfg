@@ -1,0 +1,43 @@
+
+Shapes.Quad.ColorB.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csã ã("0*
+0
+ã ã(*
+1*ð
+1
+ã
+ ã(Gb
+`
+
+ã7 ã(E,
+Shapes.Quad"
+colorBUnityEngine.Color"__id*
+
+valueUnityEngine.Colorõ
+ò
+
+ã
+ ã(G
+
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+
+ã
+ ã(
+Shapes.Quad*A
+
+ã ã(53*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*<
+
+ã7 ã(E.*,
+Shapes.Quad"
+colorBUnityEngine.Color*
+2*2
+2
+ãH ã(H"!
+
+ãG ã(H
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Quad

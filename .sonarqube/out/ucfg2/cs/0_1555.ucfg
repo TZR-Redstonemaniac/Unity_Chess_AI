@@ -1,0 +1,38 @@
+
+'Shapes.ShapeRenderer.UpdateMeshBounds()É
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs– –("0*
+0
+– –(*
+1*ß
+1
+– –(?m
+k
+
+– –(!
+%0UnityEngine.Mesh"Shapes.ShapeRenderer.Mesh.get*&
+
+– –(!
+Shapes.ShapeRendereríè
+
+–+ –(?
+%1UnityEngine.Bounds")Shapes.ShapeRenderer.GetBounds_Internal()*&
+
+–+ –(=
+Shapes.ShapeRenderer2GetBounds_Internal()å
+â
+
+– –(?
+%2UnityEngine.Bounds"UnityEngine.Mesh.bounds.set*&
+
+– –(!
+
+%0UnityEngine.Mesh*
+
+%1UnityEngine.Bounds*
+2*2
+2
+–@ –(@"!
+
+–? –(@
+implicit returnB
+Shapes.ShapeRenderer

@@ -1,0 +1,37 @@
+
+(Shapes.Draw.GradientFillRadialOrigin.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csì ì("0*
+0
+ì ì(*
+1*à
+1
+ì! ì(H\
+Z
+
+ì! ì(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyler
+p
+
+ì! ì(3
+%1Shapes.GradientFill"__id*A?*=
+
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFillx
+v
+
+ì! ì(H@
+
+%1Shapes.GradientFill"#
+radialOriginUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3*
+2*2
+2
+ìI ì(I"!
+
+ìH ì(I
+implicit return:
+valueUnityEngine.Vector3B"
+Shapes.Draw

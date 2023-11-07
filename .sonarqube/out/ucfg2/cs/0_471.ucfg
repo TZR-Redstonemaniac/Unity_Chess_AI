@@ -1,0 +1,58 @@
+
+Shapes.Rectangle.FillType.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csù ù("0*
+0
+ù ù(*
+1*˘
+1
+û ü(Xf
+d
+
+û û(
+%0Shapes.GradientFill"__id*53*1
+Shapes.Rectangle"
+fillShapes.GradientFillh
+f
+
+û û(4
+
+%0Shapes.GradientFill"
+typeShapes.FillType"__id*
+
+valueShapes.FillTypeƒ
+¡
+
+ü1 ü(U	
+%1int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*A
+
+ü1 ü(53*1
+Shapes.Rectangle"
+fillShapes.GradientFill*5
+
+üL ü(S'*%
+Shapes.Rectangle"
+useFillbool…
+∆
+
+ü ü(W
+
+%2void"(Shapes.ShapeRenderer.SetIntNow(int, int)*"
+
+ü ü(
+Shapes.Rectangle*C
+
+ü ü(/5*3
+Shapes.ShapesMaterialUtils"
+propFillTypeint*
+
+ü1 ü(U
+	
+%1int*
+2*2
+2
+† †("!
+
+† †(
+implicit return:
+valueShapes.FillTypeB
+Shapes.Rectangle

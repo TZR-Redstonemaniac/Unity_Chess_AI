@@ -1,0 +1,62 @@
+
+Shapes.Disc.DashSpace.set–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs1 1("0*
+01 1(*
+1*õ
+12 3(g^
+\
+26 2(?
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStylef
+d
+26 2(M3
+
+%0Shapes.DashStyle"
+spaceShapes.DashSpace"__id*
+
+valueShapes.DashSpaceä
+á
+2 2(Q
+
+%1void"%Shapes.ShapeRenderer.SetInt(int, int)*
+2 2(
+
+Shapes.Disc*B
+2 2(-6*4
+Shapes.ShapesMaterialUtils"
+propDashSpaceint*A
+2/ 2(O5*3
+
+%0Shapes.DashStyle"
+spaceShapes.DashSpaceì
+é
+33 3(d
+%2float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*<
+33 3(<0*.
+Shapes.Disc"
+	dashStyleShapes.DashStyle*-
+3Q 3(W!*
+Shapes.Disc"
+dashedbool*1
+3Y 3(b%*#
+Shapes.Disc"
+	thicknessfloatÂ
+¿
+3 3(f
+
+%3void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+3 3(
+Shapes.Disc*A
+3 3(15*3
+Shapes.ShapesMaterialUtils"
+propDashSizeint*
+33 3(d
+
+%2float*
+2*.
+24 4("
+4 4(
+implicit return:
+valueShapes.DashSpaceB
+Shapes.Disc

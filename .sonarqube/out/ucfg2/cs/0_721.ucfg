@@ -1,0 +1,87 @@
+
+Shapes.Triangle.Color.set~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csö ö("0*
+0
+ö ö(*
+1*√
+1
+õ ù(Be
+c
+
+õ- õ(:/
+Shapes.Triangle"
+colorUnityEngine.Color"__id*
+
+valueUnityEngine.Color¯
+ı
+
+õ õ(<
+
+%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*!
+
+õ õ(
+Shapes.Triangle*@
+
+õ õ(+2*0
+Shapes.ShapesMaterialUtils"
+	propColorint*?
+
+õ- õ(:1*/
+Shapes.Triangle"
+colorUnityEngine.Colorf
+d
+
+ú. ú(<0
+Shapes.Triangle"
+colorBUnityEngine.Color"__id*
+
+valueUnityEngine.Color˙
+˜
+
+ú ú(>
+
+%1void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*!
+
+ú ú(
+Shapes.Triangle*A
+
+ú ú(,3*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*@
+
+ú. ú(<2*0
+Shapes.Triangle"
+colorBUnityEngine.Colorf
+d
+
+ù1 ù(?0
+Shapes.Triangle"
+colorCUnityEngine.Color"__id*
+
+valueUnityEngine.Color˝
+˙
+
+ù ù(A
+
+%2void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*!
+
+ù ù(
+Shapes.Triangle*A
+
+ù ù(/3*1
+Shapes.ShapesMaterialUtils"
+
+propColorCint*@
+
+ù1 ù(?2*0
+Shapes.Triangle"
+colorCUnityEngine.Color*
+2*2
+2
+û û("!
+
+û û(
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Triangle

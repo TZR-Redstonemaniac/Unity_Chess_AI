@@ -1,0 +1,381 @@
+
+&Shapes.Quad.SetAllMaterialProperties()z
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csò" ò(:"0*
+0
+ò ò(*
+1*ê
+1
+ó ö(î
+ë
+
+ó ó(-
+
+%0void"9Shapes.ShapeRenderer.SetVector3(int, UnityEngine.Vector3)*
+
+ó ó(
+Shapes.Quad*<
+
+ó ó((.*,
+Shapes.ShapesMaterialUtils"
+propAint*9
+
+ó* ó(++*)
+Shapes.Quad"
+aUnityEngine.Vector3î
+ë
+
+ô ô(-
+
+%1void"9Shapes.ShapeRenderer.SetVector3(int, UnityEngine.Vector3)*
+
+ô ô(
+Shapes.Quad*<
+
+ô ô((.*,
+Shapes.ShapesMaterialUtils"
+propBint*9
+
+ô* ô(++*)
+Shapes.Quad"
+bUnityEngine.Vector3î
+ë
+
+õ õ(-
+
+%2void"9Shapes.ShapeRenderer.SetVector3(int, UnityEngine.Vector3)*
+
+õ õ(
+Shapes.Quad*<
+
+õ õ((.*,
+Shapes.ShapesMaterialUtils"
+propCint*9
+
+õ* õ(++*)
+Shapes.Quad"
+cUnityEngine.Vector3*
+2
+3*g
+2
+÷ ÷(Q
+O
+
+÷ ÷(
+
+%3void"Shapes.Quad.AutoSetD()*
+
+÷ ÷(
+Shapes.Quad*
+4*…
+3
+ù ù(/î
+ë
+
+ù ù(.
+
+%4void"9Shapes.ShapeRenderer.SetVector3(int, UnityEngine.Vector3)*
+
+ù ù(
+Shapes.Quad*<
+
+ù ù().*,
+Shapes.ShapesMaterialUtils"
+propDint*9
+
+ù+ ù(,+*)
+Shapes.Quad"
+dUnityEngine.Vector3*
+4*’
+4
+ü ý(y
+w
+
+ü ü(&
+	%capture0Shapes.Quad.QuadColorMode"__id*;9*7
+Shapes.Quad"&
+	colorModeShapes.Quad.QuadColorMode*
+5
+6*Ó
+5
+þ €(7]
+[
+
+þ/ þ(4
+%5UnityEngine.Color"Shapes.Quad.Color.get*
+
+þ/ þ(4
+Shapes.QuadÝ
+Ú
+
+þ þ(6
+
+%6void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+þ þ(
+Shapes.Quad*A
+
+þ þ(-3*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*'
+
+þ/ þ(4
+
+%5UnityEngine.Color]
+[
+
+ÿ/ ÿ(4
+%7UnityEngine.Color"Shapes.Quad.Color.get*
+
+ÿ/ ÿ(4
+Shapes.QuadÝ
+Ú
+
+ÿ ÿ(6
+
+%8void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+ÿ ÿ(
+Shapes.Quad*A
+
+ÿ ÿ(-3*1
+Shapes.ShapesMaterialUtils"
+
+propColorCint*'
+
+ÿ/ ÿ(4
+
+%7UnityEngine.Color]
+[
+
+€/ €(4
+%9UnityEngine.Color"Shapes.Quad.Color.get*
+
+€/ €(4
+Shapes.QuadÞ
+Û
+
+€ €(6
+%10void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+€ €(
+Shapes.Quad*A
+
+€ €(-3*1
+Shapes.ShapesMaterialUtils"
+
+propColorDint*'
+
+€/ €(4
+
+%9UnityEngine.Color*
+13*
+6
+‚	 ‚(!*
+7
+8*Ã
+7
+ƒ …(8^
+\
+
+ƒ/ ƒ(4
+%11UnityEngine.Color"Shapes.Quad.Color.get*
+
+ƒ/ ƒ(4
+Shapes.Quadß
+Ü
+
+ƒ ƒ(6
+%12void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+ƒ ƒ(
+Shapes.Quad*A
+
+ƒ ƒ(-3*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*(
+
+ƒ/ ƒ(4
+
+%11UnityEngine.Coloró
+ð
+
+„ „(7
+%13void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+„ „(
+Shapes.Quad*A
+
+„ „(-3*1
+Shapes.ShapesMaterialUtils"
+
+propColorCint*<
+
+„/ „(5.*,
+Shapes.Quad"
+colorCUnityEngine.Coloró
+ð
+
+… …(7
+%14void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+… …(
+Shapes.Quad*A
+
+… …(-3*1
+Shapes.ShapesMaterialUtils"
+
+propColorDint*<
+
+…/ …(5.*,
+Shapes.Quad"
+colorCUnityEngine.Color*
+13*
+8
+‡	 ‡(*
+9
+10*ì
+9
+ˆ ‹(8ò
+ï
+
+ˆ ˆ(6
+%15void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+ˆ ˆ(
+Shapes.Quad*@
+
+ˆ ˆ(,2*0
+Shapes.ShapesMaterialUtils"
+	propColorint*<
+
+ˆ. ˆ(4.*,
+Shapes.Quad"
+colorDUnityEngine.Coloró
+ð
+
+‰ ‰(7
+%16void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+‰ ‰(
+Shapes.Quad*A
+
+‰ ‰(-3*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*<
+
+‰/ ‰(5.*,
+Shapes.Quad"
+colorBUnityEngine.Coloró
+ð
+
+Š Š(7
+%17void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+Š Š(
+Shapes.Quad*A
+
+Š Š(-3*1
+Shapes.ShapesMaterialUtils"
+
+propColorCint*<
+
+Š/ Š(5.*,
+Shapes.Quad"
+colorBUnityEngine.Coloró
+ð
+
+‹ ‹(7
+%18void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+‹ ‹(
+Shapes.Quad*A
+
+‹ ‹(-3*1
+Shapes.ShapesMaterialUtils"
+
+propColorDint*<
+
+‹/ ‹(5.*,
+Shapes.Quad"
+colorDUnityEngine.Color*
+13*
+10
+	 ( *
+11
+12*ø
+11
+Ž (8ó
+ð
+
+Ž Ž(7
+%19void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+Ž Ž(
+Shapes.Quad*A
+
+Ž Ž(-3*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*<
+
+Ž/ Ž(5.*,
+Shapes.Quad"
+colorBUnityEngine.Coloró
+ð
+
+ (7
+%20void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+ (
+Shapes.Quad*A
+
+ (-3*1
+Shapes.ShapesMaterialUtils"
+
+propColorCint*<
+
+/ (5.*,
+Shapes.Quad"
+colorCUnityEngine.Coloró
+ð
+
+ (7
+%21void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+ (
+Shapes.Quad*A
+
+ (-3*1
+Shapes.ShapesMaterialUtils"
+
+propColorDint*<
+
+/ (5.*,
+Shapes.Quad"
+colorDUnityEngine.Color*
+13*Ì
+12
+“ “(,][
+
+“ “(,)
+%22"System.ArgumentOutOfRangeException""System.ArgumentOutOfRangeException·
+´
+
+“ “(,)
+%23"System.ArgumentOutOfRangeException"@System.ArgumentOutOfRangeException.ArgumentOutOfRangeException()*9
+
+“ “(,+
+)
+%22"System.ArgumentOutOfRangeException"!
+
+• •(
+implicit return*3
+13
+• •("!
+
+• •(
+implicit returnB
+Shapes.Quad

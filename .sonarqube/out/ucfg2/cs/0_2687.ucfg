@@ -1,0 +1,66 @@
+
+Shapes.Draw.OnPreRenderTmp.get~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\Draw.csé é("0*
+0
+é é(*
+1*
+1
+è è(*
+2
+3*í
+2
+ê ë(f»
+≈
+
+ê ê(}"
+%0System.Reflection.MethodInfo"=System.Type.GetMethod(string, System.Reflection.BindingFlags)*
+
+ê ê(,
+	{unknown}*#
+
+ê8 ê(K
+OnPreRenderObject*
+
+êM ê({2$d
+b
+
+ê ê(}&
+methodSystem.Reflection.MethodInfo"__id*&$
+"
+%0System.Reflection.MethodInfo“œ
+
+ë. ë(e
+%1System.Delegate"8System.Reflection.MethodInfo.CreateDelegate(System.Type)*6
+
+ë. ë(4(
+&
+methodSystem.Reflection.MethodInfo*
+
+ëE ë(c
+	{unknown}2CreateDelegate(System.Type)v
+t
+
+ë ë(eE
+Shapes.Draw"4
+onPreRenderTmp"Shapes.Draw.OnPreRenderTmpDelegate"__id*
+
+%1System.Delegate*
+3*Ø
+3
+î î(ò
+ï
+
+î î(*
+%ret"Shapes.Draw.OnPreRenderTmpDelegate"__id*U
+
+î î(G*E
+Shapes.Draw"4
+onPreRenderTmp"Shapes.Draw.OnPreRenderTmpDelegate*
+4*K
+4
+ï ï(":
+
+ï ï(,
+*
+%ret"Shapes.Draw.OnPreRenderTmpDelegateB"
+Shapes.Draw

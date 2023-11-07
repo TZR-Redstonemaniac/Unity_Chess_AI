@@ -1,0 +1,30 @@
+
+Shapes.Draw.StencilOpPass.get†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs^ ^("0*
+0^ ^(*
+1*ø
+1^! ^(@Z
+X
+^! ^(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
+k
+^! ^(2
+%1Shapes.RenderState"__id*?=*;
+
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderState˜
+•
+^! ^(@'
+%retUnityEngine.Rendering.StencilOp"__id*Z
+^! ^(@N*L
+
+%1Shapes.RenderState"0
+stencilOpPassUnityEngine.Rendering.StencilOp*
+2*D
+2^A ^(A"5
+^@ ^(A)
+'
+%retUnityEngine.Rendering.StencilOpB"
+Shapes.Draw

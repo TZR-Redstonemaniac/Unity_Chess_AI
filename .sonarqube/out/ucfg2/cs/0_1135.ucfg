@@ -1,0 +1,29 @@
+
+.Shapes.StyleStack.StyleStack(Shapes.DrawStyle)‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\StyleStack.cs ("1*
+1A (A*
+0*Ï
+0, (>ˆ
+…
+, (2)
+%0#System.Collections.Generic.Stack<T>"__id*HF*D
+Shapes.StyleStack"-
+styles#System.Collections.Generic.Stack<T>š
+—
+, (@
+
+%1void"1System.Collections.Generic.ICollection<T>.Push(T)*-+
+)
+%0#System.Collections.Generic.Stack<T>*
+
+styleShapes.DrawStyle"
+, (@
+
+
+%1void*.
+2A (A"
+@ (A
+implicit return:%
+ (&
+styleShapes.DrawStyleB
+Shapes.StyleStack

@@ -1,0 +1,54 @@
+
+#Shapes.Polygon.FillRadialOrigin.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¢ ¢("0*
+0
+¢ ¢(*
+1*ý
+1
+£ ¤(Td
+b
+
+£ £(
+%0Shapes.GradientFill"__id*31*/
+Shapes.Polygon"
+fillShapes.GradientFillx
+v
+
+£ £(@
+
+%0Shapes.GradientFill"#
+radialOriginUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3—
+”
+
+¤6 ¤(Q
+%1UnityEngine.Vector4"*Shapes.GradientFill.GetShaderStartVector()*?
+
+¤6 ¤(:1*/
+Shapes.Polygon"
+fillShapes.GradientFillì
+é
+
+¤ ¤(S
+
+%2void"<Shapes.ShapeRenderer.SetVector4Now(int, UnityEngine.Vector4)* 
+
+¤ ¤(
+Shapes.Polygon*D
+
+¤ ¤(46*4
+Shapes.ShapesMaterialUtils"
+propFillStartint*)
+
+¤6 ¤(Q
+
+%1UnityEngine.Vector4*
+2*2
+2
+¥ ¥("!
+
+¥ ¥(
+implicit return:
+valueUnityEngine.Vector3B
+Shapes.Polygon

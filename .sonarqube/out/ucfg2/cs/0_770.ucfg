@@ -1,0 +1,33 @@
+
+"Shapes.Polyline.ThicknessSpace.set|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.csJ J("0*
+0J J(*
+1*„
+1J
+ J(^t
+r
+JD J(Z<
+Shapes.Polyline"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpaceù
+ö
+J
+ J(^
+
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+J
+ J(
+Shapes.Polyline*G
+J J(;;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*J
+J= J(\>*<
+Shapes.Polyline"'
+thicknessSpaceShapes.ThicknessSpace*
+2*.
+2J_ J(_"
+J^ J(_
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.Polyline

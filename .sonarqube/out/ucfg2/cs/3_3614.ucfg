@@ -1,0 +1,13 @@
+
+TSerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase()‡
+}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.cs (""1*¡
+1 (Œ
+‰
+
+%0void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*975
+3System.Collections.Generic.Dictionary<TKey, TValue>*
+0*.
+0 ("
+ (
+implicit returnB;9
+7SerializableDictionaryBase<TKey, TValue, TValueStorage>

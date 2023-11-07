@@ -1,0 +1,75 @@
+–
+Shapes.TriangleShapes.ShapeRendererUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectShapes.IDashable@
+SetAllDashValues(bool)&Shapes.Triangle.SetAllDashValues(bool):
+GetNetDashSpacing()#Shapes.Triangle.GetNetDashSpacing()@
+GetTriangleVertex(int)&Shapes.Triangle.GetTriangleVertex(int)j
++SetTriangleVertex(int, UnityEngine.Vector3);Shapes.Triangle.SetTriangleVertex(int, UnityEngine.Vector3)>
+GetTriangleColor(int)%Shapes.Triangle.GetTriangleColor(int)d
+(SetTriangleColor(int, UnityEngine.Color)8Shapes.Triangle.SetTriangleColor(int, UnityEngine.Color)H
+SetAllMaterialProperties()*Shapes.Triangle.SetAllMaterialProperties()8
+ShapeClampRanges()"Shapes.Triangle.ShapeClampRanges()>
+GetInitialMeshAsset()%Shapes.Triangle.GetInitialMeshAsset()0
+GetMaterials()Shapes.Triangle.GetMaterials()<
+GetBounds_Internal()$Shapes.Triangle.GetBounds_Internal()(
+
+Triangle()Shapes.Triangle.Triangle()H
+MatchDashSpacingToSize.get*Shapes.Triangle.MatchDashSpacingToSize.getH
+MatchDashSpacingToSize.set*Shapes.Triangle.MatchDashSpacingToSize.set(
+
+Dashed.getShapes.Triangle.Dashed.get(
+
+Dashed.setShapes.Triangle.Dashed.set,
+DashSize.getShapes.Triangle.DashSize.get,
+DashSize.setShapes.Triangle.DashSize.set2
+DashSpacing.getShapes.Triangle.DashSpacing.get2
+DashSpacing.setShapes.Triangle.DashSpacing.set0
+DashOffset.getShapes.Triangle.DashOffset.get0
+DashOffset.setShapes.Triangle.DashOffset.set.
+DashSpace.getShapes.Triangle.DashSpace.get.
+DashSpace.setShapes.Triangle.DashSpace.set,
+DashSnap.getShapes.Triangle.DashSnap.get,
+DashSnap.setShapes.Triangle.DashSnap.set,
+DashType.getShapes.Triangle.DashType.get,
+DashType.setShapes.Triangle.DashType.set>
+DashShapeModifier.get%Shapes.Triangle.DashShapeModifier.get>
+DashShapeModifier.set%Shapes.Triangle.DashShapeModifier.set.
+this[int].getShapes.Triangle.this[int].get.
+this[int].setShapes.Triangle.this[int].set.
+ColorMode.getShapes.Triangle.ColorMode.get.
+ColorMode.setShapes.Triangle.ColorMode.set
+A.getShapes.Triangle.A.get
+A.setShapes.Triangle.A.set
+B.getShapes.Triangle.B.get
+B.setShapes.Triangle.B.set
+C.getShapes.Triangle.C.get
+C.setShapes.Triangle.C.set(
+
+Border.getShapes.Triangle.Border.get(
+
+Border.setShapes.Triangle.Border.set(
+
+Hollow.getShapes.Triangle.Hollow.get(
+
+Hollow.setShapes.Triangle.Hollow.set.
+Thickness.getShapes.Triangle.Thickness.get.
+Thickness.setShapes.Triangle.Thickness.set8
+ThicknessSpace.get"Shapes.Triangle.ThicknessSpace.get8
+ThicknessSpace.set"Shapes.Triangle.ThicknessSpace.set.
+Roundness.getShapes.Triangle.Roundness.get.
+Roundness.setShapes.Triangle.Roundness.set&
+	Color.getShapes.Triangle.Color.get&
+	Color.setShapes.Triangle.Color.set(
+
+ColorA.getShapes.Triangle.ColorA.get(
+
+ColorA.setShapes.Triangle.ColorA.set(
+
+ColorB.getShapes.Triangle.ColorB.get(
+
+ColorB.setShapes.Triangle.ColorB.set(
+
+ColorC.getShapes.Triangle.ColorC.get(
+
+ColorC.setShapes.Triangle.ColorC.set:
+HasDetailLevels.get#Shapes.Triangle.HasDetailLevels.get:
+HasDetailLevels.set#Shapes.Triangle.HasDetailLevels.set

@@ -1,0 +1,45 @@
+
+)Shapes.ShapeRenderer.SetFloat(int, float)ƒ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csÄ Ä(!"0*
+0
+Ä Ä(*
+1*ß
+1
+Ä> Ä(Y}
+{
+
+Ä> Ä(A'
+%0!UnityEngine.MaterialPropertyBlock"Shapes.ShapeRenderer.Mpb.get*&
+
+Ä> Ä(A
+Shapes.ShapeRendererÉ
+Æ
+
+Ä> Ä(Y
+
+%1void"6UnityEngine.MaterialPropertyBlock.SetFloat(int, float)*7
+
+Ä> Ä(A)
+'
+%0!UnityEngine.MaterialPropertyBlock*
+
+ÄL Ä(P
+
+propint*
+
+ÄR Ä(W
+
+valuefloat*
+2*2
+2
+ÄZ Ä(Z"!
+
+ÄY Ä(Z
+implicit return:
+
+Ä# Ä(+
+propint:
+
+Ä- Ä(8
+valuefloatB
+Shapes.ShapeRenderer

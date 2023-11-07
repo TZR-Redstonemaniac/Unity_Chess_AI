@@ -1,0 +1,64 @@
+
+ Shapes.Rectangle.DashSpacing.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csì ì("0*
+0
+ì ì(*
+1*
+1
+ì
+ ì( *
+2
+3*Ò
+2
+ì# ì(1e
+c
+
+ì# ì(,
+%0Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStyleU
+S
+
+ì# ì(1
+	%capture0float"__id*+)*'
+
+%0Shapes.DashStyle"
+sizefloat*
+4*Õ
+3
+ì4 ì(Ee
+c
+
+ì4 ì(=
+%1Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStyleX
+V
+
+ì4 ì(E
+	%capture0float"__id*.,**
+
+%1Shapes.DashStyle"
+spacingfloat*
+4*]
+4
+ì
+ ì(EG
+E
+
+ì
+ ì(E
+%retfloat"__id*"
+
+ì
+ ì(E
+
+	%capture0float*
+5*.
+5
+ìF ì(F"
+
+ìE ì(F
+
+%retfloatB
+Shapes.Rectangle

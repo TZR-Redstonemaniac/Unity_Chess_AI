@@ -1,0 +1,24 @@
+
+8Shapes.GradientFillStack.Push(bool, Shapes.GradientFill)‰
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\GradientFillStack.cs ("0*
+0 (*
+1*Ú
+1F (mÅ
+Â
+F (m
+
+%0void"1System.Collections.Generic.ICollection<T>.Push(T)*\
+F (OP*N
+Shapes.GradientFillStack"0
+	gradients#System.Collections.Generic.Stack<T>*
+V (k
+	{unknown}*
+2*.
+2n (n"
+m (n
+implicit return:
+ ((
+prevOnbool:,
+* (@ 
+	prevStateShapes.GradientFillB"
+Shapes.GradientFillStack

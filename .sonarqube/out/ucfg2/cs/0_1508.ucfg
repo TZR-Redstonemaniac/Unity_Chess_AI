@@ -1,0 +1,28 @@
+
+kShapes.ShapeRenderer.OnPreCamCullWithCam(UnityEngine.Rendering.ScriptableRenderContext, UnityEngine.Camera)É
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csô ô("0*
+0
+ô ô(*
+1*ç
+1
+ôI ô(Wwu
+
+ôI ô(W
+
+%0void"#Shapes.ShapeRenderer.CamOnPreCull()*&
+
+ôI ô(U
+Shapes.ShapeRenderer2CamOnPreCull()*
+2*2
+2
+ôX ô(X"!
+
+ôW ô(X
+implicit return:B
+
+ô ô(74
+ctx-UnityEngine.Rendering.ScriptableRenderContext:'
+
+ô9 ô(C
+camUnityEngine.CameraB
+Shapes.ShapeRenderer

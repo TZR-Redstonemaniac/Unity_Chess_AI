@@ -1,0 +1,37 @@
+
+Shapes.Draw.TextWordSpacing.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs” ”("0*
+0
+” ”(*
+1*·
+1
+”! ”(D\
+Z
+
+”! ”(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+”! ”(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyleX
+V
+
+”! ”(D.
+
+%1Shapes.TextStyle"
+wordSpacingfloat"__id*
+
+valuefloat*
+2*2
+2
+”E ”(E"!
+
+”D ”(E
+implicit return:
+valuefloatB"
+Shapes.Draw

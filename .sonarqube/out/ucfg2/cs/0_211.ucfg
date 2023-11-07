@@ -1,0 +1,151 @@
+
+Shapes.MpbLine2D.MpbLine2D()Ö
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csL L("0*¨
+0i i(j
+h
+N, N(=(
+%0"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbà
+Ö
+N  N(=E
+Shapes.MpbLine2D"/
+	alignment"System.Collections.Generic.List<T>"__id*,*
+(
+%0"System.Collections.Generic.List<T>j
+h
+O- O(@(
+%1"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbá
+Ñ
+O" O(@D
+Shapes.MpbLine2D".
+colorEnd"System.Collections.Generic.List<T>"__id*,*
+(
+%1"System.Collections.Generic.List<T>j
+h
+P- P(@(
+%2"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbá
+Ñ
+P" P(@D
+Shapes.MpbLine2D".
+pointEnd"System.Collections.Generic.List<T>"__id*,*
+(
+%2"System.Collections.Generic.List<T>j
+h
+Q/ Q(B(
+%3"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbâ
+Ü
+Q" Q(BF
+Shapes.MpbLine2D"0
+
+pointStart"System.Collections.Generic.List<T>"__id*,*
+(
+%3"System.Collections.Generic.List<T>j
+h
+R, R(=(
+%4"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbà
+Ö
+R  R(=E
+Shapes.MpbLine2D"/
+	scaleMode"System.Collections.Generic.List<T>"__id*,*
+(
+%4"System.Collections.Generic.List<T>j
+h
+S, S(=(
+%5"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbà
+Ö
+S  S(=E
+Shapes.MpbLine2D"/
+	thickness"System.Collections.Generic.List<T>"__id*,*
+(
+%5"System.Collections.Generic.List<T>j
+h
+T1 T(B(
+%6"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbç
+ä
+T  T(BJ
+Shapes.MpbLine2D"4
+thicknessSpace"System.Collections.Generic.List<T>"__id*,*
+(
+%6"System.Collections.Generic.List<T>j
+h
+W1 W(B(
+%7"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb≤
+Ø
+W W(C(
+%8"System.Collections.Generic.List<T>"3Shapes.MpbLine2D.Shapes.IDashableMpb.dashOffset.set*
+Shapes.MpbLine2D*,*
+(
+%7"System.Collections.Generic.List<T>j
+h
+X8 X(I(
+%9"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb∫
+∑
+X X(J)
+%10"System.Collections.Generic.List<T>":Shapes.MpbLine2D.Shapes.IDashableMpb.dashShapeModifier.set*
+Shapes.MpbLine2D*,*
+(
+%9"System.Collections.Generic.List<T>k
+i
+Y/ Y(@)
+%11"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb≤
+Ø
+Y Y(A)
+%12"System.Collections.Generic.List<T>"1Shapes.MpbLine2D.Shapes.IDashableMpb.dashSize.set*
+Shapes.MpbLine2D*-+
+)
+%11"System.Collections.Generic.List<T>k
+i
+Z/ Z(@)
+%13"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb≤
+Ø
+Z Z(A)
+%14"System.Collections.Generic.List<T>"1Shapes.MpbLine2D.Shapes.IDashableMpb.dashSnap.set*
+Shapes.MpbLine2D*-+
+)
+%13"System.Collections.Generic.List<T>k
+i
+[0 [(A)
+%15"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb≥
+∞
+[ [(B)
+%16"System.Collections.Generic.List<T>"2Shapes.MpbLine2D.Shapes.IDashableMpb.dashSpace.set*
+Shapes.MpbLine2D*-+
+)
+%15"System.Collections.Generic.List<T>k
+i
+\2 \(C)
+%17"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbµ
+≤
+\ \(D)
+%18"System.Collections.Generic.List<T>"4Shapes.MpbLine2D.Shapes.IDashableMpb.dashSpacing.set*
+Shapes.MpbLine2D*-+
+)
+%17"System.Collections.Generic.List<T>k
+i
+]/ ](@)
+%19"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb≤
+Ø
+] ](A)
+%20"System.Collections.Generic.List<T>"1Shapes.MpbLine2D.Shapes.IDashableMpb.dashType.set*
+Shapes.MpbLine2D*-+
+)
+%19"System.Collections.Generic.List<T>?
+=
+%21void"Shapes.MetaMpb.MetaMpb()*
+Shapes.MetaMpb"
+L i(
+implicit returnB
+Shapes.MpbLine2D

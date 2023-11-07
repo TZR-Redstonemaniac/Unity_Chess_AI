@@ -1,0 +1,30 @@
+
+Shapes.Draw.StencilReadMask.get†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csh h("0*
+0h h(*
+1*Â
+1h! h(BZ
+X
+h! h(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
+k
+h! h(2
+%1Shapes.RenderState"__id*?=*;
+
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderStatec
+a
+h! h(B
+%retbyte"__id*A
+h! h(B5*3
+
+%1Shapes.RenderState"
+stencilReadMaskbyte*
+2*)
+2hC h(C"
+hB h(C
+
+%retbyteB"
+Shapes.Draw

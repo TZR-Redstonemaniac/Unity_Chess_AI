@@ -1,0 +1,42 @@
+
+)Shapes.PolygonPath.AddPoint(float, float)É
+yC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PolygonPath.cs ("0*
+0 (*
+1*ç
+1. (M<:
+8 (K
+%0UnityEngine.Vector2"UnityEngine.Vector2∞
+≠
+8 (K
+%1UnityEngine.Vector2")UnityEngine.Vector2.Vector2(float, float)*'
+8 (K
+
+%0UnityEngine.Vector2*
+E (F
+
+
+xfloat*
+H (I
+
+
+yfloatá
+Ñ
+. (M
+
+%2void"Shapes.PointPath<T>.AddPoint(T)*"
+. (6
+Shapes.PolygonPath*'
+8 (K
+
+%0UnityEngine.Vector2*
+2*.
+2N (N"
+M (N
+implicit return:
+ (
+
+xfloat:
+! ((
+
+yfloatB
+Shapes.PolygonPath

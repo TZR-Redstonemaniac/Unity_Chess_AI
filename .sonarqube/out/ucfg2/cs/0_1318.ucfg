@@ -1,0 +1,34 @@
+
+Shapes.Torus.AngRadiansEnd.sety
+oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Torus.cs3 3("0*
+03 3(*
+1*Å
+13
+ 3(NP
+N
+37 3(L(
+Shapes.Torus"
+angRadiansEndfloat"__id*
+
+valuefloatÞ
+Û
+3
+ 3(N
+
+%0void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+3
+ 3(
+Shapes.Torus*?
+3 3(53*1
+Shapes.ShapesMaterialUtils"
+
+propAngEndint*6
+37 3(L**(
+Shapes.Torus"
+angRadiansEndfloat*
+2*.
+23O 3(O"
+3N 3(O
+implicit return:
+valuefloatB
+Shapes.Torus

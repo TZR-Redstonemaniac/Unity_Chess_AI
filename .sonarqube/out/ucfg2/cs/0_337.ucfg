@@ -1,0 +1,99 @@
+
+"Shapes.RegularPolygon.DashSize.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csé é("0*
+0
+é é(*
+1*¨
+1
+ê ì(j
+h
+
+ê ê(
+%0Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStyleQ
+O
+
+ê ê('
+
+%0Shapes.DashStyle"
+sizefloat"__id*
+
+valuefloat’
+
+
+ë ë(I
+%1float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*H
+
+ë ë(!:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStyle*9
+
+ë6 ë(<+*)
+Shapes.RegularPolygon"
+dashedbool*=
+
+ë> ë(G/*-
+Shapes.RegularPolygon"
+	thicknessfloat;
+9
+
+ë
+ ë(I
+netDashSizefloat"__id*
+
+%1float*
+2
+3*Ü
+2
+í í(Jo
+m
+
+í4 í(G
+%2float")Shapes.RegularPolygon.GetNetDashSpacing()*'
+
+í4 í(E
+Shapes.RegularPolygonÔ
+Ñ
+
+í í(I
+
+%3void")Shapes.ShapeRenderer.SetFloat(int, float)*'
+
+í í(
+Shapes.RegularPolygon*F
+
+í í(28*6
+Shapes.ShapesMaterialUtils"
+propDashSpacingint*
+
+í4 í(G
+
+%2float*
+3*ô
+3
+î î(AÝ
+Ú
+
+î î(@
+
+%4void",Shapes.ShapeRenderer.SetFloatNow(int, float)*'
+
+î î(
+Shapes.RegularPolygon*C
+
+î î(15*3
+Shapes.ShapesMaterialUtils"
+propDashSizeint*$
+
+î3 î(>
+
+netDashSizefloat*
+4*2
+4
+ï ï("!
+
+ï ï(
+implicit return:
+valuefloatB
+Shapes.RegularPolygon

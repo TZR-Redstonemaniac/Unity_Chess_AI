@@ -1,0 +1,87 @@
+
+<Shapes.AmmoBar.GetBulletEjectPos(UnityEngine.Vector2, float)w
+mC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Samples\Assets\Scripts\AmmoBar.cs
+ ("0*
+0 (*
+1*ñ	
+1 (2®
+«
+' (A
+%0float"*UnityEngine.AnimationCurve.Evaluate(float)*L
+' (3@*>
+Shapes.AmmoBar"*
+bulletEjectXUnityEngine.AnimationCurve*
+> (?
+
+
+tfloat®
+«
+C (]
+%1float"*UnityEngine.AnimationCurve.Evaluate(float)*L
+C (O@*>
+Shapes.AmmoBar"*
+bulletEjectYUnityEngine.AnimationCurve*
+Z ([
+
+
+tfloat<:
+ (_
+%2UnityEngine.Vector2"UnityEngine.Vector2²
+¯
+ (_
+%3UnityEngine.Vector2")UnityEngine.Vector2.Vector2(float, float)*'
+ (_
+
+%2UnityEngine.Vector2*
+' (A
+
+%0float*
+C (]
+
+%1floatV
+T
+ (_#
+ejectAnimPosUnityEngine.Vector2"__id*
+
+%2UnityEngine.Vector2ï
+ì
+ (2
+%4UnityEngine.Vector2":UnityEngine.Vector2.operator *(UnityEngine.Vector2, float)*"
+UnityEngine.Vector2*1
+ (%
+#
+ejectAnimPosUnityEngine.Vector2*;
+" (2/*-
+Shapes.AmmoBar"
+bulletEjectScalefloatã
+à
+
+ (2
+%5UnityEngine.Vector2"HUnityEngine.Vector2.operator +(UnityEngine.Vector2, UnityEngine.Vector2)*"
+UnityEngine.Vector2*+
+
+ (
+
+originUnityEngine.Vector2*'
+ (2
+
+%4UnityEngine.Vector2X
+V
+
+ (2
+%retUnityEngine.Vector2"__id*'
+
+ (2
+
+%5UnityEngine.Vector2*
+2*8
+2 (")
+ (
+
+%retUnityEngine.Vector2:)
+ (+
+originUnityEngine.Vector2:
+- (4
+
+tfloatB
+Shapes.AmmoBar

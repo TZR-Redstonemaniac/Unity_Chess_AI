@@ -1,0 +1,54 @@
+
+%Shapes.Rectangle.FillRadialOrigin.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¨ ¨("0*
+0
+¨ ¨(*
+1*ƒ
+1
+© ª(Tf
+d
+
+© ©(
+%0Shapes.GradientFill"__id*53*1
+Shapes.Rectangle"
+fillShapes.GradientFillx
+v
+
+© ©(@
+
+%0Shapes.GradientFill"#
+radialOriginUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3™
+–
+
+ª6 ª(Q
+%1UnityEngine.Vector4"*Shapes.GradientFill.GetShaderStartVector()*A
+
+ª6 ª(:3*1
+Shapes.Rectangle"
+fillShapes.GradientFillî
+ë
+
+ª ª(S
+
+%2void"<Shapes.ShapeRenderer.SetVector4Now(int, UnityEngine.Vector4)*"
+
+ª ª(
+Shapes.Rectangle*D
+
+ª ª(46*4
+Shapes.ShapesMaterialUtils"
+propFillStartint*)
+
+ª6 ª(Q
+
+%1UnityEngine.Vector4*
+2*2
+2
+« «("!
+
+« «(
+implicit return:
+valueUnityEngine.Vector3B
+Shapes.Rectangle

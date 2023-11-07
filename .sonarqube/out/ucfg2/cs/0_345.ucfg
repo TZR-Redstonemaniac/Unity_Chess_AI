@@ -1,0 +1,64 @@
+
+%Shapes.RegularPolygon.DashSpacing.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csò ò("0*
+0
+ò ò(*
+1*
+1
+ò
+ ò( *
+2
+3*×
+2
+ò# ò(1j
+h
+
+ò# ò(,
+%0Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStyleU
+S
+
+ò# ò(1
+	%capture0float"__id*+)*'
+
+%0Shapes.DashStyle"
+sizefloat*
+4*Ú
+3
+ò4 ò(Ej
+h
+
+ò4 ò(=
+%1Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStyleX
+V
+
+ò4 ò(E
+	%capture0float"__id*.,**
+
+%1Shapes.DashStyle"
+spacingfloat*
+4*]
+4
+ò
+ ò(EG
+E
+
+ò
+ ò(E
+%retfloat"__id*"
+
+ò
+ ò(E
+
+	%capture0float*
+5*.
+5
+òF ò(F"
+
+òE ò(F
+
+%retfloatB
+Shapes.RegularPolygon

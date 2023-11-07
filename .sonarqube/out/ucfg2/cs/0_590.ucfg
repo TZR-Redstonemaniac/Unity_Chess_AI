@@ -1,0 +1,43 @@
+
+Shapes.Disc.AngRadiansEnd.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csŽ Ž("0*
+0
+Ž Ž(*
+1*Î
+1
+Ž
+ Ž(NQ
+O
+
+Ž7 Ž(L'
+Shapes.Disc"
+angRadiansEndfloat"__id*
+
+valuefloatä
+á
+
+Ž
+ Ž(N
+
+%0void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+
+Ž
+ Ž(
+Shapes.Disc*A
+
+Ž Ž(53*1
+Shapes.ShapesMaterialUtils"
+
+propAngEndint*7
+
+Ž7 Ž(L)*'
+Shapes.Disc"
+angRadiansEndfloat*
+2*2
+2
+ŽO Ž(O"!
+
+ŽN Ž(O
+implicit return:
+valuefloatB
+Shapes.Disc

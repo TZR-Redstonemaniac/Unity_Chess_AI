@@ -1,0 +1,51 @@
+
+Shapes.Line.DashSpacing.get–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csc c("0*
+0c c(*
+1*
+1c
+ c( *
+2
+3*Ç
+2c# c(1^
+\
+c# c(,
+%0Shapes.DashStyle"__id*20*.
+Shapes.Line"
+	dashStyleShapes.DashStyleS
+Q
+c# c(1
+	%capture0float"__id*+)*'
+
+%0Shapes.DashStyle"
+sizefloat*
+4*Ê
+3c4 c(E^
+\
+c4 c(=
+%1Shapes.DashStyle"__id*20*.
+Shapes.Line"
+	dashStyleShapes.DashStyleV
+T
+c4 c(E
+	%capture0float"__id*.,**
+
+%1Shapes.DashStyle"
+spacingfloat*
+4*W
+4c
+ c(EC
+A
+c
+ c(E
+%retfloat"__id* 
+c
+ c(E
+
+	%capture0float*
+5**
+5cF c(F"
+cE c(F
+
+%retfloatB
+Shapes.Line

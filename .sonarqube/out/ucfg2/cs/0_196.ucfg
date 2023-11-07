@@ -1,0 +1,25 @@
+
+Shapes.PointPath<T>.PointPath()Å
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PointPath.cs	 	("0*€
+0G G(ZX
+ (((
+%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>q
+o
+ (&
+
+%1void")System.Collections.Generic.List<T>.List()*,*
+(
+%0"System.Collections.Generic.List<T>Ü
+É
+ ((C
+Shapes.PointPath<T>"*
+path"System.Collections.Generic.List<T>"__id*,*
+(
+%0"System.Collections.Generic.List<T>S
+Q
+
+%2void"&Shapes.DisposableMesh.DisposableMesh()*
+Shapes.DisposableMesh"
+	 G(
+implicit returnB
+Shapes.PointPath<T>

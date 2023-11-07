@@ -1,0 +1,20 @@
+
+qSerializableDictionary<TKey, TValue>.SerializableDictionary(System.Collections.Generic.IDictionary<TKey, TValue>)‡
+}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.csO O("1*
+1Q Q(*
+0*º
+0O? O(J¥
+¢
+O? O(K
+
+%0void"ˆSerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase(System.Collections.Generic.IDictionary<TKey, TValue>)*=;9
+7SerializableDictionaryBase<TKey, TValue, TValueStorage>*@>
+<
+dict4System.Collections.Generic.IDictionary<TKey, TValue>*
+2*.
+2Q Q("
+Q Q(
+implicit return:H
+O O(=<
+dict4System.Collections.Generic.IDictionary<TKey, TValue>B(&
+$SerializableDictionary<TKey, TValue>

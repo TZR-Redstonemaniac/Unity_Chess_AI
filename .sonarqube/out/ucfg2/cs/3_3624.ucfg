@@ -1,0 +1,24 @@
+
+šSerializableDictionary<TKey, TValue>.SerializableDictionary(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)‡
+}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.csS S(!"1*
+1Sj S(j*
+0*›
+0ST S(g†
+ƒ
+ST S(h
+
+%0void"±SerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)*=;9
+7SerializableDictionaryBase<TKey, TValue, TValueStorage>*:8
+6
+info.System.Runtime.Serialization.SerializationInfo*<:
+8
+context-System.Runtime.Serialization.StreamingContext*
+2*.
+2Sj S(j"
+Si S(j
+implicit return:B
+S" S(86
+info.System.Runtime.Serialization.SerializationInfo:D
+S: S(R8
+context-System.Runtime.Serialization.StreamingContextB(&
+$SerializableDictionary<TKey, TValue>

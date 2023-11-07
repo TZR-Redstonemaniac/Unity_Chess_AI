@@ -1,0 +1,29 @@
+
+Shapes.Draw.Rotation.get‡
+}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateMatrix.csN N("0*
+0N N(*
+1*„
+1N
+ N(
+Œ
+N
+ N(
+%0UnityEngine.Quaternion""UnityEngine.Matrix4x4.rotation.get*>
+N
+ N(2*0
+Shapes.Draw"
+matrixUnityEngine.Matrix4x4^
+\
+N
+ N(
+%retUnityEngine.Quaternion"__id**
+N
+ N(
+
+%0UnityEngine.Quaternion*
+2*;
+2N N(",
+N N( 
+
+%retUnityEngine.QuaternionB"
+Shapes.Draw

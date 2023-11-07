@@ -1,0 +1,39 @@
+
+WShapes.Polyline.SetPoints(System.Collections.Generic.IEnumerable<Shapes.PolylinePoint>)~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.csç ç("0*
+0
+ç ç(*
+1*ó
+1
+é è(°
+û
+
+é é(
+
+%0void"1System.Collections.Generic.ICollection<T>.Clear()*Q
+
+é é(C*A
+Shapes.Polyline",
+points"System.Collections.Generic.List<T>‹
+Ÿ
+
+è è(
+
+%1void"WShapes.Polyline.AddPoints(System.Collections.Generic.IEnumerable<Shapes.PolylinePoint>)*!
+
+è è(
+Shapes.Polyline*C
+
+è è(5
+3
+points)System.Collections.Generic.IEnumerable<T>*
+2*2
+2
+ê ê("!
+
+ê ê(
+implicit return:A
+
+ç ç(:3
+points)System.Collections.Generic.IEnumerable<T>B
+Shapes.Polyline

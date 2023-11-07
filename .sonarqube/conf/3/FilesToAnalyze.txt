@@ -1,0 +1,192 @@
+﻿C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Managers\FenManager.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Managers\GeneralManager.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Managers\MovementManager.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Neural Network\PointGenerator.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Renderers\RenderPieces.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Convenience\Converter.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Neural Network\Visualizer.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Core\Board.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Neural Network\NeuralNetwork.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Neural Network\NetworkManager.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Neural Network\Layer.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\Example\SerializableDictionaryExample.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\Example\UserSerializableDictionaries.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Core\Piece.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Renderers\RenderBoard.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Rect Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Line 3D Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Sphere Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Regular Polygon Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Regular Polygon Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Texture Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Rect ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cuboid Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 2D Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Rect Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polygon LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Rect Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cone Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Quad Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 3D Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Sphere LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polyline 2D Additive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polygon ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\DashUtils.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polygon Additive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cuboid ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 2D ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Torus Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 3D Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\FillUtils.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Torus Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Quad LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polyline 2D Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Disc ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Torus LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polyline 2D Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cuboid LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polygon Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Sphere Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Texture Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Disc LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cuboid Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Shapes.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Disc Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Texture Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polyline 2D ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polyline 2D Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Rect Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 3D Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Quad Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 3D Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cuboid Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Regular Polygon Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Disc Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Rect Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\package.json
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Sphere Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Rect LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Sphere Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Sphere ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polygon ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Disc Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polyline 2D ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Quad Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cuboid Additive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Regular Polygon Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polyline 2D Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Polyline 2D Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Quad Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polyline 2D LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Disc Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Rect Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Triangle Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Sphere Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 2D Additive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cuboid Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Shapes Math.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Regular Polygon ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 2D Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 2D Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Regular Polygon LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polygon Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Disc Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 2D ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Quad ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Cone Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polygon Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cuboid Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cone ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Sphere Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polygon Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Texture Additive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 3D Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 2D Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Quad Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polyline 2D Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Quad Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Regular Polygon Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Torus Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Disc Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cone Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Disc Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cone Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cone Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Regular Polygon ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 2D LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Line 2D Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Quad Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Textures\Inconsolata\OFL.txt
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Disc Additive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Disc Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Torus Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 2D Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cuboid Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 3D ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Texture Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Quad ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Texture Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cone Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Torus Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Torus ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cone LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polygon Multiplicative.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Texture Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Texture ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cone Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Regular Polygon Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Shapes Config.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Torus Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle Additive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polygon Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Rect Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cone Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cone ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Rect ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 2D Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cone Additive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shaders\Standard\RenderBoard.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cuboid ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Regular Polygon Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 3D Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Disc ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Regular Polygon Additive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Rect Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Rect Additive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 2D Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Cuboid Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Texture ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Cuboid Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 3D Subtractive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Torus Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 3D Additive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Polygon Core.cginc
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Torus Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Torus ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 3D ColorBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Texture LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Torus Additive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polygon Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polyline 2D Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Quad Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Texture Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Sphere Additive.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Polyline 2D Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Regular Polygon Screen.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Line 3D LinearBurn.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Texture Darken.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle Lighten.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Sphere ColorDodge.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Sphere Transparent.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Sphere Opaque.shader
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Quad Additive.shader

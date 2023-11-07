@@ -1,0 +1,51 @@
+
+Shapes.Line.this[int].getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs ("0*
+0 (*
+1*
+1
+ (*
+2
+3*Â
+2 (Y
+W
+ (
+%0UnityEngine.Vector3"Shapes.Line.End.get*
+ (
+Shapes.LineS
+Q
+ ( 
+	%capture0UnityEngine.Vector3"__id*
+
+%0UnityEngine.Vector3*
+4*Ä
+3 ([
+Y
+ (
+%1UnityEngine.Vector3"Shapes.Line.Start.get*
+ (
+Shapes.LineS
+Q
+ ( 
+	%capture0UnityEngine.Vector3"__id*
+
+%1UnityEngine.Vector3*
+4*s
+4
+ (_
+]
+
+ (
+%retUnityEngine.Vector3"__id*.
+
+ ("
+ 
+	%capture0UnityEngine.Vector3*
+5*8
+5 (")
+ (
+
+%retUnityEngine.Vector3:
+
+iintB
+Shapes.Line

@@ -1,0 +1,43 @@
+
+%Shapes.ShapeRenderer.SortingOrder.get
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs( (("0*
+0( ((*
+1*µ
+1(
+ ((@ø
+õ
+(
+ ((3
+%1UnityEngine.MeshRenderer"@Shapes.ShapeRenderer.MakeSureComponentExists<T>(ref T, out bool)*$
+(
+ ((!
+Shapes.ShapeRenderer*G
+(# ((*;*9
+Shapes.ShapeRenderer"
+rndUnityEngine.MeshRenderer*
+(, ((1
+
+
+%0booll
+j
+(
+ ((@	
+%2int"%UnityEngine.Renderer.sortingOrder.get*,
+(
+ ((3 
+
+%1UnityEngine.MeshRenderer8
+6
+(
+ ((@
+%retint"__id*
+(
+ ((@
+	
+%2int*
+2*(
+2(A ((A"
+(@ ((A
+
+%retintB
+Shapes.ShapeRenderer

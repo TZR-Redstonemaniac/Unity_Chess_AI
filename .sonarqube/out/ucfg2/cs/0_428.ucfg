@@ -1,0 +1,35 @@
+
+Shapes.Polygon.this[int].get{
+qC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polygon.cs1 1("0*
+01 1(*
+1*¸
+11
+ 1(É
+Æ
+1
+ 1(
+%0UnityEngine.Vector2"7System.Collections.Generic.ICollection<T>.this[int].get*N
+1
+ 1(B*@
+Shapes.Polygon",
+points"System.Collections.Generic.List<T>*
+1 1(
+
+
+iintX
+V
+1
+ 1(
+%retUnityEngine.Vector2"__id*'
+1
+ 1(
+
+%0UnityEngine.Vector2*
+2*8
+21 1(")
+1 1(
+
+%retUnityEngine.Vector2:
+
+iintB
+Shapes.Polygon

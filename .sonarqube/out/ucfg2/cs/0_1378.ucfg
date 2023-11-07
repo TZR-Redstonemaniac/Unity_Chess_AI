@@ -1,0 +1,42 @@
+
+)Shapes.ShapeRenderer.StencilWriteMask.setÉ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csπ π("0*
+0
+π π(*
+1*Ü
+1
+π
+ π(m[
+Y
+
+πS π(k2
+Shapes.ShapeRenderer"
+stencilWriteMaskbyte"__id*
+
+valuebyteí
+è
+
+π
+ π(m
+
+%0void"<Shapes.ShapeRenderer.SetIntOnAllInstancedMaterials(int, int)*&
+
+π
+ π('
+Shapes.ShapeRenderer*K
+
+π) π(Q=*;
+Shapes.ShapesMaterialUtils"
+propStencilWriteMaskint*B
+
+πS π(k4*2
+Shapes.ShapeRenderer"
+stencilWriteMaskbyte*
+2*2
+2
+πn π(n"!
+
+πm π(n
+implicit return:
+valuebyteB
+Shapes.ShapeRenderer

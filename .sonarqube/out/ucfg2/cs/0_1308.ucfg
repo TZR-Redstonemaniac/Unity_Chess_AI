@@ -1,0 +1,33 @@
+
+ Shapes.Torus.AngRadiansStart.sety
+oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Torus.cs- -("0*
+0- -(*
+1*Ë
+1-
+ -(RR
+P
+-9 -(P*
+Shapes.Torus"
+angRadiansStartfloat"__id*
+
+valuefloatâ
+ß
+-
+ -(R
+
+%0void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+-
+ -(
+Shapes.Torus*A
+- -(75*3
+Shapes.ShapesMaterialUtils"
+propAngStartint*8
+-9 -(P,**
+Shapes.Torus"
+angRadiansStartfloat*
+2*.
+2-S -(S"
+-R -(S
+implicit return:
+valuefloatB
+Shapes.Torus

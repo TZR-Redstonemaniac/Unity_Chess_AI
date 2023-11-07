@@ -1,0 +1,50 @@
+
+Shapes.Triangle.DashSnap.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs‹ ‹("0*
+0
+‹ ‹(*
+1*à
+1
+‹
+ ‹(Xd
+b
+
+‹> ‹(G
+%0Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
+	dashStyleShapes.DashStylem
+k
+
+‹> ‹(T5
+
+%0Shapes.DashStyle"
+snapShapes.DashSnapping"__id* 
+
+valueShapes.DashSnappingô
+ñ
+
+‹
+ ‹(X
+
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*!
+
+‹
+ ‹(
+Shapes.Triangle*C
+
+‹ ‹(55*3
+Shapes.ShapesMaterialUtils"
+propDashSnapint*E
+
+‹7 ‹(V7*5
+
+%0Shapes.DashStyle"
+snapShapes.DashSnapping*
+2*2
+2
+‹Y ‹(Y"!
+
+‹X ‹(Y
+implicit return:
+valueShapes.DashSnappingB
+Shapes.Triangle

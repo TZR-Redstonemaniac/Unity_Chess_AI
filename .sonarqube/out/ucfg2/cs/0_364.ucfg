@@ -1,0 +1,48 @@
+
+Shapes.Line.Color.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs1 1("0*
+01 1(*
+1*¶
+12 3(F_
+]
+2- 2(:+
+Shapes.Line"
+colorUnityEngine.Color"__id*
+
+valueUnityEngine.Colorè
+å
+2 2(<
+
+%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+2 2(
+Shapes.Line*>
+2 2(+2*0
+Shapes.ShapesMaterialUtils"
+	propColorint*9
+2- 2(:-*+
+Shapes.Line"
+colorUnityEngine.Colorb
+`
+33 3(C.
+Shapes.Line"
+colorEndUnityEngine.Color"__id*
+
+valueUnityEngine.Colorñ
+î
+3 3(E
+
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+3 3(
+Shapes.Line*A
+3 3(15*3
+Shapes.ShapesMaterialUtils"
+propColorEndint*<
+33 3(C0*.
+Shapes.Line"
+colorEndUnityEngine.Color*
+2*.
+24 4("
+4 4(
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Line

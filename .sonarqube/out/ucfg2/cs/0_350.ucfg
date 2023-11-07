@@ -1,0 +1,53 @@
+
+%Shapes.RegularPolygon.DashSpacing.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csó ó("0*
+0
+ó ó(*
+1*¡
+1
+ô õ(Lj
+h
+
+ô ô(
+%0Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStyleT
+R
+
+ô ô(*
+
+%0Shapes.DashStyle"
+spacingfloat"__id*
+
+valuefloato
+m
+
+õ6 õ(I
+%1float")Shapes.RegularPolygon.GetNetDashSpacing()*'
+
+õ6 õ(G
+Shapes.RegularPolygon×
+Ô
+
+õ õ(K
+
+%2void",Shapes.ShapeRenderer.SetFloatNow(int, float)*'
+
+õ õ(
+Shapes.RegularPolygon*F
+
+õ õ(48*6
+Shapes.ShapesMaterialUtils"
+propDashSpacingint*
+
+õ6 õ(I
+
+%1float*
+2*2
+2
+ö ö("!
+
+ö ö(
+implicit return:
+valuefloatB
+Shapes.RegularPolygon

@@ -1,0 +1,11 @@
+©
+Shapes.FpsControllerShapes.ImmediateModeShapeDrawerUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject'
+Awake()Shapes.FpsController.Awake()U
+DrawShapes(UnityEngine.Camera)3Shapes.FpsController.DrawShapes(UnityEngine.Camera)1
+FixedSteps()!Shapes.FpsController.FixedSteps()E
+GetShake(float, float)+Shapes.FpsController.GetShake(float, float)?
+FixedUpdateManual()(Shapes.FpsController.FixedUpdateManual())
+Update()Shapes.FpsController.Update()7
+FpsController()$Shapes.FpsController.FpsController()5
+InputFocus.get#Shapes.FpsController.InputFocus.get5
+InputFocus.set#Shapes.FpsController.InputFocus.set

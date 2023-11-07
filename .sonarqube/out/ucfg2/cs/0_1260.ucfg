@@ -1,0 +1,33 @@
+
+&Shapes.ShapeRenderer.ZOffsetFactor.set
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs ("0*
+0 (*
+1*ø
+1
+ (iX
+V
+R (g0
+Shapes.ShapeRenderer"
+zOffsetFactorfloat"__id*
+
+valuefloat‰
+†
+
+ (i
+
+%0void"@Shapes.ShapeRenderer.SetFloatOnAllInstancedMaterials(int, float)*$
+
+ ()
+Shapes.ShapeRenderer*F
++ (P:*8
+Shapes.ShapesMaterialUtils"
+propZOffsetFactorint*>
+R (g2*0
+Shapes.ShapeRenderer"
+zOffsetFactorfloat*
+2*.
+2j (j"
+i (j
+implicit return:
+valuefloatB
+Shapes.ShapeRenderer

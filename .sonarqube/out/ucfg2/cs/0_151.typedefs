@@ -1,0 +1,7 @@
+“
+Shapes.ShapeDrawCallSystem.ValueTypeobjectè
+;ShapeDrawCall(Shapes.ShapeDrawState, UnityEngine.Matrix4x4)PShapes.ShapeDrawCall.ShapeDrawCall(Shapes.ShapeDrawState, UnityEngine.Matrix4x4)ù
+BShapeDrawCall(Shapes.ShapeDrawState, int, UnityEngine.Matrix4x4[])WShapes.ShapeDrawCall.ShapeDrawCall(Shapes.ShapeDrawState, int, UnityEngine.Matrix4x4[])á
+7AddToCommandBuffer(UnityEngine.Rendering.CommandBuffer)LShapes.ShapeDrawCall.AddToCommandBuffer(UnityEngine.Rendering.CommandBuffer)+
+	Cleanup()Shapes.ShapeDrawCall.Cleanup()7
+ShapeDrawCall()$Shapes.ShapeDrawCall.ShapeDrawCall()

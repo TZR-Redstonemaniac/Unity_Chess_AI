@@ -1,0 +1,80 @@
+
+8Shapes.Triangle.SetTriangleColor(int, UnityEngine.Color)|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csM M("0*
+0M M(*
+1*M
+1N O(
+6
+4
+N N(
+	%capture0int"__id*
+
+indexint*
+2
+3*ñ
+2P P(Å
+
+P P(
+%0UnityEngine.Color"Shapes.Triangle.Color.set*
+P P(
+
+Shapes.Triangle*
+
+colorUnityEngine.Color*
+8*
+3R	 R(
+*
+4
+5*ò
+4S S(É
+Ä
+S S(
+%1UnityEngine.Color"Shapes.Triangle.ColorB.set*
+S S(
+Shapes.Triangle*
+
+colorUnityEngine.Color*
+8*
+5U	 U(
+*
+6
+7*ò
+6V V(É
+Ä
+V V(
+%2UnityEngine.Color"Shapes.Triangle.ColorC.set*
+V V(
+Shapes.Triangle*
+
+colorUnityEngine.Color*
+8*Ê
+7Y Y(wï
+í
+Y) Y(u
+%3string"__concat*R
+Y+ Y(mFD
+BTriangle only has four vertices, 0 to 3, you tried to set element *
+Ym Y(t
+
+indexintTR
+Y Y(w%
+%4System.IndexOutOfRangeException"System.IndexOutOfRangeException«
+ƒ
+Y Y(w%
+%5System.IndexOutOfRangeException"@System.IndexOutOfRangeException.IndexOutOfRangeException(string)*3
+Y Y(w'
+%
+%4System.IndexOutOfRangeException*
+Y) Y(u
+
+%3string"
+[ [(
+implicit return*.
+8[ [("
+[ [(
+implicit return:
+M  M()
+indexint:&
+M+ M(6
+colorUnityEngine.ColorB
+Shapes.Triangle

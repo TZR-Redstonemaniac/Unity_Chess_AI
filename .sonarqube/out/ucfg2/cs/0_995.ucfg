@@ -1,0 +1,30 @@
+
+SShapes.GradientFill.SetLinearStartWorld(UnityEngine.Transform, UnityEngine.Vector3)€
+vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.csa a(!"0*
+0a a(*
+1*á
+1aJ a(yÌ
+É
+aJ a(y
+
+%0void"dShapes.GradientFill.SetWorldPos(UnityEngine.Transform, ref UnityEngine.Vector3, UnityEngine.Vector3)*#
+aJ a(U
+Shapes.GradientFill*)
+aW a(Y
+
+tfUnityEngine.Transform*I
+a[ a(j=*;
+Shapes.GradientFill""
+linearStartUnityEngine.Vector3*0
+al a(w$
+"
+worldOriginUnityEngine.Vector3*
+2*.
+2az a(z"
+ay a(z
+implicit return:'
+a# a(/
+tfUnityEngine.Transform:.
+a1 a(D"
+worldOriginUnityEngine.Vector3B
+Shapes.GradientFill

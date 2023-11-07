@@ -1,0 +1,76 @@
+
+6Shapes.DrawCommand.RegisterCommand(Shapes.DrawCommand)ƒ
+yC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawCommand.csF F("0*
+0F F(*
+1*Ï
+1N Q(Tc
+a
+N N(
+
+%0void" Shapes.DrawCommand.AddToCamera()*'
+N N(
+
+cmdShapes.DrawCommandÒ
+Ï
+Q Q(K
+
+%1bool"GSystem.Collections.Generic.ICollection<T>.TryGetValue(TKey, out TValue)*n
+Q Q(b*`
+Shapes.DrawCommand"H
+cBuffersRendering3System.Collections.Generic.Dictionary<TKey, TValue>*D
+Q& Q(-8*6
+
+cmdShapes.DrawCommand"
+camUnityEngine.Camera*8
+Q/ Q(I,
+*
+list"System.Collections.Generic.List<T>*
+2
+3*Â
+2R R(EZX
+R+ R(B(
+%2"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>š
+—
+R+ R(B(
+%3"System.Collections.Generic.List<T>")System.Collections.Generic.List<T>.List()*6
+R+ R(B*
+(
+%2"System.Collections.Generic.List<T>l
+j
+R$ R(B*
+list"System.Collections.Generic.List<T>"__id*,*
+(
+%2"System.Collections.Generic.List<T>Æ
+Ã
+R R(D
+
+%4void";System.Collections.Generic.ICollection<T>.Add(TKey, TValue)*n
+R R(b*`
+Shapes.DrawCommand"H
+cBuffersRendering3System.Collections.Generic.Dictionary<TKey, TValue>*D
+R R("8*6
+
+cmdShapes.DrawCommand"
+camUnityEngine.Camera*8
+R$ R(B,
+*
+list"System.Collections.Generic.List<T>*
+3*Ã
+3U U(®
+«
+U U(
+
+%5void"0System.Collections.Generic.ICollection<T>.Add(T)*8
+U U(,
+*
+list"System.Collections.Generic.List<T>*'
+U U(
+
+cmdShapes.DrawCommand*
+4*.
+4V V("
+V V(
+implicit return:%
+F F(.
+cmdShapes.DrawCommandB"
+Shapes.DrawCommand

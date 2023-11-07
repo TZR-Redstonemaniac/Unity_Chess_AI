@@ -1,0 +1,30 @@
+
+Shapes.Draw.ZTest.setÜ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csF F("0*
+0F F(*
+1*Û
+1F! F(@Z
+X
+F! F(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
+k
+F! F(2
+%1Shapes.RenderState"__id*?=*;
+
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderStateì
+ê
+F! F(@J
+
+%1Shapes.RenderState".
+zTest%UnityEngine.Rendering.CompareFunction"__id*20
+.
+value%UnityEngine.Rendering.CompareFunction*
+2*.
+2FA F(A"
+F@ F(A
+implicit return:0.
+value%UnityEngine.Rendering.CompareFunctionB"
+Shapes.Draw

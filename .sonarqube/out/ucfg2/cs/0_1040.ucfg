@@ -1,0 +1,38 @@
+
+Shapes.Draw.TextWrap.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs« «("0*
+0
+« «(*
+1*¹
+1
+«! «(5\
+Z
+
+«! «(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+«! «(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyleZ
+X
+
+«! «(5
+%retbool"__id*6
+
+«! «(5(*&
+
+%1Shapes.TextStyle"
+wrapbool*
+2*-
+2
+«6 «(6"
+
+«5 «(6
+
+%retboolB"
+Shapes.Draw

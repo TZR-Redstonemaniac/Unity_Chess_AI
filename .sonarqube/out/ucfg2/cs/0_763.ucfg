@@ -1,0 +1,49 @@
+
+)Shapes.ShapesTextPool.ReleaseElement(int)}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesTextPool.csT T("0*
+0T T(*
+1*«
+1U U(<“
+
+U U(<
+
+%0bool"GSystem.Collections.Generic.ICollection<T>.TryGetValue(TKey, out TValue)*n
+U U(b*`
+Shapes.ShapesTextPool"E
+elementsActive3System.Collections.Generic.Dictionary<TKey, TValue>*
+U# U(%
+	
+idint*&
+U' U(:
+
+tmpTMPro.TextMeshPro*
+2
+3*Ç
+2V W( Ú
+×
+V V(
+
+%1bool"6System.Collections.Generic.ICollection<T>.Remove(TKey)*n
+V V(b*`
+Shapes.ShapesTextPool"E
+elementsActive3System.Collections.Generic.Dictionary<TKey, TValue>*
+V V(
+	
+idintÕ
+Ò
+W W(
+
+%2void"1System.Collections.Generic.ICollection<T>.Push(T)*_
+W W(S*Q
+Shapes.ShapesTextPool"6
+elementsPassive#System.Collections.Generic.Stack<T>*&
+W W(
+
+tmpTMPro.TextMeshPro*
+3*.
+3[ [("
+[ [(
+implicit return:
+T T($	
+idintB
+Shapes.ShapesTextPool

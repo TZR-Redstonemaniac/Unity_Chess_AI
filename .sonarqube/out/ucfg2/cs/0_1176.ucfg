@@ -1,0 +1,63 @@
+
+Shapes.Quad.ColorLeft.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs¼ ¼("0*
+0
+¼ ¼(*
+1*Æ
+1
+½ ¾(Ba
+_
+
+½- ½(:+
+Shapes.Quad"
+colorUnityEngine.Color"__id*
+
+valueUnityEngine.Colorð
+í
+
+½ ½(<
+
+%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+½ ½(
+Shapes.Quad*@
+
+½ ½(+2*0
+Shapes.ShapesMaterialUtils"
+	propColorint*;
+
+½- ½(:-*+
+Shapes.Quad"
+colorUnityEngine.Colorb
+`
+
+¾1 ¾(?,
+Shapes.Quad"
+colorBUnityEngine.Color"__id*
+
+valueUnityEngine.Colorõ
+ò
+
+¾ ¾(A
+
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+
+¾ ¾(
+Shapes.Quad*A
+
+¾ ¾(/3*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*<
+
+¾1 ¾(?.*,
+Shapes.Quad"
+colorBUnityEngine.Color*
+2*2
+2
+¿ ¿("!
+
+¿ ¿(
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Quad

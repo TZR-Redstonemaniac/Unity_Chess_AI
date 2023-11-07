@@ -1,0 +1,32 @@
+
+Shapes.Draw.Scope.get
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawState.cs ( "0*
+0 (*
+1*³
+1$ (M86
+$ (M
+%0Shapes.StateStack"Shapes.StateStackŽ
+‹
+$ (M
+%1Shapes.StateStack"EShapes.StateStack.StateStack(Shapes.DrawStyle, UnityEngine.Matrix4x4)*%
+$ (M
+
+%0Shapes.StateStack*8
+4 (>,**
+Shapes.Draw"
+styleShapes.DrawStyle*>
+@ (K2*0
+Shapes.Draw"
+matrixUnityEngine.Matrix4x4T
+R
+$ (M
+%retShapes.StateStack"__id*%
+$ (M
+
+%0Shapes.StateStack*
+2*6
+2N (N"'
+M (N
+
+%retShapes.StateStackB"
+Shapes.Draw

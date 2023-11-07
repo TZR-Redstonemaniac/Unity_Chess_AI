@@ -1,0 +1,33 @@
+
+%Shapes.RegularPolygon.RadiusSpace.setÇ
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.csB B("0*
+0B B(*
+1*ç
+1B
+ B(Xw
+u
+BA B(T?
+Shapes.RegularPolygon"$
+radiusSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpaceˇ
+¸
+B
+ B(X
+
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*%
+B
+ B(
+Shapes.RegularPolygon*D
+B B(88*6
+Shapes.ShapesMaterialUtils"
+propRadiusSpaceint*M
+B: B(VA*?
+Shapes.RegularPolygon"$
+radiusSpaceShapes.ThicknessSpace*
+2*.
+2BY B(Y"
+BX B(Y
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.RegularPolygon

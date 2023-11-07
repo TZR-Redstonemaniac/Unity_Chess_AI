@@ -1,0 +1,49 @@
+
+&Shapes.Cone.SetAllMaterialProperties()x
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Cone.cs." .(:"0*
+0. .(*
+1*£
+1/ 1(?Ò
+Ï
+/ /(5
+
+%0void")Shapes.ShapeRenderer.SetFloat(int, float)*
+/ /(
+Shapes.Cone*?
+/ /(+3*1
+Shapes.ShapesMaterialUtils"
+
+propRadiusint*.
+/- /(3"* 
+Shapes.Cone"
+radiusfloatÒ
+Ï
+0 0(5
+
+%1void")Shapes.ShapeRenderer.SetFloat(int, float)*
+0 0(
+Shapes.Cone*?
+0 0(+3*1
+Shapes.ShapesMaterialUtils"
+
+propLengthint*.
+0- 0(3"* 
+Shapes.Cone"
+lengthfloatä
+á
+1 1(>
+
+%2void"%Shapes.ShapeRenderer.SetInt(int, int)*
+1 1(	
+Shapes.Cone*B
+1 1(,6*4
+Shapes.ShapesMaterialUtils"
+propSizeSpaceint*A
+1. 1(<5*3
+Shapes.Cone""
+	sizeSpaceShapes.ThicknessSpace*
+2*.
+22 2("
+2 2(
+implicit returnB
+Shapes.Cone

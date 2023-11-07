@@ -1,0 +1,38 @@
+
+(Shapes.Rectangle.UpdateRectPositioning()
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csŽ Ž("0*
+0
+Ž Ž(*
+1*ó
+1
+Ž" Ž(bt
+r
+
+ŽL Ž(`
+%0UnityEngine.Vector4"%Shapes.Rectangle.GetPositioningRect()*"
+
+ŽL Ž(^
+Shapes.Rectangleæ
+ã
+
+Ž" Ž(b
+
+%1void"9Shapes.ShapeRenderer.SetVector4(int, UnityEngine.Vector4)*"
+
+Ž" Ž(,
+Shapes.Rectangle*?
+
+Ž. Ž(J1*/
+Shapes.ShapesMaterialUtils"
+propRectint*)
+
+ŽL Ž(`
+
+%0UnityEngine.Vector4*
+2*2
+2
+Žc Ž(c"!
+
+Žb Ž(c
+implicit returnB
+Shapes.Rectangle

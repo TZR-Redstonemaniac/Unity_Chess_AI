@@ -1,0 +1,45 @@
+
+-Shapes.Polyline.AddPoint(UnityEngine.Vector3)~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.cs™ ™("0*
+0
+™ ™(*
+1*·
+1
+™. ™(W@>
+
+™8 ™(U
+%0Shapes.PolylinePoint"Shapes.PolylinePointÁ
+¾
+
+™8 ™(U
+%1Shapes.PolylinePoint"7Shapes.PolylinePoint.PolylinePoint(UnityEngine.Vector3)**
+
+™8 ™(U
+
+%0Shapes.PolylinePoint*/
+
+™K ™(S!
+
+positionUnityEngine.Vector3š
+—
+
+™. ™(W
+
+%2void".Shapes.Polyline.AddPoint(Shapes.PolylinePoint)*!
+
+™. ™(6
+Shapes.Polyline**
+
+™8 ™(U
+
+%0Shapes.PolylinePoint*
+2*2
+2
+™X ™(X"!
+
+™W ™(X
+implicit return:-
+
+™ ™((
+positionUnityEngine.Vector3B
+Shapes.Polyline
