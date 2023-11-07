@@ -6,6 +6,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: SonarScanner for .NET 7 with pull request decoration support
+        env:
+            SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         uses: highbyte/sonarscan-dotnet@v2.2.6
         with:
           # The key of the SonarQube project
@@ -21,6 +24,3 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-        env:
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
