@@ -18,9 +18,9 @@ jobs:
           # The name of the SonarQube organization in SonarCloud. For hosted SonarQube, skip this setting.
           sonarOrganization: tzr-redstonemaniac
           # Optional command arguments to dotnet build
-          dotnetBuildArguments: ./Computer-IA.sln
+          dotnetBuildArguments: Computer-IA.sln
           # Optional extra command arguments the the SonarScanner 'begin' command
           sonarBeginArguments: /k:"TZR-Redstonemaniac_Unity_Chess_AI" /o:"tzr-redstonemaniac" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+            fetch-depth: 0
