@@ -5,9 +5,6 @@ jobs:
     name: Build and analyze
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4.1.1
-    
       - name: SonarScanner for .NET 7 with pull request decoration support
         uses: highbyte/sonarscan-dotnet@v2.2.6
         with:
@@ -21,7 +18,9 @@ jobs:
           dotnetBuildArguments: ./Computer-IA.sln
           # Optional extra command arguments the the SonarScanner 'begin' command
           sonarBeginArguments: /k:"TZR-Redstonemaniac_Unity_Chess_AI" /o:"tzr-redstonemaniac" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
-
-  env:
-    SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
