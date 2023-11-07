@@ -5,22 +5,15 @@ jobs:
     name: Build and analyze
     runs-on: ubuntu-latest
     steps:
-      - name: SonarScanner for .NET 7 with pull request decoration support
+      - name: Sonarscanner for dotnet
+        uses: Secbyte/dotnet-sonarscanner@v1.2
+        with:
+          buildCommand: dotnet build Computer-IA.sln
+          testCommand: dotnet test Computer-IA.sln
+          projectKey: TZR-Redstonemaniac_Unity_Chess_AI
+          projectName: Unity_Chess_AI
+          sonarOrganisation: tzr-redstonemaniac
+          beginArguments: /d:sonar.verbose="true"  /d:sonar.coverage.exclusions="**/*.cs" # /d:sonar.cs.opencover.reportsPaths="/path/to/coverage.xml"
         env:
-            SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        uses: highbyte/sonarscan-dotnet@v2.2.6
-        with:
-          # The key of the SonarQube project
-          sonarProjectKey: TZR-Redstonemaniac_Unity_Chess_AI
-          # The name of the SonarQube project
-          sonarProjectName:  Unity_Chess_AI
-          # The name of the SonarQube organization in SonarCloud. For hosted SonarQube, skip this setting.
-          sonarOrganization: tzr-redstonemaniac
-          # Optional command arguments to dotnet build
-          dotnetBuildArguments: Computer-IA.sln
-          # Optional extra command arguments the the SonarScanner 'begin' command
-          sonarBeginArguments: /k:"TZR-Redstonemaniac_Unity_Chess_AI" /o:"tzr-redstonemaniac" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
-      - uses: actions/checkout@v3
-        with:
-            fetch-depth: 0
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
