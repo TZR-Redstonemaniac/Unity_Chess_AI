@@ -1,33 +1,27 @@
 
-$Shapes.Draw.RegularPolygonRadius.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csþ þ("0*
+Shapes.Quad.ColorBottom.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csÓ Ó("0*
 0
-þ þ(*
-1*Ç
+Ó Ó(*
+1*ƒ
 1
-þ
- þ(\
-Z
+Ó
+ Ó(m
+k
 
-þ
- þ(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleS
-Q
+Ó
+ Ó(
+%retUnityEngine.Color"__id*<
 
-þ
- þ()
-
-%0Shapes.DrawStyle"
-radiusfloat"__id*
-
-valuefloat*
-2*2
+Ó
+ Ó(.*,
+Shapes.Quad"
+colorDUnityEngine.Color*
+2*:
 2
-þ þ("!
+Ó Ó(")
 
-þ þ(
-implicit return:
-valuefloatB"
-Shapes.Draw
+Ó Ó(
+
+%retUnityEngine.ColorB
+Shapes.Quad

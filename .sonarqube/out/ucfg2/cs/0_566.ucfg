@@ -1,21 +1,38 @@
 
-Shapes.Disc.Geometry.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs{ {("0*
-0{ {(*
-1*ƒ
-1{
- {(o
-m
-{
- {(
-%retShapes.DiscGeometry"__id*>
-{
- {(2*0
-Shapes.Disc"
-geometryShapes.DiscGeometry*
-2*8
-2{ {(")
-{ {(
-
-%retShapes.DiscGeometryB
-Shapes.Disc
+&Shapes.Draw.GradientFillColorStart.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÔ Ô("0*
+0
+Ô Ô(*
+1*Ú
+1
+Ô! Ô(F\
+Z
+
+Ô! Ô(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyler
+p
+
+Ô! Ô(3
+%1Shapes.GradientFill"__id*A?*=
+
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFillr
+p
+
+Ô! Ô(F<
+
+%1Shapes.GradientFill"
+
+colorStartUnityEngine.Color"__id*
+
+valueUnityEngine.Color*
+2*2
+2
+ÔG Ô(G"!
+
+ÔF Ô(G
+implicit return:
+valueUnityEngine.ColorB"
+Shapes.Draw

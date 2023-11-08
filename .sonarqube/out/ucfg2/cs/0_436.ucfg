@@ -1,30 +1,30 @@
 
-Shapes.Draw.StencilOpPass.setÜ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs_ _("0*
-0_ _(*
-1*Ô
-1_! _(HZ
+Shapes.Draw.StencilRefID.setÜ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csd d("0*
+0d d(*
+1*∂
+1d! d(GZ
 X
-_! _(&
+d! d(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
 styleShapes.DrawStylem
 k
-_! _(2
+d! d(2
 %1Shapes.RenderState"__id*?=*;
 
 %0Shapes.DrawStyle"!
-renderStateShapes.RenderStateè
-å
-_! _(HL
+renderStateShapes.RenderStateW
+U
+d! d(G0
 
-%1Shapes.RenderState"0
-stencilOpPassUnityEngine.Rendering.StencilOp"__id*,*
-(
-valueUnityEngine.Rendering.StencilOp*
+%1Shapes.RenderState"
+stencilRefIDbyte"__id*
+
+valuebyte*
 2*.
-2_I _(I"
-_H _(I
-implicit return:*(
-valueUnityEngine.Rendering.StencilOpB"
+2dH d(H"
+dG d(H
+implicit return:
+valuebyteB"
 Shapes.Draw

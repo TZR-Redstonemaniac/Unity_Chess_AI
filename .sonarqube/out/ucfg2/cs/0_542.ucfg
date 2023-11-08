@@ -1,76 +1,31 @@
 
-Shapes.Triangle.this[int].set|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs$ $("0*
-0$ $(*
-1*M
-1% &(6
-4
-% %(
-	%capture0int"__id*
-
-indexint*
-2
-3*ñ
-2' '(Å
-
-' '(
-%0UnityEngine.Vector3"Shapes.Triangle.A.set*
-' '(
-Shapes.Triangle* 
-
-valueUnityEngine.Vector3*
-8*
-3)
- )(*
-4
-5*ñ
-4* *(Å
-
-* *(
-%1UnityEngine.Vector3"Shapes.Triangle.B.set*
-* *(
-Shapes.Triangle* 
-
-valueUnityEngine.Vector3*
-8*
-5,
- ,(*
-6
-7*ñ
-6- -(Å
-
-- -(
-%2UnityEngine.Vector3"Shapes.Triangle.C.set*
-- -(
-Shapes.Triangle* 
-
-valueUnityEngine.Vector3*
-8*Ê
-70 0(xï
-í
-0* 0(v
-%3string"__concat*R
-0, 0(nFD
-BTriangle only has four vertices, 0 to 2, you tried to set element *
-0n 0(u
-
-indexintTR
-0 0(x%
-%4System.IndexOutOfRangeException"System.IndexOutOfRangeException«
-ƒ
-0 0(x%
-%5System.IndexOutOfRangeException"@System.IndexOutOfRangeException.IndexOutOfRangeException(string)*3
-0 0(x'
-%
-%4System.IndexOutOfRangeException*
-0* 0(v
-
-%3string"
-2 2(
-implicit return*.
-82 2("
-2 2(
-implicit return:
-indexint:
-valueUnityEngine.Vector3B
-Shapes.Triangle
+Shapes.Draw.GradientFill.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¡ ¡("0*
+0
+¡ ¡(*
+1*ı
+1
+¡! ¡(3\
+Z
+
+¡! ¡(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleÄ
+~
+
+¡! ¡(3
+%retShapes.GradientFill"__id*M
+
+¡! ¡(3?*=
+
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFill*
+2*<
+2
+¡4 ¡(4"+
+
+¡3 ¡(4
+
+%retShapes.GradientFillB"
+Shapes.Draw

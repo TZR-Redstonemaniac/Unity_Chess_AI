@@ -1,21 +1,38 @@
 
-Shapes.Sphere.RadiusSpace.getz
-pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Sphere.cs ("0*
-0 (*
-1*å
-1
- (x
-v
-
- (
-%retShapes.ThicknessSpace"__id*E
-
- (9*7
-Shapes.Sphere"$
-radiusSpaceShapes.ThicknessSpace*
-2*:
-2 ("+
- (
-
-%retShapes.ThicknessSpaceB
-Shapes.Sphere
+(Shapes.Draw.GradientFillRadialOrigin.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÎ Î("0*
+0
+Î Î(*
+1*Ì
+1
+Î! Î(@\
+Z
+
+Î! Î(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyler
+p
+
+Î! Î(3
+%1Shapes.GradientFill"__id*A?*=
+
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFillÑ
+Å
+
+Î! Î(@
+%retUnityEngine.Vector3"__id*P
+
+Î! Î(@B*@
+
+%1Shapes.GradientFill"#
+radialOriginUnityEngine.Vector3*
+2*<
+2
+ÎA Î(A"+
+
+Î@ Î(A
+
+%retUnityEngine.Vector3B"
+Shapes.Draw

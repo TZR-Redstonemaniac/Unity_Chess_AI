@@ -1,38 +1,15 @@
 
-Shapes.Draw.DashSize.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs™ ™("0*
-0
-™ ™(*
-1*»
-1
-™! ™(5\
-Z
-
-™! ™(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
-
-™! ™(0
-%1Shapes.DashStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStyle\
-Z
-
-™! ™(5
-%retfloat"__id*7
-
-™! ™(5)*'
-
-%1Shapes.DashStyle"
-sizefloat*
-2*.
-2
-™6 ™(6"
-
-™5 ™(6
-
-%retfloatB"
-Shapes.Draw
+1Shapes.MpbDisc.Shapes.IDashableMpb.dashOffset.set…
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs3( 3(+"0*–
+03, 3(,ž
+›
+3( 3(,X
+Shapes.MpbDisc"D
+Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"f
+3( 3(,Z*X
+Shapes.MpbDisc"D
+Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbDisc

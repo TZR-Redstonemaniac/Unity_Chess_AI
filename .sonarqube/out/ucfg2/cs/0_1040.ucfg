@@ -1,38 +1,77 @@
 
-Shapes.Draw.TextWrap.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs« «("0*
-0
-« «(*
-1*¹
-1
-«! «(5\
-Z
-
-«! «(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
+EShapes.ImmediateModeShapeDrawer.OnCameraPreRender(UnityEngine.Camera)‘
+†C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\ImmediateModeShapeDrawer.cs ("0*
+0 (*
+1*è
+1 (v
+t
+ (
+%0UnityEngine.CameraType"!UnityEngine.Camera.cameraType.get*'
+ (
+
+camUnityEngine.CameraY
+W
+ (#
+	%capture0UnityEngine.CameraType"__id* 
+
+%0UnityEngine.CameraType*
+6
+2*
+2	 (*
+6
+3*
+3 (*
+4
+5*Ã
+4 (Nd
+b
+ (+	
+%1int""UnityEngine.Camera.cullingMask.get*'
+ (
+
+camUnityEngine.Camera
+
+5 (?
+%2UnityEngine.GameObject"$UnityEngine.Component.gameObject.get*/
+5 (?#!
+Shapes.ImmediateModeShapeDrawere
+c
+5 (E	
+%3int" UnityEngine.GameObject.layer.get**
+5 (?
+
+%2UnityEngine.GameObjecti
 g
+0 (E	
+%4int"%!binary_implicit_operator_passthrough*
+0 (12*
+5 (E
+	
+%3intp
+n
+ (G	
+%5int"%!binary_implicit_operator_passthrough*
+ (+
+	
+%1int*
+0 (E
+	
+%4int*
+6
+5*è
+5! !(ÓÐ
+! !(
 
-«! «(0
-%1Shapes.TextStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	textStyleShapes.TextStyleZ
-X
-
-«! «(5
-%retbool"__id*6
-
-«! «(5(*&
-
-%1Shapes.TextStyle"
-wrapbool*
-2*-
-2
-«6 «(6"
-
-«5 «(6
-
-%retboolB"
-Shapes.Draw
+%6void">Shapes.ImmediateModeShapeDrawer.DrawShapes(UnityEngine.Camera)*/
+! !(#!
+Shapes.ImmediateModeShapeDrawer*'
+! !(
+
+camUnityEngine.Camera2DrawShapes(UnityEngine.Camera)*
+6*.
+6" "("
+" "(
+implicit return:%
+ ($
+camUnityEngine.CameraB#!
+Shapes.ImmediateModeShapeDrawer

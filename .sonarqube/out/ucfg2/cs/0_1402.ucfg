@@ -1,43 +1,27 @@
 
--Shapes.ShapeRenderer.HideMeshFilterRenderer()ƒ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csÍ Í(&"0*
+%Shapes.ShapeRenderer.StencilRefID.getƒ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs¬ ¬("0*
 0
-Í Í(*
-1*„
+¬ ¬(*
+1*x
 1
-Î Ñ(k
-i
+¬
+ ¬(b
+`
 
-Î Î(
+¬
+ ¬(
+%retbyte"__id*>
 
-%0void"'Shapes.ShapeRenderer.VerifyComponents()*&
-
-Î Î(
-Shapes.ShapeRenderer<
-:
-
-Ï Ï(4
-flagsUnityEngine.HideFlags"__id*2¡
-ž
-
-Ð Ð(
-%1UnityEngine.HideFlags" UnityEngine.Object.hideFlags.set*I
-
-Ð Ð(;*9
-Shapes.ShapeRenderer"
-rndUnityEngine.MeshRenderer*2ž
-›
-
-Ñ Ñ(
-%2UnityEngine.HideFlags" UnityEngine.Object.hideFlags.set*F
-
-Ñ Ñ(8*6
-Shapes.ShapeRenderer"
-mfUnityEngine.MeshFilter*2*
-2*2
+¬
+ ¬(0*.
+Shapes.ShapeRenderer"
+stencilRefIDbyte*
+2*-
 2
-Ò Ò("!
+¬ ¬("
 
-Ò Ò(
-implicit returnB
+¬ ¬(
+
+%retbyteB
 Shapes.ShapeRenderer

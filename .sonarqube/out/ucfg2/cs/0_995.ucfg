@@ -1,30 +1,37 @@
 
-SShapes.GradientFill.SetLinearStartWorld(UnityEngine.Transform, UnityEngine.Vector3)€
-vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.csa a(!"0*
-0a a(*
-1*á
-1aJ a(yÌ
-É
-aJ a(y
+Shapes.Draw.TextOverflow.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs² ²("0*
+0
+² ²(*
+1*Ø
+1
+²! ²(A\
+Z
 
-%0void"dShapes.GradientFill.SetWorldPos(UnityEngine.Transform, ref UnityEngine.Vector3, UnityEngine.Vector3)*#
-aJ a(U
-Shapes.GradientFill*)
-aW a(Y
-
-tfUnityEngine.Transform*I
-a[ a(j=*;
-Shapes.GradientFill""
-linearStartUnityEngine.Vector3*0
-al a(w$
-"
-worldOriginUnityEngine.Vector3*
-2*.
-2az a(z"
-ay a(z
-implicit return:'
-a# a(/
-tfUnityEngine.Transform:.
-a1 a(D"
-worldOriginUnityEngine.Vector3B
-Shapes.GradientFill
+²! ²(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+²! ²(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyley
+w
+
+²! ²(A=
+
+%1Shapes.TextStyle"#
+overflowTMPro.TextOverflowModes"__id*$"
+ 
+valueTMPro.TextOverflowModes*
+2*2
+2
+²B ²(B"!
+
+²A ²(B
+implicit return:" 
+valueTMPro.TextOverflowModesB"
+Shapes.Draw

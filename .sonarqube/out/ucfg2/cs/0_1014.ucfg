@@ -1,48 +1,11 @@
 
-6Shapes.PolylinePath.SetPoint(int, UnityEngine.Vector2)„
-zC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PolylinePath.cs ("0*
-0 (*
-1*Ò
-1 (Ñ
-Î
- ( 
-%0Shapes.PolylinePoint"7System.Collections.Generic.ICollection<T>.this[int].get*Q
- (E*C
-Shapes.PolylinePath"*
-path"System.Collections.Generic.List<T>*
- (
-
-indexintM
-K
- ( 
-pShapes.PolylinePoint"__id*
-
-%0Shapes.PolylinePointo
-m
- (9
-
-pShapes.PolylinePoint"
-pointUnityEngine.Vector3"__id* 
-
-pointUnityEngine.Vector2©
-¦
- (
-
-%1void"$Shapes.PointPath<T>.SetPoint(int, T)*#
- (
-Shapes.PolylinePath*
- (
-
-indexint*'
- (
-
-pShapes.PolylinePoint*
-2*.
-2 ("
- (
-implicit return:
- (!
-indexint:(
-# (0
-pointUnityEngine.Vector2B
-Shapes.PolylinePath
+>Shapes.ImmediateModeShapeDrawer.DrawShapes(UnityEngine.Camera)‘
+†C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\ImmediateModeShapeDrawer.cs ( "0*
+0 (*
+1*.
+1 ("
+ (
+implicit return:%
+" (,
+camUnityEngine.CameraB#!
+Shapes.ImmediateModeShapeDrawer

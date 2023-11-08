@@ -1,35 +1,33 @@
 
-'Shapes.RegularPolygon.FillLinearEnd.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÂ Â("0*
-0
-Â Â(*
-1*„
-1
-Â
- Â(k
-i
+Shapes.Disc.ColorInnerEnd.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csN N("0*
+0N N(*
+1*ù
+1N
+ N(Ug
+e
+N> N(S3
+Shapes.Disc""
+colorInnerEndUnityEngine.Color"__id*
+
+valueUnityEngine.Colorû
+ø
+N
+ N(U
 
-Â
- Â(
-%0Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFill€
-~
-
-Â
- Â(
-%retUnityEngine.Vector3"__id*M
-
-Â
- Â(?*=
-
-%0Shapes.GradientFill" 
-	linearEndUnityEngine.Vector3*
-2*<
-2
-Â Â("+
-
-Â Â(
-
-%retUnityEngine.Vector3B
-Shapes.RegularPolygon
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+N
+ N(
+Shapes.Disc*F
+N N(<:*8
+Shapes.ShapesMaterialUtils"
+propColorInnerEndint*A
+N> N(S5*3
+Shapes.Disc""
+colorInnerEndUnityEngine.Color*
+2*.
+2NV N(V"
+NU N(V
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Disc

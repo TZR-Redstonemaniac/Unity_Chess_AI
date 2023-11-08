@@ -1,37 +1,49 @@
 
-!Shapes.Draw.DashShapeModifier.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csµ µ("0*
-0
-µ µ(*
-1*¹
-1
-µ! µ(F\
-Z
+)Shapes.ShapesTextPool.ReleaseElement(int)}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesTextPool.csT T("0*
+0T T(*
+1*«
+1U U(<“
+
+U U(<
 
-µ! µ(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
+%0bool"GSystem.Collections.Generic.ICollection<T>.TryGetValue(TKey, out TValue)*n
+U U(b*`
+Shapes.ShapesTextPool"E
+elementsActive3System.Collections.Generic.Dictionary<TKey, TValue>*
+U# U(%
+	
+idint*&
+U' U(:
+
+tmpTMPro.TextMeshPro*
+2
+3*Ç
+2V W( Ú
+×
+V V(
 
-µ! µ(0
-%1Shapes.DashStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStyleZ
-X
+%1bool"6System.Collections.Generic.ICollection<T>.Remove(TKey)*n
+V V(b*`
+Shapes.ShapesTextPool"E
+elementsActive3System.Collections.Generic.Dictionary<TKey, TValue>*
+V V(
+	
+idintÕ
+Ò
+W W(
 
-µ! µ(F0
-
-%1Shapes.DashStyle"
-shapeModifierfloat"__id*
-
-valuefloat*
-2*2
-2
-µG µ(G"!
-
-µF µ(G
-implicit return:
-valuefloatB"
-Shapes.Draw
+%2void"1System.Collections.Generic.ICollection<T>.Push(T)*_
+W W(S*Q
+Shapes.ShapesTextPool"6
+elementsPassive#System.Collections.Generic.Stack<T>*&
+W W(
+
+tmpTMPro.TextMeshPro*
+3*.
+3[ [("
+[ [(
+implicit return:
+T T($	
+idintB
+Shapes.ShapesTextPool

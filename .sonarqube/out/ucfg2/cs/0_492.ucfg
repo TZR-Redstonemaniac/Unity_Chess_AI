@@ -1,35 +1,50 @@
 
-%Shapes.Rectangle.FillRadialOrigin.getò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csß ß("0*
+Shapes.Rectangle.FillSpace.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs§ §("0*
 0
-ß ß(*
-1*É
+§ §(*
+1*„
 1
-ß
- ß(f
+§
+ §(Uf
 d
 
-ß
- ß(
+§? §(C
 %0Shapes.GradientFill"__id*53*1
 Shapes.Rectangle"
-fillShapes.GradientFillÑ
-Å
+fillShapes.GradientFillk
+i
 
-ß
- ß(
-%retUnityEngine.Vector3"__id*P
-
-ß
- ß(B*@
+§? §(Q6
 
-%0Shapes.GradientFill"#
-radialOriginUnityEngine.Vector3*
-2*<
-2
-ß ß("+
+%0Shapes.GradientFill"
+spaceShapes.FillSpace"__id*
+
+valueShapes.FillSpace˜
+Ù
 
-ß ß(
-
-%retUnityEngine.Vector3B
+§
+ §(U
+
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*"
+
+§
+ §(
+Shapes.Rectangle*D
+
+§ §(66*4
+Shapes.ShapesMaterialUtils"
+propFillSpaceint*F
+
+§8 §(S8*6
+
+%0Shapes.GradientFill"
+spaceShapes.FillSpace*
+2*2
+2
+§V §(V"!
+
+§U §(V
+implicit return:
+valueShapes.FillSpaceB
 Shapes.Rectangle

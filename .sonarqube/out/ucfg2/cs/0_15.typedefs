@@ -1,0 +1,5 @@
+ï
+Shapes.DashStackSystem.ValueTypeobjectSystem.IDisposableW
+!DashStack(bool, Shapes.DashStyle)2Shapes.DashStack.DashStack(bool, Shapes.DashStyle)'
+	Dispose()Shapes.DashStack.Dispose()+
+DashStack()Shapes.DashStack.DashStack()

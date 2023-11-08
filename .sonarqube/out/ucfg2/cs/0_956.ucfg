@@ -1,16 +1,37 @@
 
-4Shapes.MpbTriangle.Shapes.IDashableMpb.dashSpace.getá
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csΩ' Ω(*"0*Ï
+$Shapes.Draw.TextCharacterSpacing.setà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csé é("0*
 0
-Ω+ Ω(+†
-ù
+é é(*
+1*º
+1
+é! é(I\
+Z
 
-Ω' Ω(+(
-%0"System.Collections.Generic.List<T>"__id*_]*[
-Shapes.MpbTriangle"C
-Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>"8
+é! é(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-Ω' Ω(+*
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbTriangle
+é! é(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyle]
+[
+
+é! é(I3
+
+%1Shapes.TextStyle"
+characterSpacingfloat"__id*
+
+valuefloat*
+2*2
+2
+éJ é(J"!
+
+éI é(J
+implicit return:
+valuefloatB"
+Shapes.Draw

@@ -1,23 +1,23 @@
 
-"Shapes.Draw.LineThicknessSpace.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÂ Â("0*
+"Shapes.Draw.RingThicknessSpace.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csò ò("0*
 0
-Â Â(*
+ò ò(*
 1*ï
 1
-Â
- Â(&\
+ò
+ ò(&\
 Z
 
-Â
- Â(
+ò
+ ò(
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
 styleShapes.DrawStyle{
 y
 
-Â
- Â(&A
+ò
+ ò(&A
 
 %0Shapes.DrawStyle"'
 thicknessSpaceShapes.ThicknessSpace"__id*" 
@@ -25,9 +25,9 @@ y
 valueShapes.ThicknessSpace*
 2*2
 2
-Â' Â('"!
+ò' ò('"!
 
-Â& Â('
+ò& ò('
 implicit return: 
 valueShapes.ThicknessSpaceB"
 Shapes.Draw

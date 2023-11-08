@@ -1,33 +1,19 @@
 
-"Shapes.Polyline.ThicknessSpace.set|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.csJ J("0*
-0J J(*
-1*„
-1J
- J(^t
-r
-JD J(Z<
-Shapes.Polyline"'
-thicknessSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpaceù
-ö
-J
- J(^
-
-%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
-J
- J(
-Shapes.Polyline*G
-J J(;;*9
-Shapes.ShapesMaterialUtils"
-propThicknessSpaceint*J
-J= J(\>*<
-Shapes.Polyline"'
-thicknessSpaceShapes.ThicknessSpace*
+/Shapes.ShapeRendererFillable.FillColorStart.set‰
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRendererFillable.cs4 4("0*
+04 4(*
+1*_
+14
+ 4(K
+I
+4
+ 4(
+%0UnityEngine.Color"__id*
+
+valueUnityEngine.Color*
 2*.
-2J_ J(_"
-J^ J(_
-implicit return: 
-valueShapes.ThicknessSpaceB
-Shapes.Polyline
+24 4("
+4 4(
+implicit return:
+valueUnityEngine.ColorB 
+Shapes.ShapeRendererFillable

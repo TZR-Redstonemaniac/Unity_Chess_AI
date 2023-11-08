@@ -1,11 +1,0 @@
-ô
-Shapes.DisposableMeshobjectSystem.IDisposable>
-EnsureMeshExists()(Shapes.DisposableMesh.EnsureMeshExists()p
-+RegisterToCommandBuffer(Shapes.DrawCommand)AShapes.DisposableMesh.RegisterToCommandBuffer(Shapes.DrawCommand)f
-&ReleaseFromCommand(Shapes.DrawCommand)<Shapes.DisposableMesh.ReleaseFromCommand(Shapes.DrawCommand),
-	Dispose()Shapes.DisposableMesh.Dispose()0
-ClearMesh()!Shapes.DisposableMesh.ClearMesh()<
-ExternallyDirty()'Shapes.DisposableMesh.ExternallyDirty()2
-UpdateMesh()"Shapes.DisposableMesh.UpdateMesh()–
->EnsureMeshIsReadyToRender(out UnityEngine.Mesh, System.Action)TShapes.DisposableMesh.EnsureMeshIsReadyToRender(out UnityEngine.Mesh, System.Action):
-DisposableMesh()&Shapes.DisposableMesh.DisposableMesh()

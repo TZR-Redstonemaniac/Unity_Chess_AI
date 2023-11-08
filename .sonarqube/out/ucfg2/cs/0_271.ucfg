@@ -1,27 +1,27 @@
 
- Shapes.RegularPolygon.Dashed.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csà à("0*
+Shapes.Triangle.Dashed.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csæ æ("0*
 0
-à à(*
-1*s
+æ æ(*
+1*m
 1
-à
- à(]
-[
+æ
+ æ(W
+U
 
-à
- à(
-%retbool"__id*9
+æ
+ æ(
+%retbool"__id*3
 
-à
- à(+*)
-Shapes.RegularPolygon"
+æ
+ æ(%*#
+Shapes.Triangle"
 dashedbool*
 2*-
 2
-à à("
+æ æ("
 
-à à(
+æ æ(
 
-%retboolB
-Shapes.RegularPolygon
+%retboolB
+Shapes.Triangle

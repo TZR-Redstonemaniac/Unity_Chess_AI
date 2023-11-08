@@ -1,89 +1,55 @@
 
-Shapes.Quad.this[int].setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs* *("0*
-0* *(*
-1*M
-1+ ,(6
-4
-+ +(
-	%capture0int"__id*
-
-indexint*
+KShapes.GradientFill.GetWorldPos(UnityEngine.Transform, UnityEngine.Vector3)€
+vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.csd
+ d("0*
+0d d(*
+1*x
+1d8 d(Ba
+_
+d8 d(B
+
+%0bool""Shapes.GradientFill.WorldSpace.get*#
+d8 d(B
+Shapes.GradientFill*
 2
-3*Ž
-2- -(y
-w
-- -(
-%0UnityEngine.Vector3"Shapes.Quad.A.set*
-- -(
-Shapes.Quad* 
+3*j
+2dE d(JV
+T
+dE d(J 
+	%capture0UnityEngine.Vector3"__id* 
 
-valueUnityEngine.Vector3*
-10*
-3/
- /(*
-4
-5*Ž
-40 0(y
-w
-0 0(
-%1UnityEngine.Vector3"Shapes.Quad.B.set*
-0 0(
-Shapes.Quad* 
+coordUnityEngine.Vector3*
+4*¤
+3dM d(gº
+·
+dM d(g
+%1UnityEngine.Vector3"9UnityEngine.Transform.TransformPoint(UnityEngine.Vector3)*)
+dM d(O
+
+tfUnityEngine.Transform**
+d` d(e
 
-valueUnityEngine.Vector3*
-10*
-52
- 2(*
-6
-7*Ž
-63 3(y
-w
-3 3(
-%2UnityEngine.Vector3"Shapes.Quad.C.set*
-3 3(
-Shapes.Quad* 
-
-valueUnityEngine.Vector3*
-10*
-75
- 5(*
-8
-9*Ž
-86 6(y
-w
-6 6(
-%3UnityEngine.Vector3"Shapes.Quad.D.set*
-6 6(
-Shapes.Quad* 
-
-valueUnityEngine.Vector3*
-10*â
-99 9(t‘
-Ž
-9* 9(r
-%4string"__concat*N
-9, 9(jB@
->Quad only has four vertices, 0 to 3, you tried to set element *
-9j 9(q
-
-indexintTR
-9 9(t%
-%5System.IndexOutOfRangeException"System.IndexOutOfRangeExceptionÇ
-Ä
-9 9(t%
-%6System.IndexOutOfRangeException"@System.IndexOutOfRangeException.IndexOutOfRangeException(string)*3
-9 9(t'
-%
-%5System.IndexOutOfRangeException*
-9* 9(r
-
-%4string"
-; ;(
-implicit return*/
-10; ;("
-; ;(
-implicit return:
-indexint:
-valueUnityEngine.Vector3B
-Shapes.Quad
+coordUnityEngine.Vector3S
+Q
+dM d(g 
+	%capture0UnityEngine.Vector3"__id*
+
+%1UnityEngine.Vector3*
+4*s
+4d8 d(g_
+]
+d8 d(g
+%retUnityEngine.Vector3"__id*.
+d8 d(g"
+ 
+	%capture0UnityEngine.Vector3*
+5*8
+5dh d(h")
+dg d(h
+
+%retUnityEngine.Vector3:'
+d d(#
+tfUnityEngine.Transform:(
+d% d(2
+coordUnityEngine.Vector3B
+Shapes.GradientFill

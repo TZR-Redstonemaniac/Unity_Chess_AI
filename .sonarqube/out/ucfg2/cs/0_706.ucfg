@@ -1,19 +1,28 @@
 
-)Shapes.ShapeRendererFillable.FillType.set‰
-C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRendererFillable.cs ("0*
-0 (*
-1*[
-1
- (G
-E
-
- (
-%0Shapes.FillType"__id*
+Shapes.Disc.ArcEndCaps.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csµ µ("0*
+0
+µ µ(*
+1*…
+1
+µ
+ µ(o
+m
+
+µ
+ µ(
+%retShapes.ArcEndCap"__id*?
+
+µ
+ µ(1*/
+Shapes.Disc"
+
+arcEndCapsShapes.ArcEndCap*
+2*9
+2
+µ µ("(
+
+µ µ(
 
-valueShapes.FillType*
-2*.
-2 ("
- (
-implicit return:
-valueShapes.FillTypeB 
-Shapes.ShapeRendererFillable
+%retShapes.ArcEndCapB
+Shapes.Disc

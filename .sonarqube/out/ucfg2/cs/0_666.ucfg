@@ -1,21 +1,42 @@
 
-#Shapes.RegularPolygon.Roundness.getÇ
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.cs" "("0*
-0" "(*
-1*r
-1"
- "(^
-\
-"
- "(
-%retfloat"__id*;
-"
- "(/*-
-Shapes.RegularPolygon"
-	roundnessfloat*
-2**
-2" "("
-" "(
+"Shapes.Triangle.ThicknessSpace.set~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csé é("0*
+0
+é é(*
+1*ê
+1
+é
+ é(^v
+t
 
-%retfloatB
-Shapes.RegularPolygon
+éD é(Z<
+Shapes.Triangle"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpaceÅ
+˛
+
+é
+ é(^
+
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*!
+
+é
+ é(
+Shapes.Triangle*I
+
+é é(;;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*L
+
+é= é(\>*<
+Shapes.Triangle"'
+thicknessSpaceShapes.ThicknessSpace*
+2*2
+2
+é_ é(_"!
+
+é^ é(_
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.Triangle

@@ -1,96 +1,15 @@
 
-*Shapes.MpbLine2D.TransferShapeProperties()Ö
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs_ _(1"0*
-0_ _(*
-1*è
-1` f(Fö
-ó
-` `(;
-
-%0void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)* 
-` `(
-Shapes.MpbLine2D*B
-` `(.6*4
-Shapes.ShapesMaterialUtils"
-propAlignmentint*S
-`0 `(9G*E
-Shapes.MpbLine2D"/
-	alignment"System.Collections.Generic.List<T>¶
-£
-a a(9
-
-%1void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
-a a(
-Shapes.MpbLine2D*A
-a a(-5*3
-Shapes.ShapesMaterialUtils"
-propColorEndint*R
-a/ a(7F*D
-Shapes.MpbLine2D".
-colorEnd"System.Collections.Generic.List<T>¶
-£
-b b(9
-
-%2void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
-b b(
-Shapes.MpbLine2D*A
-b b(-5*3
-Shapes.ShapesMaterialUtils"
-propPointEndint*R
-b/ b(7F*D
-Shapes.MpbLine2D".
-pointEnd"System.Collections.Generic.List<T>™
-ß
-c c(=
-
-%3void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
-c c(
-Shapes.MpbLine2D*C
-c c(/7*5
-Shapes.ShapesMaterialUtils"
-propPointStartint*T
-c1 c(;H*F
-Shapes.MpbLine2D"0
-
-pointStart"System.Collections.Generic.List<T>ö
-ó
-d d(;
-
-%4void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)* 
-d d(
-Shapes.MpbLine2D*B
-d d(.6*4
-Shapes.ShapesMaterialUtils"
-propScaleModeint*S
-d0 d(9G*E
-Shapes.MpbLine2D"/
-	scaleMode"System.Collections.Generic.List<T>ö
-ó
-e e(;
-
-%5void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)* 
-e e(
-Shapes.MpbLine2D*B
-e e(.6*4
-Shapes.ShapesMaterialUtils"
-propThicknessint*S
-e0 e(9G*E
-Shapes.MpbLine2D"/
-	thickness"System.Collections.Generic.List<T>§
-°
-f f(E
-
-%6void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)* 
-f f(
-Shapes.MpbLine2D*G
-f f(3;*9
-Shapes.ShapesMaterialUtils"
-propThicknessSpaceint*X
-f5 f(CL*J
-Shapes.MpbLine2D"4
-thicknessSpace"System.Collections.Generic.List<T>*
-2*.
-2g g("
-g g(
-implicit returnB
-Shapes.MpbLine2D
+8Shapes.MpbDisc.Shapes.IDashableMpb.dashShapeModifier.setÖ
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs4/ 4(2"0*§
+043 4(3•
+¢
+4/ 4(3_
+Shapes.MpbDisc"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"m
+4/ 4(3a*_
+Shapes.MpbDisc"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbDisc

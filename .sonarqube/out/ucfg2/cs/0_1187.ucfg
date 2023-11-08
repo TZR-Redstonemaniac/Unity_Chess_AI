@@ -1,64 +1,16 @@
 
-Shapes.Quad.ColorTop.setz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csÄ Ä("0*
+:Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSpace.get‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csö' ö(*"0*ò
 0
-Ä Ä(*
-1*É
-1
-Å Æ(Bb
-`
+ö+ ö(+¦
+£
 
-Å. Å(<,
-Shapes.Quad"
-colorBUnityEngine.Color"__id*
-
-valueUnityEngine.Colorò
-ï
+ö' ö(+(
+%0"System.Collections.Generic.List<T>"__id*ec*a
+Shapes.MpbRegularPolygon"C
+Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>"8
 
-Å Å(>
-
-%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
-
-Å Å(
-Shapes.Quad*A
-
-Å Å(,3*1
-Shapes.ShapesMaterialUtils"
-
-propColorBint*<
-
-Å. Å(<.*,
-Shapes.Quad"
-colorBUnityEngine.Colorb
-`
-
-Æ1 Æ(?,
-Shapes.Quad"
-colorCUnityEngine.Color"__id*
-
-valueUnityEngine.Colorõ
-ò
-
-Æ Æ(A
-
-%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
-
-Æ Æ(
-Shapes.Quad*A
-
-Æ Æ(/3*1
-Shapes.ShapesMaterialUtils"
-
-propColorCint*<
-
-Æ1 Æ(?.*,
-Shapes.Quad"
-colorCUnityEngine.Color*
-2*2
-2
-Ç Ç("!
-
-Ç Ç(
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Quad
+ö' ö(+*
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

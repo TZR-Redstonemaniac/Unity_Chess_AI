@@ -1,0 +1,24 @@
+
+Shapes.Polyline.Count.get|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.csN N("0*
+0N N(*
+1*í
+1N N("ž
+›
+N N("	
+%0int"3System.Collections.Generic.ICollection<T>.Count.get*O
+N N(C*A
+Shapes.Polyline",
+points"System.Collections.Generic.List<T>8
+6
+N N("
+%retint"__id*
+N N("
+	
+%0int*
+2*(
+2N# N(#"
+N" N(#
+
+%retintB
+Shapes.Polyline

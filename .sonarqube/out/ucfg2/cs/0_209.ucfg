@@ -1,24 +1,26 @@
 
-Shapes.Polygon.Count.get{
-qC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polygon.cs- -("0*
-0- -(*
-1*Ï
-1- -("ù
-ö
-- -("	
-%0int"3System.Collections.Generic.ICollection<T>.Count.get*N
-- -(B*@
-Shapes.Polygon",
-points"System.Collections.Generic.List<T>8
-6
-- -("
-%retint"__id*
-- -("
-	
-%0int*
-2*(
-2-# -(#"
--" -(#
-
-%retintB
+Shapes.Polygon.Polygon()ò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÑ Ñ("0*‹
+0
+Õ Õ(p
+n
+
+Ö9 Ö(Q
+%0Shapes.GradientFill"__id*?=*;
+Shapes.GradientFill""
+defaultFillShapes.GradientFilld
+b
+
+Ö2 Ö(Q/
+Shapes.Polygon"
+fillShapes.GradientFill"__id*
+
+%0Shapes.GradientFillP
+N
+
+%1void"$Shapes.ShapeRenderer.ShapeRenderer()*
+Shapes.ShapeRenderer"!
+
+Ñ Õ(
+implicit returnB
 Shapes.Polygon

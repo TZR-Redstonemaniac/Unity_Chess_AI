@@ -1,40 +1,42 @@
 
-Shapes.Line.DashSnap.set–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csv v("0*
-0v v(*
-1*Ê
-1v
- v(X^
-\
-v> v(G
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStylek
-i
-v> v(T5
-
-%0Shapes.DashStyle"
-snapShapes.DashSnapping"__id* 
-
-valueShapes.DashSnappingè
-å
-v
- v(X
+Shapes.Triangle.ColorA.set~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs£ £("0*
+0
+£ £(*
+1*ù
+1
+£
+ £(Ee
+c
 
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
-v
- v(
-Shapes.Line*A
-v v(55*3
-Shapes.ShapesMaterialUtils"
-propDashSnapint*C
-v7 v(V7*5
-
-%0Shapes.DashStyle"
-snapShapes.DashSnapping*
-2*.
-2vY v(Y"
-vX v(Y
-implicit return:
-valueShapes.DashSnappingB
-Shapes.Line
+£6 £(C/
+Shapes.Triangle"
+colorUnityEngine.Color"__id*
+
+valueUnityEngine.Colorû
+ø
+
+£
+ £(E
+
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*!
+
+£
+ £(
+Shapes.Triangle*@
+
+£ £(42*0
+Shapes.ShapesMaterialUtils"
+	propColorint*?
+
+£6 £(C1*/
+Shapes.Triangle"
+colorUnityEngine.Color*
+2*2
+2
+£F £(F"!
+
+£E £(F
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Triangle

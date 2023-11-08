@@ -1,31 +1,18 @@
 
-RShapes.ShapesExtensions.SetInt_Shapes(UnityEngine.MaterialPropertyBlock, int, int)
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesExtensions.cs&J &(W"0*
-0& &(*
-1*œ
-1* *(∫
-∑
-* *(
+:Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillStart.setá
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÓ) Ó(,"0*Æ
+0
+Ó- Ó(-©
+¶
 
-%0void"2UnityEngine.MaterialPropertyBlock.SetInt(int, int)*6
-* *(*
-(
-mpb!UnityEngine.MaterialPropertyBlock*
-* *(
-	
-idint*
-* *(
-
-valueint*
-2*.
-2, ,("
-, ,(
-implicit return:4
-&Y &(w(
-mpb!UnityEngine.MaterialPropertyBlock:
-&y &(	
-idint:
+Ó) Ó(-a
+Shapes.MpbRegularPolygon"C
+Shapes.IFillableMpb.fillStart"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"q
 
-&Å &(ä
-valueintB"
-Shapes.ShapesExtensions
+Ó) Ó(-c*a
+Shapes.MpbRegularPolygon"C
+Shapes.IFillableMpb.fillStart"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

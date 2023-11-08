@@ -1,16 +1,95 @@
 
-:Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillStart.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csî) î(,"0*ò
+(Shapes.MpbRect.TransferShapeProperties()‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÓ Ó(1"0*
 0
-î- î(-¦
-£
+Ó Ó(*
+1*Ù
+1
+Ô Ø(F°
+­
 
-î) î(-(
-%0"System.Collections.Generic.List<T>"__id*ec*a
-Shapes.MpbRegularPolygon"C
-Shapes.IFillableMpb.fillStart"System.Collections.Generic.List<T>"8
+Ô Ô(?
 
-î) î(-*
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+%0void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
+
+Ô Ô(
+Shapes.MpbRect*F
+
+Ô Ô(08*6
+Shapes.ShapesMaterialUtils"
+propCornerRadiiint*U
+
+Ô2 Ô(=G*E
+Shapes.MpbRect"1
+cornerRadii"System.Collections.Generic.List<T>¢
+Ÿ
+
+Õ Õ(1
+
+%1void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
+
+Õ Õ(
+Shapes.MpbRect*?
+
+Õ Õ()1*/
+Shapes.ShapesMaterialUtils"
+propRectint*N
+
+Õ+ Õ(/@*>
+Shapes.MpbRect"*
+rect"System.Collections.Generic.List<T>ž
+›
+
+Ö Ö(;
+
+%2void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)* 
+
+Ö Ö(
+Shapes.MpbRect*D
+
+Ö Ö(.6*4
+Shapes.ShapesMaterialUtils"
+propScaleModeint*S
+
+Ö0 Ö(9E*C
+Shapes.MpbRect"/
+	scaleMode"System.Collections.Generic.List<T>ž
+›
+
+× ×(;
+
+%3void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)* 
+
+× ×(
+Shapes.MpbRect*D
+
+× ×(.6*4
+Shapes.ShapesMaterialUtils"
+propThicknessint*S
+
+×0 ×(9E*C
+Shapes.MpbRect"/
+	thickness"System.Collections.Generic.List<T>¨
+¥
+
+Ø Ø(E
+
+%4void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)* 
+
+Ø Ø(
+Shapes.MpbRect*I
+
+Ø Ø(3;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*X
+
+Ø5 Ø(CJ*H
+Shapes.MpbRect"4
+thicknessSpace"System.Collections.Generic.List<T>*
+2*2
+2
+Ù Ù("!
+
+Ù Ù(
+implicit returnB
+Shapes.MpbRect

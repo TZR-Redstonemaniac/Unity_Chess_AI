@@ -1,29 +1,42 @@
 
-7Shapes.AngularUnitExtensions.Suffix(Shapes.AngularUnit)
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\AngularUnit.cs ("0*
-0 (*
-1* 
-1: (TË
-È
-: (T
-%0string"7System.Collections.Generic.ICollection<T>.this[int].get*K
-: (I?*=
-Shapes.AngularUnitExtensions"
-angUnitToSuffixstring[]*(
-J (S
-
-unitShapes.AngularUnit>
-<
-: (T
-%retstring"__id*
-: (T
-
-%0string*
-2*+
-2U (U"
-T (U
-
-%retstring:&
- (4
-unitShapes.AngularUnitB "
-Shapes.AngularUnitExtensions
+#Shapes.Rectangle.ThicknessSpace.set
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.cs‰ ‰("0*
+0
+‰ ‰(*
+1*“
+1
+‰
+ ‰(^w
+u
+
+‰D ‰(Z=
+Shapes.Rectangle"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpaceƒ
+€
+
+‰
+ ‰(^
+
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*"
+
+‰
+ ‰(
+Shapes.Rectangle*I
+
+‰ ‰(;;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*M
+
+‰= ‰(\?*=
+Shapes.Rectangle"'
+thicknessSpaceShapes.ThicknessSpace*
+2*2
+2
+‰_ ‰(_"!
+
+‰^ ‰(_
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.Rectangle

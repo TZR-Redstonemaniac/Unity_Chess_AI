@@ -1,27 +1,40 @@
 
-"Shapes.Triangle.ThicknessSpace.get~
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csç ç("0*
-0
-ç ç(*
-1*ò
-1
-ç
- ç(Å
-
+Shapes.Line.DashSnap.setñ
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csv v("0*
+0v v(*
+1* 
+1v
+ v(X^
+\
+v> v(G
+%0Shapes.DashStyle"__id*20*.
+Shapes.Line"
+	dashStyleShapes.DashStylek
+i
+v> v(T5
+
+%0Shapes.DashStyle"
+snapShapes.DashSnapping"__id* 
+
+valueShapes.DashSnappingË
+Â
+v
+ v(X
 
-ç
- ç(
-%retShapes.ThicknessSpace"__id*L
-
-ç
- ç(>*<
-Shapes.Triangle"'
-thicknessSpaceShapes.ThicknessSpace*
-2*>
-2
-ç ç("-
-
-ç ç(
-
-%retShapes.ThicknessSpaceB
-Shapes.Triangle
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+v
+ v(
+Shapes.Line*A
+v v(55*3
+Shapes.ShapesMaterialUtils"
+propDashSnapint*C
+v7 v(V7*5
+
+%0Shapes.DashStyle"
+snapShapes.DashSnapping*
+2*.
+2vY v(Y"
+vX v(Y
+implicit return:
+valueShapes.DashSnappingB
+Shapes.Line

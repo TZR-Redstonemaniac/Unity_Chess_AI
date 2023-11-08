@@ -1,37 +1,30 @@
 
-Shapes.Draw.TextLineSpacing.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csš š("0*
-0
-š š(*
-1*·
-1
-š! š(D\
-Z
+;Shapes.ListPool<T>.Free(System.Collections.Generic.List<T>)
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs ("0*
+0 (*
+1*÷
+1 (†
+ƒ
+ (
 
-š! š(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
+%0void"1System.Collections.Generic.ICollection<T>.Clear()*8
+ (,
+*
+list"System.Collections.Generic.List<T>Ù
+Ö
+ (
 
-š! š(0
-%1Shapes.TextStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	textStyleShapes.TextStyleX
-V
-
-š! š(D.
-
-%1Shapes.TextStyle"
-lineSpacingfloat"__id*
-
-valuefloat*
-2*2
-2
-šE š(E"!
-
-šD š(E
-implicit return:
-valuefloatB"
-Shapes.Draw
+%1void"1System.Collections.Generic.ICollection<T>.Push(T)*Q
+ (E*C
+Shapes.ListPool<T>"+
+pool#System.Collections.Generic.Stack<T>*8
+ (,
+*
+list"System.Collections.Generic.List<T>*
+2*.
+2 ("
+ (
+implicit return:6
+ ('*
+list"System.Collections.Generic.List<T>B"
+Shapes.ListPool<T>

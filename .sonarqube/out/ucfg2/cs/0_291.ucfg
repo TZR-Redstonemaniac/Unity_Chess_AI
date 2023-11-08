@@ -1,34 +1,24 @@
 
-<Shapes.PolylinePoint.operator *(float, Shapes.PolylinePoint)
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\PolylinePoint.cs (&"0*
-0 (*
-1*·
-1H (MÆ
-Ã
-H (M
-%0Shapes.PolylinePoint"<Shapes.PolylinePoint.operator *(Shapes.PolylinePoint, float)*"
-Shapes.PolylinePoint*'
-H (I
-
-aShapes.PolylinePoint*
-L (M
+-Shapes.DashStack.Push(bool, Shapes.DashStyle)
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DashStack.cs ("0*
+0 (*
+1*Ï
+1C (gº
+·
+C (g
 
-
-bfloatZ
-X
-H (M
-%retShapes.PolylinePoint"__id*(
-H (M
-
-%0Shapes.PolylinePoint*
-2*9
-2N (N"*
-M (N
-
-%retShapes.PolylinePoint:
-* (1
-
-bfloat:%
-3 (B
-aShapes.PolylinePointB"
-Shapes.PolylinePoint
+%0void"1System.Collections.Generic.ICollection<T>.Push(T)*Q
+C (IE*C
+Shapes.DashStack"-
+dashes#System.Collections.Generic.Stack<T>*
+P (e
+	{unknown}*
+2*.
+2h (h"
+g (h
+implicit return:
+ ((
+prevOnbool:)
+* (=
+	prevStateShapes.DashStyleB"
+Shapes.DashStack

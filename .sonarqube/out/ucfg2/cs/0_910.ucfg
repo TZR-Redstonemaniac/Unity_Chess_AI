@@ -1,18 +1,27 @@
 
-=Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillColorEnd.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csë, ë(/"0*´
-0
-ë0 ë(0¬
-©
+EShapes.StateStack.StateStack(Shapes.DrawStyle, UnityEngine.Matrix4x4)‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\StateStack.cs ("1*
+1N (N*
+0*Þ
+0; (K´
+±
+; (M
 
-ë, ë(0d
-Shapes.MpbRegularPolygon"F
- Shapes.IFillableMpb.fillColorEnd"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"t
+%0void"?Shapes.StateStack.Push(Shapes.DrawStyle, UnityEngine.Matrix4x4)*"
+Shapes.StateStack*
+
+styleShapes.DrawStyle* 
+
+mtxUnityEngine.Matrix4x4"
+; (M
 
-ë, ë(0f*d
-Shapes.MpbRegularPolygon"F
- Shapes.IFillableMpb.fillColorEnd"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+
+%0void*.
+2N (N"
+M (N
+implicit return:%
+ (&
+styleShapes.DrawStyle:(
+( (5
+mtxUnityEngine.Matrix4x4B
+Shapes.StateStack

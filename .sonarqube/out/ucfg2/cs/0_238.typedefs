@@ -1,55 +1,87 @@
-ÈD
-Shapes.PolylinePathShapes.PointPath<T>Shapes.DisposableMeshobject4
-PolylinePath()"Shapes.PolylinePath.PolylinePath()\
-"SetPoint(int, UnityEngine.Vector3)6Shapes.PolylinePath.SetPoint(int, UnityEngine.Vector3)\
-"SetPoint(int, UnityEngine.Vector2)6Shapes.PolylinePath.SetPoint(int, UnityEngine.Vector2)X
- SetColor(int, UnityEngine.Color)4Shapes.PolylinePath.SetColor(int, UnityEngine.Color)D
-AddPoint(float, float)*Shapes.PolylinePath.AddPoint(float, float)R
-AddPoint(float, float, float)1Shapes.PolylinePath.AddPoint(float, float, float)j
-)AddPoint(float, float, UnityEngine.Color)=Shapes.PolylinePath.AddPoint(float, float, UnityEngine.Color)x
-0AddPoint(float, float, float, UnityEngine.Color)DShapes.PolylinePath.AddPoint(float, float, float, UnityEngine.Color)R
-AddPoint(UnityEngine.Vector3)1Shapes.PolylinePath.AddPoint(UnityEngine.Vector3)x
-0AddPoint(UnityEngine.Vector3, UnityEngine.Color)DShapes.PolylinePath.AddPoint(UnityEngine.Vector3, UnityEngine.Color)`
-$AddPoint(UnityEngine.Vector3, float)8Shapes.PolylinePath.AddPoint(UnityEngine.Vector3, float)Ü
-7AddPoint(UnityEngine.Vector3, float, UnityEngine.Color)KShapes.PolylinePath.AddPoint(UnityEngine.Vector3, float, UnityEngine.Color)R
-AddPoint(UnityEngine.Vector2)1Shapes.PolylinePath.AddPoint(UnityEngine.Vector2)x
-0AddPoint(UnityEngine.Vector2, UnityEngine.Color)DShapes.PolylinePath.AddPoint(UnityEngine.Vector2, UnityEngine.Color)`
-$AddPoint(UnityEngine.Vector2, float)8Shapes.PolylinePath.AddPoint(UnityEngine.Vector2, float)Ü
-7AddPoint(UnityEngine.Vector2, float, UnityEngine.Color)KShapes.PolylinePath.AddPoint(UnityEngine.Vector2, float, UnityEngine.Color)§
-FAddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector3>)ZShapes.PolylinePath.AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector3>)f
-'AddPoints(params UnityEngine.Vector3[]);Shapes.PolylinePath.AddPoints(params UnityEngine.Vector3[])§
-FAddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>)ZShapes.PolylinePath.AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>)f
-'AddPoints(params UnityEngine.Vector2[]);Shapes.PolylinePath.AddPoints(params UnityEngine.Vector2[]) 
-YAddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector3>, UnityEngine.Color)mShapes.PolylinePath.AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector3>, UnityEngine.Color) 
-YAddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>, UnityEngine.Color)mShapes.PolylinePath.AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>, UnityEngine.Color)ú
-ÅAddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector3>, System.Collections.Generic.IEnumerable<UnityEngine.Color>)ïShapes.PolylinePath.AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector3>, System.Collections.Generic.IEnumerable<UnityEngine.Color>)ú
-ÅAddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>, System.Collections.Generic.IEnumerable<UnityEngine.Color>)ïShapes.PolylinePath.AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>, System.Collections.Generic.IEnumerable<UnityEngine.Color>)É
-uAddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector3>, System.Collections.Generic.IEnumerable<float>)âShapes.PolylinePath.AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector3>, System.Collections.Generic.IEnumerable<float>)É
-uAddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>, System.Collections.Generic.IEnumerable<float>)âShapes.PolylinePath.AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>, System.Collections.Generic.IEnumerable<float>)˙
-∞AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector3>, System.Collections.Generic.IEnumerable<float>, System.Collections.Generic.IEnumerable<UnityEngine.Color>)ƒShapes.PolylinePath.AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector3>, System.Collections.Generic.IEnumerable<float>, System.Collections.Generic.IEnumerable<UnityEngine.Color>)˙
-∞AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>, System.Collections.Generic.IEnumerable<float>, System.Collections.Generic.IEnumerable<UnityEngine.Color>)ƒShapes.PolylinePath.AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>, System.Collections.Generic.IEnumerable<float>, System.Collections.Generic.IEnumerable<UnityEngine.Color>)¶
-GBezierTo(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3)[Shapes.PolylinePath.BezierTo(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3)¥
-NBezierTo(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3, float)bShapes.PolylinePath.BezierTo(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3, float)∞
-LBezierTo(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3, int)`Shapes.PolylinePath.BezierTo(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3, int)®
-HBezierTo(UnityEngine.Vector3, UnityEngine.Vector3, Shapes.PolylinePoint)\Shapes.PolylinePath.BezierTo(UnityEngine.Vector3, UnityEngine.Vector3, Shapes.PolylinePoint)∂
-OBezierTo(UnityEngine.Vector3, UnityEngine.Vector3, Shapes.PolylinePoint, float)cShapes.PolylinePath.BezierTo(UnityEngine.Vector3, UnityEngine.Vector3, Shapes.PolylinePoint, float)≤
-MBezierTo(UnityEngine.Vector3, UnityEngine.Vector3, Shapes.PolylinePoint, int)aShapes.PolylinePath.BezierTo(UnityEngine.Vector3, UnityEngine.Vector3, Shapes.PolylinePoint, int)¨
-JBezierTo(Shapes.PolylinePoint, Shapes.PolylinePoint, Shapes.PolylinePoint)^Shapes.PolylinePath.BezierTo(Shapes.PolylinePoint, Shapes.PolylinePoint, Shapes.PolylinePoint)∫
-QBezierTo(Shapes.PolylinePoint, Shapes.PolylinePoint, Shapes.PolylinePoint, float)eShapes.PolylinePath.BezierTo(Shapes.PolylinePoint, Shapes.PolylinePoint, Shapes.PolylinePoint, float)∂
-OBezierTo(Shapes.PolylinePoint, Shapes.PolylinePoint, Shapes.PolylinePoint, int)cShapes.PolylinePath.BezierTo(Shapes.PolylinePoint, Shapes.PolylinePoint, Shapes.PolylinePoint, int)é
-;ArcTo(UnityEngine.Vector3, UnityEngine.Vector3, float, int)OShapes.PolylinePath.ArcTo(UnityEngine.Vector3, UnityEngine.Vector3, float, int)ê
-<ArcTo(UnityEngine.Vector3, Shapes.PolylinePoint, float, int)PShapes.PolylinePath.ArcTo(UnityEngine.Vector3, Shapes.PolylinePoint, float, int)Ñ
-6ArcTo(UnityEngine.Vector3, UnityEngine.Vector3, float)JShapes.PolylinePath.ArcTo(UnityEngine.Vector3, UnityEngine.Vector3, float)Ü
-7ArcTo(UnityEngine.Vector3, Shapes.PolylinePoint, float)KShapes.PolylinePath.ArcTo(UnityEngine.Vector3, Shapes.PolylinePoint, float)í
-=ArcTo(UnityEngine.Vector3, UnityEngine.Vector3, float, float)QShapes.PolylinePath.ArcTo(UnityEngine.Vector3, UnityEngine.Vector3, float, float)î
->ArcTo(UnityEngine.Vector3, Shapes.PolylinePoint, float, float)RShapes.PolylinePath.ArcTo(UnityEngine.Vector3, Shapes.PolylinePoint, float, float)∂
-OAddArcPoints(UnityEngine.Vector3, UnityEngine.Vector3, float, bool, int, float)cShapes.PolylinePath.AddArcPoints(UnityEngine.Vector3, UnityEngine.Vector3, float, bool, int, float)∏
-PAddArcPoints(UnityEngine.Vector3, Shapes.PolylinePoint, float, bool, int, float)dShapes.PolylinePath.AddArcPoints(UnityEngine.Vector3, Shapes.PolylinePoint, float, bool, int, float)Æ
-KEnsureMeshIsReadyToRender(bool, Shapes.PolylineJoins, out UnityEngine.Mesh)_Shapes.PolylinePath.EnsureMeshIsReadyToRender(bool, Shapes.PolylineJoins, out UnityEngine.Mesh)j
-)TryUpdateMesh(bool, Shapes.PolylineJoins)=Shapes.PolylinePath.TryUpdateMesh(bool, Shapes.PolylineJoins)¥
-NArcTo(UnityEngine.Vector3, UnityEngine.Vector3, float, int, UnityEngine.Color)bShapes.PolylinePath.ArcTo(UnityEngine.Vector3, UnityEngine.Vector3, float, int, UnityEngine.Color)™
-IArcTo(UnityEngine.Vector3, UnityEngine.Vector3, float, UnityEngine.Color)]Shapes.PolylinePath.ArcTo(UnityEngine.Vector3, UnityEngine.Vector3, float, UnityEngine.Color)∏
-PArcTo(UnityEngine.Vector3, UnityEngine.Vector3, float, float, UnityEngine.Color)dShapes.PolylinePath.ArcTo(UnityEngine.Vector3, UnityEngine.Vector3, float, float, UnityEngine.Color)⁄
-aBezierTo(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3, float, UnityEngine.Color)uShapes.PolylinePath.BezierTo(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3, float, UnityEngine.Color)÷
-_BezierTo(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3, int, UnityEngine.Color)sShapes.PolylinePath.BezierTo(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3, int, UnityEngine.Color)Ã
-ZBezierTo(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Color)nShapes.PolylinePath.BezierTo(UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Vector3, UnityEngine.Color)
+¢"
+Shapes.RectangleShapes.ShapeRendererUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectShapes.IDashableShapes.IFillableA
+SetAllDashValues(bool)'Shapes.Rectangle.SetAllDashValues(bool);
+GetNetDashSpacing()$Shapes.Rectangle.GetNetDashSpacing();
+SetFillProperties()$Shapes.Rectangle.SetFillProperties()I
+UpdateRectPositioningNow()+Shapes.Rectangle.UpdateRectPositioningNow()C
+UpdateRectPositioning()(Shapes.Rectangle.UpdateRectPositioning()=
+GetPositioningRect()%Shapes.Rectangle.GetPositioningRect()I
+SetAllMaterialProperties()+Shapes.Rectangle.SetAllMaterialProperties()9
+ShapeClampRanges()#Shapes.Rectangle.ShapeClampRanges()1
+GetMaterials()Shapes.Rectangle.GetMaterials()=
+GetBounds_Internal()%Shapes.Rectangle.GetBounds_Internal()+
+Rectangle()Shapes.Rectangle.Rectangle()I
+MatchDashSpacingToSize.get+Shapes.Rectangle.MatchDashSpacingToSize.getI
+MatchDashSpacingToSize.set+Shapes.Rectangle.MatchDashSpacingToSize.set)
+
+Dashed.getShapes.Rectangle.Dashed.get)
+
+Dashed.setShapes.Rectangle.Dashed.set-
+DashSize.getShapes.Rectangle.DashSize.get-
+DashSize.setShapes.Rectangle.DashSize.set3
+DashSpacing.get Shapes.Rectangle.DashSpacing.get3
+DashSpacing.set Shapes.Rectangle.DashSpacing.set1
+DashOffset.getShapes.Rectangle.DashOffset.get1
+DashOffset.setShapes.Rectangle.DashOffset.set/
+DashSpace.getShapes.Rectangle.DashSpace.get/
+DashSpace.setShapes.Rectangle.DashSpace.set-
+DashSnap.getShapes.Rectangle.DashSnap.get-
+DashSnap.setShapes.Rectangle.DashSnap.set-
+DashType.getShapes.Rectangle.DashType.get-
+DashType.setShapes.Rectangle.DashType.set?
+DashShapeModifier.get&Shapes.Rectangle.DashShapeModifier.get?
+DashShapeModifier.set&Shapes.Rectangle.DashShapeModifier.set%
+Fill.getShapes.Rectangle.Fill.get%
+Fill.setShapes.Rectangle.Fill.set+
+UseFill.getShapes.Rectangle.UseFill.get+
+UseFill.setShapes.Rectangle.UseFill.set-
+FillType.getShapes.Rectangle.FillType.get-
+FillType.setShapes.Rectangle.FillType.set/
+FillSpace.getShapes.Rectangle.FillSpace.get/
+FillSpace.setShapes.Rectangle.FillSpace.set=
+FillRadialOrigin.get%Shapes.Rectangle.FillRadialOrigin.get=
+FillRadialOrigin.set%Shapes.Rectangle.FillRadialOrigin.set=
+FillRadialRadius.get%Shapes.Rectangle.FillRadialRadius.get=
+FillRadialRadius.set%Shapes.Rectangle.FillRadialRadius.set;
+FillLinearStart.get$Shapes.Rectangle.FillLinearStart.get;
+FillLinearStart.set$Shapes.Rectangle.FillLinearStart.set7
+FillLinearEnd.get"Shapes.Rectangle.FillLinearEnd.get7
+FillLinearEnd.set"Shapes.Rectangle.FillLinearEnd.set9
+FillColorStart.get#Shapes.Rectangle.FillColorStart.get9
+FillColorStart.set#Shapes.Rectangle.FillColorStart.set5
+FillColorEnd.get!Shapes.Rectangle.FillColorEnd.get5
+FillColorEnd.set!Shapes.Rectangle.FillColorEnd.set-
+IsBorder.getShapes.Rectangle.IsBorder.get-
+IsBorder.setShapes.Rectangle.IsBorder.set-
+IsHollow.getShapes.Rectangle.IsHollow.get-
+IsHollow.setShapes.Rectangle.IsHollow.set/
+IsRounded.getShapes.Rectangle.IsRounded.get/
+IsRounded.setShapes.Rectangle.IsRounded.set'
+	Pivot.getShapes.Rectangle.Pivot.get'
+	Pivot.setShapes.Rectangle.Pivot.set'
+	Width.getShapes.Rectangle.Width.get'
+	Width.setShapes.Rectangle.Width.set)
+
+Height.getShapes.Rectangle.Height.get)
+
+Height.setShapes.Rectangle.Height.set%
+Type.getShapes.Rectangle.Type.get%
+Type.setShapes.Rectangle.Type.set=
+CornerRadiusMode.get%Shapes.Rectangle.CornerRadiusMode.get=
+CornerRadiusMode.set%Shapes.Rectangle.CornerRadiusMode.set)
+
+Radius.getShapes.Rectangle.Radius.get)
+
+Radius.setShapes.Rectangle.Radius.set5
+CornerRadius.get!Shapes.Rectangle.CornerRadius.get5
+CornerRadius.set!Shapes.Rectangle.CornerRadius.set3
+CornerRadii.get Shapes.Rectangle.CornerRadii.get3
+CornerRadii.set Shapes.Rectangle.CornerRadii.set5
+CornerRadiii.get!Shapes.Rectangle.CornerRadiii.get5
+CornerRadiii.set!Shapes.Rectangle.CornerRadiii.set/
+Thickness.getShapes.Rectangle.Thickness.get/
+Thickness.setShapes.Rectangle.Thickness.set9
+ThicknessSpace.get#Shapes.Rectangle.ThicknessSpace.get9
+ThicknessSpace.set#Shapes.Rectangle.ThicknessSpace.set;
+HasDetailLevels.get$Shapes.Rectangle.HasDetailLevels.get;
+HasDetailLevels.set$Shapes.Rectangle.HasDetailLevels.set

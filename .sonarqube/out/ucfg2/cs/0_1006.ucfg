@@ -1,38 +1,27 @@
 
-Shapes.Draw.TextWordSpacing.getà
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csì ì("0*
+%Shapes.DashStyle.DefaultDashStyle.get
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.csÑ Ñ("0*
 0
-ì ì(*
-1*¬
+Ñ Ñ(*
+1*ê
 1
-ì! ì(<\
-Z
+Ñ
+ Ñ(z
+x
 
-ì! ì(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
+Ñ
+ Ñ(
+%retShapes.DashStyle"__id*J
 
-ì! ì(0
-%1Shapes.TextStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	textStyleShapes.TextStylec
-a
-
-ì! ì(<
-%retfloat"__id*>
-
-ì! ì(<0*.
-
-%1Shapes.TextStyle"
-wordSpacingfloat*
-2*.
+Ñ
+ Ñ(<*:
+Shapes.DashStyle"$
+defaultDashStyleShapes.DashStyle*
+2*9
 2
-ì= ì(="
+Ñ Ñ("(
 
-ì< ì(=
-
-%retfloatB"
-Shapes.Draw
+Ñ Ñ(
+
+%retShapes.DashStyleB"
+Shapes.DashStyle

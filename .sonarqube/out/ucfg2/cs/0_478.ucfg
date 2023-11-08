@@ -1,35 +1,50 @@
 
-#Shapes.RegularPolygon.FillSpace.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs© ©("0*
+#Shapes.RegularPolygon.FillSpace.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csª ª("0*
 0
-© ©(*
-1*ù
+ª ª(*
+1*í
 1
-©
- ©(k
+ª
+ ª(Uk
 i
 
-©
- ©(
+ª? ª(C
 %0Shapes.GradientFill"__id*:8*6
 Shapes.RegularPolygon"
-fillShapes.GradientFillv
-t
+fillShapes.GradientFillk
+i
 
-©
- ©(
-%retShapes.FillSpace"__id*F
+ª? ª(Q6
+
+%0Shapes.GradientFill"
+spaceShapes.FillSpace"__id*
+
+valueShapes.FillSpaceü
+ù
 
-©
- ©(8*6
+ª
+ ª(U
+
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*'
+
+ª
+ ª(
+Shapes.RegularPolygon*D
+
+ª ª(66*4
+Shapes.ShapesMaterialUtils"
+propFillSpaceint*F
+
+ª8 ª(S8*6
 
 %0Shapes.GradientFill"
 spaceShapes.FillSpace*
-2*9
+2*2
 2
-© ©("(
+ªV ª(V"!
 
-© ©(
-
-%retShapes.FillSpaceB
+ªU ª(V
+implicit return:
+valueShapes.FillSpaceB
 Shapes.RegularPolygon

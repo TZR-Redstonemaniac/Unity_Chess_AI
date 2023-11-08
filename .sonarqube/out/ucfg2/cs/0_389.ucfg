@@ -1,80 +1,35 @@
 
-Shapes.Rectangle.DashSpace.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csø ø("0*
+Shapes.Rectangle.DashSpace.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs÷ ÷("0*
 0
-ø ø(*
-1*±
+÷ ÷(*
+1*ð
 1
-ù ú(ge
+÷
+ ÷(e
 c
 
-ù6 ù(?
+÷
+ ÷(
 %0Shapes.DashStyle"__id*75*3
 Shapes.Rectangle"
-	dashStyleShapes.DashStyleh
-f
+	dashStyleShapes.DashStyles
+q
 
-ù6 ù(M3
+÷
+ ÷(
+%retShapes.DashSpace"__id*C
+
+÷
+ ÷(5*3
 
 %0Shapes.DashStyle"
-spaceShapes.DashSpace"__id*
-
-valueShapes.DashSpaceñ
-î
-
-ù ù(Q
-
-%1void"%Shapes.ShapeRenderer.SetInt(int, int)*"
-
-ù ù(
-
-Shapes.Rectangle*D
-
-ù ù(-6*4
-Shapes.ShapesMaterialUtils"
-propDashSpaceint*C
-
-ù/ ù(O5*3
-
-%0Shapes.DashStyle"
-spaceShapes.DashSpaceƒ
-€
-
-ú3 ú(d
-%2float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*C
-
-ú3 ú(<5*3
-Shapes.Rectangle"
-	dashStyleShapes.DashStyle*4
-
-úQ ú(W&*$
-Shapes.Rectangle"
-dashedbool*8
-
-úY ú(b**(
-Shapes.Rectangle"
-	thicknessfloatÏ
-Ì
-
-ú ú(f
-
-%3void",Shapes.ShapeRenderer.SetFloatNow(int, float)*"
-
-ú ú(
-Shapes.Rectangle*C
-
-ú ú(15*3
-Shapes.ShapesMaterialUtils"
-propDashSizeint*
-
-ú3 ú(d
-
-%2float*
-2*2
+spaceShapes.DashSpace*
+2*9
 2
-û û("!
+÷ ÷("(
 
-û û(
-implicit return:
-valueShapes.DashSpaceB
+÷ ÷(
+
+%retShapes.DashSpaceB
 Shapes.Rectangle

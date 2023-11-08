@@ -1,35 +1,35 @@
 
-!Shapes.Draw.SphereRadiusSpace.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs³ ³("0*
+ Shapes.Draw.TorusRadiusSpace.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÅ Å("0*
 0
-³ ³(*
+Å Å(*
 1*ù
 1
-³
- ³(\
+Å
+ Å(\
 Z
 
-³
- ³(
+Å
+ Å(
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
 styleShapes.DrawStyle„
 
 
-³
- ³(
+Å
+ Å(
 %retShapes.ThicknessSpace"__id*N
 
-³
- ³(@*>
+Å
+ Å(@*>
 
 %0Shapes.DrawStyle"$
 radiusSpaceShapes.ThicknessSpace*
 2*>
 2
-³ ³("-
+Å Å("-
 
-³ ³(
+Å Å(
 
 %retShapes.ThicknessSpaceB"
 Shapes.Draw

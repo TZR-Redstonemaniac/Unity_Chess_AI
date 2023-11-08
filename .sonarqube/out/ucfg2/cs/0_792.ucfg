@@ -1,15 +1,21 @@
 
-/Shapes.MpbDisc.Shapes.IDashableMpb.dashType.set…
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs9& 9()"0*’
-09* 9(*œ
-™
-9& 9(*V
-Shapes.MpbDisc"B
-Shapes.IDashableMpb.dashType"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"d
-9& 9(*X*V
-Shapes.MpbDisc"B
-Shapes.IDashableMpb.dashType"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbDisc
+Shapes.Polyline.Closed.get|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.cs8 8("0*
+08 8(*
+1*g
+18
+ 8(S
+Q
+8
+ 8(
+%retbool"__id*1
+8
+ 8(%*#
+Shapes.Polyline"
+closedbool*
+2*)
+28 8("
+8 8(
+
+%retboolB
+Shapes.Polyline

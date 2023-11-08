@@ -1,21 +1,50 @@
 
- Shapes.Polygon.Triangulation.get{
-qC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polygon.cs% %("0*
-0% %(*
-1*ù
-1%
- %(à
-Ö
-%
- %(#
-%retShapes.PolygonTriangulation"__id*N
-%
- %(B*@
-Shapes.Polygon",
-triangulationShapes.PolygonTriangulation*
-2*@
-2% %("1
-% %(%
-#
-%retShapes.PolygonTriangulationB
-Shapes.Polygon
+Shapes.Triangle.DashOffset.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÄ Ä("0*
+0
+Ä Ä(*
+1*¿
+1
+Ä
+ Ä(Ud
+b
+
+Ä; Ä(D
+%0Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyleS
+Q
+
+Ä; Ä(S)
+
+%0Shapes.DashStyle"
+offsetfloat"__id*
+
+valuefloatÓ
+Î
+
+Ä
+ Ä(U
+
+%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*!
+
+Ä
+ Ä(
+Shapes.Triangle*E
+
+Ä Ä(97*5
+Shapes.ShapesMaterialUtils"
+propDashOffsetint*9
+
+Ä; Ä(S+*)
+
+%0Shapes.DashStyle"
+offsetfloat*
+2*2
+2
+ÄV Ä(V"!
+
+ÄU Ä(V
+implicit return:
+valuefloatB
+Shapes.Triangle

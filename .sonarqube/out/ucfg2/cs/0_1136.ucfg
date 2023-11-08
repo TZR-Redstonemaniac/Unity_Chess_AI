@@ -1,33 +1,18 @@
 
-'Shapes.Draw.RegularPolygonThickness.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs„ „("0*
+8Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillEnd.set‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csì' ì(*"0*ª
 0
-„ „(*
-1*Ê
-1
-„
- „(!\
-Z
+ì+ ì(+§
+¤
 
-„
- „(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleV
-T
+ì' ì(+_
+Shapes.MpbRegularPolygon"A
+Shapes.IFillableMpb.fillEnd"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"o
 
-„
- „(!,
-
-%0Shapes.DrawStyle"
-	thicknessfloat"__id*
-
-valuefloat*
-2*2
-2
-„" „(""!
-
-„! „("
-implicit return:
-valuefloatB"
-Shapes.Draw
+ì' ì(+a*_
+Shapes.MpbRegularPolygon"A
+Shapes.IFillableMpb.fillEnd"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

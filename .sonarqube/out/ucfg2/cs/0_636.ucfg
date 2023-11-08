@@ -1,21 +1,42 @@
 
-Shapes.Rectangle.Width.get}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.cs: :("0*
-0: :(*
-1*i
-1:
- :(U
-S
-:
- :(
-%retfloat"__id*2
-:
- :(&*$
-Shapes.Rectangle"
-widthfloat*
-2**
-2: :("
-: :(
+Shapes.Disc.RadiusSpace.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csš š("0*
+0
+š š(*
+1*û
+1
+š
+ š(Xo
+m
 
-%retfloatB
-Shapes.Rectangle
+šA š(T5
+Shapes.Disc"$
+radiusSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpaceó
+ð
+
+š
+ š(X
+
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+
+š
+ š(
+Shapes.Disc*F
+
+š š(88*6
+Shapes.ShapesMaterialUtils"
+propRadiusSpaceint*E
+
+š: š(V7*5
+Shapes.Disc"$
+radiusSpaceShapes.ThicknessSpace*
+2*2
+2
+šY š(Y"!
+
+šX š(Y
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.Disc

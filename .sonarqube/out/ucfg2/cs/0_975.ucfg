@@ -1,26 +1,21 @@
 
-!Shapes.RenderState.Equals(object)
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\RenderState.cs_ _("0*Y
-0_/ _(GB
-@
-_/ _(G
-otherShapes.RenderState"__id*
+ Shapes.DashStyle.UniformSize.get}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.csC C("0*
+0C C(*
+1*h
+1C
+ C(T
+R
+C
+ C(
+%retfloat"__id*1
+C
+ C(%*#
+Shapes.DashStyle"
+sizefloat*
+2**
+2C C("
+C C(
 
-objobject*
-1
-2*˜
-1_K _(Xƒ
-€
-_K _(Z
-
-%0bool"-Shapes.RenderState.Equals(Shapes.RenderState)*
-Shapes.RenderState*
-
-otherShapes.RenderState*
-2*.
-2_[ _(["
-_Z _([
-implicit return:
-_ _()
-objobjectB
-Shapes.RenderState
+%retfloatB
+Shapes.DashStyle

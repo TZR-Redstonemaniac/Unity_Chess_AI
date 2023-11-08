@@ -1,21 +1,21 @@
 
-Shapes.Rectangle.Type.get}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csN N("0*
-0N N(*
-1*œ
-1N
- N(‡
-„
-N
- N(&
-%retShapes.Rectangle.RectangleType"__id*J
-N
- N(>*<
-Shapes.Rectangle"&
-typeShapes.Rectangle.RectangleType*
-2*C
-2N N("4
-N N((
-&
-%retShapes.Rectangle.RectangleTypeB
-Shapes.Rectangle
+Shapes.ShapeGroup.Color.get~
+tC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeGroup.cs$ $("0*
+0$ $(*
+1*‚
+1$
+ $(n
+l
+$
+ $(
+%retUnityEngine.Color"__id*?
+$
+ $(3*1
+Shapes.ShapeGroup"
+colorUnityEngine.Color*
+2*6
+2$ $("'
+$ $(
+
+%retUnityEngine.ColorB
+Shapes.ShapeGroup

@@ -1,0 +1,31 @@
+
+*Renderers.RenderBoard.RenderBoard()!staticu
+kC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Renderers\RenderBoard.cs ("0*¬
+0" "(l
+j
+0 (Q	
+%0int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_DarkColorN
+L
+$ (Q+
+Renderers.RenderBoard"
+	DarkColorint"__id*
+	
+%0intm
+k
+1 (S	
+%1int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_LightColorO
+M
+$ (S,
+Renderers.RenderBoard"
+
+LightColorint"__id*
+	
+%1int"
+ "(
+implicit returnB"
+Renderers.RenderBoard

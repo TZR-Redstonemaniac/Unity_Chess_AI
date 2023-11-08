@@ -1,169 +1,21 @@
 
-)Shapes.RegularPolygon.SetFillProperties()˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÎ Î( "0*
-0
-Î Î(*
-1*
-1
-Ï Ï(*
-2
-3*Š
-2
-Ð Ô(@k
-i
-
-Ð4 Ð(8
-%0Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFillù
-ö
-
-Ð Ð(@
-
-%1void"%Shapes.ShapeRenderer.SetInt(int, int)*'
-
-Ð Ð(
-
-Shapes.RegularPolygon*D
-
-Ð Ð(-6*4
-Shapes.ShapesMaterialUtils"
-propFillSpaceint*F
-
-Ð/ Ð(>8*6
-
-%0Shapes.GradientFill"
-spaceShapes.FillSpacež
-›
-
-Ñ3 Ñ(N
-%2UnityEngine.Vector4"*Shapes.GradientFill.GetShaderStartVector()*F
-
-Ñ3 Ñ(78*6
-Shapes.RegularPolygon"
-fillShapes.GradientFillð
-í
-
-Ñ Ñ(P
-
-%3void"9Shapes.ShapeRenderer.SetVector4(int, UnityEngine.Vector4)*'
-
-Ñ Ñ(
-Shapes.RegularPolygon*D
-
-Ñ Ñ(16*4
-Shapes.ShapesMaterialUtils"
-propFillStartint*)
-
-Ñ3 Ñ(N
-
-%2UnityEngine.Vector4k
-i
-
-Ò1 Ò(5
-%4Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFill’
-
-
-Ò Ò(A
-
-%5void"9Shapes.ShapeRenderer.SetVector3(int, UnityEngine.Vector3)*'
-
-Ò Ò(
-Shapes.RegularPolygon*B
-
-Ò Ò(/4*2
-Shapes.ShapesMaterialUtils"
-propFillEndint*M
-
-Ò1 Ò(??*=
-
-%4Shapes.GradientFill" 
-	linearEndUnityEngine.Vector3k
-i
-
-Ó- Ó(1
-%6Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFill‹
-ˆ
-
-Ó Ó(>
-
-%7void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*'
-
-Ó Ó(
-Shapes.RegularPolygon*@
-
-Ó Ó(+2*0
-Shapes.ShapesMaterialUtils"
-	propColorint*L
-
-Ó- Ó(<>*<
-
-%6Shapes.GradientFill"
-
-colorStartUnityEngine.Colork
-i
-
-Ô0 Ô(4
-%8Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFillŒ
-‰
-
-Ô Ô(?
-
-%9void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*'
-
-Ô Ô(
-Shapes.RegularPolygon*C
-
-Ô Ô(.5*3
-Shapes.ShapesMaterialUtils"
-propColorEndint*J
-
-Ô0 Ô(=<*:
-
-%8Shapes.GradientFill"
-colorEndUnityEngine.Color*
-3*¶
-3
-× ×(TÏ
-Ì
-
-×- ×(Q
-
-%10int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*F
-
-×- ×(18*6
-Shapes.RegularPolygon"
-fillShapes.GradientFill*:
-
-×H ×(O,**
-Shapes.RegularPolygon"
-useFillboolÍ
-Ê
-
-× ×(S
-%11void"%Shapes.ShapeRenderer.SetInt(int, int)*'
-
-× ×(	
-Shapes.RegularPolygon*C
-
-× ×(+5*3
-Shapes.ShapesMaterialUtils"
-propFillTypeint*
-
-×- ×(Q
-
-
-%10int*
-4*2
-4
-Ø Ø("!
-
-Ø Ø(
-implicit returnB
-Shapes.RegularPolygon
+Shapes.Triangle.A.get|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csj j("0*
+0j j(*
+1*€
+1j
+ j(l
+j
+j
+ j(
+%retUnityEngine.Vector3"__id*;
+j
+ j(/*-
+Shapes.Triangle"
+aUnityEngine.Vector3*
+2*8
+2j j(")
+j j(
+
+%retUnityEngine.Vector3B
+Shapes.Triangle

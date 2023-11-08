@@ -1,102 +1,28 @@
 
-*Shapes.MpbLine3D.TransferShapeProperties()Ö
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs} }(1"0*
-0} }(*
-1*ì
-1	~ É(F¶
-£
-~ ~(9
-
-%0void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
-~ ~(
-Shapes.MpbLine3D*A
-~ ~(-5*3
-Shapes.ShapesMaterialUtils"
-propColorEndint*R
-~/ ~(7F*D
-Shapes.MpbLine3D".
-colorEnd"System.Collections.Generic.List<T>¶
-£
- (9
-
-%1void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
- (
-Shapes.MpbLine3D*A
- (-5*3
-Shapes.ShapesMaterialUtils"
-propPointEndint*R
-/ (7F*D
-Shapes.MpbLine3D".
-pointEnd"System.Collections.Generic.List<T>≤
-Ø
-
-Ä Ä(=
-
-%2void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*"
-
-Ä Ä(
-Shapes.MpbLine3D*E
-
-Ä Ä(/7*5
-Shapes.ShapesMaterialUtils"
-propPointStartint*V
-
-Ä1 Ä(;H*F
-Shapes.MpbLine3D"0
-
-pointStart"System.Collections.Generic.List<T>¢
-ü
-
-Å Å(;
-
-%3void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*"
-
-Å Å(
-Shapes.MpbLine3D*D
-
-Å Å(.6*4
-Shapes.ShapesMaterialUtils"
-propScaleModeint*U
-
-Å0 Å(9G*E
-Shapes.MpbLine3D"/
-	scaleMode"System.Collections.Generic.List<T>¢
-ü
-
-Ç Ç(;
-
-%4void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*"
-
-Ç Ç(
-Shapes.MpbLine3D*D
-
-Ç Ç(.6*4
-Shapes.ShapesMaterialUtils"
-propThicknessint*U
-
-Ç0 Ç(9G*E
-Shapes.MpbLine3D"/
-	thickness"System.Collections.Generic.List<T>¨
-©
-
-É É(E
-
-%5void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*"
-
-É É(
-Shapes.MpbLine3D*I
-
-É É(3;*9
-Shapes.ShapesMaterialUtils"
-propThicknessSpaceint*Z
-
-É5 É(CL*J
-Shapes.MpbLine3D"4
-thicknessSpace"System.Collections.Generic.List<T>*
-2*2
-2
-Ñ Ñ("!
-
-Ñ Ñ(
-implicit returnB
-Shapes.MpbLine3D
+!Shapes.Rectangle.CornerRadiii.get}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csv v("0*
+0v v(*
+1*Ÿ
+1v
+ v(k
+i
+v
+ v(
+%0UnityEngine.Vector4" Shapes.Rectangle.CornerRadii.get* 
+v
+ v(
+Shapes.RectangleX
+V
+v
+ v(
+%retUnityEngine.Vector4"__id*'
+v
+ v(
+
+%0UnityEngine.Vector4*
+2*8
+2v v(")
+v v(
+
+%retUnityEngine.Vector4B
+Shapes.Rectangle

@@ -1,37 +1,31 @@
 
-Shapes.Draw.Font.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csö ö("0*
-0
-ö ö(*
-1*Ì
-1
-ö! ö(=\
-Z
-
-ö! ö(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
-
-ö! ö(0
-%1Shapes.TextStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	textStyleShapes.TextStylem
-k
-
-ö! ö(=5
-
-%1Shapes.TextStyle"
-fontTMPro.TMP_FontAsset"__id* 
-
-valueTMPro.TMP_FontAsset*
-2*2
-2
-ö> ö(>"!
-
-ö= ö(>
-implicit return:
-valueTMPro.TMP_FontAssetB"
-Shapes.Draw
+?Shapes.GradientFill.GetRadialOriginWorld(UnityEngine.Transform)€
+vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.cs^ ^(%"0*
+0^ ^(*
+1*€
+1^9 ^(X‘
+Ž
+^9 ^(X
+%0UnityEngine.Vector3"KShapes.GradientFill.GetWorldPos(UnityEngine.Transform, UnityEngine.Vector3)*#
+^9 ^(D
+Shapes.GradientFill*)
+^F ^(H
+
+tfUnityEngine.Transform*J
+^J ^(V>*<
+Shapes.GradientFill"#
+radialOriginUnityEngine.Vector3X
+V
+^9 ^(X
+%retUnityEngine.Vector3"__id*'
+^9 ^(X
+
+%0UnityEngine.Vector3*
+2*8
+2^Y ^(Y")
+^X ^(Y
+
+%retUnityEngine.Vector3:'
+^' ^(3
+tfUnityEngine.TransformB
+Shapes.GradientFill

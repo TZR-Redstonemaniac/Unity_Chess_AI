@@ -1,30 +1,28 @@
 
-Shapes.Draw.ZOffsetFactor.set†
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csK K("0*
-0K K(*
-1*¹
-1K! K(HZ
-X
-K! K(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylem
-k
-K! K(2
-%1Shapes.RenderState"__id*?=*;
+Shapes.Disc.DashType.get–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs; ;("0*
+0; ;(*
+1*à
+1;
+ ;(^
+\
+;
+ ;(
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStylel
+j
+;
+ ;(
+%retShapes.DashType"__id*?
+;
+ ;(3*1
 
-%0Shapes.DrawStyle"!
-renderStateShapes.RenderStateZ
-X
-K! K(H2
-
-%1Shapes.RenderState"
-zOffsetFactorfloat"__id*
-
-valuefloat*
-2*.
-2KI K(I"
-KH K(I
-implicit return:
-valuefloatB"
-Shapes.Draw
+%0Shapes.DashStyle"
+typeShapes.DashType*
+2*4
+2; ;("%
+; ;(
+
+%retShapes.DashTypeB
+Shapes.Disc

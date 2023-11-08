@@ -1,16 +1,48 @@
 
-.Shapes.MpbRect.Shapes.IFillableMpb.fillEnd.getá
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs≈' ≈(*"0*Ê
+*Shapes.MpbSphere.TransferShapeProperties()á
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csé é(1"0*
 0
-≈+ ≈(+ö
-ó
+é é(*
+1*‹
+1
+è ê(@ú
+ô
 
-≈' ≈(+(
-%0"System.Collections.Generic.List<T>"__id*YW*U
-Shapes.MpbRect"A
-Shapes.IFillableMpb.fillEnd"System.Collections.Generic.List<T>"8
+è è(5
 
-≈' ≈(+*
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbRect
+%0void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*"
+
+è è(
+Shapes.MpbSphere*A
+
+è è(+3*1
+Shapes.ShapesMaterialUtils"
+
+propRadiusint*R
+
+è- è(3D*B
+Shapes.MpbSphere",
+radius"System.Collections.Generic.List<T>¶
+£
+
+ê ê(?
+
+%1void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*"
+
+ê ê(
+Shapes.MpbSphere*F
+
+ê ê(08*6
+Shapes.ShapesMaterialUtils"
+propRadiusSpaceint*W
+
+ê2 ê(=I*G
+Shapes.MpbSphere"1
+radiusSpace"System.Collections.Generic.List<T>*
+2*2
+2
+ë ë("!
+
+ë ë(
+implicit returnB
+Shapes.MpbSphere

@@ -1,35 +1,35 @@
 
-Shapes.Polygon.FillType.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs– –("0*
+"Shapes.RegularPolygon.DashSize.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csè è("0*
 0
-– –(*
-1*ï
+è è(*
+1*Þ
 1
-–
- –(d
-b
+è
+ è(j
+h
 
-–
- –(
-%0Shapes.GradientFill"__id*31*/
-Shapes.Polygon"
-fillShapes.GradientFills
-q
+è
+ è(
+%0Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStyle\
+Z
 
-–
- –(
-%retShapes.FillType"__id*D
+è
+ è(
+%retfloat"__id*7
 
-–
- –(6*4
-
-%0Shapes.GradientFill"
-typeShapes.FillType*
-2*8
+è
+ è()*'
+
+%0Shapes.DashStyle"
+sizefloat*
+2*.
 2
-– –("'
+è è("
 
-– –(
-
-%retShapes.FillTypeB
-Shapes.Polygon
+è è(
+
+%retfloatB
+Shapes.RegularPolygon

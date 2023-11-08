@@ -1,51 +1,30 @@
 
-Shapes.Line.DashSpacing.get–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csc c("0*
-0c c(*
-1*
-1c
- c( *
-2
-3*Ç
-2c# c(1^
-\
-c# c(,
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStyleS
-Q
-c# c(1
-	%capture0float"__id*+)*'
-
-%0Shapes.DashStyle"
-sizefloat*
-4*Ê
-3c4 c(E^
-\
-c4 c(=
-%1Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStyleV
-T
-c4 c(E
-	%capture0float"__id*.,**
-
-%1Shapes.DashStyle"
-spacingfloat*
-4*W
-4c
- c(EC
-A
-c
- c(E
-%retfloat"__id* 
-c
- c(E
-
-	%capture0float*
-5**
-5cF c(F"
-cE c(F
+Shapes.Draw.DashStyle.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs‚ ‚("0*
+0
+‚ ‚(*
+1*à
+1
+‚! ‚(8\
+Z
 
-%retfloatB
-Shapes.Line
+‚! ‚(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylel
+j
+
+‚! ‚(87
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStyle"__id*
+
+valueShapes.DashStyle*
+2*2
+2
+‚9 ‚(9"!
+
+‚8 ‚(9
+implicit return:
+valueShapes.DashStyleB"
+Shapes.Draw

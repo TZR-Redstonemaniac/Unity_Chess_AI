@@ -1,42 +1,42 @@
 
-"Shapes.Triangle.ThicknessSpace.set~
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csé é("0*
+Shapes.Disc.ThicknessSpace.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs∞ ∞("0*
 0
-é é(*
-1*ê
+∞ ∞(*
+1*Ñ
 1
-é
- é(^v
-t
+∞
+ ∞(^r
+p
 
-éD é(Z<
-Shapes.Triangle"'
+∞D ∞(Z8
+Shapes.Disc"'
 thicknessSpaceShapes.ThicknessSpace"__id*" 
 
-valueShapes.ThicknessSpaceÅ
-˛
+valueShapes.ThicknessSpace˘
+ˆ
 
-é
- é(^
+∞
+ ∞(^
 
-%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*!
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
 
-é
- é(
-Shapes.Triangle*I
+∞
+ ∞(
+Shapes.Disc*I
 
-é é(;;*9
+∞ ∞(;;*9
 Shapes.ShapesMaterialUtils"
-propThicknessSpaceint*L
+propThicknessSpaceint*H
 
-é= é(\>*<
-Shapes.Triangle"'
+∞= ∞(\:*8
+Shapes.Disc"'
 thicknessSpaceShapes.ThicknessSpace*
 2*2
 2
-é_ é(_"!
+∞_ ∞(_"!
 
-é^ é(_
+∞^ ∞(_
 implicit return: 
-valueShapes.ThicknessSpaceB
-Shapes.Triangle
+valueShapes.ThicknessSpaceB
+Shapes.Disc

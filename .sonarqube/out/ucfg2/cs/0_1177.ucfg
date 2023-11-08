@@ -1,43 +1,18 @@
 
-%Shapes.ShapeRenderer.SortingOrder.getÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs( (("0*
-0( ((*
-1*µ
-1(
- ((@¯
-ı
-(
- ((3
-%1UnityEngine.MeshRenderer"@Shapes.ShapeRenderer.MakeSureComponentExists<T>(ref T, out bool)*$
-(
- ((!
-Shapes.ShapeRenderer*G
-(# ((*;*9
-Shapes.ShapeRenderer"
-rndUnityEngine.MeshRenderer*
-(, ((1
+BShapes.MpbRegularPolygon.Shapes.IDashableMpb.dashShapeModifier.setá
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÛ/ Û(2"0*æ
+0
+Û3 Û(3±
+Æ
 
+Û/ Û(3i
+Shapes.MpbRegularPolygon"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"y
 
-%0booll
-j
-(
- ((@	
-%2int"%UnityEngine.Renderer.sortingOrder.get*,
-(
- ((3 
-
-%1UnityEngine.MeshRenderer8
-6
-(
- ((@
-%retint"__id*
-(
- ((@
-	
-%2int*
-2*(
-2(A ((A"
-(@ ((A
-
-%retintB
-Shapes.ShapeRenderer
+Û/ Û(3k*i
+Shapes.MpbRegularPolygon"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

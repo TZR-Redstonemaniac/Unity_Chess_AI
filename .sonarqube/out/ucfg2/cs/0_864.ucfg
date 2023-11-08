@@ -1,37 +1,15 @@
 
-Shapes.Draw.DashSpacing.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs© ©("0*
-0
-© ©(*
-1*³
-1
-©! ©(@\
-Z
-
-©! ©(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
-
-©! ©(0
-%1Shapes.DashStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStyleT
-R
-
-©! ©(@*
-
-%1Shapes.DashStyle"
-spacingfloat"__id*
-
-valuefloat*
-2*2
-2
-©A ©(A"!
-
-©@ ©(A
-implicit return:
-valuefloatB"
-Shapes.Draw
+/Shapes.MpbDisc.Shapes.IDashableMpb.dashType.set…
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs9& 9()"0*’
+09* 9(*œ
+™
+9& 9(*V
+Shapes.MpbDisc"B
+Shapes.IDashableMpb.dashType"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"d
+9& 9(*X*V
+Shapes.MpbDisc"B
+Shapes.IDashableMpb.dashType"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbDisc

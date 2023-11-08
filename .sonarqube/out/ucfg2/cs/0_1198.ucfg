@@ -1,35 +1,18 @@
 
-Shapes.Draw.ConeSizeSpace.getà
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÀ À("0*
+9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSize.setá
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÙ& Ù()"0*¨
 0
-À À(*
-1*ˆ
-1
-À
- À(\
-Z
+Ù* Ù(*®
+•
 
-À
- À(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleÅ
-
+Ù& Ù(*`
+Shapes.MpbRegularPolygon"B
+Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"p
 
-À
- À(
-%retShapes.ThicknessSpace"__id*L
-
-À
- À(>*<
-
-%0Shapes.DrawStyle""
-	sizeSpaceShapes.ThicknessSpace*
-2*>
-2
-À À("-
-
-À À(
-
-%retShapes.ThicknessSpaceB"
-Shapes.Draw
+Ù& Ù(*b*`
+Shapes.MpbRegularPolygon"B
+Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

@@ -1,64 +1,48 @@
 
-%Shapes.RegularPolygon.DashSpacing.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csò ò("0*
-0
-ò ò(*
-1*
-1
-ò
- ò( *
-2
-3*×
-2
-ò# ò(1j
-h
+Shapes.Line.Color.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs1 1("0*
+01 1(*
+1*¶
+12 3(F_
+]
+2- 2(:+
+Shapes.Line"
+colorUnityEngine.Color"__id*
+
+valueUnityEngine.Colorè
+å
+2 2(<
 
-ò# ò(,
-%0Shapes.DashStyle"__id*<:*8
-Shapes.RegularPolygon"
-	dashStyleShapes.DashStyleU
-S
+%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+2 2(
+Shapes.Line*>
+2 2(+2*0
+Shapes.ShapesMaterialUtils"
+	propColorint*9
+2- 2(:-*+
+Shapes.Line"
+colorUnityEngine.Colorb
+`
+33 3(C.
+Shapes.Line"
+colorEndUnityEngine.Color"__id*
+
+valueUnityEngine.Colorñ
+î
+3 3(E
 
-ò# ò(1
-	%capture0float"__id*+)*'
-
-%0Shapes.DashStyle"
-sizefloat*
-4*Ú
-3
-ò4 ò(Ej
-h
-
-ò4 ò(=
-%1Shapes.DashStyle"__id*<:*8
-Shapes.RegularPolygon"
-	dashStyleShapes.DashStyleX
-V
-
-ò4 ò(E
-	%capture0float"__id*.,**
-
-%1Shapes.DashStyle"
-spacingfloat*
-4*]
-4
-ò
- ò(EG
-E
-
-ò
- ò(E
-%retfloat"__id*"
-
-ò
- ò(E
-
-	%capture0float*
-5*.
-5
-òF ò(F"
-
-òE ò(F
-
-%retfloatB
-Shapes.RegularPolygon
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+3 3(
+Shapes.Line*A
+3 3(15*3
+Shapes.ShapesMaterialUtils"
+propColorEndint*<
+33 3(C0*.
+Shapes.Line"
+colorEndUnityEngine.Color*
+2*.
+24 4("
+4 4(
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Line

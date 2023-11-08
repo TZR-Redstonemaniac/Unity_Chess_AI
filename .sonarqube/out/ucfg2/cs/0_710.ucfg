@@ -1,21 +1,21 @@
 
-Shapes.Cuboid.SizeSpace.getz
-pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Cuboid.cs ("0*
-0 (*
-1*Š
-1
- (v
-t
-
- (
-%retShapes.ThicknessSpace"__id*C
-
- (7*5
-Shapes.Cuboid""
-	sizeSpaceShapes.ThicknessSpace*
-2*:
-2 ("+
- (
-
-%retShapes.ThicknessSpaceB
-Shapes.Cuboid
+#Shapes.RegularPolygon.Thickness.get‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.csG G("0*
+0G G(*
+1*r
+1G
+ G(^
+\
+G
+ G(
+%retfloat"__id*;
+G
+ G(/*-
+Shapes.RegularPolygon"
+	thicknessfloat*
+2**
+2G G("
+G G(
+
+%retfloatB
+Shapes.RegularPolygon

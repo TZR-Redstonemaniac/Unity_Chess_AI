@@ -1,7 +1,7 @@
-ß
-NeuralNetworkobjectH
-NeuralNetwork(params int[]))NeuralNetwork.NeuralNetwork(params int[])F
-CalculateOutputs(double[])(NeuralNetwork.CalculateOutputs(double[])D
-Classify(params double[])'NeuralNetwork.Classify(params double[])D
-IndexOfMaxValue(double[])'NeuralNetwork.IndexOfMaxValue(double[])(
-GetLayers()NeuralNetwork.GetLayers()
+Ö
+Renderers.RenderPiecesUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject)
+Start()Renderers.RenderPieces.Start()+
+Update()Renderers.RenderPieces.Update()a
+#ConvertCoordinatesToWorldPosition():Renderers.RenderPieces.ConvertCoordinatesToWorldPosition()c
+$CreatePiece(UnityEngine.Sprite, int);Renderers.RenderPieces.CreatePiece(UnityEngine.Sprite, int)7
+RenderPieces()%Renderers.RenderPieces.RenderPieces()

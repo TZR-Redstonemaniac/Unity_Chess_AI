@@ -1,38 +1,20 @@
 
-Shapes.Draw.DashSpace.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs ("0*
-0
- (*
-1*Ò
-1
-! (6\
-Z
-
-! (&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
-
-! (0
-%1Shapes.DashStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStyles
-q
-
-! (6
-%retShapes.DashSpace"__id*C
-
-! (65*3
-
-%1Shapes.DashStyle"
-spaceShapes.DashSpace*
-2*9
-2
-7 (7"(
-
-6 (7
-
-%retShapes.DashSpaceB"
-Shapes.Draw
+%Shapes.Rectangle.CornerRadiusMode.set}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.cs[ [("0*
+0[ [(*
+1*·
+1[
+ [("¢
+Ÿ
+[
+ [("T
+Shapes.Rectangle">
+cornerRadiusMode*Shapes.Rectangle.RectangleCornerRadiusMode"__id*75
+3
+value*Shapes.Rectangle.RectangleCornerRadiusMode*
+2*.
+2[# [(#"
+[" [(#
+implicit return:53
+value*Shapes.Rectangle.RectangleCornerRadiusModeB
+Shapes.Rectangle

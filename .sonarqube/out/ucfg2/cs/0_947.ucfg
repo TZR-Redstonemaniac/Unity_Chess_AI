@@ -1,16 +1,38 @@
 
-3Shapes.MpbTriangle.Shapes.IDashableMpb.dashSnap.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs¼& ¼()"0*ë
+Shapes.Draw.TextAlign.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs‡ ‡("0*
 0
-¼* ¼(*Ÿ
-œ
+‡ ‡(*
+1*Ö
+1
+‡! ‡(:\
+Z
 
-¼& ¼(*(
-%0"System.Collections.Generic.List<T>"__id*^\*Z
-Shapes.MpbTriangle"B
-Shapes.IDashableMpb.dashSnap"System.Collections.Generic.List<T>"8
+‡! ‡(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-¼& ¼(**
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbTriangle
+‡! ‡(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStylew
+u
+
+‡! ‡(:
+%retShapes.TextAlign"__id*G
+
+‡! ‡(:9*7
+
+%1Shapes.TextStyle"
+	alignmentShapes.TextAlign*
+2*9
+2
+‡; ‡(;"(
+
+‡: ‡(;
+
+%retShapes.TextAlignB"
+Shapes.Draw

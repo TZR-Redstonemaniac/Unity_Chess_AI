@@ -1,27 +1,24 @@
 
-Shapes.Rectangle.UseFill.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs• •("0*
-0
-• •(*
-1*o
-1
-•
- •(Y
-W
-
-•
- •(
-%retbool"__id*5
-
-•
- •('*%
-Shapes.Rectangle"
-useFillbool*
-2*-
-2
-• •("
-
-• •(
-
-%retboolB
-Shapes.Rectangle
+Shapes.Draw.Color.get†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csw w("0*
+0w w(*
+1*á
+1w! w(,Z
+X
+w! w(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleq
+o
+w! w(,
+%retUnityEngine.Color"__id*B
+w! w(,6*4
+
+%0Shapes.DrawStyle"
+colorUnityEngine.Color*
+2*6
+2w- w(-"'
+w, w(-
+
+%retUnityEngine.ColorB"
+Shapes.Draw

@@ -1,35 +1,58 @@
 
-Shapes.Polygon.FillSpace.getò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csù ù("0*
+Shapes.Polygon.FillType.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csó ó("0*
 0
-ù ù(*
-1*Ú
+ó ó(*
+1*Ò
 1
-ù
- ù(d
+ò ô(Xd
 b
 
-ù
- ù(
+ò ò(
 %0Shapes.GradientFill"__id*31*/
 Shapes.Polygon"
-fillShapes.GradientFillv
-t
+fillShapes.GradientFillh
+f
 
-ù
- ù(
-%retShapes.FillSpace"__id*F
-
-ù
- ù(8*6
+ò ò(4
 
-%0Shapes.GradientFill"
-spaceShapes.FillSpace*
-2*9
-2
-ù ù("(
-
-ù ù(
+%0Shapes.GradientFill"
+typeShapes.FillType"__id*
 
-%retShapes.FillSpaceB
+valueShapes.FillType¿
+Ω
+
+ô1 ô(U	
+%1int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*?
+
+ô1 ô(51*/
+Shapes.Polygon"
+fillShapes.GradientFill*3
+
+ôL ô(S%*#
+Shapes.Polygon"
+useFillbool«
+ƒ
+
+ô ô(W
+
+%2void"(Shapes.ShapeRenderer.SetIntNow(int, int)* 
+
+ô ô(
+Shapes.Polygon*C
+
+ô ô(/5*3
+Shapes.ShapesMaterialUtils"
+propFillTypeint*
+
+ô1 ô(U
+	
+%1int*
+2*2
+2
+ö ö("!
+
+ö ö(
+implicit return:
+valueShapes.FillTypeB
 Shapes.Polygon

@@ -1,30 +1,31 @@
 
-Shapes.Draw.Radius.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs   ("0*
+Shapes.Draw.SizeSpace.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs± ±("0*
 0
-   (*
-1*Ç
+± ±(*
+1*ö
 1
- !  (5\
+±! ±(0\
 Z
 
- !  (&
+±! ±(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStyleS
-Q
+styleShapes.DrawStyle
+
 
- !  (5)
+±! ±(0
+%retShapes.ThicknessSpace"__id*L
+
+±! ±(0>*<
 
-%0Shapes.DrawStyle"
-radiusfloat"__id*
-
-valuefloat*
-2*2
+%0Shapes.DrawStyle""
+	sizeSpaceShapes.ThicknessSpace*
+2*>
 2
- 6  (6"!
+±1 ±(1"-
 
- 5  (6
-implicit return:
-valuefloatB"
+±0 ±(1
+
+%retShapes.ThicknessSpaceB"
 Shapes.Draw

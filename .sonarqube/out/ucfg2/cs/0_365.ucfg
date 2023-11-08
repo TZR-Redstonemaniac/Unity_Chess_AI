@@ -1,28 +1,21 @@
 
-Shapes.Disc.DashOffset.get–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs, ,("0*
-0, ,(*
-1*Î
-1,
- ,(^
-\
-,
- ,(
-%0Shapes.DashStyle"__id*20*.
-Shapes.Disc"
-	dashStyleShapes.DashStyleZ
-X
-,
- ,(
-%retfloat"__id*7
-,
- ,(+*)
-
-%0Shapes.DashStyle"
-offsetfloat*
-2**
-2, ,("
-, ,(
-
-%retfloatB
-Shapes.Disc
+Shapes.Line.ColorEnd.getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs> >("0*
+0> >(*
+1*
+1>
+ >(k
+i
+>
+ >(
+%retUnityEngine.Color"__id*<
+>
+ >(0*.
+Shapes.Line"
+colorEndUnityEngine.Color*
+2*6
+2> >("'
+> >(
+
+%retUnityEngine.ColorB
+Shapes.Line

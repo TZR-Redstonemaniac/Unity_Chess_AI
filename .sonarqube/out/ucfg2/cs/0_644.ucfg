@@ -1,21 +1,38 @@
 
-Shapes.Triangle.B.get|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csp p("0*
-0p p(*
-1*€
-1p
- p(l
-j
-p
- p(
-%retUnityEngine.Vector3"__id*;
-p
- p(/*-
-Shapes.Triangle"
-bUnityEngine.Vector3*
-2*8
-2p p(")
-p p(
+Shapes.Draw.DashSnap.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs“ “("0*
+0
+“ “(*
+1*×
+1
+“! “(5\
+Z
+
+“! “(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+“! “(0
+%1Shapes.DashStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStylex
+v
+
+“! “(5
+%retShapes.DashSnapping"__id*E
+
+“! “(57*5
+
+%1Shapes.DashStyle"
+snapShapes.DashSnapping*
+2*<
+2
+“6 “(6"+
+
+“5 “(6
 
-%retUnityEngine.Vector3B
-Shapes.Triangle
+%retShapes.DashSnappingB"
+Shapes.Draw

@@ -1,29 +1,27 @@
 
-Shapes.Triangle.Hollow.set~
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs‚ ‚("0*
+Shapes.Triangle.ColorB.get~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs¨ ¨("0*
 0
-‚ ‚(*
-1*‚
+¨ ¨(*
+1*‡
 1
-‚
- ‚(l
-j
+¨
+ ¨(q
+o
 
-‚
- ‚(
+¨
+ ¨(
+%retUnityEngine.Color"__id*@
 
-%0bool"Shapes.Triangle.Border.set*!
-
-‚
- ‚(
-Shapes.Triangle*
-
-valuebool*
-2*2
+¨
+ ¨(2*0
+Shapes.Triangle"
+colorBUnityEngine.Color*
+2*:
 2
-‚ ‚("!
+¨ ¨(")
 
-‚ ‚(
-implicit return:
-valueboolB
+¨ ¨(
+
+%retUnityEngine.ColorB
 Shapes.Triangle

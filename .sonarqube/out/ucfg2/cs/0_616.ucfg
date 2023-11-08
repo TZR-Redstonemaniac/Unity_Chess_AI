@@ -1,23 +1,30 @@
 
- Shapes.RegularPolygon.Hollow.set‚
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.cs ("0*
-0 (*
-1*ˆ
-1
- (t
-r
-
- (
+Shapes.Draw.UseDashes.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csü ü("0*
+0
+ü ü(*
+1*È
+1
+ü! ü(8\
+Z
 
-%0bool" Shapes.RegularPolygon.Border.set*%
-
- (
-Shapes.RegularPolygon*
+ü! ü(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleT
+R
+
+ü! ü(8+
+
+%0Shapes.DrawStyle"
+	useDashesbool"__id*
 
 valuebool*
-2*.
-2 ("
- (
+2*2
+2
+ü9 ü(9"!
+
+ü8 ü(9
 implicit return:
-valueboolB
-Shapes.RegularPolygon
+valueboolB"
+Shapes.Draw

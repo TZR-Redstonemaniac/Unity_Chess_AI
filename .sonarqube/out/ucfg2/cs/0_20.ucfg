@@ -1,13 +1,24 @@
 
-,Shapes.OvldGenCallTarget.OvldGenCallTarget()~
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\Draw.csÜ Ü(!"0*x
-0
-Ü0 Ü(0D
-B
+#Shapes.DashStack.DashStack()!staticÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DashStack.cs
+ 
+(!"0*å
+0 (\Z
+4 (R)
+%0#System.Collections.Generic.Stack<T>"#System.Collections.Generic.Stack<T>t
+r
+8 (P
 
-%0void"System.Attribute.Attribute()*
-System.Attribute"!
-
-Ö Ü(0
-implicit returnB
-Shapes.OvldGenCallTarget
+%1void"+System.Collections.Generic.Stack<T>.Stack()*-+
+)
+%0#System.Collections.Generic.Stack<T>á
+Ñ
++ (RC
+Shapes.DashStack"-
+dashes#System.Collections.Generic.Stack<T>"__id*-+
+)
+%0#System.Collections.Generic.Stack<T>"
+
+ (
+implicit returnB"
+Shapes.DashStack

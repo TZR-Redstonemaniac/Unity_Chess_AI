@@ -1,27 +1,27 @@
 
-*Shapes.Triangle.MatchDashSpacingToSize.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÞ Þ("0*
++Shapes.Rectangle.MatchDashSpacingToSize.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÒ Ò("0*
 0
-Þ Þ(*
-1*}
+Ò Ò(*
+1*~
 1
-Þ
- Þ( g
-e
+Ò
+ Ò( h
+f
 
-Þ
- Þ( 
-%retbool"__id*C
+Ò
+ Ò( 
+%retbool"__id*D
 
-Þ
- Þ( 5*3
-Shapes.Triangle"
+Ò
+ Ò( 6*4
+Shapes.Rectangle"
 matchDashSpacingToSizebool*
 2*-
 2
-Þ! Þ(!"
+Ò! Ò(!"
 
-Þ  Þ(!
+Ò  Ò(!
 
-%retboolB
-Shapes.Triangle
+%retboolB
+Shapes.Rectangle

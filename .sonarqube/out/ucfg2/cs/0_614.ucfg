@@ -1,51 +1,33 @@
 
-Shapes.ArrayPool<T>.Alloc(int)
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs	 	("0*
-0	 	(*
-1*π
-1	- 	(<°
-û
-	- 	(7	
-%0int"3System.Collections.Generic.ICollection<T>.Count.get*R
-	- 	(1F*D
-Shapes.ArrayPool<T>"+
-pool#System.Collections.Generic.Stack<T>*
-2
-3*e
-2	? 	(N
-	? 	(N	
-%1T[]"T[]3
-1
-	? 	(N
-	%capture0T[]"__id*
-	
-%1T[]*
-4*Á
-3	Q 	([ù
-ö
-	Q 	([	
-%2T[]"/System.Collections.Generic.ICollection<T>.Pop()*R
-	Q 	(UF*D
-Shapes.ArrayPool<T>"+
-pool#System.Collections.Generic.Stack<T>3
-1
-	Q 	([
-	%capture0T[]"__id*
-	
-%2T[]*
-4*S
-4	- 	([?
-=
-	- 	([
-%retT[]"__id*
-	- 	([
-
-	%capture0T[]*
-5*(
-5	\ 	(\"
-	[ 	(\
-
-%retT[]:
-	 	('
-maxCountintB"
-Shapes.ArrayPool<T>
+Shapes.RegularPolygon.Angle.setÇ
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.cs) )("0*
+0) )(*
+1*Õ
+1)
+ )(CQ
+O
+)4 )(A)
+Shapes.RegularPolygon"
+anglefloat"__id*
+
+valuefloatÂ
+‚
+)
+ )(C
+
+%0void",Shapes.ShapeRenderer.SetFloatNow(int, float)*%
+)
+ )(
+Shapes.RegularPolygon*<
+) )(20*.
+Shapes.ShapesMaterialUtils"
+propAngint*7
+)4 )(A+*)
+Shapes.RegularPolygon"
+anglefloat*
+2*.
+2)D )(D"
+)C )(D
+implicit return:
+valuefloatB
+Shapes.RegularPolygon

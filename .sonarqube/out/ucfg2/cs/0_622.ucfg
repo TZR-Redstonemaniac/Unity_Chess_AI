@@ -1,43 +1,33 @@
 
-Shapes.ArrayPool<T>.Free(T[])
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs
- 
-("0*
-0
- 
-(*
-1*Ï
-1
-( 
-(8º
-·
-
-( 
-(8
+Shapes.Triangle.C.set|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csw w("0*
+0w w(*
+1*ë
+1w
+ w(?c
+a
+w4 w(=-
+Shapes.Triangle"
+cUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3ñ
+î
+w
+ w(?
 
-%0void"1System.Collections.Generic.ICollection<T>.Push(T)*R
-
-( 
-(,F*D
-Shapes.ArrayPool<T>"+
-pool#System.Collections.Generic.Stack<T>*
-
-3 
-(6
-
-
-objT[]*
+%0void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*
+w
+ w(
+Shapes.Triangle*:
+w w(2.*,
+Shapes.ShapesMaterialUtils"
+propCint*;
+w4 w(=/*-
+Shapes.Triangle"
+cUnityEngine.Vector3*
 2*.
-2
-9 
-(9"
-
-8 
-(9
-implicit return:
-
- 
-("
-
-objT[]B"
-Shapes.ArrayPool<T>
+2w@ w(@"
+w? w(@
+implicit return:
+valueUnityEngine.Vector3B
+Shapes.Triangle

@@ -1,35 +1,35 @@
 
-Shapes.Triangle.DashType.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csŽ Ž("0*
+"Shapes.RegularPolygon.DashType.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csˆ ˆ("0*
 0
-Ž Ž(*
-1*ì
+ˆ ˆ(*
+1*ò
 1
-Ž
- Ž(d
-b
+ˆ
+ ˆ(j
+h
 
-Ž
- Ž(
-%0Shapes.DashStyle"__id*64*2
-Shapes.Triangle"
+ˆ
+ ˆ(
+%0Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
 	dashStyleShapes.DashStylep
 n
 
-Ž
- Ž(
+ˆ
+ ˆ(
 %retShapes.DashType"__id*A
 
-Ž
- Ž(3*1
+ˆ
+ ˆ(3*1
 
 %0Shapes.DashStyle"
 typeShapes.DashType*
 2*8
 2
-Ž Ž("'
+ˆ ˆ("'
 
-Ž Ž(
+ˆ ˆ(
 
-%retShapes.DashTypeB
-Shapes.Triangle
+%retShapes.DashTypeB
+Shapes.RegularPolygon

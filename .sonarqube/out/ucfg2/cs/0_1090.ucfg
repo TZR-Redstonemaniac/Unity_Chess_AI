@@ -1,21 +1,33 @@
 
-Shapes.Quad.A.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csw w("0*
-0w w(*
-1*|
-1w
- w(h
-f
-w
- w(
-%retUnityEngine.Vector3"__id*7
-w
- w(+*)
-Shapes.Quad"
-aUnityEngine.Vector3*
-2*8
-2w w(")
-w w(
-
-%retUnityEngine.Vector3B
-Shapes.Quad
+,Shapes.Draw.RegularPolygonThicknessSpace.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csŠ Š("0*
+0
+Š Š(*
+1*ï
+1
+Š
+ Š(&\
+Z
+
+Š
+ Š(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyle{
+y
+
+Š
+ Š(&A
+
+%0Shapes.DrawStyle"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpace*
+2*2
+2
+Š' Š('"!
+
+Š& Š('
+implicit return: 
+valueShapes.ThicknessSpaceB"
+Shapes.Draw

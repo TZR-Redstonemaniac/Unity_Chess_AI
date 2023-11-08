@@ -1,31 +1,37 @@
 
-Shapes.Draw.DashStyle.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs ("0*
+Shapes.Draw.DashType.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csˆ ˆ("0*
 0
- (*
-1*ë
+ˆ ˆ(*
+1*Ä
 1
-! (0\
+ˆ! ˆ(=\
 Z
 
-! (&
+ˆ! ˆ(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStylew
-u
+styleShapes.DrawStylei
+g
 
-! (0
-%retShapes.DashStyle"__id*G
-
-! (09*7
+ˆ! ˆ(0
+%1Shapes.DashStyle"__id*;9*7
 
 %0Shapes.DrawStyle"
-	dashStyleShapes.DashStyle*
-2*9
-2
-1 (1"(
+	dashStyleShapes.DashStylee
+c
 
-0 (1
+ˆ! ˆ(=1
+
+%1Shapes.DashStyle"
+typeShapes.DashType"__id*
 
-%retShapes.DashStyleB"
+valueShapes.DashType*
+2*2
+2
+ˆ> ˆ(>"!
+
+ˆ= ˆ(>
+implicit return:
+valueShapes.DashTypeB"
 Shapes.Draw

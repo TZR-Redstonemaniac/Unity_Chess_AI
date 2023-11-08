@@ -1,24 +1,28 @@
 
--Shapes.DashStack.Push(bool, Shapes.DashStyle)Å
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DashStack.cs ("0*
-0 (*
-1*œ
-1C (g∫
-∑
-C (g
+Shapes.Disc.DashSize.getñ
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs ("0*
+0 (*
+1*Ã
+1
+ (^
+\
+
+ (
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStyleX
+V
+
+ (
+%retfloat"__id*5
+
+ ()*'
+
+%0Shapes.DashStyle"
+sizefloat*
+2**
+2 ("
+ (
 
-%0void"1System.Collections.Generic.ICollection<T>.Push(T)*Q
-C (IE*C
-Shapes.DashStack"-
-dashes#System.Collections.Generic.Stack<T>*
-P (e
-	{unknown}*
-2*.
-2h (h"
-g (h
-implicit return:
- ((
-prevOnbool:)
-* (=
-	prevStateShapes.DashStyleB"
-Shapes.DashStack
+%retfloatB
+Shapes.Disc

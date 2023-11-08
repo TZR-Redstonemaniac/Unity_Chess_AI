@@ -1,21 +1,21 @@
 
-&Shapes.Line.MatchDashSpacingToSize.get–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csI I("0*
-0I I(*
-1*s
-1I
- I( _
-]
-I
- I( 
-%retbool"__id*=
-I
- I( 1*/
-Shapes.Line"
-matchDashSpacingToSizebool*
-2*)
-2I! I(!"
-I  I(!
-
-%retboolB
-Shapes.Line
+Shapes.Disc.Geometry.getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs{ {("0*
+0{ {(*
+1*ƒ
+1{
+ {(o
+m
+{
+ {(
+%retShapes.DiscGeometry"__id*>
+{
+ {(2*0
+Shapes.Disc"
+geometryShapes.DiscGeometry*
+2*8
+2{ {(")
+{ {(
+
+%retShapes.DiscGeometryB
+Shapes.Disc

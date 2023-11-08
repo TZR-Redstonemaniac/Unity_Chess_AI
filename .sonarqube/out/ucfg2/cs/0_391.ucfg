@@ -1,35 +1,35 @@
 
-Shapes.Rectangle.DashSnap.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csþ þ("0*
+Shapes.Triangle.DashSnap.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csŠ Š("0*
 0
-þ þ(*
-1*õ
+Š Š(*
+1*ô
 1
-þ
- þ(e
-c
+Š
+ Š(d
+b
 
-þ
- þ(
-%0Shapes.DashStyle"__id*75*3
-Shapes.Rectangle"
+Š
+ Š(
+%0Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
 	dashStyleShapes.DashStylex
 v
 
-þ
- þ(
+Š
+ Š(
 %retShapes.DashSnapping"__id*E
 
-þ
- þ(7*5
+Š
+ Š(7*5
 
 %0Shapes.DashStyle"
 snapShapes.DashSnapping*
 2*<
 2
-þ þ("+
+Š Š("+
 
-þ þ(
+Š Š(
 
-%retShapes.DashSnappingB
-Shapes.Rectangle
+%retShapes.DashSnappingB
+Shapes.Triangle

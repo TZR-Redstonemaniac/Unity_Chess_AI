@@ -1,21 +1,35 @@
 
-Shapes.Disc.Type.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs$ $("0*
-0$ $(*
-1*w
-1$
- $(c
-a
-$
- $(
-%retShapes.DiscType"__id*6
-$
- $(**(
-Shapes.Disc"
-typeShapes.DiscType*
-2*4
-2$ $("%
-$ $(
+"Shapes.RegularPolygon.FillType.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¢ ¢("0*
+0
+¢ ¢(*
+1*ö
+1
+¢
+ ¢(k
+i
+
+¢
+ ¢(
+%0Shapes.GradientFill"__id*:8*6
+Shapes.RegularPolygon"
+fillShapes.GradientFills
+q
+
+¢
+ ¢(
+%retShapes.FillType"__id*D
+
+¢
+ ¢(6*4
+
+%0Shapes.GradientFill"
+typeShapes.FillType*
+2*8
+2
+¢ ¢("'
+
+¢ ¢(
 
-%retShapes.DiscTypeB
-Shapes.Disc
+%retShapes.FillTypeB
+Shapes.RegularPolygon

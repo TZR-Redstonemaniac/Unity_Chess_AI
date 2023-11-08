@@ -1,16 +1,79 @@
 
-3Shapes.MpbRect.Shapes.IFillableMpb.fillColorEnd.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÄ, Ä(/"0*ë
+.Shapes.MpbPolyline2D.TransferShapeProperties()‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csœ œ(1"0*
 0
-Ä0 Ä(0Ÿ
-œ
+œ œ(*
+1*Ò	
+1
+  (Fª
+§
 
-Ä, Ä(0(
-%0"System.Collections.Generic.List<T>"__id*^\*Z
-Shapes.MpbRect"F
- Shapes.IFillableMpb.fillColorEnd"System.Collections.Generic.List<T>"8
+ (;
 
-Ä, Ä(0*
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbRect
+%0void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*&
+
+ (
+Shapes.MpbPolyline2D*D
+
+ (.6*4
+Shapes.ShapesMaterialUtils"
+propAlignmentint*Y
+
+0 (9K*I
+Shapes.MpbPolyline2D"/
+	alignment"System.Collections.Generic.List<T>ª
+§
+
+ (;
+
+%1void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*&
+
+ (
+Shapes.MpbPolyline2D*D
+
+ (.6*4
+Shapes.ShapesMaterialUtils"
+propScaleModeint*Y
+
+0 (9K*I
+Shapes.MpbPolyline2D"/
+	scaleMode"System.Collections.Generic.List<T>ª
+§
+
+Ÿ Ÿ(;
+
+%2void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*&
+
+Ÿ Ÿ(
+Shapes.MpbPolyline2D*D
+
+Ÿ Ÿ(.6*4
+Shapes.ShapesMaterialUtils"
+propThicknessint*Y
+
+Ÿ0 Ÿ(9K*I
+Shapes.MpbPolyline2D"/
+	thickness"System.Collections.Generic.List<T>´
+±
+
+   (E
+
+%3void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*&
+
+   (
+Shapes.MpbPolyline2D*I
+
+   (3;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*^
+
+ 5  (CP*N
+Shapes.MpbPolyline2D"4
+thicknessSpace"System.Collections.Generic.List<T>*
+2*2
+2
+¡ ¡("!
+
+¡ ¡(
+implicit returnB
+Shapes.MpbPolyline2D

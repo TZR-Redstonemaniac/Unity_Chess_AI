@@ -1,5 +1,5 @@
-à
-RenderBoardUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject
-Awake()RenderBoard.Awake() 
-Update()RenderBoard.Update()*
-RenderBoard()RenderBoard.RenderBoard()
+ˆ
+Renderers.RenderBoardUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject(
+Awake()Renderers.RenderBoard.Awake()*
+Update()Renderers.RenderBoard.Update()4
+RenderBoard()#Renderers.RenderBoard.RenderBoard()

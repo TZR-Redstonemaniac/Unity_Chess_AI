@@ -1,35 +1,31 @@
 
- Shapes.Polygon.FillLinearEnd.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¶ ¶("0*
-0
-¶ ¶(*
-1*ý
-1
-¶
- ¶(d
-b
-
-¶
- ¶(
-%0Shapes.GradientFill"__id*31*/
-Shapes.Polygon"
-fillShapes.GradientFill€
-~
-
-¶
- ¶(
-%retUnityEngine.Vector3"__id*M
-
-¶
- ¶(?*=
-
-%0Shapes.GradientFill" 
-	linearEndUnityEngine.Vector3*
-2*<
-2
-¶ ¶("+
-
-¶ ¶(
-
-%retUnityEngine.Vector3B
-Shapes.Polygon
+JShapes.PolylinePoint.PolylinePoint(UnityEngine.Vector2, UnityEngine.Color)
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\PolylinePoint.cs;	 ;("1*
+1? ?(*
+0*´
+0< >(l
+j
+< <(6
+Shapes.PolylinePoint"
+pointUnityEngine.Vector3"__id* 
+
+pointUnityEngine.Vector2h
+f
+= =(4
+Shapes.PolylinePoint"
+colorUnityEngine.Color"__id*
+
+colorUnityEngine.ColorH
+F
+> >(,
+Shapes.PolylinePoint"
+	thicknessfloat"__id*2*
+2*.
+2? ?("
+? ?(
+implicit return:(
+; ;(%
+pointUnityEngine.Vector2:&
+;' ;(2
+colorUnityEngine.ColorB
+Shapes.PolylinePoint

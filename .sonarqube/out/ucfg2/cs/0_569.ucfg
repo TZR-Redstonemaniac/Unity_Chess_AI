@@ -1,48 +1,38 @@
 
-Shapes.Disc.ColorEnd.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csr r("0*
-0r r(*
-1*Ý
-1s t(Pg
-e
-s5 s(J3
-Shapes.Disc""
-colorInnerEndUnityEngine.Color"__id*
-
-valueUnityEngine.Colorø
-õ
-s s(L
+$Shapes.Draw.GradientFillColorEnd.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÙ Ù("0*
+0
+Ù Ù(*
+1*ã
+1
+Ù! Ù(<\
+Z
 
-%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
-s s(
-Shapes.Disc*F
-s s(3:*8
-Shapes.ShapesMaterialUtils"
-propColorInnerEndint*A
-s5 s(J5*3
-Shapes.Disc""
-colorInnerEndUnityEngine.Colorg
-e
-t8 t(M3
-Shapes.Disc""
-colorOuterEndUnityEngine.Color"__id*
-
-valueUnityEngine.Colorû
-ø
-t t(O
+Ù! Ù(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyler
+p
 
-%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
-t t(
-Shapes.Disc*F
-t t(6:*8
-Shapes.ShapesMaterialUtils"
-propColorOuterEndint*A
-t8 t(M5*3
-Shapes.Disc""
-colorOuterEndUnityEngine.Color*
-2*.
-2u u("
-u u(
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Disc
+Ù! Ù(3
+%1Shapes.GradientFill"__id*A?*=
+
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFill{
+y
+
+Ù! Ù(<
+%retUnityEngine.Color"__id*J
+
+Ù! Ù(<<*:
+
+%1Shapes.GradientFill"
+colorEndUnityEngine.Color*
+2*:
+2
+Ù= Ù(=")
+
+Ù< Ù(=
+
+%retUnityEngine.ColorB"
+Shapes.Draw

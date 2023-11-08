@@ -1,76 +1,38 @@
 
-*Shapes.GradientFill.GetShaderStartVector()€
-vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.csT T('"0*
-0T T(*
-1*
-1U U(&*
-2
-3*Ž
-2U0 U(;z
-x
-U0 U(;
-%retUnityEngine.Vector4"__id*I
-U0 U(;=*;
-Shapes.GradientFill""
-linearStartUnityEngine.Vector3*
-4*í
-3V
- V(Uo
-m
-V V(#
-%0UnityEngine.Vector3"__id*@>*<
-Shapes.GradientFill"#
-radialOriginUnityEngine.Vector3o
-m
-V' V(3
-%1UnityEngine.Vector3"__id*@>*<
-Shapes.GradientFill"#
-radialOriginUnityEngine.Vector3o
-m
-V7 V(C
-%2UnityEngine.Vector3"__id*@>*<
-Shapes.GradientFill"#
-radialOriginUnityEngine.Vector3<:
-V
- V(U
-%3UnityEngine.Vector4"UnityEngine.Vector4í
-ê
-V
- V(U
-%4UnityEngine.Vector4"7UnityEngine.Vector4.Vector4(float, float, float, float)*'
-V
- V(U
-
-%3UnityEngine.Vector4*5
-V V(%)*'
-
-%0UnityEngine.Vector3"
+$Shapes.Draw.TextParagraphSpacing.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csŸ Ÿ("0*
+0
+Ÿ Ÿ(*
+1*Ç
+1
+Ÿ! Ÿ(A\
+Z
 
-xfloat*5
-V' V(5)*'
-
-%1UnityEngine.Vector3"
+Ÿ! Ÿ(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-yfloat*5
-V7 V(E)*'
-
-%2UnityEngine.Vector3"
+Ÿ! Ÿ(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyleh
+f
 
-zfloat*<
-VG V(S0*.
-Shapes.GradientFill"
-radialRadiusfloatX
-V
-V
- V(U
-%retUnityEngine.Vector4"__id*'
-V
- V(U
-
-%3UnityEngine.Vector4*
-4*8
-4W W(")
-W W(
-
-%retUnityEngine.Vector4B
-Shapes.GradientFill
+Ÿ! Ÿ(A
+%retfloat"__id*C
+
+Ÿ! Ÿ(A5*3
+
+%1Shapes.TextStyle"
+paragraphSpacingfloat*
+2*.
+2
+ŸB Ÿ(B"
+
+ŸA Ÿ(B
+
+%retfloatB"
+Shapes.Draw

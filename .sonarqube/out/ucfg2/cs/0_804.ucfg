@@ -1,15 +1,15 @@
 
-1Shapes.MpbLine2D.Shapes.IDashableMpb.dashType.setÖ
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs]& ]()"0*ñ
-0]* ](*û
-õ
-]& ](*X
-Shapes.MpbLine2D"B
-Shapes.IDashableMpb.dashType"System.Collections.Generic.List<T>"__id*/-
+3Shapes.MpbLine2D.Shapes.IDashableMpb.dashOffset.setÖ
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csW( W(+"0*ö
+0W, W(,†
+ù
+W( W(,Z
+Shapes.MpbLine2D"D
+Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>"__id*/-
 +
-value"System.Collections.Generic.List<T>"f
-]& ](*Z*X
-Shapes.MpbLine2D"B
-Shapes.IDashableMpb.dashType"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>"h
+W( W(,\*Z
+Shapes.MpbLine2D"D
+Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>:-+
 value"System.Collections.Generic.List<T>B
 Shapes.MpbLine2D

@@ -1,55 +1,33 @@
 
-KShapes.GradientFill.GetWorldPos(UnityEngine.Transform, UnityEngine.Vector3)€
-vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.csd
- d("0*
-0d d(*
-1*x
-1d8 d(Ba
-_
-d8 d(B
+"Shapes.Draw.LineThicknessSpace.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÂ Â("0*
+0
+Â Â(*
+1*ï
+1
+Â
+ Â(&\
+Z
 
-%0bool""Shapes.GradientFill.WorldSpace.get*#
-d8 d(B
-Shapes.GradientFill*
-2
-3*j
-2dE d(JV
-T
-dE d(J 
-	%capture0UnityEngine.Vector3"__id* 
-
-coordUnityEngine.Vector3*
-4*¤
-3dM d(gº
-·
-dM d(g
-%1UnityEngine.Vector3"9UnityEngine.Transform.TransformPoint(UnityEngine.Vector3)*)
-dM d(O
-
-tfUnityEngine.Transform**
-d` d(e
-
-coordUnityEngine.Vector3S
-Q
-dM d(g 
-	%capture0UnityEngine.Vector3"__id*
-
-%1UnityEngine.Vector3*
-4*s
-4d8 d(g_
-]
-d8 d(g
-%retUnityEngine.Vector3"__id*.
-d8 d(g"
- 
-	%capture0UnityEngine.Vector3*
-5*8
-5dh d(h")
-dg d(h
-
-%retUnityEngine.Vector3:'
-d d(#
-tfUnityEngine.Transform:(
-d% d(2
-coordUnityEngine.Vector3B
-Shapes.GradientFill
+Â
+ Â(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyle{
+y
+
+Â
+ Â(&A
+
+%0Shapes.DrawStyle"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpace*
+2*2
+2
+Â' Â('"!
+
+Â& Â('
+implicit return: 
+valueShapes.ThicknessSpaceB"
+Shapes.Draw

@@ -1,41 +1,99 @@
 
-Shapes.Disc.DashSpacing.setñ
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs& &("0*
-0& &(*
-1*Á
-1' ((L^
-\
-' '(
-%0Shapes.DashStyle"__id*20*.
-Shapes.Disc"
-	dashStyleShapes.DashStyleR
-P
-' '(*
-
-%0Shapes.DashStyle"
-spacingfloat"__id*
-
-valuefloatW
-U
-(6 ((I
-%1float"Shapes.Disc.GetNetDashSpacing()*
-(6 ((G
-Shapes.Disc≈
-¬
-( ((K
+Shapes.Triangle.DashSize.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÔ Ô("0*
+0
+Ô Ô(*
+1*ê
+1
+ Ú(d
+b
 
-%2void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-( ((
-Shapes.Disc*D
-( ((48*6
-Shapes.ShapesMaterialUtils"
-propDashSpacingint*
-(6 ((I
+ (
+%0Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyleQ
+O
+
+ ('
+
+%0Shapes.DashStyle"
+sizefloat"__id*
+
+valuefloatÄ
+˝
+
+Ò Ò(I
+%1float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*B
+
+Ò Ò(!4*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyle*3
+
+Ò6 Ò(<%*#
+Shapes.Triangle"
+dashedbool*7
+
+Ò> Ò(G)*'
+Shapes.Triangle"
+	thicknessfloat;
+9
+
+Ò
+ Ò(I
+netDashSizefloat"__id*
 
-%1float*
-2*.
-2) )("
-) )(
+%1float*
+2
+3* 
+2
+Û Û(Jc
+a
+
+Û4 Û(G
+%2float"#Shapes.Triangle.GetNetDashSpacing()*!
+
+Û4 Û(E
+Shapes.TriangleŒ
+À
+
+Û Û(I
+
+%3void")Shapes.ShapeRenderer.SetFloat(int, float)*!
+
+Û Û(
+Shapes.Triangle*F
+
+Û Û(28*6
+Shapes.ShapesMaterialUtils"
+propDashSpacingint*
+
+Û4 Û(G
+
+%2float*
+3*Ó
+3
+Ù Ù(A◊
+‘
+
+Ù Ù(@
+
+%4void",Shapes.ShapeRenderer.SetFloatNow(int, float)*!
+
+Ù Ù(
+Shapes.Triangle*C
+
+Ù Ù(15*3
+Shapes.ShapesMaterialUtils"
+propDashSizeint*$
+
+Ù3 Ù(>
+
+netDashSizefloat*
+4*2
+4
+ı ı("!
+
+ı ı(
 implicit return:
-valuefloatB
-Shapes.Disc
+valuefloatB
+Shapes.Triangle

@@ -1,11 +1,37 @@
 
-7StringColorArrayDictionary.StringColorArrayDictionary()–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\Example\UserSerializableDictionaries.cs ('"0*Ç
-0g (g˜
-•
+Renderers.RenderBoard.Awake()u
+kC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Renderers\RenderBoard.cs ("0*
+0 (*
+1*ÿ
+1 (0><
+ (5
+%0UnityEngine.Material"UnityEngine.MaterialÒ
+Ï
+ (5
+%1UnityEngine.Material"1UnityEngine.Material.Material(UnityEngine.Shader)*(
+ (5
+
+%0UnityEngine.Material*J
+) (4>*<
+Renderers.RenderBoard"!
+boardShaderUnityEngine.Shadert
+r
+ (5@
+Renderers.RenderBoard"%
+boardMaterialUnityEngine.Material"__id*
+
+%0UnityEngine.Materialß
+Ü
+ (/
+%2UnityEngine.Material"!UnityEngine.UI.Image.material.set*K
+ (?*=
+Renderers.RenderBoard""
 
-%0void"LSerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary()*975
-3SerializableDictionary<TKey, TValue, TValueStorage>"
- (g
-implicit returnB
-StringColorArrayDictionary
+backgroundUnityEngine.UI.Image*DB*@
+Renderers.RenderBoard"%
+boardMaterialUnityEngine.Material*
+2*.
+2	 (	"
+ (	
+implicit returnB
+Renderers.RenderBoard

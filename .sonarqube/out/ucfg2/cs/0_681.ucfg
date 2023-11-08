@@ -1,28 +1,43 @@
 
-Shapes.Line.DashType.get–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csy y("0*
-0y y(*
-1*à
-1y
- y(^
-\
-y
- y(
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStylel
-j
-y
- y(
-%retShapes.DashType"__id*?
-y
- y(3*1
-
-%0Shapes.DashStyle"
-typeShapes.DashType*
-2*4
-2y y("%
-y y(
-
-%retShapes.DashTypeB
-Shapes.Line
+Shapes.Triangle.ColorB.set~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs© ©("0*
+0
+© ©(*
+1*ü
+1
+©
+ ©(Gf
+d
+
+©7 ©(E0
+Shapes.Triangle"
+colorBUnityEngine.Color"__id*
+
+valueUnityEngine.Colorý
+ú
+
+©
+ ©(G
+
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*!
+
+©
+ ©(
+Shapes.Triangle*A
+
+© ©(53*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*@
+
+©7 ©(E2*0
+Shapes.Triangle"
+colorBUnityEngine.Color*
+2*2
+2
+©H ©(H"!
+
+©G ©(H
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Triangle

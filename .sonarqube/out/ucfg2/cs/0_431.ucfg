@@ -1,35 +1,33 @@
 
-Shapes.Disc.GetNetDashSpacing()–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csC C("0*
-0C C(*
-1*¶
-1C C(hã
-à
-C C(h
-%0float"KShapes.ShapeRenderer.GetNetDashSpacing(Shapes.DashStyle, bool, bool, float)*
-C C(0
-Shapes.Disc*<
-C2 C(;0*.
-Shapes.Disc"
-	dashStyleShapes.DashStyle*-
-C= C(C!*
-Shapes.Disc"
-dashedbool*=
-CE C([1*/
-Shapes.Disc"
-matchDashSpacingToSizebool*1
-C] C(f%*#
-Shapes.Disc"
-	thicknessfloat<
-:
-C C(h
-%retfloat"__id*
-C C(h
-
-%0float*
-2**
-2Ci C(i"
-Ch C(i
+Shapes.Line.ThicknessSpace.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs[ [("0*
+0[ [(*
+1*ø
+1[
+ [(^p
+n
+[D [(Z8
+Shapes.Line"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpaceñ
+î
+[
+ [(^
 
-%retfloatB
-Shapes.Disc
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+[
+ [(
+Shapes.Line*G
+[ [(;;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*F
+[= [(\:*8
+Shapes.Line"'
+thicknessSpaceShapes.ThicknessSpace*
+2*.
+2[_ [(_"
+[^ [(_
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.Line

@@ -1,89 +1,58 @@
 
-Shapes.Triangle.this[int].get|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs ("0*
-0 (*
-1*M
-1 (6
-4
- (
-	%capture0int"__id*
-
-indexint*
-2
-3*Õ
-2 (_
-]
- (
-%0UnityEngine.Vector3"Shapes.Triangle.A.get*
- (
-Shapes.TriangleX
-V
- (
-%retUnityEngine.Vector3"__id*'
- (
+"Shapes.RegularPolygon.FillType.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs£ £("0*
+0
+£ £(*
+1*ç
+1
+§ •(Xk
+i
+
+§ §(
+%0Shapes.GradientFill"__id*:8*6
+Shapes.RegularPolygon"
+fillShapes.GradientFillh
+f
+
+§ §(4
 
-%0UnityEngine.Vector3*
-8*
-3
- (*
-4
-5*Õ
-4 (_
-]
- (
-%1UnityEngine.Vector3"Shapes.Triangle.B.get*
- (
-Shapes.TriangleX
-V
- (
-%retUnityEngine.Vector3"__id*'
- (
-
-%1UnityEngine.Vector3*
-8*
-5
- (*
-6
-7*Õ
-6 (_
-]
- (
-%2UnityEngine.Vector3"Shapes.Triangle.C.get*
- (
-Shapes.TriangleX
-V
- (
-%retUnityEngine.Vector3"__id*'
- (
-
-%2UnityEngine.Vector3*
-8*Û
-7! !({ò
-ï
-!* !(y
-%3string"__concat*U
-!, !(qIG
-ETriangle only has four vertices, 0 to 2, you tried to access element *
-!q !(x
-
-indexintTR
-! !({%
-%4System.IndexOutOfRangeException"System.IndexOutOfRangeException«
-ƒ
-! !({%
-%5System.IndexOutOfRangeException"@System.IndexOutOfRangeException.IndexOutOfRangeException(string)*3
-! !({'
-%
-%4System.IndexOutOfRangeException*
-!* !(y
-
-%3string")
-# #(
-
-%retUnityEngine.Vector3*8
-8# #(")
-# #(
-
-%retUnityEngine.Vector3:
-indexintB
-Shapes.Triangle
+%0Shapes.GradientFill"
+typeShapes.FillType"__id*
+
+valueShapes.FillTypeŒ
+À
+
+•1 •(U	
+%1int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*F
+
+•1 •(58*6
+Shapes.RegularPolygon"
+fillShapes.GradientFill*:
+
+•L •(S,**
+Shapes.RegularPolygon"
+useFillboolŒ
+À
+
+• •(W
+
+%2void"(Shapes.ShapeRenderer.SetIntNow(int, int)*'
+
+• •(
+Shapes.RegularPolygon*C
+
+• •(/5*3
+Shapes.ShapesMaterialUtils"
+propFillTypeint*
+
+•1 •(U
+	
+%1int*
+2*2
+2
+¶ ¶("!
+
+¶ ¶(
+implicit return:
+valueShapes.FillTypeB
+Shapes.RegularPolygon

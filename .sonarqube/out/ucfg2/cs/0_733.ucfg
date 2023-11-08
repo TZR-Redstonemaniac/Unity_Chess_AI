@@ -1,21 +1,33 @@
 
-Shapes.Polyline.Geometry.get|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.cs! !("0*
-0! !(*
-1*è
-1!
- !({
-y
-!
- !(
-%retShapes.PolylineGeometry"__id*F
-!
- !(:*8
-Shapes.Polyline"#
-geometryShapes.PolylineGeometry*
-2*<
-2! !("-
-! !(!
-
-%retShapes.PolylineGeometryB
-Shapes.Polyline
+Shapes.Cuboid.Size.setz
+pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Cuboid.cs ("0*
+0 (*
+1*Ó
+1
+ (Ed
+b
+7 (C.
+Shapes.Cuboid"
+sizeUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3Û
+
+
+ (E
+
+%0void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*
+
+ (
+Shapes.Cuboid*=
+ (51*/
+Shapes.ShapesMaterialUtils"
+propSizeint*<
+7 (C0*.
+Shapes.Cuboid"
+sizeUnityEngine.Vector3*
+2*.
+2F (F"
+E (F
+implicit return:
+valueUnityEngine.Vector3B
+Shapes.Cuboid

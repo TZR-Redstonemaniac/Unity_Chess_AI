@@ -1,42 +1,30 @@
 
-Shapes.Disc.ThicknessSpace.setz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs° °("0*
+Shapes.Draw.LineEndCaps.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs½ ½("0*
 0
-° °(*
-1*„
+½ ½(*
+1*ä
 1
-°
- °(^r
-p
+½! ½(:\
+Z
 
-°D °(Z8
-Shapes.Disc"'
-thicknessSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpaceù
-ö
+½! ½(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylep
+n
 
-°
- °(^
-
-%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
-
-°
- °(
-Shapes.Disc*I
-
-° °(;;*9
-Shapes.ShapesMaterialUtils"
-propThicknessSpaceint*H
-
-°= °(\:*8
-Shapes.Disc"'
-thicknessSpaceShapes.ThicknessSpace*
+½! ½(::
+
+%0Shapes.DrawStyle" 
+lineEndCapsShapes.LineEndCap"__id*
+
+valueShapes.LineEndCap*
 2*2
 2
-°_ °(_"!
+½; ½(;"!
 
-°^ °(_
-implicit return: 
-valueShapes.ThicknessSpaceB
-Shapes.Disc
+½: ½(;
+implicit return:
+valueShapes.LineEndCapB"
+Shapes.Draw

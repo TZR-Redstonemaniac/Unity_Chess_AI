@@ -1,21 +1,63 @@
 
-$Shapes.ShapeRenderer.DetailLevel.get
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csI I("0*
-0I I(*
-1*
-1I
- I(y
-w
-I
- I(
-%retShapes.DetailLevel"__id*I
-I
- I(=*;
-Shapes.ShapeRenderer"!
-detailLevelShapes.DetailLevel*
-2*7
-2I I("(
-I I(
-
-%retShapes.DetailLevelB
-Shapes.ShapeRenderer
+9Shapes.IMDrawer.GetMaterialKeywords(UnityEngine.Material)€
+vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\IMDrawer.cs (%"0*
+0 (*
+1*©
+1 (>‘
+Ž
+ (5
+
+%0bool"GSystem.Collections.Generic.ICollection<T>.TryGetValue(TKey, out TValue)*e
+ (Y*W
+Shapes.IMDrawer"B
+matKeywords3System.Collections.Generic.Dictionary<TKey, TValue>*'
+  (!
+
+mUnityEngine.Material*
+# (3
+
+kwsstring[]*
+2
+3*º
+2 (,n
+l
+ (+
+%1string[]"'UnityEngine.Material.shaderKeywords.get*'
+ (
+
+mUnityEngine.Material7
+5
+ (+
+kwsstring[]"__id*
+
+%1string[]ü
+ù
+ (+
+%2string[]"8System.Collections.Generic.ICollection<T>.this[TKey].set*e
+ (Y*W
+Shapes.IMDrawer"B
+matKeywords3System.Collections.Generic.Dictionary<TKey, TValue>*'
+ (
+
+mUnityEngine.Material*
+
+kwsstring[]*
+3*W
+3
+ (C
+A
+
+ (
+%retstring[]"__id*
+
+ (
+
+kwsstring[]*
+4*-
+4 ("
+ (
+
+%retstring[]:%
+' (1
+mUnityEngine.MaterialB"
+Shapes.IMDrawer

@@ -1,33 +1,35 @@
 
-Shapes.Line.End.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.csK K("0*
-0K K(*
-1*ê
-1K
- K(Ha
-_
-K; K(F+
-Shapes.Line"
-endUnityEngine.Vector3"__id* 
-
-valueUnityEngine.Vector3ò
-ï
-K
- K(H
+Shapes.Triangle.DashType.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csŽ Ž("0*
+0
+Ž Ž(*
+1*ì
+1
+Ž
+ Ž(d
+b
 
-%0void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*
-K
- K(
-Shapes.Line*A
-K K(95*3
-Shapes.ShapesMaterialUtils"
-propPointEndint*9
-K; K(F-*+
-Shapes.Line"
-endUnityEngine.Vector3*
-2*.
-2KI K(I"
-KH K(I
-implicit return:
-valueUnityEngine.Vector3B
-Shapes.Line
+Ž
+ Ž(
+%0Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
+	dashStyleShapes.DashStylep
+n
+
+Ž
+ Ž(
+%retShapes.DashType"__id*A
+
+Ž
+ Ž(3*1
+
+%0Shapes.DashStyle"
+typeShapes.DashType*
+2*8
+2
+Ž Ž("'
+
+Ž Ž(
+
+%retShapes.DashTypeB
+Shapes.Triangle

@@ -1,58 +1,21 @@
 
-"Shapes.RegularPolygon.FillType.setò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs£ £("0*
-0
-£ £(*
-1*ç
-1
-§ •(Xk
-i
-
-§ §(
-%0Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFillh
+Shapes.Disc.Color.getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs7 7("0*
+07 7(*
+1*|
+17
+ 7(h
 f
-
-§ §(4
+7
+ 7(
+%retUnityEngine.Color"__id*9
+7
+ 7(-*+
+Shapes.Disc"
+colorUnityEngine.Color*
+2*6
+27 7("'
+7 7(
 
-%0Shapes.GradientFill"
-typeShapes.FillType"__id*
-
-valueShapes.FillTypeŒ
-À
-
-•1 •(U	
-%1int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*F
-
-•1 •(58*6
-Shapes.RegularPolygon"
-fillShapes.GradientFill*:
-
-•L •(S,**
-Shapes.RegularPolygon"
-useFillboolŒ
-À
-
-• •(W
-
-%2void"(Shapes.ShapeRenderer.SetIntNow(int, int)*'
-
-• •(
-Shapes.RegularPolygon*C
-
-• •(/5*3
-Shapes.ShapesMaterialUtils"
-propFillTypeint*
-
-•1 •(U
-	
-%1int*
-2*2
-2
-¶ ¶("!
-
-¶ ¶(
-implicit return:
-valueShapes.FillTypeB
-Shapes.RegularPolygon
+%retUnityEngine.ColorB
+Shapes.Disc

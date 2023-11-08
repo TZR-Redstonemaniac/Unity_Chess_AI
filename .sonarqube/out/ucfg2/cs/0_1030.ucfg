@@ -1,24 +1,33 @@
 
-)Shapes.DashStyle.DefaultDashStyleRing.set
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.csŠ Š("0*
+Shapes.Draw.RingDashStyle.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÔ Ô("0*
 0
-Š Š(*
-1*a
+Ô Ô(*
+1*à
 1
-Š
- Š(K
-I
+Ô
+ Ô(!\
+Z
 
-Š
- Š(
-%0Shapes.DashStyle"__id*
+Ô
+ Ô(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylel
+j
+
+Ô
+ Ô(!7
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStyle"__id*
 
 valueShapes.DashStyle*
 2*2
 2
-Š Š("!
+Ô" Ô(""!
 
-Š Š(
+Ô! Ô("
 implicit return:
-valueShapes.DashStyleB"
-Shapes.DashStyle
+valueShapes.DashStyleB"
+Shapes.Draw

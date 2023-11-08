@@ -1,27 +1,35 @@
 
-Shapes.Quad.Color.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs± ±("0*
+!Shapes.Draw.SphereRadiusSpace.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs³ ³("0*
 0
-± ±(*
-1*‚
+³ ³(*
+1*ù
 1
-±
- ±(l
-j
+³
+ ³(\
+Z
 
-±
- ±(
-%retUnityEngine.Color"__id*;
+³
+ ³(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyle„
+
 
-±
- ±(-*+
-Shapes.Quad"
-colorUnityEngine.Color*
-2*:
+³
+ ³(
+%retShapes.ThicknessSpace"__id*N
+
+³
+ ³(@*>
+
+%0Shapes.DrawStyle"$
+radiusSpaceShapes.ThicknessSpace*
+2*>
 2
-± ±(")
+³ ³("-
 
-± ±(
-
-%retUnityEngine.ColorB
-Shapes.Quad
+³ ³(
+
+%retShapes.ThicknessSpaceB"
+Shapes.Draw

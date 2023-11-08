@@ -1,21 +1,35 @@
 
-Shapes.Line.ColorEnd.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs> >("0*
-0> >(*
-1*
-1>
- >(k
-i
->
- >(
-%retUnityEngine.Color"__id*<
->
- >(0*.
-Shapes.Line"
-colorEndUnityEngine.Color*
-2*6
-2> >("'
-> >(
-
-%retUnityEngine.ColorB
-Shapes.Line
+#Shapes.RegularPolygon.DashSpace.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csý ý("0*
+0
+ý ý(*
+1*õ
+1
+ý
+ ý(j
+h
+
+ý
+ ý(
+%0Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStyles
+q
+
+ý
+ ý(
+%retShapes.DashSpace"__id*C
+
+ý
+ ý(5*3
+
+%0Shapes.DashStyle"
+spaceShapes.DashSpace*
+2*9
+2
+ý ý("(
+
+ý ý(
+
+%retShapes.DashSpaceB
+Shapes.RegularPolygon

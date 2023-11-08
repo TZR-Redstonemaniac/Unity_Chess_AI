@@ -1,21 +1,36 @@
 
-%Shapes.Rectangle.CornerRadiusMode.get}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csZ Z("0*
-0Z Z(*
-1*À
-1Z
- Z(«
-¨
-Z
- Z(2
-%ret*Shapes.Rectangle.RectangleCornerRadiusMode"__id*b
-Z
- Z(V*T
-Shapes.Rectangle">
-cornerRadiusMode*Shapes.Rectangle.RectangleCornerRadiusMode*
-2*O
-2Z Z("@
-Z Z(4
-2
-%ret*Shapes.Rectangle.RectangleCornerRadiusModeB
-Shapes.Rectangle
+(Shapes.Sphere.SetAllMaterialProperties()z
+pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Sphere.cs" (:"0*
+0 (*
+1*Ú
+1 (CÖ
+Ó
+ (5
+
+%0void")Shapes.ShapeRenderer.SetFloat(int, float)*
+ (
+Shapes.Sphere*?
+ (+3*1
+Shapes.ShapesMaterialUtils"
+
+propRadiusint*0
+- (3$*"
+Shapes.Sphere"
+radiusfloatì
+é
+ (B
+
+%1void"%Shapes.ShapeRenderer.SetInt(int, int)*
+ (	
+Shapes.Sphere*D
+ (.8*6
+Shapes.ShapesMaterialUtils"
+propRadiusSpaceint*E
+0 (@9*7
+Shapes.Sphere"$
+radiusSpaceShapes.ThicknessSpace*
+2*.
+2 ("
+ (
+implicit returnB
+Shapes.Sphere

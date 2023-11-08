@@ -1,44 +1,13 @@
-·
-Shapes.PolylineShapes.ShapeRendererUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobjecth
-*SetPointPosition(int, UnityEngine.Vector3):Shapes.Polyline.SetPointPosition(int, UnityEngine.Vector3)^
-%SetPointColor(int, UnityEngine.Color)5Shapes.Polyline.SetPointColor(int, UnityEngine.Color)N
-SetPointThickness(int, float)-Shapes.Polyline.SetPointThickness(int, float)¸
-‘SetPoints(System.Collections.Generic.IReadOnlyCollection<UnityEngine.Vector3>, System.Collections.Generic.IReadOnlyCollection<UnityEngine.Color>)¡Shapes.Polyline.SetPoints(System.Collections.Generic.IReadOnlyCollection<UnityEngine.Vector3>, System.Collections.Generic.IReadOnlyCollection<UnityEngine.Color>)¸
-‘SetPoints(System.Collections.Generic.IReadOnlyCollection<UnityEngine.Vector2>, System.Collections.Generic.IReadOnlyCollection<UnityEngine.Color>)¡Shapes.Polyline.SetPoints(System.Collections.Generic.IReadOnlyCollection<UnityEngine.Vector2>, System.Collections.Generic.IReadOnlyCollection<UnityEngine.Color>)¢
-GSetPoints(System.Collections.Generic.IEnumerable<Shapes.PolylinePoint>)WShapes.Polyline.SetPoints(System.Collections.Generic.IEnumerable<Shapes.PolylinePoint>)¢
-GAddPoints(System.Collections.Generic.IEnumerable<Shapes.PolylinePoint>)WShapes.Polyline.AddPoints(System.Collections.Generic.IEnumerable<Shapes.PolylinePoint>)N
-AddPoint(UnityEngine.Vector3)-Shapes.Polyline.AddPoint(UnityEngine.Vector3)t
-0AddPoint(UnityEngine.Vector3, UnityEngine.Color)@Shapes.Polyline.AddPoint(UnityEngine.Vector3, UnityEngine.Color)‚
-7AddPoint(UnityEngine.Vector3, UnityEngine.Color, float)GShapes.Polyline.AddPoint(UnityEngine.Vector3, UnityEngine.Color, float)\
-$AddPoint(UnityEngine.Vector3, float)4Shapes.Polyline.AddPoint(UnityEngine.Vector3, float)P
-AddPoint(Shapes.PolylinePoint).Shapes.Polyline.AddPoint(Shapes.PolylinePoint)0
-CamOnPreCull()Shapes.Polyline.CamOnPreCull()0
-GenerateMesh()Shapes.Polyline.GenerateMesh()H
-SetAllMaterialProperties()*Shapes.Polyline.SetAllMaterialProperties()8
-ShapeClampRanges()"Shapes.Polyline.ShapeClampRanges()0
-GetMaterials()Shapes.Polyline.GetMaterials()<
-GetBounds_Internal()$Shapes.Polyline.GetBounds_Internal()(
-
-Polyline()Shapes.Polyline.Polyline()0
-PolyPoints.getShapes.Polyline.PolyPoints.get0
-PolyPoints.setShapes.Polyline.PolyPoints.set,
-Geometry.getShapes.Polyline.Geometry.get,
-Geometry.setShapes.Polyline.Geometry.set&
-	Joins.getShapes.Polyline.Joins.get&
-	Joins.setShapes.Polyline.Joins.set(
-
-Closed.getShapes.Polyline.Closed.get(
-
-Closed.setShapes.Polyline.Closed.set.
-Thickness.getShapes.Polyline.Thickness.get.
-Thickness.setShapes.Polyline.Thickness.set8
-ThicknessSpace.get"Shapes.Polyline.ThicknessSpace.get8
-ThicknessSpace.set"Shapes.Polyline.ThicknessSpace.set&
-	Count.getShapes.Polyline.Count.get&
-	Count.setShapes.Polyline.Count.set.
-this[int].getShapes.Polyline.this[int].get.
-this[int].setShapes.Polyline.this[int].set:
-UseCamOnPreCull.get#Shapes.Polyline.UseCamOnPreCull.get:
-UseCamOnPreCull.set#Shapes.Polyline.UseCamOnPreCull.set8
-MeshUpdateMode.get"Shapes.Polyline.MeshUpdateMode.get8
-MeshUpdateMode.set"Shapes.Polyline.MeshUpdateMode.set
+Á
+Shapes.DashStyleSystem.ValueTypeobject=
+GetNet(float, float)%Shapes.DashStyle.GetNet(float, float)S
+GetNetAbsoluteSize(bool, float)0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)Y
+"GetNetAbsoluteSpacing(bool, float)3Shapes.DashStyle.GetNetAbsoluteSpacing(bool, float)5
+DashStyle(float)!Shapes.DashStyle.DashStyle(float)W
+!DashStyle(float, Shapes.DashType)2Shapes.DashStyle.DashStyle(float, Shapes.DashType)e
+(DashStyle(float, float, Shapes.DashType)9Shapes.DashStyle.DashStyle(float, float, Shapes.DashType)C
+DashStyle(float, float)(Shapes.DashStyle.DashStyle(float, float)Q
+DashStyle(float, float, float)/Shapes.DashStyle.DashStyle(float, float, float)+
+DashStyle()Shapes.DashStyle.DashStyle()3
+UniformSize.get Shapes.DashStyle.UniformSize.get3
+UniformSize.set Shapes.DashStyle.UniformSize.set

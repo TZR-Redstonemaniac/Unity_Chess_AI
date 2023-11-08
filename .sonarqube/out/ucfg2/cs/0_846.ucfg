@@ -1,18 +1,33 @@
 
-3Shapes.MpbPolygon.Shapes.IFillableMpb.fillStart.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csŽ) Ž(,"0* 
-0
-Ž- Ž(-¢
-Ÿ
+"Shapes.Polyline.ThicknessSpace.set|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.csJ J("0*
+0J J(*
+1*„
+1J
+ J(^t
+r
+JD J(Z<
+Shapes.Polyline"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpaceù
+ö
+J
+ J(^
 
-Ž) Ž(-Z
-Shapes.MpbPolygon"C
-Shapes.IFillableMpb.fillStart"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"j
-
-Ž) Ž(-\*Z
-Shapes.MpbPolygon"C
-Shapes.IFillableMpb.fillStart"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbPolygon
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+J
+ J(
+Shapes.Polyline*G
+J J(;;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*J
+J= J(\>*<
+Shapes.Polyline"'
+thicknessSpaceShapes.ThicknessSpace*
+2*.
+2J_ J(_"
+J^ J(_
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.Polyline

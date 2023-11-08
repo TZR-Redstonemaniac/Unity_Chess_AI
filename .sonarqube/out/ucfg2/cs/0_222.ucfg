@@ -1,18 +1,0 @@
-
-Shapes.Polyline.PolyPoints.get|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.cs ('"0*
-0 (*
-1*¸
-1+ (1£
- 
-+ (1=
-%ret5System.Collections.Generic.List<Shapes.PolylinePoint>"__id*O
-+ (1C*A
-Shapes.Polyline",
-points"System.Collections.Generic.List<T>*
-2*Z
-22 (2"K
-1 (2?
-=
-%ret5System.Collections.Generic.List<Shapes.PolylinePoint>B
-Shapes.Polyline

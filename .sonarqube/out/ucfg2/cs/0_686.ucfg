@@ -1,30 +1,28 @@
 
-;Shapes.ListPool<T>.Free(System.Collections.Generic.List<T>)
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs ("0*
-0 (*
-1*÷
-1 (†
-ƒ
- (
-
-%0void"1System.Collections.Generic.ICollection<T>.Clear()*8
- (,
-*
-list"System.Collections.Generic.List<T>Ù
-Ö
- (
-
-%1void"1System.Collections.Generic.ICollection<T>.Push(T)*Q
- (E*C
-Shapes.ListPool<T>"+
-pool#System.Collections.Generic.Stack<T>*8
- (,
-*
-list"System.Collections.Generic.List<T>*
-2*.
-2 ("
- (
-implicit return:6
- ('*
-list"System.Collections.Generic.List<T>B"
-Shapes.ListPool<T>
+Shapes.Line.DashSnap.get–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csu u("0*
+0u u(*
+1*è
+1u
+ u(^
+\
+u
+ u(
+%0Shapes.DashStyle"__id*20*.
+Shapes.Line"
+	dashStyleShapes.DashStylet
+r
+u
+ u(
+%retShapes.DashSnapping"__id*C
+u
+ u(7*5
+
+%0Shapes.DashStyle"
+snapShapes.DashSnapping*
+2*8
+2u u(")
+u u(
+
+%retShapes.DashSnappingB
+Shapes.Line

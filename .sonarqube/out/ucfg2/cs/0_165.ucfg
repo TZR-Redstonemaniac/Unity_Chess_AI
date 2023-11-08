@@ -1,21 +1,0 @@
-
-&Shapes.ArrayPool<T>.ArrayPool()!static
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs ( "0*ç
-0 (\Z
-$ (4)
-%0#System.Collections.Generic.Stack<T>"#System.Collections.Generic.Stack<T>t
-r
-( (2
-
-%1void"+System.Collections.Generic.Stack<T>.Stack()*-+
-)
-%0#System.Collections.Generic.Stack<T>à
-Ö
- (4D
-Shapes.ArrayPool<T>"+
-pool#System.Collections.Generic.Stack<T>"__id*-+
-)
-%0#System.Collections.Generic.Stack<T>"
- (
-implicit returnB"
-Shapes.ArrayPool<T>

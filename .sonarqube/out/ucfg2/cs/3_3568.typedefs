@@ -1,7 +1,0 @@
-š
-RenderPiecesUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject
-Start()RenderPieces.Start()!
-Update()RenderPieces.Update()W
-#ConvertCoordinatesToWorldPosition()0RenderPieces.ConvertCoordinatesToWorldPosition()Y
-$CreatePiece(UnityEngine.Sprite, int)1RenderPieces.CreatePiece(UnityEngine.Sprite, int)-
-RenderPieces()RenderPieces.RenderPieces()

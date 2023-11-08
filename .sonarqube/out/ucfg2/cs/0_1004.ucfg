@@ -1,48 +1,92 @@
 
-6Shapes.PolylinePath.SetPoint(int, UnityEngine.Vector3)Ñ
-zC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PolylinePath.cs ("0*
-0 (*
-1*“
-1 (—
-Œ
- ( 
-%0Shapes.PolylinePoint"7System.Collections.Generic.ICollection<T>.this[int].get*Q
- (E*C
-Shapes.PolylinePath"*
-path"System.Collections.Generic.List<T>*
- (
-
-indexintM
+aShapes.DashStyle.FixedDashCount(Shapes.DashType, float, float, Shapes.DashSnapping, float, float)}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.csc c(("0*
+0c c(*
+1*û
+1d k(!64
+d l(
+%0Shapes.DashStyle"Shapes.DashStyleh
+f
+d l(
+%1Shapes.DashStyle"Shapes.DashStyle.DashStyle()*$
+d l(
+
+%0Shapes.DashStyleM
 K
- ( 
-pShapes.PolylinePoint"__id*
-
-%0Shapes.PolylinePointo
-m
- (9
-
-pShapes.PolylinePoint"
-pointUnityEngine.Vector3"__id* 
-
-pointUnityEngine.Vector3©
-¶
- (
+d l(
+	%capture0Shapes.DashStyle"__id*
+
+%0Shapes.DashStyle_
+]
+e e( :
+
+	%capture0Shapes.DashStyle"
+spaceShapes.DashSpace"__id*2˛ˇˇˇˇˇˇˇˇi
+g
+f f(8
+
+	%capture0Shapes.DashStyle"
+typeShapes.DashType"__id*
+
+typeShapes.DashTypeV
+T
+g g(.
+
+	%capture0Shapes.DashStyle"
+sizefloat"__id*
+
+countfloatc
+a
+h h(1
+
+	%capture0Shapes.DashStyle"
+spacingfloat"__id*
+
+spacingFractionfloatq
+o
+i i(<
+
+	%capture0Shapes.DashStyle"
+snapShapes.DashSnapping"__id*
+
+snapShapes.DashSnappingY
+W
+j j(0
+
+	%capture0Shapes.DashStyle"
+offsetfloat"__id*
+
+offsetfloatg
+e
+k k(!7
+
+	%capture0Shapes.DashStyle"
+shapeModifierfloat"__id*
+
+shapeModifierfloatY
+W
+d l(
+%retShapes.DashStyle"__id*+
+d l(
+
+	%capture0Shapes.DashStyle*
+2*5
+2l l("&
+l l(
+
+%retShapes.DashStyle:#
+c* c(7
+typeShapes.DashType:
+c9 c(D
+countfloat:$
+cF c(b
+spacingFractionfloat:(
+	cd c(à
+snapShapes.DashSnapping:
 
-%1void"$Shapes.PointPath<T>.SetPoint(int, T)*#
- (
-Shapes.PolylinePath*
- (
-
-indexint*'
- (
-
-pShapes.PolylinePoint*
-2*.
-2 ("
- (
-implicit return:
- (!
-indexint:(
-# (0
-pointUnityEngine.Vector3B
-Shapes.PolylinePath
+cä c(õ
+offsetfloat:$
+
+cù c(µ
+shapeModifierfloatB"
+Shapes.DashStyle

@@ -1,23 +1,34 @@
 
-)Shapes.ColorStack.Push(UnityEngine.Color)‚
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\ColorStack.cs ("0*
-0 (*
-1*ã
-12 (JÎ
-Ë
-2 (J
+<Shapes.PolylinePoint.operator *(float, Shapes.PolylinePoint)
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\PolylinePoint.cs (&"0*
+0 (*
+1*·
+1H (MÆ
+Ã
+H (M
+%0Shapes.PolylinePoint"<Shapes.PolylinePoint.operator *(Shapes.PolylinePoint, float)*"
+Shapes.PolylinePoint*'
+H (I
+
+aShapes.PolylinePoint*
+L (M
 
-%0void"1System.Collections.Generic.ICollection<T>.Push(T)*R
-2 (8F*D
-Shapes.ColorStack"-
-colors#System.Collections.Generic.Stack<T>*,
-? (H 
-
-	prevStateUnityEngine.Color*
-2*.
-2K (K"
-J (K
-implicit return:*
- (,
-	prevStateUnityEngine.ColorB"
-Shapes.ColorStack
+
+bfloatZ
+X
+H (M
+%retShapes.PolylinePoint"__id*(
+H (M
+
+%0Shapes.PolylinePoint*
+2*9
+2N (N"*
+M (N
+
+%retShapes.PolylinePoint:
+* (1
+
+bfloat:%
+3 (B
+aShapes.PolylinePointB"
+Shapes.PolylinePoint

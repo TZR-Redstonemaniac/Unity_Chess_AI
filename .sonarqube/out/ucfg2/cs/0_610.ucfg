@@ -1,36 +1,33 @@
 
-(Shapes.Sphere.SetAllMaterialProperties()z
-pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Sphere.cs" (:"0*
-0 (*
-1*Ú
-1 (CÖ
-Ó
- (5
+Shapes.Triangle.B.set|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csq q("0*
+0q q(*
+1*ë
+1q
+ q(?c
+a
+q4 q(=-
+Shapes.Triangle"
+bUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3ñ
+î
+q
+ q(?
 
-%0void")Shapes.ShapeRenderer.SetFloat(int, float)*
- (
-Shapes.Sphere*?
- (+3*1
-Shapes.ShapesMaterialUtils"
-
-propRadiusint*0
-- (3$*"
-Shapes.Sphere"
-radiusfloatì
-é
- (B
-
-%1void"%Shapes.ShapeRenderer.SetInt(int, int)*
- (	
-Shapes.Sphere*D
- (.8*6
-Shapes.ShapesMaterialUtils"
-propRadiusSpaceint*E
-0 (@9*7
-Shapes.Sphere"$
-radiusSpaceShapes.ThicknessSpace*
+%0void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*
+q
+ q(
+Shapes.Triangle*:
+q q(2.*,
+Shapes.ShapesMaterialUtils"
+propBint*;
+q4 q(=/*-
+Shapes.Triangle"
+bUnityEngine.Vector3*
 2*.
-2 ("
- (
-implicit returnB
-Shapes.Sphere
+2q@ q(@"
+q? q(@
+implicit return:
+valueUnityEngine.Vector3B
+Shapes.Triangle

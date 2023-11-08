@@ -1,33 +1,30 @@
 
-Shapes.Polyline.Thickness.set|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.csC C("0*
-0C C(*
-1*É
-1C
- C(MO
-M
-C: C(K'
-Shapes.Polyline"
-	thicknessfloat"__id*
-
-valuefloatã
-à
-C
- C(M
+Shapes.Draw.PolylineJoins.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÕ Õ("0*
+0
+Õ Õ(*
+1*ì
+1
+Õ! Õ(<\
+Z
 
-%0void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-C
- C(
-Shapes.Polyline*B
-C C(86*4
-Shapes.ShapesMaterialUtils"
-propThicknessint*5
-C: C(K)*'
-Shapes.Polyline"
-	thicknessfloat*
-2*.
-2CN C(N"
-CM C(N
-implicit return:
-valuefloatB
-Shapes.Polyline
+Õ! Õ(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylex
+v
+
+Õ! Õ(<?
+
+%0Shapes.DrawStyle"%
+polylineJoinsShapes.PolylineJoins"__id*!
+
+valueShapes.PolylineJoins*
+2*2
+2
+Õ= Õ(="!
+
+Õ< Õ(=
+implicit return:
+valueShapes.PolylineJoinsB"
+Shapes.Draw

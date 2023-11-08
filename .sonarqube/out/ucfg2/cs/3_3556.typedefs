@@ -1,9 +1,11 @@
-„
-MovementManagerUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject"
-Start()MovementManager.Start()$
-Update()MovementManager.Update()J
-FindIndices(float[], float)+MovementManager.FindIndices(float[], float)6
-PickupObject(int)!MovementManager.PickupObject(int)2
-DropObject(int)MovementManager.DropObject(int)R
-MoveObject(UnityEngine.Vector3)/MovementManager.MoveObject(UnityEngine.Vector3)6
-MovementManager()!MovementManager.MovementManager()
+º
+Managers.MovementManagerUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject+
+Start() Managers.MovementManager.Start()-
+Update()!Managers.MovementManager.Update()S
+FindIndices(float[], float)4Managers.MovementManager.FindIndices(float[], float)?
+PickupObject(int)*Managers.MovementManager.PickupObject(int);
+DropObject(int)(Managers.MovementManager.DropObject(int)[
+MoveObject(UnityEngine.Vector3)8Managers.MovementManager.MoveObject(UnityEngine.Vector3)?
+MovementManager()*Managers.MovementManager.MovementManager()5
+PickedUp.get%Managers.MovementManager.PickedUp.get5
+PickedUp.set%Managers.MovementManager.PickedUp.set

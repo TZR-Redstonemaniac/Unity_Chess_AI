@@ -1,72 +1,0 @@
-
-Shapes.MpbPolygon.MpbPolygon()á
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csà à("0*±
-0
-ì ì(l
-j
-
-ã5 ã(H(
-%0"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpb∏
-µ
-
-ã ã(I(
-%1"System.Collections.Generic.List<T>"6Shapes.MpbPolygon.Shapes.IFillableMpb.fillColorEnd.set*
-Shapes.MpbPolygon*,*
-(
-%0"System.Collections.Generic.List<T>l
-j
-
-å0 å(C(
-%2"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpb≥
-∞
-
-å å(D(
-%3"System.Collections.Generic.List<T>"1Shapes.MpbPolygon.Shapes.IFillableMpb.fillEnd.set*
-Shapes.MpbPolygon*,*
-(
-%2"System.Collections.Generic.List<T>l
-j
-
-ç0 ç(A(
-%4"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbµ
-≤
-
-ç ç(B(
-%5"System.Collections.Generic.List<T>"3Shapes.MpbPolygon.Shapes.IFillableMpb.fillSpace.set*
-Shapes.MpbPolygon*,*
-(
-%4"System.Collections.Generic.List<T>l
-j
-
-é2 é(E(
-%6"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbµ
-≤
-
-é é(F(
-%7"System.Collections.Generic.List<T>"3Shapes.MpbPolygon.Shapes.IFillableMpb.fillStart.set*
-Shapes.MpbPolygon*,*
-(
-%6"System.Collections.Generic.List<T>l
-j
-
-è/ è(@(
-%8"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpb¥
-±
-
-è è(A(
-%9"System.Collections.Generic.List<T>"2Shapes.MpbPolygon.Shapes.IFillableMpb.fillType.set*
-Shapes.MpbPolygon*,*
-(
-%8"System.Collections.Generic.List<T>?
-=
-%10void"Shapes.MetaMpb.MetaMpb()*
-Shapes.MetaMpb"!
-
-à ì(
-implicit returnB
-Shapes.MpbPolygon

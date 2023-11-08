@@ -1,33 +1,43 @@
 
-&Shapes.Draw.TriangleThicknessSpace.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¨ ¨("0*
+Shapes.Quad.ColorB.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csã ã("0*
 0
-¨ ¨(*
-1*ï
+ã ã(*
+1*ð
 1
-¨
- ¨(&\
-Z
+ã
+ ã(Gb
+`
 
-¨
- ¨(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle{
-y
+ã7 ã(E,
+Shapes.Quad"
+colorBUnityEngine.Color"__id*
+
+valueUnityEngine.Colorõ
+ò
 
-¨
- ¨(&A
-
-%0Shapes.DrawStyle"'
-thicknessSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpace*
+ã
+ ã(G
+
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+
+ã
+ ã(
+Shapes.Quad*A
+
+ã ã(53*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*<
+
+ã7 ã(E.*,
+Shapes.Quad"
+colorBUnityEngine.Color*
 2*2
 2
-¨' ¨('"!
+ãH ã(H"!
 
-¨& ¨('
-implicit return: 
-valueShapes.ThicknessSpaceB"
-Shapes.Draw
+ãG ã(H
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Quad

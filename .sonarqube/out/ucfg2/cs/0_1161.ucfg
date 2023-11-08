@@ -1,35 +1,27 @@
 
-!Shapes.Draw.TriangleThickness.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¡ ¡("0*
+Shapes.Quad.ColorB.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csâ â("0*
 0
-¡ ¡(*
-1*Õ
+â â(*
+1*ƒ
 1
-¡
- ¡(\
-Z
+â
+ â(m
+k
 
-¡
- ¡(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylea
-_
+â
+ â(
+%retUnityEngine.Color"__id*<
 
-¡
- ¡(
-%retfloat"__id*<
-
-¡
- ¡(.*,
-
-%0Shapes.DrawStyle"
-	thicknessfloat*
-2*.
+â
+ â(.*,
+Shapes.Quad"
+colorBUnityEngine.Color*
+2*:
 2
-¡ ¡("
+â â(")
 
-¡ ¡(
-
-%retfloatB"
-Shapes.Draw
+â â(
+
+%retUnityEngine.ColorB
+Shapes.Quad

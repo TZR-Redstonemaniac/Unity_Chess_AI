@@ -1,38 +1,33 @@
 
-DShapes.PolylinePath.AddPoint(UnityEngine.Vector3, UnityEngine.Color)„
-zC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PolylinePath.cs0% 0(-"0*
-00 0(*
-1*Ô
-10M 0(x><
-0W 0(v
-%0Shapes.PolylinePoint"Shapes.PolylinePointó
-ð
-0W 0(v
-%1Shapes.PolylinePoint"JShapes.PolylinePoint.PolylinePoint(UnityEngine.Vector3, UnityEngine.Color)*(
-0W 0(v
-
-%0Shapes.PolylinePoint*(
-0j 0(m
-
-posUnityEngine.Vector3*(
-0o 0(t
-
-colorUnityEngine.Color‰
-†
-0M 0(x
+#Shapes.Draw.TorusThicknessSpace.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÀ À("0*
+0
+À À(*
+1*ï
+1
+À
+ À(&\
+Z
 
-%2void"Shapes.PointPath<T>.AddPoint(T)*#
-0M 0(U
-Shapes.PolylinePath*(
-0W 0(v
-
-%0Shapes.PolylinePoint*
-2*.
-20y 0(y"
-0x 0(y
-implicit return:&
-0/ 0(:
-posUnityEngine.Vector3:&
-0< 0(G
-colorUnityEngine.ColorB
-Shapes.PolylinePath
+À
+ À(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyle{
+y
+
+À
+ À(&A
+
+%0Shapes.DrawStyle"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpace*
+2*2
+2
+À' À('"!
+
+À& À('
+implicit return: 
+valueShapes.ThicknessSpaceB"
+Shapes.Draw

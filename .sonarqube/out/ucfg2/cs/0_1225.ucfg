@@ -1,27 +1,21 @@
 
-Shapes.Quad.ColorC.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csè è("0*
-0
-è è(*
-1*ƒ
-1
-è
- è(m
-k
-
-è
- è(
-%retUnityEngine.Color"__id*<
-
-è
- è(.*,
-Shapes.Quad"
-colorCUnityEngine.Color*
-2*:
-2
-è è(")
-
-è è(
-
-%retUnityEngine.ColorB
-Shapes.Quad
+Shapes.ShapeRenderer.ZTest.get
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csx x("0*
+0x x(*
+1*¯
+1x
+ x(š
+—
+x
+ x(-
+%ret%UnityEngine.Rendering.CompareFunction"__id*V
+x
+ x(J*H
+Shapes.ShapeRenderer".
+zTest%UnityEngine.Rendering.CompareFunction*
+2*J
+2x x(";
+x x(/
+-
+%ret%UnityEngine.Rendering.CompareFunctionB
+Shapes.ShapeRenderer

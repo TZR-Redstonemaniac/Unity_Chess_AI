@@ -1,58 +1,51 @@
 
-Shapes.Rectangle.FillType.setò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csù ù("0*
+Shapes.Rectangle.UseFill.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csñ ñ("0*
 0
-ù ù(*
-1*˘
+ñ ñ(*
+1*˜
 1
-û ü(Xf
-d
+ó ò(XN
+L
 
-û û(
-%0Shapes.GradientFill"__id*53*1
-Shapes.Rectangle"
-fillShapes.GradientFillh
-f
+ó ó(%
+Shapes.Rectangle"
+useFillbool"__id*
 
-û û(4
-
-%0Shapes.GradientFill"
-typeShapes.FillType"__id*
-
-valueShapes.FillTypeƒ
+valueboolƒ
 ¡
 
-ü1 ü(U	
-%1int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*A
+ò1 ò(U	
+%0int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*A
 
-ü1 ü(53*1
+ò1 ò(53*1
 Shapes.Rectangle"
 fillShapes.GradientFill*5
 
-üL ü(S'*%
+òL ò(S'*%
 Shapes.Rectangle"
 useFillbool…
 ∆
 
-ü ü(W
+ò ò(W
 
-%2void"(Shapes.ShapeRenderer.SetIntNow(int, int)*"
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*"
 
-ü ü(
+ò ò(
 Shapes.Rectangle*C
 
-ü ü(/5*3
+ò ò(/5*3
 Shapes.ShapesMaterialUtils"
 propFillTypeint*
 
-ü1 ü(U
+ò1 ò(U
 	
-%1int*
+%0int*
 2*2
 2
-† †("!
+ô ô("!
 
-† †(
-implicit return:
-valueShapes.FillTypeB
+ô ô(
+implicit return:
+valueboolB
 Shapes.Rectangle

@@ -1,33 +1,35 @@
 
-Shapes.Draw.DiscRadius.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÎ Î("0*
+$Shapes.Draw.RegularPolygonRadius.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csý ý("0*
 0
-Î Î(*
-1*Ç
+ý ý(*
+1*Ò
 1
-Î
- Î(\
+ý
+ ý(\
 Z
 
-Î
- Î(
+ý
+ ý(
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStyleS
-Q
+styleShapes.DrawStyle^
+\
 
-Î
- Î()
+ý
+ ý(
+%retfloat"__id*9
+
+ý
+ ý(+*)
 
 %0Shapes.DrawStyle"
-radiusfloat"__id*
-
-valuefloat*
-2*2
+radiusfloat*
+2*.
 2
-Î Î("!
+ý ý("
 
-Î Î(
-implicit return:
-valuefloatB"
+ý ý(
+
+%retfloatB"
 Shapes.Draw

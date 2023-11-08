@@ -1,24 +1,64 @@
 
-)Shapes.PointPath<T>.AddPoints(params T[])Å
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PointPath.cs. .("0*
-0. .(*
-1*∑
-1.- .(M¢
-ü
-.- .(M
+Shapes.Quad.ColorTop.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csƒ ƒ("0*
+0
+ƒ ƒ(*
+1*…
+1
+≈ ∆(Bb
+`
 
-%0void"HShapes.PointPath<T>.AddPoints(System.Collections.Generic.IEnumerable<T>)*#
-.- .(6
-Shapes.PointPath<T>*
-.8 .(K
+≈. ≈(<,
+Shapes.Quad"
+colorBUnityEngine.Color"__id*
+
+valueUnityEngine.ColorÚ
+Ô
 
+≈ ≈(>
 
-ptsT[]*
-2*.
-2.N .(N"
-.M .(N
-implicit return:
-. .('
+%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
 
-ptsT[]B
-Shapes.PointPath<T>
+≈ ≈(
+Shapes.Quad*A
+
+≈ ≈(,3*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*<
+
+≈. ≈(<.*,
+Shapes.Quad"
+colorBUnityEngine.Colorb
+`
+
+∆1 ∆(?,
+Shapes.Quad"
+colorCUnityEngine.Color"__id*
+
+valueUnityEngine.Colorı
+Ú
+
+∆ ∆(A
+
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+
+∆ ∆(
+Shapes.Quad*A
+
+∆ ∆(/3*1
+Shapes.ShapesMaterialUtils"
+
+propColorCint*<
+
+∆1 ∆(?.*,
+Shapes.Quad"
+colorCUnityEngine.Color*
+2*2
+2
+« «("!
+
+« «(
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Quad

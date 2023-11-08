@@ -1,54 +1,21 @@
 
-*Shapes.RegularPolygon.FillRadialRadius.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csµ µ("0*
-0
-µ µ(*
-1*ö
-1
-¶ ·(Tk
-i
-
-¶ ¶(
-%0Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFill\
-Z
-
-¶ ¶(2
+Shapes.Disc.ColorInnerEnd.getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csM M("0*
+0M M(*
+1*„
+1M
+ M(p
+n
+M
+ M(
+%retUnityEngine.Color"__id*A
+M
+ M(5*3
+Shapes.Disc""
+colorInnerEndUnityEngine.Color*
+2*6
+2M M("'
+M M(
 
-%0Shapes.GradientFill"
-radialRadiusfloat"__id*
-
-valuefloatž
-›
-
-·6 ·(Q
-%1UnityEngine.Vector4"*Shapes.GradientFill.GetShaderStartVector()*F
-
-·6 ·(:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFilló
-ð
-
-· ·(S
-
-%2void"<Shapes.ShapeRenderer.SetVector4Now(int, UnityEngine.Vector4)*'
-
-· ·(
-Shapes.RegularPolygon*D
-
-· ·(46*4
-Shapes.ShapesMaterialUtils"
-propFillStartint*)
-
-·6 ·(Q
-
-%1UnityEngine.Vector4*
-2*2
-2
-¸ ¸("!
-
-¸ ¸(
-implicit return:
-valuefloatB
-Shapes.RegularPolygon
+%retUnityEngine.ColorB
+Shapes.Disc

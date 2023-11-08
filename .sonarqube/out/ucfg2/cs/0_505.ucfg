@@ -1,31 +1,31 @@
 
-Shapes.Draw.DetailLevel.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs“ “("0*
+Shapes.Draw.Radius.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csŸ Ÿ("0*
 0
-“ “(*
-1*ñ
+Ÿ Ÿ(*
+1*Ò
 1
-“! “(2\
+Ÿ! Ÿ(-\
 Z
 
-“! “(&
+Ÿ! Ÿ(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStyle}
-{
+styleShapes.DrawStyle^
+\
 
-“! “(2
-%retShapes.DetailLevel"__id*K
+Ÿ! Ÿ(-
+%retfloat"__id*9
 
-“! “(2=*;
+Ÿ! Ÿ(-+*)
 
-%0Shapes.DrawStyle"!
-detailLevelShapes.DetailLevel*
-2*;
+%0Shapes.DrawStyle"
+radiusfloat*
+2*.
 2
-“3 “(3"*
+Ÿ. Ÿ(."
 
-“2 “(3
-
-%retShapes.DetailLevelB"
+Ÿ- Ÿ(.
+
+%retfloatB"
 Shapes.Draw

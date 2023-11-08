@@ -1,28 +1,27 @@
 
-Shapes.Rectangle.Radius.get}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csa a("0*
-0a a(*
-1*°
-1a
- a(^
-\
-a
- a(
-%0float"!Shapes.Rectangle.CornerRadius.get* 
-a
- a(
-Shapes.Rectangle<
-:
-a
- a(
-%retfloat"__id*
-a
- a(
-
-%0float*
-2**
-2a a("
-a a(
+Shapes.Triangle.ColorA.get~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs¢ ¢("0*
+0
+¢ ¢(*
+1*†
+1
+¢
+ ¢(p
+n
 
-%retfloatB
-Shapes.Rectangle
+¢
+ ¢(
+%retUnityEngine.Color"__id*?
+
+¢
+ ¢(1*/
+Shapes.Triangle"
+colorUnityEngine.Color*
+2*:
+2
+¢ ¢(")
+
+¢ ¢(
+
+%retUnityEngine.ColorB
+Shapes.Triangle

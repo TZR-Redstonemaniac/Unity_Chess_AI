@@ -1,14 +1,28 @@
-¾
-Shapes.MpbPolygonShapes.MetaMpbobjectShapes.IFillableMpbH
-TransferShapeProperties()+Shapes.MpbPolygon.TransferShapeProperties().
-MpbPolygon()Shapes.MpbPolygon.MpbPolygon()^
-$Shapes.IFillableMpb.fillColorEnd.get6Shapes.MpbPolygon.Shapes.IFillableMpb.fillColorEnd.get^
-$Shapes.IFillableMpb.fillColorEnd.set6Shapes.MpbPolygon.Shapes.IFillableMpb.fillColorEnd.setT
-Shapes.IFillableMpb.fillEnd.get1Shapes.MpbPolygon.Shapes.IFillableMpb.fillEnd.getT
-Shapes.IFillableMpb.fillEnd.set1Shapes.MpbPolygon.Shapes.IFillableMpb.fillEnd.setX
-!Shapes.IFillableMpb.fillSpace.get3Shapes.MpbPolygon.Shapes.IFillableMpb.fillSpace.getX
-!Shapes.IFillableMpb.fillSpace.set3Shapes.MpbPolygon.Shapes.IFillableMpb.fillSpace.setX
-!Shapes.IFillableMpb.fillStart.get3Shapes.MpbPolygon.Shapes.IFillableMpb.fillStart.getX
-!Shapes.IFillableMpb.fillStart.set3Shapes.MpbPolygon.Shapes.IFillableMpb.fillStart.setV
- Shapes.IFillableMpb.fillType.get2Shapes.MpbPolygon.Shapes.IFillableMpb.fillType.getV
- Shapes.IFillableMpb.fillType.set2Shapes.MpbPolygon.Shapes.IFillableMpb.fillType.set
+ˆ
+Shapes.MpbRectShapes.MetaMpbobjectShapes.IFillableMpbShapes.IDashableMpbE
+TransferShapeProperties()(Shapes.MpbRect.TransferShapeProperties()%
+	MpbRect()Shapes.MpbRect.MpbRect()[
+$Shapes.IFillableMpb.fillColorEnd.get3Shapes.MpbRect.Shapes.IFillableMpb.fillColorEnd.get[
+$Shapes.IFillableMpb.fillColorEnd.set3Shapes.MpbRect.Shapes.IFillableMpb.fillColorEnd.setQ
+Shapes.IFillableMpb.fillEnd.get.Shapes.MpbRect.Shapes.IFillableMpb.fillEnd.getQ
+Shapes.IFillableMpb.fillEnd.set.Shapes.MpbRect.Shapes.IFillableMpb.fillEnd.setU
+!Shapes.IFillableMpb.fillSpace.get0Shapes.MpbRect.Shapes.IFillableMpb.fillSpace.getU
+!Shapes.IFillableMpb.fillSpace.set0Shapes.MpbRect.Shapes.IFillableMpb.fillSpace.setU
+!Shapes.IFillableMpb.fillStart.get0Shapes.MpbRect.Shapes.IFillableMpb.fillStart.getU
+!Shapes.IFillableMpb.fillStart.set0Shapes.MpbRect.Shapes.IFillableMpb.fillStart.setS
+ Shapes.IFillableMpb.fillType.get/Shapes.MpbRect.Shapes.IFillableMpb.fillType.getS
+ Shapes.IFillableMpb.fillType.set/Shapes.MpbRect.Shapes.IFillableMpb.fillType.setW
+"Shapes.IDashableMpb.dashOffset.get1Shapes.MpbRect.Shapes.IDashableMpb.dashOffset.getW
+"Shapes.IDashableMpb.dashOffset.set1Shapes.MpbRect.Shapes.IDashableMpb.dashOffset.sete
+)Shapes.IDashableMpb.dashShapeModifier.get8Shapes.MpbRect.Shapes.IDashableMpb.dashShapeModifier.gete
+)Shapes.IDashableMpb.dashShapeModifier.set8Shapes.MpbRect.Shapes.IDashableMpb.dashShapeModifier.setS
+ Shapes.IDashableMpb.dashSize.get/Shapes.MpbRect.Shapes.IDashableMpb.dashSize.getS
+ Shapes.IDashableMpb.dashSize.set/Shapes.MpbRect.Shapes.IDashableMpb.dashSize.setS
+ Shapes.IDashableMpb.dashSnap.get/Shapes.MpbRect.Shapes.IDashableMpb.dashSnap.getS
+ Shapes.IDashableMpb.dashSnap.set/Shapes.MpbRect.Shapes.IDashableMpb.dashSnap.setU
+!Shapes.IDashableMpb.dashSpace.get0Shapes.MpbRect.Shapes.IDashableMpb.dashSpace.getU
+!Shapes.IDashableMpb.dashSpace.set0Shapes.MpbRect.Shapes.IDashableMpb.dashSpace.setY
+#Shapes.IDashableMpb.dashSpacing.get2Shapes.MpbRect.Shapes.IDashableMpb.dashSpacing.getY
+#Shapes.IDashableMpb.dashSpacing.set2Shapes.MpbRect.Shapes.IDashableMpb.dashSpacing.setS
+ Shapes.IDashableMpb.dashType.get/Shapes.MpbRect.Shapes.IDashableMpb.dashType.getS
+ Shapes.IDashableMpb.dashType.set/Shapes.MpbRect.Shapes.IDashableMpb.dashType.set

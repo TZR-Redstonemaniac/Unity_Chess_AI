@@ -1,27 +1,27 @@
 
-Shapes.Polygon.Fill.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csˆ ˆ("0*
+0Shapes.RegularPolygon.MatchDashSpacingToSize.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csØ Ø("0*
 0
-ˆ ˆ(*
-1*ˆ
+Ø Ø(*
+1*ƒ
 1
-ˆ
- ˆ(r
-p
+Ø
+ Ø( m
+k
 
-ˆ
- ˆ(
-%retShapes.GradientFill"__id*?
+Ø
+ Ø( 
+%retbool"__id*I
 
-ˆ
- ˆ(1*/
-Shapes.Polygon"
-fillShapes.GradientFill*
-2*<
+Ø
+ Ø( ;*9
+Shapes.RegularPolygon"
+matchDashSpacingToSizebool*
+2*-
 2
-ˆ ˆ("+
+Ø! Ø(!"
 
-ˆ ˆ(
-
-%retShapes.GradientFillB
-Shapes.Polygon
+Ø  Ø(!
+
+%retboolB
+Shapes.RegularPolygon

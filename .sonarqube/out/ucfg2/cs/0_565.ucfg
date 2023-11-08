@@ -1,37 +1,21 @@
 
- Shapes.Draw.GradientFillType.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÈ È("0*
-0
-È È(*
-1*Ð
-1
-È! È(@\
-Z
-
-È! È(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyler
-p
-
-È! È(3
-%1Shapes.GradientFill"__id*A?*=
-
-%0Shapes.DrawStyle"#
-gradientFillShapes.GradientFillh
-f
-
-È! È(@4
-
-%1Shapes.GradientFill"
-typeShapes.FillType"__id*
-
-valueShapes.FillType*
-2*2
-2
-ÈA È(A"!
-
-È@ È(A
-implicit return:
-valueShapes.FillTypeB"
-Shapes.Draw
+&Shapes.Line.MatchDashSpacingToSize.get–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csI I("0*
+0I I(*
+1*s
+1I
+ I( _
+]
+I
+ I( 
+%retbool"__id*=
+I
+ I( 1*/
+Shapes.Line"
+matchDashSpacingToSizebool*
+2*)
+2I! I(!"
+I  I(!
+
+%retboolB
+Shapes.Line

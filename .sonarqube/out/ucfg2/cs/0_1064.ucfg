@@ -1,29 +1,11 @@
 
-Shapes.ShapeRenderer.Mesh.getÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs ("0*
-0 (*
-1*˚
-1
- (í
-è
-
- (
-%0UnityEngine.Mesh"%UnityEngine.MeshFilter.sharedMesh.get*D
-
- (8*6
-Shapes.ShapeRenderer"
-mfUnityEngine.MeshFilterR
-P
-
- (
-%retUnityEngine.Mesh"__id*$
-
- (
-
-%0UnityEngine.Mesh*
-2*5
-2 ("&
- (
-
-%retUnityEngine.MeshB
-Shapes.ShapeRenderer
++Shapes.ImmediateModeShapeDrawer.OnDisable()ë
+ÜC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\ImmediateModeShapeDrawer.cs. .("0*
+0. .(*
+1*
+1.% .(L*
+2*.
+2.M .(M"
+.L .(M
+implicit returnB#!
+Shapes.ImmediateModeShapeDrawer

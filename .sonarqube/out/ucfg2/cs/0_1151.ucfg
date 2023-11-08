@@ -1,35 +1,18 @@
 
-"Shapes.Draw.RectangleThickness.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs• •("0*
+=Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillColorEnd.set‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csë, ë(/"0*´
 0
-• •(*
-1*Õ
-1
-•
- •(\
-Z
+ë0 ë(0¬
+©
 
-•
- •(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylea
-_
+ë, ë(0d
+Shapes.MpbRegularPolygon"F
+ Shapes.IFillableMpb.fillColorEnd"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"t
 
-•
- •(
-%retfloat"__id*<
-
-•
- •(.*,
-
-%0Shapes.DrawStyle"
-	thicknessfloat*
-2*.
-2
-• •("
-
-• •(
-
-%retfloatB"
-Shapes.Draw
+ë, ë(0f*d
+Shapes.MpbRegularPolygon"F
+ Shapes.IFillableMpb.fillColorEnd"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

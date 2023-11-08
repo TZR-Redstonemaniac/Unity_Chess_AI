@@ -1,33 +1,30 @@
 
-Shapes.Line.Start.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.csE E("0*
-0E E(*
-1*ð
-1E
- E(Lc
-a
-E= E(J-
-Shapes.Line"
-startUnityEngine.Vector3"__id* 
-
-valueUnityEngine.Vector3ö
-ó
-E
- E(L
-
-%0void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*
-E
- E(
-Shapes.Line*C
-E E(;7*5
-Shapes.ShapesMaterialUtils"
-propPointStartint*;
-E= E(J/*-
-Shapes.Line"
-startUnityEngine.Vector3*
+Shapes.Draw.ZOffsetFactor.set†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csK K("0*
+0K K(*
+1*¹
+1K! K(HZ
+X
+K! K(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
+k
+K! K(2
+%1Shapes.RenderState"__id*?=*;
+
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderStateZ
+X
+K! K(H2
+
+%1Shapes.RenderState"
+zOffsetFactorfloat"__id*
+
+valuefloat*
 2*.
-2EM E(M"
-EL E(M
-implicit return:
-valueUnityEngine.Vector3B
-Shapes.Line
+2KI K(I"
+KH K(I
+implicit return:
+valuefloatB"
+Shapes.Draw

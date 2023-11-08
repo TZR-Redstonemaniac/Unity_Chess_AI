@@ -1,38 +1,18 @@
 
-Shapes.Draw.DashSpacing.getà
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs® ®("0*
+2Shapes.MpbPolygon.Shapes.IFillableMpb.fillType.setá
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csè& è()"0*û
 0
-® ®(*
-1*æ
-1
-®! ®(8\
-Z
+è* è(*°
+û
 
-®! ®(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
+è& è(*Y
+Shapes.MpbPolygon"B
+Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"i
 
-®! ®(0
-%1Shapes.DashStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStyle_
-]
-
-®! ®(8
-%retfloat"__id*:
-
-®! ®(8,**
-
-%1Shapes.DashStyle"
-spacingfloat*
-2*.
-2
-®9 ®(9"
-
-®8 ®(9
-
-%retfloatB"
-Shapes.Draw
+è& è(*[*Y
+Shapes.MpbPolygon"B
+Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbPolygon

@@ -1,49 +1,15 @@
 
-hShapes.DiscColors.DiscColors(UnityEngine.Color, UnityEngine.Color, UnityEngine.Color, UnityEngine.Color)‚
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DiscColors.cs ("1*
-1 (*
-0*Î
-0 (o
-m
- (6
-Shapes.DiscColors"
+Shapes.ShapeGroup.IsEnabled.set~
+tC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeGroup.cs) (,"0*–
+0- (-O
+M
+! (-(
+Shapes.ShapeGroup"
+	IsEnabledbool"__id*
 
-innerStartUnityEngine.Color"__id*#!
-
-
-innerStartUnityEngine.Coloro
-m
- (6
-Shapes.DiscColors"
-
-outerStartUnityEngine.Color"__id*#!
-
-
-outerStartUnityEngine.Colork
-i
- (4
-Shapes.DiscColors"
-innerEndUnityEngine.Color"__id*!
-
-innerEndUnityEngine.Colork
-i
- (4
-Shapes.DiscColors"
-outerEndUnityEngine.Color"__id*!
-
-outerEndUnityEngine.Color*
-2*.
-2 ("
- (
-implicit return:+
- ('
-
-innerStartUnityEngine.Color:+
-) (9
-
-outerStartUnityEngine.Color:)
-; (I
-innerEndUnityEngine.Color:)
-K (Y
-outerEndUnityEngine.ColorB
-Shapes.DiscColors
+valuebool"6
+! (-**(
+Shapes.ShapeGroup"
+	IsEnabledbool:
+valueboolB
+Shapes.ShapeGroup

@@ -1,11 +1,27 @@
 
-+Shapes.ImmediateModeShapeDrawer.OnDisable()ë
-ÜC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\ImmediateModeShapeDrawer.cs. .("0*
-0. .(*
-1*
-1.% .(L*
-2*.
-2.M .(M"
-.L .(M
-implicit returnB#!
-Shapes.ImmediateModeShapeDrawer
+Shapes.Quad.IsUsingAutoD.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csù ù("0*
+0
+ù ù(*
+1*k
+1
+ù
+ ù(U
+S
+
+ù
+ ù(
+%retbool"__id*1
+
+ù
+ ù(#*!
+Shapes.Quad"
+autoSetDbool*
+2*-
+2
+ù ù("
+
+ù ù(
+
+%retboolB
+Shapes.Quad

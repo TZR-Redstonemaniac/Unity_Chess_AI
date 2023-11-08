@@ -1,21 +1,38 @@
 
-Shapes.Cuboid.Size.getz
-pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Cuboid.cs ("0*
-0 (*
-1*Å
-1
- (m
-k
-
- (
-%retUnityEngine.Vector3"__id*<
-
- (0*.
-Shapes.Cuboid"
-sizeUnityEngine.Vector3*
-2*8
-2 (")
- (
-
-%retUnityEngine.Vector3B
-Shapes.Cuboid
+!Shapes.Draw.DashShapeModifier.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¥ ¥("0*
+0
+¥ ¥(*
+1*ƒ
+1
+¥! ¥(>\
+Z
+
+¥! ¥(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+¥! ¥(0
+%1Shapes.DashStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStylee
+c
+
+¥! ¥(>
+%retfloat"__id*@
+
+¥! ¥(>2*0
+
+%1Shapes.DashStyle"
+shapeModifierfloat*
+2*.
+2
+¥? ¥(?"
+
+¥> ¥(?
+
+%retfloatB"
+Shapes.Draw

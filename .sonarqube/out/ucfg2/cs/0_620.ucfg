@@ -1,28 +1,31 @@
 
-Shapes.Disc.RadiusInner.setz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs° °("0*
+Shapes.Draw.DashStyle.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÅ Å("0*
 0
-° °(*
-1*
+Å Å(*
+1*Î
 1
-°
- °(i
-g
+Å! Å(0\
+Z
 
-°
- °(
-%0float"Shapes.Disc.Thickness.set*
+Å! Å(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylew
+u
 
-°
- °(
-Shapes.Disc*
-
-valuefloat*
-2*2
+Å! Å(0
+%retShapes.DashStyle"__id*G
+
+Å! Å(09*7
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStyle*
+2*9
 2
-° °("!
+Å1 Å(1"(
 
-° °(
-implicit return:
-valuefloatB
-Shapes.Disc
+Å0 Å(1
+
+%retShapes.DashStyleB"
+Shapes.Draw

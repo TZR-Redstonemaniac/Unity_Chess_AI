@@ -1,35 +1,27 @@
 
- Shapes.Draw.PolygonShapeFill.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÙ Ù("0*
+Shapes.Quad.ColorLeft.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs» »("0*
 0
-Ù Ù(*
-1*õ
+» »(*
+1*‚
 1
-Ù
- Ù(\
-Z
+»
+ »(l
+j
 
-Ù
- Ù(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle€
-~
+»
+ »(
+%retUnityEngine.Color"__id*;
 
-Ù
- Ù(
-%retShapes.GradientFill"__id*M
-
-Ù
- Ù(?*=
-
-%0Shapes.DrawStyle"#
-gradientFillShapes.GradientFill*
-2*<
+»
+ »(-*+
+Shapes.Quad"
+colorUnityEngine.Color*
+2*:
 2
-Ù Ù("+
+» »(")
 
-Ù Ù(
-
-%retShapes.GradientFillB"
-Shapes.Draw
+» »(
+
+%retUnityEngine.ColorB
+Shapes.Quad

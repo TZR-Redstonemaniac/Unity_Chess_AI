@@ -1,24 +1,47 @@
 
-Shapes.Line.EndCaps.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.csa a("0*
-0a a(*
-1*Ó
-1b c(a
-_
-b b(-
-Shapes.Line"
-endCapsShapes.LineEndCap"__id*
-
-valueShapes.LineEndCap\
-Z
-c c(
+$Shapes.Rectangle.GetNetDashSpacing()˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csŠ Š("0*
+0
+Š Š(*
+1*á
+1
+Š Š(hˆ
+…
 
-%0void"%Shapes.ShapeRenderer.UpdateMaterial()*
-c c(
-Shapes.Line*
+Š Š(h
+%0float"KShapes.ShapeRenderer.GetNetDashSpacing(Shapes.DashStyle, bool, bool, float)*"
+
+Š Š(0
+Shapes.Rectangle*C
+
+Š2 Š(;5*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStyle*4
+
+Š= Š(C&*$
+Shapes.Rectangle"
+dashedbool*D
+
+ŠE Š([6*4
+Shapes.Rectangle"
+matchDashSpacingToSizebool*8
+
+Š] Š(f**(
+Shapes.Rectangle"
+	thicknessfloat@
+>
+
+Š Š(h
+%retfloat"__id*
+
+Š Š(h
+
+%0float*
 2*.
-2d d("
-d d(
-implicit return:
-valueShapes.LineEndCapB
-Shapes.Line
+2
+Ši Š(i"
+
+Šh Š(i
+
+%retfloatB
+Shapes.Rectangle

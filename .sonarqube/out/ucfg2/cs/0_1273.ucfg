@@ -1,21 +1,21 @@
 
-Shapes.Torus.Radius.gety
-oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Torus.cs ("0*
-0 (*
-1*f
-1
- (R
-P
-
- (
-%retfloat"__id*/
-
- (#*!
-Shapes.Torus"
-radiusfloat*
-2**
-2 ("
- (
-
-%retfloatB
+Shapes.Torus.RadiusSpace.gety
+oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Torus.cs! !("0*
+0! !(*
+1*‹
+1!
+ !(w
+u
+!
+ !(
+%retShapes.ThicknessSpace"__id*D
+!
+ !(8*6
+Shapes.Torus"$
+radiusSpaceShapes.ThicknessSpace*
+2*:
+2! !("+
+! !(
+
+%retShapes.ThicknessSpaceB
 Shapes.Torus

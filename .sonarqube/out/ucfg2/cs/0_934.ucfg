@@ -1,16 +1,18 @@
 
-6Shapes.MpbTriangle.Shapes.IDashableMpb.dashSpacing.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs¾) ¾(,"0*î
+<Shapes.MpbTriangle.Shapes.IDashableMpb.dashShapeModifier.set‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csº/ º(2"0*²
 0
-¾- ¾(-¢
-Ÿ
+º3 º(3«
+¨
 
-¾) ¾(-(
-%0"System.Collections.Generic.List<T>"__id*a_*]
-Shapes.MpbTriangle"E
-Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>"8
+º/ º(3c
+Shapes.MpbTriangle"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"s
 
-¾) ¾(-*
-(
-%0"System.Collections.Generic.List<T>B
+º/ º(3e*c
+Shapes.MpbTriangle"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
 Shapes.MpbTriangle

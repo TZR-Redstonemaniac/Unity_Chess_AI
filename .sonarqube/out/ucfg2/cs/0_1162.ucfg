@@ -1,32 +1,33 @@
 
-&Shapes.OvldDefault.OvldDefault(string)~
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\Draw.cs‹	 ‹("1*Z
-1
-‹D ‹(DD
-B
-
-%0void"System.Attribute.Attribute()*
-System.Attribute*
-0*¢
+Shapes.Draw.CuboidSizeSpace.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csº º("0*
 0
-‹+ ‹(CV
-T
+º º(*
+1*ê
+1
+º
+ º(!\
+Z
 
-‹+ ‹(C)
-Shapes.OvldDefault"
-defaultstring"__id*
-
-defaultstring"9
+º
+ º(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylev
+t
 
-‹+ ‹(C+*)
-Shapes.OvldDefault"
-defaultstring*2
+º
+ º(!<
+
+%0Shapes.DrawStyle""
+	sizeSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpace*
+2*2
 2
-‹D ‹(D"!
+º" º(""!
 
-‹C ‹(D
-implicit return:
-
-‹ ‹(%
-defaultstringB
-Shapes.OvldDefault
+º! º("
+implicit return: 
+valueShapes.ThicknessSpaceB"
+Shapes.Draw

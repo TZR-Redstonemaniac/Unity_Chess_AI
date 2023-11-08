@@ -1,28 +1,27 @@
 
-Shapes.Disc.DashSize.getñ
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs ("0*
-0 (*
-1*Ã
-1
- (^
-\
-
- (
-%0Shapes.DashStyle"__id*20*.
-Shapes.Disc"
-	dashStyleShapes.DashStyleX
-V
-
- (
-%retfloat"__id*5
-
- ()*'
-
-%0Shapes.DashStyle"
-sizefloat*
-2**
-2 ("
- (
+Shapes.Polygon.UseFill.getò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csè è("0*
+0
+è è(*
+1*m
+1
+è
+ è(W
+U
 
-%retfloatB
-Shapes.Disc
+è
+ è(
+%retbool"__id*3
+
+è
+ è(%*#
+Shapes.Polygon"
+useFillbool*
+2*-
+2
+è è("
+
+è è(
+
+%retboolB
+Shapes.Polygon

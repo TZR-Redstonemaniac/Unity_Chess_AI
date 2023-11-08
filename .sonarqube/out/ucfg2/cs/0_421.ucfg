@@ -1,40 +1,30 @@
 
-!Shapes.Disc.DashShapeModifier.set–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs@ @("0*
-0@ @(*
-1*¿
-1@
- @(c^
-\
-@B @(K
-%0Shapes.DashStyle"__id*20*.
-Shapes.Disc"
-	dashStyleShapes.DashStyleX
-V
-@B @(a0
+Shapes.Draw.StencilComp.set†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csZ Z("0*
+0Z Z(*
+1*ù
+1Z! Z(FZ
+X
+Z! Z(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
+k
+Z! Z(2
+%1Shapes.RenderState"__id*?=*;
 
-%0Shapes.DashStyle"
-shapeModifierfloat"__id*
-
-valuefloatð
-í
-@
- @(c
-
-%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-@
- @(
-Shapes.Disc*J
-@ @(@>*<
-Shapes.ShapesMaterialUtils"
-propDashShapeModifierint*>
-@B @(a2*0
-
-%0Shapes.DashStyle"
-shapeModifierfloat*
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderState™
+–
+Z! Z(FP
+
+%1Shapes.RenderState"4
+stencilComp%UnityEngine.Rendering.CompareFunction"__id*20
+.
+value%UnityEngine.Rendering.CompareFunction*
 2*.
-2@d @(d"
-@c @(d
-implicit return:
-valuefloatB
-Shapes.Disc
+2ZG Z(G"
+ZF Z(G
+implicit return:0.
+value%UnityEngine.Rendering.CompareFunctionB"
+Shapes.Draw

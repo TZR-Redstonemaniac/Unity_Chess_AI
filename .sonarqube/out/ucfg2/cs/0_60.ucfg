@@ -1,39 +1,0 @@
-
-&Shapes.ShapesTextPool.ElementCount.get}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesTextPool.cs ("0*
-0 (*
-1*¯
-1 (B®
-«
- (+	
-%0int"3System.Collections.Generic.ICollection<T>.Count.get*_
- (%S*Q
-Shapes.ShapesTextPool"6
-elementsPassive#System.Collections.Generic.Stack<T>½
-º
-. (B	
-%1int"3System.Collections.Generic.ICollection<T>.Count.get*n
-. (<b*`
-Shapes.ShapesTextPool"E
-elementsActive3System.Collections.Generic.Dictionary<TKey, TValue>p
-n
- (B	
-%2int"%!binary_implicit_operator_passthrough*
- (+
-	
-%0int*
-. (B
-	
-%1int8
-6
- (B
-%retint"__id*
- (B
-	
-%2int*
-2*(
-2C (C"
-B (C
-
-%retintB
-Shapes.ShapesTextPool

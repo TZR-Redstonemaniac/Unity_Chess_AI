@@ -1,35 +1,18 @@
 
- Shapes.Draw.TorusRadiusSpace.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÅ Å("0*
+<Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSpacing.set‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs÷) ÷(,"0*²
 0
-Å Å(*
-1*ù
-1
-Å
- Å(\
-Z
+÷- ÷(-«
+¨
 
-Å
- Å(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle„
-
+÷) ÷(-c
+Shapes.MpbRegularPolygon"E
+Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"s
 
-Å
- Å(
-%retShapes.ThicknessSpace"__id*N
-
-Å
- Å(@*>
-
-%0Shapes.DrawStyle"$
-radiusSpaceShapes.ThicknessSpace*
-2*>
-2
-Å Å("-
-
-Å Å(
-
-%retShapes.ThicknessSpaceB"
-Shapes.Draw
+÷) ÷(-e*c
+Shapes.MpbRegularPolygon"E
+Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

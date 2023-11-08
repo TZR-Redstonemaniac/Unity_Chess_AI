@@ -1,35 +1,35 @@
 
-)Shapes.RegularPolygon.FillLinearStart.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs» »("0*
+'Shapes.RegularPolygon.FillLinearEnd.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÂ Â("0*
 0
-» »(*
-1*‡
+Â Â(*
+1*„
 1
-»
- »(k
+Â
+ Â(k
 i
 
-»
- »(
+Â
+ Â(
 %0Shapes.GradientFill"__id*:8*6
 Shapes.RegularPolygon"
-fillShapes.GradientFillƒ
-€
+fillShapes.GradientFill€
+~
 
-»
- »(
-%retUnityEngine.Vector3"__id*O
+Â
+ Â(
+%retUnityEngine.Vector3"__id*M
 
-»
- »(A*?
+Â
+ Â(?*=
 
-%0Shapes.GradientFill""
-linearStartUnityEngine.Vector3*
+%0Shapes.GradientFill" 
+	linearEndUnityEngine.Vector3*
 2*<
 2
-» »("+
+Â Â("+
 
-» »(
+Â Â(
 
 %retUnityEngine.Vector3B
 Shapes.RegularPolygon

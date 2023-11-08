@@ -1,13 +1,22 @@
 
-1Shapes.MpbDisc.Shapes.IDashableMpb.dashOffset.get…
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs3( 3(+"0*ã
-03, 3(,›
-˜
-3( 3(,(
-%0"System.Collections.Generic.List<T>"__id*\Z*X
-Shapes.MpbDisc"D
-Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>"6
-3( 3(,*
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbDisc
+Shapes.Rectangle.Radius.set}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csb b("0*
+0b b(*
+1*†
+1b
+ b(r
+p
+b
+ b(
+%0float"!Shapes.Rectangle.CornerRadius.set* 
+b
+ b(
+Shapes.Rectangle*
+
+valuefloat*
+2*.
+2b b("
+b b(
+implicit return:
+valuefloatB
+Shapes.Rectangle

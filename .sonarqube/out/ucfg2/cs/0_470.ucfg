@@ -1,29 +1,35 @@
 
-UShapes.Polygon.SetPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>){
-qC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polygon.cs@ @("0*
-0@ @(*
-1*‡
-1A B(œ
-™
-A A(
+#Shapes.RegularPolygon.FillSpace.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs© ©("0*
+0
+© ©(*
+1*ù
+1
+©
+ ©(k
+i
 
-%0void"1System.Collections.Generic.ICollection<T>.Clear()*N
-A A(B*@
-Shapes.Polygon",
-points"System.Collections.Generic.List<T>Ó
-Ð
-B B(
+©
+ ©(
+%0Shapes.GradientFill"__id*:8*6
+Shapes.RegularPolygon"
+fillShapes.GradientFillv
+t
 
-%1void"UShapes.Polygon.AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>)*
-B B(
-Shapes.Polygon*A
-B B(5
-3
-points)System.Collections.Generic.IEnumerable<T>*
-2*.
-2C C("
-C C(
-implicit return:?
-@ @(43
-points)System.Collections.Generic.IEnumerable<T>B
-Shapes.Polygon
+©
+ ©(
+%retShapes.FillSpace"__id*F
+
+©
+ ©(8*6
+
+%0Shapes.GradientFill"
+spaceShapes.FillSpace*
+2*9
+2
+© ©("(
+
+© ©(
+
+%retShapes.FillSpaceB
+Shapes.RegularPolygon

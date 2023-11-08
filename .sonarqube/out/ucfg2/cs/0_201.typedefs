@@ -1,18 +1,3 @@
-ç
-Shapes.MpbDiscShapes.MetaMpbobjectShapes.IDashableMpbE
-TransferShapeProperties()(Shapes.MpbDisc.TransferShapeProperties()%
-	MpbDisc()Shapes.MpbDisc.MpbDisc()W
-"Shapes.IDashableMpb.dashOffset.get1Shapes.MpbDisc.Shapes.IDashableMpb.dashOffset.getW
-"Shapes.IDashableMpb.dashOffset.set1Shapes.MpbDisc.Shapes.IDashableMpb.dashOffset.sete
-)Shapes.IDashableMpb.dashShapeModifier.get8Shapes.MpbDisc.Shapes.IDashableMpb.dashShapeModifier.gete
-)Shapes.IDashableMpb.dashShapeModifier.set8Shapes.MpbDisc.Shapes.IDashableMpb.dashShapeModifier.setS
- Shapes.IDashableMpb.dashSize.get/Shapes.MpbDisc.Shapes.IDashableMpb.dashSize.getS
- Shapes.IDashableMpb.dashSize.set/Shapes.MpbDisc.Shapes.IDashableMpb.dashSize.setS
- Shapes.IDashableMpb.dashSnap.get/Shapes.MpbDisc.Shapes.IDashableMpb.dashSnap.getS
- Shapes.IDashableMpb.dashSnap.set/Shapes.MpbDisc.Shapes.IDashableMpb.dashSnap.setU
-!Shapes.IDashableMpb.dashSpace.get0Shapes.MpbDisc.Shapes.IDashableMpb.dashSpace.getU
-!Shapes.IDashableMpb.dashSpace.set0Shapes.MpbDisc.Shapes.IDashableMpb.dashSpace.setY
-#Shapes.IDashableMpb.dashSpacing.get2Shapes.MpbDisc.Shapes.IDashableMpb.dashSpacing.getY
-#Shapes.IDashableMpb.dashSpacing.set2Shapes.MpbDisc.Shapes.IDashableMpb.dashSpacing.setS
- Shapes.IDashableMpb.dashType.get/Shapes.MpbDisc.Shapes.IDashableMpb.dashType.getS
- Shapes.IDashableMpb.dashType.set/Shapes.MpbDisc.Shapes.IDashableMpb.dashType.set
+j
+Shapes.LineEndCapSystem.EnumSystem.ValueTypeobject.
+LineEndCap()Shapes.LineEndCap.LineEndCap()

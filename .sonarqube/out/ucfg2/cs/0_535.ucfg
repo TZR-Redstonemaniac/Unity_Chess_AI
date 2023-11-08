@@ -1,35 +1,50 @@
 
-"Shapes.Rectangle.FillLinearEnd.getò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csº º("0*
+"Shapes.Rectangle.FillLinearEnd.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csΩ Ω("0*
 0
-º º(*
-1*ˇ
+Ω Ω(*
+1*Ü
 1
-º
- º(f
+Ω
+ Ω(Rf
 d
 
-º
- º(
+Ω: Ω(>
 %0Shapes.GradientFill"__id*53*1
 Shapes.Rectangle"
-fillShapes.GradientFillÄ
-~
+fillShapes.GradientFillu
+s
 
-º
- º(
-%retUnityEngine.Vector3"__id*M
+Ω: Ω(P=
+
+%0Shapes.GradientFill" 
+	linearEndUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3ê
+ç
 
-º
- º(?*=
+Ω
+ Ω(R
+
+%1void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*"
+
+Ω
+ Ω(
+Shapes.Rectangle*B
+
+Ω Ω(84*2
+Shapes.ShapesMaterialUtils"
+propFillEndint*M
+
+Ω: Ω(P?*=
 
 %0Shapes.GradientFill" 
 	linearEndUnityEngine.Vector3*
-2*<
+2*2
 2
-º º("+
+ΩS Ω(S"!
 
-º º(
-
-%retUnityEngine.Vector3B
+ΩR Ω(S
+implicit return:
+valueUnityEngine.Vector3B
 Shapes.Rectangle

@@ -1,35 +1,16 @@
 
-)Shapes.Draw.RegularPolygonRadiusSpace.getà
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csè è("0*
+:Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillSpace.getá
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÌ' Ì(*"0*Ú
 0
-è è(*
-1*˘
-1
-è
- è(\
-Z
+Ì+ Ì(+¶
+£
 
-è
- è(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleÑ
-Å
+Ì' Ì(+(
+%0"System.Collections.Generic.List<T>"__id*ec*a
+Shapes.MpbRegularPolygon"C
+Shapes.IFillableMpb.fillSpace"System.Collections.Generic.List<T>"8
 
-è
- è(
-%retShapes.ThicknessSpace"__id*N
-
-è
- è(@*>
-
-%0Shapes.DrawStyle"$
-radiusSpaceShapes.ThicknessSpace*
-2*>
-2
-è è("-
-
-è è(
-
-%retShapes.ThicknessSpaceB"
-Shapes.Draw
+Ì' Ì(+*
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

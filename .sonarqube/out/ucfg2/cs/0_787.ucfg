@@ -1,13 +1,49 @@
 
-/Shapes.MpbDisc.Shapes.IDashableMpb.dashSize.getÖ
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs5& 5()"0*·
-05* 5(*ô
-ñ
-5& 5(*(
-%0"System.Collections.Generic.List<T>"__id*ZX*V
-Shapes.MpbDisc"B
-Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>"6
-5& 5(**
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbDisc
+(Shapes.MpbCone.TransferShapeProperties()Ö
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs (1"0*
+0 (*
+1*—
+1 (<ê
+ç
+ (5
+
+%0void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+ (
+Shapes.MpbCone*?
+ (+3*1
+Shapes.ShapesMaterialUtils"
+
+propLengthint*N
+- (3B*@
+Shapes.MpbCone",
+length"System.Collections.Generic.List<T>ê
+ç
+ (5
+
+%1void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+ (
+Shapes.MpbCone*?
+ (+3*1
+Shapes.ShapesMaterialUtils"
+
+propRadiusint*N
+- (3B*@
+Shapes.MpbCone",
+radius"System.Collections.Generic.List<T>ñ
+ì
+ (;
+
+%2void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+ (
+Shapes.MpbCone*B
+ (.6*4
+Shapes.ShapesMaterialUtils"
+propSizeSpaceint*Q
+0 (9E*C
+Shapes.MpbCone"/
+	sizeSpace"System.Collections.Generic.List<T>*
+2*.
+2 ("
+ (
+implicit returnB
+Shapes.MpbCone

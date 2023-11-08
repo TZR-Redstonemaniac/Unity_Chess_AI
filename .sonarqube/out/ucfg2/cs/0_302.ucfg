@@ -1,51 +1,52 @@
 
-Shapes.Polygon.UseFill.setò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csê ê("0*
-0
-ê ê(*
-1*Ô
-1
-ë í(XL
-J
-
-ë ë(#
-Shapes.Polygon"
-useFillbool"__id*
-
-valuebool¿
-Ω
-
-í1 í(U	
-%0int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*?
-
-í1 í(51*/
-Shapes.Polygon"
-fillShapes.GradientFill*3
-
-íL í(S%*#
-Shapes.Polygon"
-useFillbool«
-ƒ
-
-í í(W
-
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)* 
-
-í í(
-Shapes.Polygon*C
-
-í í(/5*3
-Shapes.ShapesMaterialUtils"
-propFillTypeint*
-
-í1 í(U
-	
-%0int*
-2*2
-2
-ì ì("!
-
-ì ì(
-implicit return:
-valueboolB
-Shapes.Polygon
+Shapes.Line.this[int].setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs ("0*
+0 (*
+1*
+1 (*
+2
+3*Á
+2 (!{
+y
+ (!
+%0UnityEngine.Vector3"Shapes.Line.End.set*
+ (
+Shapes.Line* 
+
+valueUnityEngine.Vector3V
+T
+ (! 
+	%capture0UnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3*
+4*È
+3$ (1}
+{
+$ (1
+%1UnityEngine.Vector3"Shapes.Line.Start.set*
+$ ()
+Shapes.Line* 
+
+valueUnityEngine.Vector3V
+T
+$ (1 
+	%capture0UnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3*
+4*g
+4
+ (1S
+Q
+
+ (1
+%2UnityEngine.Vector3"__id*$"
+ 
+	%capture0UnityEngine.Vector3*
+5*.
+52 (2"
+1 (2
+implicit return:
+
+iint:
+valueUnityEngine.Vector3B
+Shapes.Line

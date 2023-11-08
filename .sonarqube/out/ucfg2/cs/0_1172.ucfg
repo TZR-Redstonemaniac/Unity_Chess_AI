@@ -1,35 +1,18 @@
 
-Shapes.Draw.SphereRadius.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs­ ­("0*
+;Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashOffset.set‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csò( ò(+"0*°
 0
-­ ­(*
-1*Ò
-1
-­
- ­(\
-Z
+ò, ò(,ª
+§
 
-­
- ­(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle^
-\
+ò( ò(,b
+Shapes.MpbRegularPolygon"D
+Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"r
 
-­
- ­(
-%retfloat"__id*9
-
-­
- ­(+*)
-
-%0Shapes.DrawStyle"
-radiusfloat*
-2*.
-2
-­ ­("
-
-­ ­(
-
-%retfloatB"
-Shapes.Draw
+ò( ò(,d*b
+Shapes.MpbRegularPolygon"D
+Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

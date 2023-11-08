@@ -1,37 +1,27 @@
 
-$Shapes.Draw.TextParagraphSpacing.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs   ("0*
+)Shapes.DashStyle.DefaultDashStyleRing.get
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.cs‰ ‰("0*
 0
-   (*
-1*¼
+‰ ‰(*
+1*”
 1
- !  (I\
-Z
+‰
+ ‰(~
+|
 
- !  (&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
+‰
+ ‰(
+%retShapes.DashStyle"__id*N
 
- !  (0
-%1Shapes.TextStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	textStyleShapes.TextStyle]
-[
-
- !  (I3
-
-%1Shapes.TextStyle"
-paragraphSpacingfloat"__id*
-
-valuefloat*
-2*2
+‰
+ ‰(@*>
+Shapes.DashStyle"(
+defaultDashStyleRingShapes.DashStyle*
+2*9
 2
- J  (J"!
+‰ ‰("(
 
- I  (J
-implicit return:
-valuefloatB"
-Shapes.Draw
+‰ ‰(
+
+%retShapes.DashStyleB"
+Shapes.DashStyle

@@ -1,30 +1,50 @@
 
-Shapes.Draw.ColorMask.setÜ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csU U("0*
-0U U(*
-1*ı
-1U! U(DZ
-X
-U! U(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylem
-k
-U! U(2
-%1Shapes.RenderState"__id*?=*;
+Shapes.Triangle.DashType.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csè è("0*
+0
+è è(*
+1*‘
+1
+è
+ è(Xd
+b
+
+è> è(G
+%0Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
+	dashStyleShapes.DashStylee
+c
+
+è> è(T1
 
-%0Shapes.DrawStyle"!
-renderStateShapes.RenderStateï
-í
-U! U(DM
+%0Shapes.DashStyle"
+typeShapes.DashType"__id*
 
-%1Shapes.RenderState"1
-	colorMask$UnityEngine.Rendering.ColorWriteMask"__id*1/
--
-value$UnityEngine.Rendering.ColorWriteMask*
-2*.
-2UE U(E"
-UD U(E
-implicit return:/-
-value$UnityEngine.Rendering.ColorWriteMaskB"
-Shapes.Draw
+valueShapes.DashType
+Ì
+
+è
+ è(X
+
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*!
+
+è
+ è(
+Shapes.Triangle*C
+
+è è(55*3
+Shapes.ShapesMaterialUtils"
+propDashTypeint*A
+
+è7 è(V3*1
+
+%0Shapes.DashStyle"
+typeShapes.DashType*
+2*2
+2
+èY è(Y"!
+
+èX è(Y
+implicit return:
+valueShapes.DashTypeB
+Shapes.Triangle

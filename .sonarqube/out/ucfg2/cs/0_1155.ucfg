@@ -1,27 +1,42 @@
 
-Shapes.Quad.CheckAutoSetD()z
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csª ª("0*
+Shapes.Quad.ColorA.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csÝ Ý("0*
 0
-ª ª(*
-1*
+Ý Ý(*
+1*í
 1
-« «(*
-2
-3*g
+Ý
+ Ý(Ea
+_
+
+Ý6 Ý(C+
+Shapes.Quad"
+colorUnityEngine.Color"__id*
+
+valueUnityEngine.Coloró
+ð
+
+Ý
+ Ý(E
+
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+
+Ý
+ Ý(
+Shapes.Quad*@
+
+Ý Ý(42*0
+Shapes.ShapesMaterialUtils"
+	propColorint*;
+
+Ý6 Ý(C-*+
+Shapes.Quad"
+colorUnityEngine.Color*
+2*2
 2
-¬ ¬(Q
-O
+ÝF Ý(F"!
 
-¬ ¬(
-
-%0void"Shapes.Quad.AutoSetD()*
-
-¬ ¬(
-Shapes.Quad*
-3*2
-3
-­ ­("!
-
-­ ­(
-implicit returnB
+ÝE Ý(F
+implicit return:
+valueUnityEngine.ColorB
 Shapes.Quad

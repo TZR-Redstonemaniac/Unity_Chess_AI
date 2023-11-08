@@ -1,38 +1,38 @@
 
-Shapes.Draw.DashType.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs‡ ‡("0*
+Shapes.Triangle.Hollow.get~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs ("0*
 0
-‡ ‡(*
-1*Ï
+ (*
+1*¯
 1
-‡! ‡(5\
-Z
+
+ (Y
+W
 
-‡! ‡(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
+
+ (
 
-‡! ‡(0
-%1Shapes.DashStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStylep
-n
+%0bool"Shapes.Triangle.Border.get*!
 
-‡! ‡(5
-%retShapes.DashType"__id*A
+
+ (
+Shapes.Triangle>
+<
 
-‡! ‡(53*1
-
-%1Shapes.DashStyle"
-typeShapes.DashType*
-2*8
+
+ (
+%retbool"__id*
+
+
+ (
+
+
+%0bool*
+2*-
 2
-‡6 ‡(6"'
+ ("
 
-‡5 ‡(6
-
-%retShapes.DashTypeB"
-Shapes.Draw
+ (
+
+%retboolB
+Shapes.Triangle

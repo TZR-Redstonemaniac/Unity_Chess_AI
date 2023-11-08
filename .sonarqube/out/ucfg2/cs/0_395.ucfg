@@ -1,30 +1,80 @@
 
-Shapes.Draw.ZOffsetFactor.get†
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csJ J("0*
-0J J(*
-1*Â
-1J! J(@Z
-X
-J! J(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylem
-k
-J! J(2
-%1Shapes.RenderState"__id*?=*;
-
-%0Shapes.DrawStyle"!
-renderStateShapes.RenderStatec
-a
-J! J(@
-%retfloat"__id*@
-J! J(@4*2
-
-%1Shapes.RenderState"
-zOffsetFactorfloat*
-2**
-2JA J(A"
-J@ J(A
+Shapes.Triangle.DashSpace.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs„ „("0*
+0
+„ „(*
+1*«
+1
+… †(gd
+b
 
-%retfloatB"
-Shapes.Draw
+…6 …(?
+%0Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyleh
+f
+
+…6 …(M3
+
+%0Shapes.DashStyle"
+spaceShapes.DashSpace"__id*
+
+valueShapes.DashSpaceð
+í
+
+… …(Q
+
+%1void"%Shapes.ShapeRenderer.SetInt(int, int)*!
+
+… …(
+
+Shapes.Triangle*D
+
+… …(-6*4
+Shapes.ShapesMaterialUtils"
+propDashSpaceint*C
+
+…/ …(O5*3
+
+%0Shapes.DashStyle"
+spaceShapes.DashSpace€
+ý
+
+†3 †(d
+%2float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*B
+
+†3 †(<4*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyle*3
+
+†Q †(W%*#
+Shapes.Triangle"
+dashedbool*7
+
+†Y †(b)*'
+Shapes.Triangle"
+	thicknessfloatÎ
+Ë
+
+† †(f
+
+%3void",Shapes.ShapeRenderer.SetFloatNow(int, float)*!
+
+† †(
+Shapes.Triangle*C
+
+† †(15*3
+Shapes.ShapesMaterialUtils"
+propDashSizeint*
+
+†3 †(d
+
+%2float*
+2*2
+2
+‡ ‡("!
+
+‡ ‡(
+implicit return:
+valueShapes.DashSpaceB
+Shapes.Triangle

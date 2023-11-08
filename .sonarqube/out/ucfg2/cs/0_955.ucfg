@@ -1,30 +1,37 @@
 
-Shapes.Draw.PolylineJoins.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÕ Õ("0*
+Shapes.Draw.TextAlign.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csˆ ˆ("0*
 0
-Õ Õ(*
-1*ì
+ˆ ˆ(*
+1*Ë
 1
-Õ! Õ(<\
+ˆ! ˆ(B\
 Z
 
-Õ! Õ(&
+ˆ! ˆ(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStylex
-v
+styleShapes.DrawStylei
+g
 
-Õ! Õ(<?
+ˆ! ˆ(0
+%1Shapes.TextStyle"__id*;9*7
 
-%0Shapes.DrawStyle"%
-polylineJoinsShapes.PolylineJoins"__id*!
-
-valueShapes.PolylineJoins*
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStylel
+j
+
+ˆ! ˆ(B7
+
+%1Shapes.TextStyle"
+	alignmentShapes.TextAlign"__id*
+
+valueShapes.TextAlign*
 2*2
 2
-Õ= Õ(="!
+ˆC ˆ(C"!
 
-Õ< Õ(=
-implicit return:
-valueShapes.PolylineJoinsB"
+ˆB ˆ(C
+implicit return:
+valueShapes.TextAlignB"
 Shapes.Draw

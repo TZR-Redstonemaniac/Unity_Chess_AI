@@ -1,35 +1,35 @@
 
-Shapes.Triangle.DashSpace.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csƒ ƒ("0*
+Shapes.Rectangle.DashOffset.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csó ó("0*
 0
-ƒ ƒ(*
-1*ï
+ó ó(*
+1*Û
 1
-ƒ
- ƒ(d
-b
+ó
+ ó(e
+c
 
-ƒ
- ƒ(
-%0Shapes.DashStyle"__id*64*2
-Shapes.Triangle"
-	dashStyleShapes.DashStyles
-q
+ó
+ ó(
+%0Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStyle^
+\
 
-ƒ
- ƒ(
-%retShapes.DashSpace"__id*C
+ó
+ ó(
+%retfloat"__id*9
 
-ƒ
- ƒ(5*3
+ó
+ ó(+*)
 
-%0Shapes.DashStyle"
-spaceShapes.DashSpace*
-2*9
+%0Shapes.DashStyle"
+offsetfloat*
+2*.
 2
-ƒ ƒ("(
+ó ó("
 
-ƒ ƒ(
-
-%retShapes.DashSpaceB
-Shapes.Triangle
+ó ó(
+
+%retfloatB
+Shapes.Rectangle

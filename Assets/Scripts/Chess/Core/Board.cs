@@ -1,30 +1,31 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections.ObjectModel;
 using UnityEngine;
 
-public class Board {
+namespace Core {
+    public static class Board {
+        public static readonly int[] Square = new int[64];
+        public static readonly GameObject[] Pieces = new GameObject[64];
     
-    public static readonly int[] Square = new int[64];
-    public static readonly GameObject[] Pieces = new GameObject[64];
-    
-    public static List<int[]> prevSquares = new();
-    public static List<int[]> prevPieces = new();
+        public static Collection<int[]> prevSquares = new();
+        public static Collection<int[]> prevPieces = new();
 
-    public static bool[] enPassantSquare = new bool[64]; //NOSONAR
-    public static List<bool[]> prevEnPassantSquares = new(); //NOSONAR
+        public static bool[] enPassantSquare = new bool[64]; //NOSONAR
+        public static Collection<bool[]> prevEnPassantSquares = new(); //NOSONAR
     
-    public static List<int> prevColorToMove = new();
+        public static Collection<int> prevColorToMove = new();
     
-    public static List<bool> prevWKCastling = new();
-    public static List<bool> prevWQCastling = new();
-    public static List<bool> prevBKCastling = new();
-    public static List<bool> prevBQCastling = new();
+        public static Collection<bool> prevWKCastling = new();
+        public static Collection<bool> prevWQCastling = new();
+        public static Collection<bool> prevBKCastling = new();
+        public static Collection<bool> prevBQCastling = new();
 
-    public static int colorToMove = Piece.WHITE; //NOSONAR
-    public static int opponentColor = Piece.BLACK; //NOSONAR
+        public static int colorToMove = Piece.WHITE; //NOSONAR
+        public static int opponentColor = Piece.BLACK; //NOSONAR
 
-    public static bool wKingsideCastle = true; //NOSONAR
-    public static bool wQueensideCastle = true; //NOSONAR
-    public static bool bKingsideCastle = true; //NOSONAR
-    public static bool bQueensideCastle = true; //NOSONAR
+        public static bool wKingsideCastle = true; //NOSONAR
+        public static bool wQueensideCastle = true; //NOSONAR
+        public static bool bKingsideCastle = true; //NOSONAR
+        public static bool bQueensideCastle = true; //NOSONAR
     
+    }
 }

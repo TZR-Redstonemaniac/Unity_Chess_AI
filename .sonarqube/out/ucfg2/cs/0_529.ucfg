@@ -1,31 +1,35 @@
 
-Shapes.Draw.ThicknessSpace.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¥ ¥("0*
+"Shapes.Rectangle.FillLinearEnd.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¼ ¼("0*
 0
-¥ ¥(*
-1*ü
+¼ ¼(*
+1*ÿ
 1
-¥! ¥(5\
-Z
+¼
+ ¼(f
+d
 
-¥! ¥(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle‡
-„
+¼
+ ¼(
+%0Shapes.GradientFill"__id*53*1
+Shapes.Rectangle"
+fillShapes.GradientFill€
+~
 
-¥! ¥(5
-%retShapes.ThicknessSpace"__id*Q
+¼
+ ¼(
+%retUnityEngine.Vector3"__id*M
 
-¥! ¥(5C*A
-
-%0Shapes.DrawStyle"'
-thicknessSpaceShapes.ThicknessSpace*
-2*>
+¼
+ ¼(?*=
+
+%0Shapes.GradientFill" 
+	linearEndUnityEngine.Vector3*
+2*<
 2
-¥6 ¥(6"-
+¼ ¼("+
 
-¥5 ¥(6
-
-%retShapes.ThicknessSpaceB"
-Shapes.Draw
+¼ ¼(
+
+%retUnityEngine.Vector3B
+Shapes.Rectangle

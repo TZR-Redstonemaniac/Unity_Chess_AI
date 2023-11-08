@@ -1,13 +1,15 @@
 
-TSerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase()‡
-}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.cs (""1*¡
-1 (Œ
-‰
+%Managers.MovementManager.PickedUp.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Managers\MovementManager.csf, f(/"0*¢
+0f0 f(0U
+S
+f$ f(0.
+Managers.MovementManager"
+PickedUpbool"__id*
 
-%0void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*975
-3System.Collections.Generic.Dictionary<TKey, TValue>*
-0*.
-0 ("
- (
-implicit returnB;9
-7SerializableDictionaryBase<TKey, TValue, TValueStorage>
+valuebool"<
+f$ f(00*.
+Managers.MovementManager"
+PickedUpbool:
+valueboolB
+Managers.MovementManager

@@ -1,54 +1,35 @@
 
-#Shapes.Polygon.FillRadialRadius.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs© ©("0*
+#Shapes.Polygon.FillRadialRadius.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¨ ¨("0*
 0
-© ©(*
-1*á
+¨ ¨(*
+1*ã
 1
-ª «(Td
+¨
+ ¨(d
 b
 
-ª ª(
+¨
+ ¨(
 %0Shapes.GradientFill"__id*31*/
 Shapes.Polygon"
-fillShapes.GradientFill\
-Z
+fillShapes.GradientFillg
+e
 
-ª ª(2
+¨
+ ¨(
+%retfloat"__id*B
+
+¨
+ ¨(4*2
 
 %0Shapes.GradientFill"
-radialRadiusfloat"__id*
-
-valuefloat—
-”
-
-«6 «(Q
-%1UnityEngine.Vector4"*Shapes.GradientFill.GetShaderStartVector()*?
-
-«6 «(:1*/
-Shapes.Polygon"
-fillShapes.GradientFillì
-é
-
-« «(S
-
-%2void"<Shapes.ShapeRenderer.SetVector4Now(int, UnityEngine.Vector4)* 
-
-« «(
-Shapes.Polygon*D
-
-« «(46*4
-Shapes.ShapesMaterialUtils"
-propFillStartint*)
-
-«6 «(Q
-
-%1UnityEngine.Vector4*
-2*2
+radialRadiusfloat*
+2*.
 2
-¬ ¬("!
+¨ ¨("
 
-¬ ¬(
-implicit return:
-valuefloatB
+¨ ¨(
+
+%retfloatB
 Shapes.Polygon

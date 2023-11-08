@@ -1,33 +1,35 @@
 
-Shapes.Disc.ColorInnerStart.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csB B("0*
-0B B(*
-1*á
-1B
- B(E_
-]
-B6 B(C+
-Shapes.Disc"
-colorUnityEngine.Color"__id*
-
-valueUnityEngine.Colorë
-è
-B
- B(E
+*Shapes.RegularPolygon.FillRadialRadius.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs´ ´("0*
+0
+´ ´(*
+1*ê
+1
+´
+ ´(k
+i
 
-%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
-B
- B(
-Shapes.Disc*>
-B B(42*0
-Shapes.ShapesMaterialUtils"
-	propColorint*9
-B6 B(C-*+
-Shapes.Disc"
-colorUnityEngine.Color*
+´
+ ´(
+%0Shapes.GradientFill"__id*:8*6
+Shapes.RegularPolygon"
+fillShapes.GradientFillg
+e
+
+´
+ ´(
+%retfloat"__id*B
+
+´
+ ´(4*2
+
+%0Shapes.GradientFill"
+radialRadiusfloat*
 2*.
-2BF B(F"
-BE B(F
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Disc
+2
+´ ´("
+
+´ ´(
+
+%retfloatB
+Shapes.RegularPolygon

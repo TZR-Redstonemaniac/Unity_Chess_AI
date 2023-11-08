@@ -1,27 +1,47 @@
 
-)Shapes.DashStyle.DefaultDashStyleRing.get
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.cs‰ ‰("0*
+Shapes.Quad.B.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs ("0*
 0
-‰ ‰(*
-1*”
+ (*
+1*Ã
 1
-‰
- ‰(~
-|
+‚ ƒ(a
+_
 
-‰
- ‰(
-%retShapes.DashStyle"__id*N
+‚. ‚(7)
+Shapes.Quad"
+bUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3ñ
+î
 
-‰
- ‰(@*>
-Shapes.DashStyle"(
-defaultDashStyleRingShapes.DashStyle*
-2*9
+‚ ‚(9
+
+%0void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*
+
+‚ ‚(
+Shapes.Quad*<
+
+‚ ‚(,.*,
+Shapes.ShapesMaterialUtils"
+propBint*9
+
+‚. ‚(7+*)
+Shapes.Quad"
+bUnityEngine.Vector3V
+T
+
+ƒ ƒ(
+
+%1void"Shapes.Quad.CheckAutoSetD()*
+
+ƒ ƒ(
+Shapes.Quad*
+2*2
 2
-‰ ‰("(
+„ „("!
 
-‰ ‰(
-
-%retShapes.DashStyleB"
-Shapes.DashStyle
+„ „(
+implicit return:
+valueUnityEngine.Vector3B
+Shapes.Quad

@@ -1,35 +1,30 @@
 
-*Shapes.RegularPolygon.FillRadialOrigin.getò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs≠ ≠("0*
+Shapes.Draw.ScaleMode.setà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csé é("0*
 0
-≠ ≠(*
-1*à
+é é(*
+1*‡
 1
-≠
- ≠(k
-i
+é! é(8\
+Z
 
-≠
- ≠(
-%0Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFillÑ
-Å
+é! é(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylel
+j
 
-≠
- ≠(
-%retUnityEngine.Vector3"__id*P
-
-≠
- ≠(B*@
+é! é(87
+
+%0Shapes.DrawStyle"
+	scaleModeShapes.ScaleMode"__id*
 
-%0Shapes.GradientFill"#
-radialOriginUnityEngine.Vector3*
-2*<
+valueShapes.ScaleMode*
+2*2
 2
-≠ ≠("+
+é9 é(9"!
 
-≠ ≠(
-
-%retUnityEngine.Vector3B
-Shapes.RegularPolygon
+é8 é(9
+implicit return:
+valueShapes.ScaleModeB"
+Shapes.Draw

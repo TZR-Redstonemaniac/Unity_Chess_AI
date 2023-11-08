@@ -1,21 +1,38 @@
 
-Shapes.Triangle.A.get|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csj j("0*
-0j j(*
-1*Ä
-1j
- j(l
-j
-j
- j(
-%retUnityEngine.Vector3"__id*;
-j
- j(/*-
-Shapes.Triangle"
-aUnityEngine.Vector3*
-2*8
-2j j(")
-j j(
-
-%retUnityEngine.Vector3B
-Shapes.Triangle
+Shapes.Draw.DashSpace.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csç ç("0*
+0
+ç ç(*
+1*“
+1
+ç! ç(6\
+Z
+
+ç! ç(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+ç! ç(0
+%1Shapes.DashStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStyles
+q
+
+ç! ç(6
+%retShapes.DashSpace"__id*C
+
+ç! ç(65*3
+
+%1Shapes.DashStyle"
+spaceShapes.DashSpace*
+2*9
+2
+ç7 ç(7"(
+
+ç6 ç(7
+
+%retShapes.DashSpaceB"
+Shapes.Draw

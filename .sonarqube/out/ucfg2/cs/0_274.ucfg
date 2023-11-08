@@ -1,27 +1,31 @@
 
-Shapes.Rectangle.Dashed.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÚ Ú("0*
+Shapes.Polygon.Fill.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs‰ ‰("0*
 0
-Ú Ú(*
-1*n
+‰ ‰(*
+1*ß
 1
-Ú
- Ú(X
-V
+Š ‹(g
+e
 
-Ú
- Ú(
-%retbool"__id*4
+Š Š(/
+Shapes.Polygon"
+fillShapes.GradientFill"__id* 
+
+valueShapes.GradientFill`
+^
 
-Ú
- Ú(&*$
-Shapes.Rectangle"
-dashedbool*
-2*-
+‹ ‹(
+
+%0void""Shapes.Polygon.SetFillProperties()* 
+
+‹ ‹(
+Shapes.Polygon*
+2*2
 2
-Ú Ú("
+Œ Œ("!
 
-Ú Ú(
-
-%retboolB
-Shapes.Rectangle
+Œ Œ(
+implicit return:
+valueShapes.GradientFillB
+Shapes.Polygon

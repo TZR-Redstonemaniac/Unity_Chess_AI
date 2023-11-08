@@ -1,64 +1,35 @@
 
-3Shapes.ShapesExtensions.ToVector4(UnityEngine.Rect)
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesExtensions.cs (!"0*
-0 (*
-1*å
-14 (^V
-T
-A (D
-%0float"UnityEngine.Rect.x.get*#
-A (B
-
-rUnityEngine.RectV
-T
-F (I
-%1float"UnityEngine.Rect.y.get*#
-F (G
-
-rUnityEngine.RectZ
-X
-K (R
-%2float"UnityEngine.Rect.width.get*#
-K (L
-
-rUnityEngine.Rect[
-Y
-T (\
-%3float"UnityEngine.Rect.height.get*#
-T (U
-
-rUnityEngine.Rect<:
-4 (^
-%4UnityEngine.Vector4"UnityEngine.Vector4ˆ
-Û
-4 (^
-%5UnityEngine.Vector4"7UnityEngine.Vector4.Vector4(float, float, float, float)*'
-4 (^
-
-%4UnityEngine.Vector4*
-A (D
-
-%0float*
-F (I
-
-%1float*
-K (R
-
-%2float*
-T (\
-
-%3floatX
-V
-4 (^
-%retUnityEngine.Vector4"__id*'
-4 (^
-
-%4UnityEngine.Vector4*
-2*8
-2_ (_")
-^ (_
-
-%retUnityEngine.Vector4:!
-# (.
-rUnityEngine.RectB"
-Shapes.ShapesExtensions
+!Shapes.PointPath<T>.this[int].getÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PointPath.cs ("0*
+0 (*
+1*Ö
+1
+ (∫
+∑
+
+ (
+%0T"7System.Collections.Generic.ICollection<T>.this[int].get*Q
+
+ (E*C
+Shapes.PointPath<T>"*
+path"System.Collections.Generic.List<T>*
+ (
+
+
+iint4
+2
+
+ (	
+%retT"__id*
+
+ (	
+
+%0T*
+2*&
+2 ("
+ (
+	
+%retT:
+
+iintB
+Shapes.PointPath<T>

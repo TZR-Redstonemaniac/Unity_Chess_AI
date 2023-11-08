@@ -1,18 +1,2 @@
-³
-Shapes.MpbLine3DShapes.MetaMpbobjectShapes.IDashableMpbG
-TransferShapeProperties()*Shapes.MpbLine3D.TransferShapeProperties()+
-MpbLine3D()Shapes.MpbLine3D.MpbLine3D()Y
-"Shapes.IDashableMpb.dashOffset.get3Shapes.MpbLine3D.Shapes.IDashableMpb.dashOffset.getY
-"Shapes.IDashableMpb.dashOffset.set3Shapes.MpbLine3D.Shapes.IDashableMpb.dashOffset.setg
-)Shapes.IDashableMpb.dashShapeModifier.get:Shapes.MpbLine3D.Shapes.IDashableMpb.dashShapeModifier.getg
-)Shapes.IDashableMpb.dashShapeModifier.set:Shapes.MpbLine3D.Shapes.IDashableMpb.dashShapeModifier.setU
- Shapes.IDashableMpb.dashSize.get1Shapes.MpbLine3D.Shapes.IDashableMpb.dashSize.getU
- Shapes.IDashableMpb.dashSize.set1Shapes.MpbLine3D.Shapes.IDashableMpb.dashSize.setU
- Shapes.IDashableMpb.dashSnap.get1Shapes.MpbLine3D.Shapes.IDashableMpb.dashSnap.getU
- Shapes.IDashableMpb.dashSnap.set1Shapes.MpbLine3D.Shapes.IDashableMpb.dashSnap.setW
-!Shapes.IDashableMpb.dashSpace.get2Shapes.MpbLine3D.Shapes.IDashableMpb.dashSpace.getW
-!Shapes.IDashableMpb.dashSpace.set2Shapes.MpbLine3D.Shapes.IDashableMpb.dashSpace.set[
-#Shapes.IDashableMpb.dashSpacing.get4Shapes.MpbLine3D.Shapes.IDashableMpb.dashSpacing.get[
-#Shapes.IDashableMpb.dashSpacing.set4Shapes.MpbLine3D.Shapes.IDashableMpb.dashSpacing.setU
- Shapes.IDashableMpb.dashType.get1Shapes.MpbLine3D.Shapes.IDashableMpb.dashType.getU
- Shapes.IDashableMpb.dashType.set1Shapes.MpbLine3D.Shapes.IDashableMpb.dashType.set
+
+Shapes.IDashable

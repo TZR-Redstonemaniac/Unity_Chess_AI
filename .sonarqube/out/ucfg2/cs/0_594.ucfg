@@ -1,91 +1,37 @@
 
-%Shapes.Triangle.GetTriangleColor(int)|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs@ @("0*
-0@ @(*
-1*M
-1A B(
-6
-4
-A A(
-	%capture0int"__id*
-
-indexint*
-2
-3*Ë
-2B B(a
-_
-B B(
-%0UnityEngine.Color"Shapes.Triangle.Color.get*
-B B(
-Shapes.TriangleT
-R
-B B(
-%retUnityEngine.Color"__id*%
-B B(
-
-%0UnityEngine.Color*
-8*
-3C	 C(
-*
-4
-5*Ì
-4C C(b
-`
-C C(
-%1UnityEngine.Color"Shapes.Triangle.ColorB.get*
-C C(
-Shapes.TriangleT
-R
-C C(
-%retUnityEngine.Color"__id*%
-C C(
-
-%1UnityEngine.Color*
-8*
-5D	 D(
-*
-6
-7*Ì
-6D D(b
-`
-D D(
-%2UnityEngine.Color"Shapes.Triangle.ColorC.get*
-D D(
-Shapes.TriangleT
-R
-D D(
-%retUnityEngine.Color"__id*%
-D D(
-
-%2UnityEngine.Color*
-8*ñ
-7F F(z˜
-•
-F) F(x
-%3string"__concat*U
-F+ F(pIG
-ETriangle only has four vertices, 0 to 2, you tried to access element *
-Fp F(w
-
-indexintTR
-F F(z%
-%4System.IndexOutOfRangeException"System.IndexOutOfRangeExceptionÇ
-Ä
-F F(z%
-%5System.IndexOutOfRangeException"@System.IndexOutOfRangeException.IndexOutOfRangeException(string)*3
-F F(z'
-%
-%4System.IndexOutOfRangeException*
-F) F(x
-
-%3string"'
-H H(
+%Shapes.Draw.GradientFillLinearEnd.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csæ æ("0*
+0
+æ æ(*
+1*Ý
+1
+æ! æ(E\
+Z
+
+æ! æ(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyler
+p
+
+æ! æ(3
+%1Shapes.GradientFill"__id*A?*=
+
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFillu
+s
+
+æ! æ(E=
 
-%retUnityEngine.Color*6
-8H H("'
-H H(
-
-%retUnityEngine.Color:
-@! @(*
-indexintB
-Shapes.Triangle
+%1Shapes.GradientFill" 
+	linearEndUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3*
+2*2
+2
+æF æ(F"!
+
+æE æ(F
+implicit return:
+valueUnityEngine.Vector3B"
+Shapes.Draw

@@ -1,21 +1,30 @@
 
-Shapes.Disc.ColorInnerEnd.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csM M("0*
-0M M(*
-1*„
-1M
- M(p
-n
-M
- M(
-%retUnityEngine.Color"__id*A
-M
- M(5*3
-Shapes.Disc""
-colorInnerEndUnityEngine.Color*
-2*6
-2M M("'
-M M(
-
-%retUnityEngine.ColorB
-Shapes.Disc
+Shapes.Draw.Thickness.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csš š("0*
+0
+š š(*
+1*Ê
+1
+š! š(8\
+Z
+
+š! š(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleV
+T
+
+š! š(8,
+
+%0Shapes.DrawStyle"
+	thicknessfloat"__id*
+
+valuefloat*
+2*2
+2
+š9 š(9"!
+
+š8 š(9
+implicit return:
+valuefloatB"
+Shapes.Draw

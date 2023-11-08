@@ -1,35 +1,21 @@
 
-*Shapes.RegularPolygon.FillRadialRadius.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs´ ´("0*
-0
-´ ´(*
-1*ê
-1
-´
- ´(k
-i
-
-´
- ´(
-%0Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFillg
-e
-
-´
- ´(
-%retfloat"__id*B
-
-´
- ´(4*2
+Shapes.Disc.ColorOuterStart.getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csG G("0*
+0G G(*
+1*†
+1G
+ G(r
+p
+G
+ G(
+%retUnityEngine.Color"__id*C
+G
+ G(7*5
+Shapes.Disc"$
+colorOuterStartUnityEngine.Color*
+2*6
+2G G("'
+G G(
 
-%0Shapes.GradientFill"
-radialRadiusfloat*
-2*.
-2
-´ ´("
-
-´ ´(
-
-%retfloatB
-Shapes.RegularPolygon
+%retUnityEngine.ColorB
+Shapes.Disc

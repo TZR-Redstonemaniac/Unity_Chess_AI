@@ -1,38 +1,24 @@
 
-RShapes.ShapesMeshUtils.EnsureValidMeshBounds(UnityEngine.Mesh, UnityEngine.Bounds)~
-tC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesMeshUtils.cs: :(#"0*
-0: :(*
-1*ö
-1; =({
-y
-; ;(-
-%0UnityEngine.HideFlags" UnityEngine.Object.hideFlags.set*&
-; ;(
-
-meshUnityEngine.Mesh*2Ž
-‹
-< <(
-%1UnityEngine.Bounds"UnityEngine.Mesh.bounds.set*&
-< <(
-
-meshUnityEngine.Mesh* 
-
-boundsUnityEngine.BoundsT
-R
-=
- =(
-%retUnityEngine.Mesh"__id*&
-=
- =(
-
-meshUnityEngine.Mesh*
-2*5
-2> >("&
-> >(
-
-%retUnityEngine.Mesh:$
-:% :(.
-meshUnityEngine.Mesh:(
-:0 :(=
-boundsUnityEngine.BoundsB"
-Shapes.ShapesMeshUtils
+)Shapes.DashStyle.DefaultDashStyleRing.set
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.csŠ Š("0*
+0
+Š Š(*
+1*a
+1
+Š
+ Š(K
+I
+
+Š
+ Š(
+%0Shapes.DashStyle"__id*
+
+valueShapes.DashStyle*
+2*2
+2
+Š Š("!
+
+Š Š(
+implicit return:
+valueShapes.DashStyleB"
+Shapes.DashStyle

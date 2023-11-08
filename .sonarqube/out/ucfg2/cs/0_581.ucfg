@@ -1,42 +1,48 @@
 
-Shapes.Disc.AngRadiansStart.setz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csˆ ˆ("0*
-0
-ˆ ˆ(*
-1*Ô
-1
-ˆ
- ˆ(RS
-Q
+Shapes.Disc.ColorEnd.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csr r("0*
+0r r(*
+1*Ý
+1s t(Pg
+e
+s5 s(J3
+Shapes.Disc""
+colorInnerEndUnityEngine.Color"__id*
+
+valueUnityEngine.Colorø
+õ
+s s(L
 
-ˆ9 ˆ(P)
-Shapes.Disc"
-angRadiansStartfloat"__id*
-
-valuefloatè
-å
+%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+s s(
+Shapes.Disc*F
+s s(3:*8
+Shapes.ShapesMaterialUtils"
+propColorInnerEndint*A
+s5 s(J5*3
+Shapes.Disc""
+colorInnerEndUnityEngine.Colorg
+e
+t8 t(M3
+Shapes.Disc""
+colorOuterEndUnityEngine.Color"__id*
+
+valueUnityEngine.Colorû
+ø
+t t(O
 
-ˆ
- ˆ(R
-
-%0void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-
-ˆ
- ˆ(
-Shapes.Disc*C
-
-ˆ ˆ(75*3
-Shapes.ShapesMaterialUtils"
-propAngStartint*9
-
-ˆ9 ˆ(P+*)
-Shapes.Disc"
-angRadiansStartfloat*
-2*2
-2
-ˆS ˆ(S"!
-
-ˆR ˆ(S
-implicit return:
-valuefloatB
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+t t(
+Shapes.Disc*F
+t t(6:*8
+Shapes.ShapesMaterialUtils"
+propColorOuterEndint*A
+t8 t(M5*3
+Shapes.Disc""
+colorOuterEndUnityEngine.Color*
+2*.
+2u u("
+u u(
+implicit return:
+valueUnityEngine.ColorB
 Shapes.Disc

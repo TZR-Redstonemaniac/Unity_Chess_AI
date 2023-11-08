@@ -1,0 +1,7 @@
+ß
+NeuralNetworkobjectH
+NeuralNetwork(params int[]))NeuralNetwork.NeuralNetwork(params int[])F
+CalculateOutputs(double[])(NeuralNetwork.CalculateOutputs(double[])D
+Classify(params double[])'NeuralNetwork.Classify(params double[])D
+IndexOfMaxValue(double[])'NeuralNetwork.IndexOfMaxValue(double[])(
+GetLayers()NeuralNetwork.GetLayers()

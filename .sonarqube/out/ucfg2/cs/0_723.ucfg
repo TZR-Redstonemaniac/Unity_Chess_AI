@@ -1,35 +1,21 @@
 
-(Shapes.Cuboid.SetAllMaterialProperties()z
-pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Cuboid.cs" (:"0*
-0 (*
-1*ð
-1 (?ð
-í
- (3
-
-%0void"9Shapes.ShapeRenderer.SetVector3(int, UnityEngine.Vector3)*
- (
-Shapes.Cuboid*=
- (+1*/
-Shapes.ShapesMaterialUtils"
-propSizeint*<
-- (10*.
+Shapes.Cuboid.Size.getz
+pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Cuboid.cs ("0*
+0 (*
+1*
+1
+ (m
+k
+
+ (
+%retUnityEngine.Vector3"__id*<
+
+ (0*.
 Shapes.Cuboid"
-sizeUnityEngine.Vector3è
-å
- (>
-
-%1void"%Shapes.ShapeRenderer.SetInt(int, int)*
- (	
-Shapes.Cuboid*B
- (,6*4
-Shapes.ShapesMaterialUtils"
-propSizeSpaceint*C
-. (<7*5
-Shapes.Cuboid""
-	sizeSpaceShapes.ThicknessSpace*
-2*.
-2 ("
- (
-implicit returnB
+sizeUnityEngine.Vector3*
+2*8
+2 (")
+ (
+
+%retUnityEngine.Vector3B
 Shapes.Cuboid

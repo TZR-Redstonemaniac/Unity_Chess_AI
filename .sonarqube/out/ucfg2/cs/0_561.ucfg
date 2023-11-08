@@ -1,30 +1,39 @@
 
-Shapes.Draw.GradientFill.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÂ Â("0*
+&Shapes.Draw.GradientFillColorStart.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÓ Ó("0*
 0
-Â Â(*
-1*é
+Ó Ó(*
+1*å
 1
-Â! Â(;\
+Ó! Ó(>\
 Z
 
-Â! Â(&
+Ó! Ó(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStyleu
-s
+styleShapes.DrawStyler
+p
 
-Â! Â(;=
+Ó! Ó(3
+%1Shapes.GradientFill"__id*A?*=
 
 %0Shapes.DrawStyle"#
-gradientFillShapes.GradientFill"__id* 
-
-valueShapes.GradientFill*
-2*2
-2
-Â< Â(<"!
+gradientFillShapes.GradientFill}
+{
 
-Â; Â(<
-implicit return:
-valueShapes.GradientFillB"
+Ó! Ó(>
+%retUnityEngine.Color"__id*L
+
+Ó! Ó(>>*<
+
+%1Shapes.GradientFill"
+
+colorStartUnityEngine.Color*
+2*:
+2
+Ó? Ó(?")
+
+Ó> Ó(?
+
+%retUnityEngine.ColorB"
 Shapes.Draw

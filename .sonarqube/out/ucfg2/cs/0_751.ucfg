@@ -1,21 +1,30 @@
 
-Shapes.Polyline.Closed.get|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.cs8 8("0*
-08 8(*
-1*g
-18
- 8(S
-Q
-8
- 8(
-%retbool"__id*1
-8
- 8(%*#
-Shapes.Polyline"
-closedbool*
-2*)
-28 8("
-8 8(
-
-%retboolB
-Shapes.Polyline
+Shapes.Rectangle.Type.set}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csO O("0*
+0O O(*
+1*Ø
+1P R(}
+{
+P P(<
+Shapes.Rectangle"&
+typeShapes.Rectangle.RectangleType"__id*+)
+'
+valueShapes.Rectangle.RectangleTypea
+_
+Q Q(
+
+%0void"%Shapes.ShapeRenderer.UpdateMaterial()* 
+Q Q(
+Shapes.Rectangleb
+`
+R R(
+
+%1void"&Shapes.ShapeRenderer.ApplyProperties()* 
+R R(
+Shapes.Rectangle*
+2*.
+2S S("
+S S(
+implicit return:)'
+valueShapes.Rectangle.RectangleTypeB
+Shapes.Rectangle

@@ -3,5 +3,5 @@ projectKey=TZR-Redstonemaniac_Unity_Chess_AI
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.49942
 dashboardUrl=https://sonarcloud.io/dashboard?id=TZR-Redstonemaniac_Unity_Chess_AI
-ceTaskId=AYuoq4l0WFIaqXlmgwLh
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYuoq4l0WFIaqXlmgwLh
+ceTaskId=AYutWWwVBc459aXeDRbu
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYutWWwVBc459aXeDRbu

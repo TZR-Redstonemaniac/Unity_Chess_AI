@@ -1,49 +1,31 @@
 
-)Shapes.ShapesTextPool.ReleaseElement(int)}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesTextPool.csT T("0*
-0T T(*
-1*«
-1U U(<“
-
-U U(<
+Shapes.Draw.DiscGeometry.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÚ Ú("0*
+0
+Ú Ú(*
+1*õ
+1
+Ú! Ú(3\
+Z
 
-%0bool"GSystem.Collections.Generic.ICollection<T>.TryGetValue(TKey, out TValue)*n
-U U(b*`
-Shapes.ShapesTextPool"E
-elementsActive3System.Collections.Generic.Dictionary<TKey, TValue>*
-U# U(%
-	
-idint*&
-U' U(:
-
-tmpTMPro.TextMeshPro*
-2
-3*Ç
-2V W( Ú
-×
-V V(
+Ú! Ú(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyle€
+~
 
-%1bool"6System.Collections.Generic.ICollection<T>.Remove(TKey)*n
-V V(b*`
-Shapes.ShapesTextPool"E
-elementsActive3System.Collections.Generic.Dictionary<TKey, TValue>*
-V V(
-	
-idintÕ
-Ò
-W W(
+Ú! Ú(3
+%retShapes.DiscGeometry"__id*M
 
-%2void"1System.Collections.Generic.ICollection<T>.Push(T)*_
-W W(S*Q
-Shapes.ShapesTextPool"6
-elementsPassive#System.Collections.Generic.Stack<T>*&
-W W(
-
-tmpTMPro.TextMeshPro*
-3*.
-3[ [("
-[ [(
-implicit return:
-T T($	
-idintB
-Shapes.ShapesTextPool
+Ú! Ú(3?*=
+
+%0Shapes.DrawStyle"#
+discGeometryShapes.DiscGeometry*
+2*<
+2
+Ú4 Ú(4"+
+
+Ú3 Ú(4
+
+%retShapes.DiscGeometryB"
+Shapes.Draw

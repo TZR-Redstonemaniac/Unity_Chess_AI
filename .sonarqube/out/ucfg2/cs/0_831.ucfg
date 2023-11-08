@@ -1,16 +1,13 @@
 
-6Shapes.MpbPolygon.Shapes.IFillableMpb.fillColorEnd.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs‹, ‹(/"0*î
-0
-‹0 ‹(0¢
-Ÿ
-
-‹, ‹(0(
-%0"System.Collections.Generic.List<T>"__id*a_*]
-Shapes.MpbPolygon"F
- Shapes.IFillableMpb.fillColorEnd"System.Collections.Generic.List<T>"8
-
-‹, ‹(0*
+4Shapes.MpbLine3D.Shapes.IDashableMpb.dashSpacing.get…
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csz) z(,"0*æ
+0z- z(-ž
+›
+z) z(-(
+%0"System.Collections.Generic.List<T>"__id*_]*[
+Shapes.MpbLine3D"E
+Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>"6
+z) z(-*
 (
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbPolygon
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbLine3D

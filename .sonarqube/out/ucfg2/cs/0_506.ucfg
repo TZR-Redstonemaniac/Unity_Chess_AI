@@ -1,35 +1,30 @@
 
-%Shapes.Rectangle.FillRadialRadius.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs® ®("0*
+Shapes.Draw.Radius.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs   ("0*
 0
-® ®(*
-1*å
+   (*
+1*Ç
 1
-®
- ®(f
-d
+ !  (5\
+Z
 
-®
- ®(
-%0Shapes.GradientFill"__id*53*1
-Shapes.Rectangle"
-fillShapes.GradientFillg
-e
+ !  (&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleS
+Q
 
-®
- ®(
-%retfloat"__id*B
-
-®
- ®(4*2
-
-%0Shapes.GradientFill"
-radialRadiusfloat*
-2*.
+ !  (5)
+
+%0Shapes.DrawStyle"
+radiusfloat"__id*
+
+valuefloat*
+2*2
 2
-® ®("
+ 6  (6"!
 
-® ®(
-
-%retfloatB
-Shapes.Rectangle
+ 5  (6
+implicit return:
+valuefloatB"
+Shapes.Draw

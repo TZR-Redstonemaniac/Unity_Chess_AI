@@ -1,17 +1,38 @@
 
-)Shapes.Polygon.SetAllMaterialProperties(){
-qC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polygon.csl" l(:"0*
-0l l(*
-1*p
-1l@ l(S\
+Shapes.Draw.DashType.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs‡ ‡("0*
+0
+‡ ‡(*
+1*Ï
+1
+‡! ‡(5\
 Z
-l@ l(S
 
-%0void""Shapes.Polygon.SetFillProperties()*
-l@ l(Q
-Shapes.Polygon*
-2*.
-2lT l(T"
-lS l(T
-implicit returnB
-Shapes.Polygon
+‡! ‡(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+‡! ‡(0
+%1Shapes.DashStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStylep
+n
+
+‡! ‡(5
+%retShapes.DashType"__id*A
+
+‡! ‡(53*1
+
+%1Shapes.DashStyle"
+typeShapes.DashType*
+2*8
+2
+‡6 ‡(6"'
+
+‡5 ‡(6
+
+%retShapes.DashTypeB"
+Shapes.Draw

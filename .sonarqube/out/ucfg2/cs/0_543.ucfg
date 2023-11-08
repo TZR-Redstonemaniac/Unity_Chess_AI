@@ -1,35 +1,28 @@
 
-&Shapes.RegularPolygon.FillColorEnd.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÊ Ê("0*
-0
-Ê Ê(*
-1*þ
-1
-Ê
- Ê(k
-i
-
-Ê
- Ê(
-%0Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFill{
-y
-
-Ê
- Ê(
-%retUnityEngine.Color"__id*J
-
-Ê
- Ê(<*:
+&Shapes.Triangle.GetTriangleVertex(int)|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs7 7(""0*
+07 7(*
+1*ó
+173 7(>„
+
+73 7(>
+%0UnityEngine.Vector3"Shapes.Triangle.this[int].get*
+73 7(7
+Shapes.Triangle*
+78 7(=
+
+indexintX
+V
+73 7(>
+%retUnityEngine.Vector3"__id*'
+73 7(>
 
-%0Shapes.GradientFill"
-colorEndUnityEngine.Color*
-2*:
-2
-Ê Ê(")
-
-Ê Ê(
-
-%retUnityEngine.ColorB
-Shapes.RegularPolygon
+%0UnityEngine.Vector3*
+2*8
+27? 7(?")
+7> 7(?
+
+%retUnityEngine.Vector3:
+7$ 7(-
+indexintB
+Shapes.Triangle

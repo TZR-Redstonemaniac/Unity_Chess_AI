@@ -1,33 +1,35 @@
 
-Shapes.Line.ColorEnd.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs? ?("0*
-0? ?(*
-1*ê
-1?
- ?(Kb
-`
-?9 ?(I.
-Shapes.Line"
-colorEndUnityEngine.Color"__id*
-
-valueUnityEngine.Colorñ
-î
-?
- ?(K
+Shapes.Triangle.DashSpace.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csƒ ƒ("0*
+0
+ƒ ƒ(*
+1*ï
+1
+ƒ
+ ƒ(d
+b
 
-%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
-?
- ?(
-Shapes.Line*A
-? ?(75*3
-Shapes.ShapesMaterialUtils"
-propColorEndint*<
-?9 ?(I0*.
-Shapes.Line"
-colorEndUnityEngine.Color*
-2*.
-2?L ?(L"
-?K ?(L
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Line
+ƒ
+ ƒ(
+%0Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyles
+q
+
+ƒ
+ ƒ(
+%retShapes.DashSpace"__id*C
+
+ƒ
+ ƒ(5*3
+
+%0Shapes.DashStyle"
+spaceShapes.DashSpace*
+2*9
+2
+ƒ ƒ("(
+
+ƒ ƒ(
+
+%retShapes.DashSpaceB
+Shapes.Triangle

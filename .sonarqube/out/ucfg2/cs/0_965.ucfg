@@ -1,31 +1,32 @@
 
-Shapes.Draw.TextStyle.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csï ï("0*
-0
-ï ï(*
-1*ë
-1
-ï! ï(0\
-Z
-
-ï! ï(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylew
-u
-
-ï! ï(0
-%retShapes.TextStyle"__id*G
-
-ï! ï(09*7
-
-%0Shapes.DrawStyle"
-	textStyleShapes.TextStyle*
-2*9
-2
-ï1 ï(1"(
-
-ï0 ï(1
-
-%retShapes.TextStyleB"
-Shapes.Draw
+3Shapes.Quad.SetQuadVertex(int, UnityEngine.Vector3)x
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csE E("0*
+0E E(*
+1*
+1E> E(Qž
+›
+E> E(Q
+%0UnityEngine.Vector3"Shapes.Quad.this[int].set*
+E> E(B
+Shapes.Quad*
+EC E(H
+
+indexint* 
+
+valueUnityEngine.Vector3[
+Y
+E> E(Q
+%retUnityEngine.Vector3"__id**
+E> E(Q
+
+valueUnityEngine.Vector3*
+2*8
+2ER E(R")
+EQ E(R
+
+%retUnityEngine.Vector3:
+E  E()
+indexint:(
+E+ E(8
+valueUnityEngine.Vector3B
+Shapes.Quad

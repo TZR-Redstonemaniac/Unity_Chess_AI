@@ -1,27 +1,47 @@
 
-Shapes.Quad.C.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs‰ ‰("0*
-0
-‰ ‰(*
-1*‚
-1
-‰
- ‰(l
-j
+KShapes.PolylinePath.AddPoint(UnityEngine.Vector3, float, UnityEngine.Color)„
+zC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PolylinePath.cs2% 2(-"0*
+02 2(*
+1*‡
+1	2^ 2(”?=
+	2h 2(’
+%0Shapes.PolylinePoint"Shapes.PolylinePoint¢
+Ÿ
+	2h 2(’
+%1Shapes.PolylinePoint"QShapes.PolylinePoint.PolylinePoint(UnityEngine.Vector3, UnityEngine.Color, float)*)
+	2h 2(’
+
+%0Shapes.PolylinePoint*(
+2{ 2(~
+
+posUnityEngine.Vector3**
 
-‰
- ‰(
-%retUnityEngine.Vector3"__id*9
+2€ 2(…
+
+colorUnityEngine.Color*"
 
-‰
- ‰(+*)
-Shapes.Quad"
-cUnityEngine.Vector3*
-2*<
+2‡ 2(
+
+	thicknessfloat‹
+ˆ
+	2^ 2(”
+
+%2void"Shapes.PointPath<T>.AddPoint(T)*#
+2^ 2(f
+Shapes.PolylinePath*)
+	2h 2(’
+
+%0Shapes.PolylinePoint*
+2*2
 2
-‰ ‰("+
+2• 2(•"!
 
-‰ ‰(
-
-%retUnityEngine.Vector3B
-Shapes.Quad
+2” 2(•
+implicit return:&
+2/ 2(:
+posUnityEngine.Vector3:
+2< 2(K
+	thicknessfloat:&
+2M 2(X
+colorUnityEngine.ColorB
+Shapes.PolylinePath

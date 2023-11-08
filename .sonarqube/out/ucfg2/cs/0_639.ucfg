@@ -1,33 +1,21 @@
 
-Shapes.Triangle.A.set|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csk k("0*
-0k k(*
-1*ë
-1k
- k(?c
-a
-k4 k(=-
-Shapes.Triangle"
-aUnityEngine.Vector3"__id* 
-
-valueUnityEngine.Vector3ñ
-î
-k
- k(?
-
-%0void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*
-k
- k(
-Shapes.Triangle*:
-k k(2.*,
-Shapes.ShapesMaterialUtils"
-propAint*;
-k4 k(=/*-
-Shapes.Triangle"
-aUnityEngine.Vector3*
-2*.
-2k@ k(@"
-k? k(@
-implicit return:
-valueUnityEngine.Vector3B
-Shapes.Triangle
+%Shapes.RegularPolygon.RadiusSpace.get‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.csA A("0*
+0A A(*
+1*•
+1A
+ A(€
+~
+A
+ A(
+%retShapes.ThicknessSpace"__id*M
+A
+ A(A*?
+Shapes.RegularPolygon"$
+radiusSpaceShapes.ThicknessSpace*
+2*:
+2A A("+
+A A(
+
+%retShapes.ThicknessSpaceB
+Shapes.RegularPolygon

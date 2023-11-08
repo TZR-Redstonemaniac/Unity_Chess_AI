@@ -1,35 +1,43 @@
 
-Shapes.Draw.RingDashStyle.getà
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs” ”("0*
-0
-” ”(*
-1*Î
-1
-”
- ”(\
-Z
+'Shapes.ShapeRenderer.SortingLayerID.getÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs# #("0*
+0# #(*
+1*∑
+1#
+ #(B¯
+ı
+#
+ #(3
+%1UnityEngine.MeshRenderer"@Shapes.ShapeRenderer.MakeSureComponentExists<T>(ref T, out bool)*$
+#
+ #(!
+Shapes.ShapeRenderer*G
+## #(*;*9
+Shapes.ShapeRenderer"
+rndUnityEngine.MeshRenderer*
+#, #(1
 
-”
- ”(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylew
-u
 
-”
- ”(
-%retShapes.DashStyle"__id*G
-
-”
- ”(9*7
-
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStyle*
-2*9
-2
-” ”("(
-
-” ”(
-
-%retShapes.DashStyleB"
-Shapes.Draw
+%0booln
+l
+#
+ #(B	
+%2int"'UnityEngine.Renderer.sortingLayerID.get*,
+#
+ #(3 
+
+%1UnityEngine.MeshRenderer8
+6
+#
+ #(B
+%retint"__id*
+#
+ #(B
+	
+%2int*
+2*(
+2#C #(C"
+#B #(C
+
+%retintB
+Shapes.ShapeRenderer

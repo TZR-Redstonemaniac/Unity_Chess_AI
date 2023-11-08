@@ -1,97 +1,276 @@
 
-Shapes.MpbQuad.MpbQuad()á
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs• •("0*ê
+,Shapes.MpbRegularPolygon.MpbRegularPolygon()á
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs› ›(!"0*¶2
 0
-π π(l
+á á(l
 j
 
-ß& ß(9(
+ﬂ, ﬂ(=(
 %0"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpb
-}
+Shapes.MetaMpbí
+è
 
-ß" ß(9;
-Shapes.MpbQuad"'
-a"System.Collections.Generic.List<T>"__id*,*
+ﬂ  ﬂ(=M
+Shapes.MpbRegularPolygon"/
+	alignment"System.Collections.Generic.List<T>"__id*,*
 (
 %0"System.Collections.Generic.List<T>l
 j
 
-®& ®(9(
+‡( ‡(9(
 %1"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpb
-}
+Shapes.MetaMpbé
+ã
 
-®" ®(9;
-Shapes.MpbQuad"'
-b"System.Collections.Generic.List<T>"__id*,*
+‡  ‡(9I
+Shapes.MpbRegularPolygon"+
+angle"System.Collections.Generic.List<T>"__id*,*
 (
 %1"System.Collections.Generic.List<T>l
 j
 
-©& ©(9(
+·) ·(:(
 %2"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpb
-}
+Shapes.MetaMpbè
+å
 
-©" ©(9;
-Shapes.MpbQuad"'
-c"System.Collections.Generic.List<T>"__id*,*
+·  ·(:J
+Shapes.MpbRegularPolygon",
+hollow"System.Collections.Generic.List<T>"__id*,*
 (
 %2"System.Collections.Generic.List<T>l
 j
 
-™+ ™(>(
+‚) ‚(:(
 %3"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbÖ
-Ç
+Shapes.MetaMpbè
+å
 
-™" ™(>@
-Shapes.MpbQuad",
-colorB"System.Collections.Generic.List<T>"__id*,*
+‚  ‚(:J
+Shapes.MpbRegularPolygon",
+radius"System.Collections.Generic.List<T>"__id*,*
 (
 %3"System.Collections.Generic.List<T>l
 j
 
-´+ ´(>(
+„. „(?(
 %4"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbÖ
-Ç
+Shapes.MetaMpbî
+ë
 
-´" ´(>@
-Shapes.MpbQuad",
-colorC"System.Collections.Generic.List<T>"__id*,*
+„  „(?O
+Shapes.MpbRegularPolygon"1
+radiusSpace"System.Collections.Generic.List<T>"__id*,*
 (
 %4"System.Collections.Generic.List<T>l
 j
 
-¨+ ¨(>(
+‰, ‰(=(
 %5"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbÖ
-Ç
+Shapes.MetaMpbí
+è
 
-¨" ¨(>@
-Shapes.MpbQuad",
-colorD"System.Collections.Generic.List<T>"__id*,*
+‰  ‰(=M
+Shapes.MpbRegularPolygon"/
+	roundness"System.Collections.Generic.List<T>"__id*,*
 (
 %5"System.Collections.Generic.List<T>l
 j
 
-≠& ≠(9(
+Â, Â(=(
 %6"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpb
-}
+Shapes.MetaMpbí
+è
 
-≠" ≠(9;
-Shapes.MpbQuad"'
-d"System.Collections.Generic.List<T>"__id*,*
+Â  Â(=M
+Shapes.MpbRegularPolygon"/
+	scaleMode"System.Collections.Generic.List<T>"__id*,*
 (
-%6"System.Collections.Generic.List<T>>
-<
+%6"System.Collections.Generic.List<T>l
+j
 
-%7void"Shapes.MetaMpb.MetaMpb()*
+Ê( Ê(9(
+%7"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbé
+ã
+
+Ê  Ê(9I
+Shapes.MpbRegularPolygon"+
+sides"System.Collections.Generic.List<T>"__id*,*
+(
+%7"System.Collections.Generic.List<T>l
+j
+
+Á, Á(=(
+%8"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbí
+è
+
+Á  Á(=M
+Shapes.MpbRegularPolygon"/
+	thickness"System.Collections.Generic.List<T>"__id*,*
+(
+%8"System.Collections.Generic.List<T>l
+j
+
+Ë1 Ë(B(
+%9"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbó
+î
+
+Ë  Ë(BR
+Shapes.MpbRegularPolygon"4
+thicknessSpace"System.Collections.Generic.List<T>"__id*,*
+(
+%9"System.Collections.Generic.List<T>m
+k
+
+Î5 Î(H)
+%10"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb»
+≈
+
+Î Î(I)
+%11"System.Collections.Generic.List<T>"=Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillColorEnd.set*
+Shapes.MpbRegularPolygon*-+
+)
+%10"System.Collections.Generic.List<T>m
+k
+
+Ï0 Ï(C)
+%12"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb√
+¿
+
+Ï Ï(D)
+%13"System.Collections.Generic.List<T>"8Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillEnd.set*
+Shapes.MpbRegularPolygon*-+
+)
+%12"System.Collections.Generic.List<T>m
+k
+
+Ì0 Ì(A)
+%14"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb≈
+¬
+
+Ì Ì(B)
+%15"System.Collections.Generic.List<T>":Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillSpace.set*
+Shapes.MpbRegularPolygon*-+
+)
+%14"System.Collections.Generic.List<T>m
+k
+
+Ó2 Ó(E)
+%16"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb≈
+¬
+
+Ó Ó(F)
+%17"System.Collections.Generic.List<T>":Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillStart.set*
+Shapes.MpbRegularPolygon*-+
+)
+%16"System.Collections.Generic.List<T>m
+k
+
+Ô/ Ô(@)
+%18"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbƒ
+¡
+
+Ô Ô(A)
+%19"System.Collections.Generic.List<T>"9Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillType.set*
+Shapes.MpbRegularPolygon*-+
+)
+%18"System.Collections.Generic.List<T>m
+k
+
+Ú1 Ú(B)
+%20"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb∆
+√
+
+Ú Ú(C)
+%21"System.Collections.Generic.List<T>";Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashOffset.set*
+Shapes.MpbRegularPolygon*-+
+)
+%20"System.Collections.Generic.List<T>m
+k
+
+Û8 Û(I)
+%22"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbÕ
+ 
+
+Û Û(J)
+%23"System.Collections.Generic.List<T>"BShapes.MpbRegularPolygon.Shapes.IDashableMpb.dashShapeModifier.set*
+Shapes.MpbRegularPolygon*-+
+)
+%22"System.Collections.Generic.List<T>m
+k
+
+Ù/ Ù(@)
+%24"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbƒ
+¡
+
+Ù Ù(A)
+%25"System.Collections.Generic.List<T>"9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSize.set*
+Shapes.MpbRegularPolygon*-+
+)
+%24"System.Collections.Generic.List<T>m
+k
+
+ı/ ı(@)
+%26"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbƒ
+¡
+
+ı ı(A)
+%27"System.Collections.Generic.List<T>"9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSnap.set*
+Shapes.MpbRegularPolygon*-+
+)
+%26"System.Collections.Generic.List<T>m
+k
+
+ˆ0 ˆ(A)
+%28"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb≈
+¬
+
+ˆ ˆ(B)
+%29"System.Collections.Generic.List<T>":Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSpace.set*
+Shapes.MpbRegularPolygon*-+
+)
+%28"System.Collections.Generic.List<T>m
+k
+
+˜2 ˜(C)
+%30"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb«
+ƒ
+
+˜ ˜(D)
+%31"System.Collections.Generic.List<T>"<Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSpacing.set*
+Shapes.MpbRegularPolygon*-+
+)
+%30"System.Collections.Generic.List<T>m
+k
+
+¯/ ¯(@)
+%32"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbƒ
+¡
+
+¯ ¯(A)
+%33"System.Collections.Generic.List<T>"9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashType.set*
+Shapes.MpbRegularPolygon*-+
+)
+%32"System.Collections.Generic.List<T>?
+=
+%34void"Shapes.MetaMpb.MetaMpb()*
 Shapes.MetaMpb"!
 
-• π(
-implicit returnB
-Shapes.MpbQuad
+› á(
+implicit returnB
+Shapes.MpbRegularPolygon

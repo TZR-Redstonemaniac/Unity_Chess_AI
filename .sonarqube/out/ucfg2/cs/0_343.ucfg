@@ -1,35 +1,51 @@
 
-Shapes.Polygon.FillColorEnd.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¾ ¾("0*
-0
-¾ ¾(*
-1*÷
-1
-¾
- ¾(d
-b
+Shapes.Disc.DashSpacing.get–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs% %("0*
+0% %(*
+1*
+1%
+ %( *
+2
+3*Ç
+2%# %(1^
+\
+%# %(,
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStyleS
+Q
+%# %(1
+	%capture0float"__id*+)*'
+
+%0Shapes.DashStyle"
+sizefloat*
+4*Ê
+3%4 %(E^
+\
+%4 %(=
+%1Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStyleV
+T
+%4 %(E
+	%capture0float"__id*.,**
+
+%1Shapes.DashStyle"
+spacingfloat*
+4*W
+4%
+ %(EC
+A
+%
+ %(E
+%retfloat"__id* 
+%
+ %(E
+
+	%capture0float*
+5**
+5%F %(F"
+%E %(F
 
-¾
- ¾(
-%0Shapes.GradientFill"__id*31*/
-Shapes.Polygon"
-fillShapes.GradientFill{
-y
-
-¾
- ¾(
-%retUnityEngine.Color"__id*J
-
-¾
- ¾(<*:
-
-%0Shapes.GradientFill"
-colorEndUnityEngine.Color*
-2*:
-2
-¾ ¾(")
-
-¾ ¾(
-
-%retUnityEngine.ColorB
-Shapes.Polygon
+%retfloatB
+Shapes.Disc

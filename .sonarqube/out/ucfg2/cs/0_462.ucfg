@@ -1,51 +1,24 @@
 
-Shapes.Rectangle.UseFill.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs– –("0*
-0
-– –(*
-1*÷
-1
-— ˜(XN
-L
-
-— —(%
-Shapes.Rectangle"
-useFillbool"__id*
-
-valueboolÄ
-Á
-
-˜1 ˜(U	
-%0int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*A
-
-˜1 ˜(53*1
-Shapes.Rectangle"
-fillShapes.GradientFill*5
-
-˜L ˜(S'*%
-Shapes.Rectangle"
-useFillboolÉ
-Æ
-
-˜ ˜(W
-
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*"
-
-˜ ˜(
-Shapes.Rectangle*C
-
-˜ ˜(/5*3
-Shapes.ShapesMaterialUtils"
-propFillTypeint*
-
-˜1 ˜(U
-	
-%0int*
-2*2
-2
-™ ™("!
-
-™ ™(
-implicit return:
-valueboolB
-Shapes.Rectangle
+Shapes.Draw.Color.set†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csx x("0*
+0x x(*
+1*Ø
+1x! x(4Z
+X
+x! x(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleh
+f
+x! x(44
+
+%0Shapes.DrawStyle"
+colorUnityEngine.Color"__id*
+
+valueUnityEngine.Color*
+2*.
+2x5 x(5"
+x4 x(5
+implicit return:
+valueUnityEngine.ColorB"
+Shapes.Draw

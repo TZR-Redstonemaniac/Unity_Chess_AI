@@ -1,40 +1,55 @@
 
-!Shapes.Line.DashShapeModifier.set–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs~ ~("0*
-0~ ~(*
-1*¿
-1~
- ~(c^
-\
-~B ~(K
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStyleX
-V
-~B ~(a0
-
-%0Shapes.DashStyle"
-shapeModifierfloat"__id*
+Shapes.ObjectPool<T>.Alloc()
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs ("0*
+0 (*
+1*º
+1 (,¢
+Ÿ
+ ('	
+%0int"3System.Collections.Generic.ICollection<T>.Count.get*S
+ (!G*E
+Shapes.ObjectPool<T>"+
+pool#System.Collections.Generic.Stack<T>*
+2
+3*’
+2/ (6
+/ (6
+%1T"T3
+1
+/ (6
+%2T"T.T()*
+/ (6	
+
+%1T/
+-
+/ (6
+	%capture0T"__id*	
+
+%1T*
+4*â
+39 (Cœ
+™
+9 (C
+%3T"/System.Collections.Generic.ICollection<T>.Pop()*S
+9 (=G*E
+Shapes.ObjectPool<T>"+
+pool#System.Collections.Generic.Stack<T>/
+-
+9 (C
+	%capture0T"__id*	
+
+%3T*
+4*O
+4 (C;
+9
+ (C	
+%retT"__id*
+ (C
 
-valuefloatð
-í
-~
- ~(c
-
-%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-~
- ~(
-Shapes.Line*J
-~ ~(@>*<
-Shapes.ShapesMaterialUtils"
-propDashShapeModifierint*>
-~B ~(a2*0
-
-%0Shapes.DashStyle"
-shapeModifierfloat*
-2*.
-2~d ~(d"
-~c ~(d
-implicit return:
-valuefloatB
-Shapes.Line
+	%capture0T*
+5*&
+5D (D"
+C (D
+	
+%retTB"
+Shapes.ObjectPool<T>

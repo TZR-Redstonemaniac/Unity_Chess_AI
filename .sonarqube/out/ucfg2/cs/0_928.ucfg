@@ -1,18 +1,18 @@
 
-9Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillType.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csï& ï()"0*¬
+3Shapes.MpbTriangle.Shapes.IDashableMpb.dashSize.set‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs»& »()"0* 
 0
-ï* ï(*¨
-¥
+»* »(*¢
+Ÿ
 
-ï& ï(*`
-Shapes.MpbRegularPolygon"B
-Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>"__id*/-
+»& »(*Z
+Shapes.MpbTriangle"B
+Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>"__id*/-
 +
-value"System.Collections.Generic.List<T>"p
+value"System.Collections.Generic.List<T>"j
 
-ï& ï(*b*`
-Shapes.MpbRegularPolygon"B
-Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+»& »(*\*Z
+Shapes.MpbTriangle"B
+Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbTriangle

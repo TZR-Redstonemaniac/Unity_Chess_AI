@@ -1,24 +1,31 @@
 
-Shapes.Disc.ColorMode.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs0 0("0*
-00 0(*
-1*Ê
-11 2(s
-q
-1 1(7
-Shapes.Disc"&
-	colorModeShapes.Disc.DiscColorMode"__id*&$
-"
-valueShapes.Disc.DiscColorMode]
-[
-2 2(
+Shapes.Draw.BlendMode.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csá á("0*
+0
+á á(*
+1*˘
+1
+á! á(0\
+Z
 
-%0void"&Shapes.ShapeRenderer.ApplyProperties()*
-2 2(
-Shapes.Disc*
-2*.
-23 3("
-3 3(
-implicit return:$"
-valueShapes.Disc.DiscColorModeB
-Shapes.Disc
+á! á(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleÑ
+Å
+
+á! á(0
+%retShapes.ShapesBlendMode"__id*M
+
+á! á(0?*=
+
+%0Shapes.DrawStyle"#
+	blendModeShapes.ShapesBlendMode*
+2*?
+2
+á1 á(1".
+
+á0 á(1 
+
+%retShapes.ShapesBlendModeB"
+Shapes.Draw

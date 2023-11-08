@@ -1,37 +1,30 @@
 
-!Shapes.Draw.GradientFillSpace.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÎ Î("0*
-0
-Î Î(*
-1*Ó
-1
-Î! Î(A\
-Z
+ Shapes.RegularPolygon.Hollow.get‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.cs ("0*
+0 (*
+1*±
+1
+ (a
+_
+
+ (
 
-Î! Î(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyler
-p
+%0bool" Shapes.RegularPolygon.Border.get*%
+
+ (
+Shapes.RegularPolygon:
+8
+
+ (
+%retbool"__id*
+
+ (
 
-Î! Î(3
-%1Shapes.GradientFill"__id*A?*=
-
-%0Shapes.DrawStyle"#
-gradientFillShapes.GradientFillk
-i
 
-Î! Î(A6
-
-%1Shapes.GradientFill"
-spaceShapes.FillSpace"__id*
-
-valueShapes.FillSpace*
-2*2
-2
-ÎB Î(B"!
-
-ÎA Î(B
-implicit return:
-valueShapes.FillSpaceB"
-Shapes.Draw
+%0bool*
+2*)
+2 ("
+ (
+
+%retboolB
+Shapes.RegularPolygon

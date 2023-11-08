@@ -1,24 +1,0 @@
-
-#Shapes.DashStack.DashStack()!staticÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DashStack.cs
- 
-(!"0*å
-0 (\Z
-4 (R)
-%0#System.Collections.Generic.Stack<T>"#System.Collections.Generic.Stack<T>t
-r
-8 (P
-
-%1void"+System.Collections.Generic.Stack<T>.Stack()*-+
-)
-%0#System.Collections.Generic.Stack<T>á
-Ñ
-+ (RC
-Shapes.DashStack"-
-dashes#System.Collections.Generic.Stack<T>"__id*-+
-)
-%0#System.Collections.Generic.Stack<T>"
-
- (
-implicit returnB"
-Shapes.DashStack

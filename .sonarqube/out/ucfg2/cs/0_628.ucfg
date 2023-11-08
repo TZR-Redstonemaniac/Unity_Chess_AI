@@ -1,24 +1,27 @@
 
-Shapes.Triangle.ColorMode.set|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csa a("0*
-0a a(*
-1*€
-1b c(ˆ
-…
-b b(C
-Shapes.Triangle".
-	colorMode!Shapes.Triangle.TriangleColorMode"__id*.,
-*
-value!Shapes.Triangle.TriangleColorModea
-_
-c c(
+Shapes.Disc.RadiusSpace.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs™ ™("0*
+0
+™ ™(*
+1*
+1
+™
+ ™(z
+x
 
-%0void"&Shapes.ShapeRenderer.ApplyProperties()*
-c c(
-Shapes.Triangle*
-2*.
-2d d("
-d d(
-implicit return:,*
-value!Shapes.Triangle.TriangleColorModeB
-Shapes.Triangle
+™
+ ™(
+%retShapes.ThicknessSpace"__id*E
+
+™
+ ™(7*5
+Shapes.Disc"$
+radiusSpaceShapes.ThicknessSpace*
+2*>
+2
+™ ™("-
+
+™ ™(
+
+%retShapes.ThicknessSpaceB
+Shapes.Disc

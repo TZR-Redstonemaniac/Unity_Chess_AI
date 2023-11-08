@@ -1,18 +1,30 @@
 
-:Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillSpace.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csí' í(*"0*®
+Shapes.Draw.TextStyle.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csð ð("0*
 0
-í+ í(+©
-¦
+ð ð(*
+1*à
+1
+ð! ð(8\
+Z
 
-í' í(+a
-Shapes.MpbRegularPolygon"C
-Shapes.IFillableMpb.fillSpace"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"q
+ð! ð(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylel
+j
 
-í' í(+c*a
-Shapes.MpbRegularPolygon"C
-Shapes.IFillableMpb.fillSpace"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+ð! ð(87
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyle"__id*
+
+valueShapes.TextStyle*
+2*2
+2
+ð9 ð(9"!
+
+ð8 ð(9
+implicit return:
+valueShapes.TextStyleB"
+Shapes.Draw

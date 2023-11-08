@@ -1,29 +1,16 @@
 
-:Shapes.AngularUnitExtensions.NameShort(Shapes.AngularUnit)
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\AngularUnit.cs ( "0*
-0 (*
-1*¢
-1= (YÍ
-Ê
-= (Y
-%0string"7System.Collections.Generic.ICollection<T>.this[int].get*M
-= (NA*?
-Shapes.AngularUnitExtensions"
-angUnitNamesShortstring[]*(
-O (X
-
-unitShapes.AngularUnit>
-<
-= (Y
-%retstring"__id*
-= (Y
-
-%0string*
-2*+
-2Z (Z"
-Y (Z
-
-%retstring:&
-" (7
-unitShapes.AngularUnitB "
-Shapes.AngularUnitExtensions
+3Shapes.MpbTriangle.Shapes.IDashableMpb.dashSnap.get‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs¼& ¼()"0*ë
+0
+¼* ¼(*Ÿ
+œ
+
+¼& ¼(*(
+%0"System.Collections.Generic.List<T>"__id*^\*Z
+Shapes.MpbTriangle"B
+Shapes.IDashableMpb.dashSnap"System.Collections.Generic.List<T>"8
+
+¼& ¼(**
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbTriangle

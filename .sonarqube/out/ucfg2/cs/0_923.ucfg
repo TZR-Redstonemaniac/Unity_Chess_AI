@@ -1,16 +1,18 @@
 
-<Shapes.MpbTriangle.Shapes.IDashableMpb.dashShapeModifier.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csº/ º(2"0*ô
+5Shapes.MpbTriangle.Shapes.IDashableMpb.dashOffset.set‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs¹( ¹(+"0*¤
 0
-º3 º(3¨
-¥
+¹, ¹(,¤
+¡
 
-º/ º(3(
-%0"System.Collections.Generic.List<T>"__id*ge*c
-Shapes.MpbTriangle"K
-%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"8
+¹( ¹(,\
+Shapes.MpbTriangle"D
+Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"l
 
-º/ º(3*
-(
-%0"System.Collections.Generic.List<T>B
+¹( ¹(,^*\
+Shapes.MpbTriangle"D
+Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
 Shapes.MpbTriangle

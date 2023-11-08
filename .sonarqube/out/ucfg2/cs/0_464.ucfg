@@ -1,30 +1,30 @@
 
- Shapes.Draw.StencilWriteMask.get†
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csm m("0*
-0m m(*
-1*Ã
-1m! m(CZ
+Shapes.Disc.Type.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs% %("0*
+0% %(*
+1*«
+1& ((Z
 X
-m! m(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylem
-k
-m! m(2
-%1Shapes.RenderState"__id*?=*;
-
-%0Shapes.DrawStyle"!
-renderStateShapes.RenderStated
-b
-m! m(C
-%retbyte"__id*B
-m! m(C6*4
+& &((
+Shapes.Disc"
+typeShapes.DiscType"__id*
 
-%1Shapes.RenderState"
-stencilWriteMaskbyte*
-2*)
-2mD m(D"
-mC m(D
-
-%retbyteB"
-Shapes.Draw
+valueShapes.DiscType\
+Z
+' '(
+
+%0void"%Shapes.ShapeRenderer.UpdateMaterial()*
+' '(
+Shapes.Disc]
+[
+( ((
+
+%1void"&Shapes.ShapeRenderer.ApplyProperties()*
+( ((
+Shapes.Disc*
+2*.
+2) )("
+) )(
+implicit return:
+valueShapes.DiscTypeB
+Shapes.Disc

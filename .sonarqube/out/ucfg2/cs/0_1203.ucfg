@@ -1,63 +1,43 @@
 
-Shapes.Quad.ColorBottom.setz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csÔ Ô("0*
+Shapes.Quad.ColorD.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csï ï("0*
 0
-Ô Ô(*
-1*Æ
+ï ï(*
+1*ð
 1
-Õ Ö(@b
+ï
+ ï(Gb
 `
 
-Õ. Õ(<,
+ï7 ï(E,
 Shapes.Quad"
 colorDUnityEngine.Color"__id*
 
-valueUnityEngine.Colorò
-ï
+valueUnityEngine.Colorõ
+ò
 
-Õ Õ(>
+ï
+ ï(G
 
-%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
 
-Õ Õ(
+ï
+ ï(
 Shapes.Quad*A
 
-Õ Õ(,3*1
+ï ï(53*1
 Shapes.ShapesMaterialUtils"
 
 propColorDint*<
 
-Õ. Õ(<.*,
+ï7 ï(E.*,
 Shapes.Quad"
-colorDUnityEngine.Colora
-_
-
-Ö0 Ö(=+
-Shapes.Quad"
-colorUnityEngine.Color"__id*
-
-valueUnityEngine.Coloró
-ð
-
-Ö Ö(?
-
-%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
-
-Ö Ö(
-Shapes.Quad*@
-
-Ö Ö(.2*0
-Shapes.ShapesMaterialUtils"
-	propColorint*;
-
-Ö0 Ö(=-*+
-Shapes.Quad"
-colorUnityEngine.Color*
+colorDUnityEngine.Color*
 2*2
 2
-× ×("!
+ïH ï(H"!
 
-× ×(
+ïG ï(H
 implicit return:
 valueUnityEngine.ColorB
 Shapes.Quad

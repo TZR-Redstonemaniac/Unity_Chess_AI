@@ -1,35 +1,21 @@
 
-"Shapes.RegularPolygon.DashSnap.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs„ „("0*
-0
-„ „(*
-1*ú
-1
-„
- „(j
+Shapes.Line.End.getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.csJ J("0*
+0J J(*
+1*~
+1J
+ J(j
 h
-
-„
- „(
-%0Shapes.DashStyle"__id*<:*8
-Shapes.RegularPolygon"
-	dashStyleShapes.DashStylex
-v
-
-„
- „(
-%retShapes.DashSnapping"__id*E
-
-„
- „(7*5
-
-%0Shapes.DashStyle"
-snapShapes.DashSnapping*
-2*<
-2
-„ „("+
-
-„ „(
+J
+ J(
+%retUnityEngine.Vector3"__id*9
+J
+ J(-*+
+Shapes.Line"
+endUnityEngine.Vector3*
+2*8
+2J J(")
+J J(
 
-%retShapes.DashSnappingB
-Shapes.RegularPolygon
+%retUnityEngine.Vector3B
+Shapes.Line

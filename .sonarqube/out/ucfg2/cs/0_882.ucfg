@@ -1,18 +1,26 @@
 
-/Shapes.MpbRect.Shapes.IFillableMpb.fillType.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÈ& È()"0*˜
-0
-È* È(*ž
-›
+!Shapes.RenderState.Equals(object)
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\RenderState.cs_ _("0*Y
+0_/ _(GB
+@
+_/ _(G
+otherShapes.RenderState"__id*
 
-È& È(*V
-Shapes.MpbRect"B
-Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"f
+objobject*
+1
+2*˜
+1_K _(Xƒ
+€
+_K _(Z
 
-È& È(*X*V
-Shapes.MpbRect"B
-Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRect
+%0bool"-Shapes.RenderState.Equals(Shapes.RenderState)*
+Shapes.RenderState*
+
+otherShapes.RenderState*
+2*.
+2_[ _(["
+_Z _([
+implicit return:
+_ _()
+objobjectB
+Shapes.RenderState

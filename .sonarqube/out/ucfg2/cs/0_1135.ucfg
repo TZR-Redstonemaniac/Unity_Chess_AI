@@ -1,29 +1,16 @@
 
-.Shapes.StyleStack.StyleStack(Shapes.DrawStyle)‚
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\StyleStack.cs ("1*
-1A (A*
-0*Ï
-0, (>ˆ
-…
-, (2)
-%0#System.Collections.Generic.Stack<T>"__id*HF*D
-Shapes.StyleStack"-
-styles#System.Collections.Generic.Stack<T>š
-—
-, (@
+8Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillEnd.get‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csì' ì(*"0*ð
+0
+ì+ ì(+¤
+¡
 
-%1void"1System.Collections.Generic.ICollection<T>.Push(T)*-+
-)
-%0#System.Collections.Generic.Stack<T>*
-
-styleShapes.DrawStyle"
-, (@
+ì' ì(+(
+%0"System.Collections.Generic.List<T>"__id*ca*_
+Shapes.MpbRegularPolygon"A
+Shapes.IFillableMpb.fillEnd"System.Collections.Generic.List<T>"8
 
-
-%1void*.
-2A (A"
-@ (A
-implicit return:%
- (&
-styleShapes.DrawStyleB
-Shapes.StyleStack
+ì' ì(+*
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

@@ -1,13 +1,56 @@
 
-2Shapes.MpbDisc.Shapes.IDashableMpb.dashSpacing.getÖ
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs8) 8(,"0*‰
-08- 8(-ú
-ô
-8) 8(-(
-%0"System.Collections.Generic.List<T>"__id*][*Y
-Shapes.MpbDisc"E
-Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>"6
-8) 8(-*
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbDisc
+%Shapes.ShapesTextPool.GetElement(int)}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesTextPool.cs? ?("0*
+0? ?(*
+1*´
+1@ @(Eì
+ê
+@ @(<
+
+%0bool"GSystem.Collections.Generic.ICollection<T>.TryGetValue(TKey, out TValue)*n
+@ @(b*`
+Shapes.ShapesTextPool"E
+elementsActive3System.Collections.Generic.Dictionary<TKey, TValue>*
+@# @(%
+	
+idint*&
+@' @(:
+
+tmpTMPro.TextMeshPro*
+2
+3*Ú
+2A A( í
+è
+A
+ A(
+%1TMPro.TextMeshPro"*Shapes.ShapesTextPool.AllocateElement(int)*%
+A
+ A(
+Shapes.ShapesTextPool*
+A A(
+	
+idintI
+G
+A A(
+tmpTMPro.TextMeshPro"__id*
+
+%1TMPro.TextMeshPro*
+3*i
+3B
+ B(U
+S
+B
+ B(
+%retTMPro.TextMeshPro"__id*&
+B
+ B(
+
+tmpTMPro.TextMeshPro*
+4*6
+4C C("'
+C C(
+
+%retTMPro.TextMeshPro:
+?! ?('	
+idintB
+Shapes.ShapesTextPool

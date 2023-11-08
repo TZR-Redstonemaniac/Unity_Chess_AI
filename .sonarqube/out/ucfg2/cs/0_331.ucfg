@@ -1,21 +1,50 @@
 
-Shapes.Line.Geometry.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs ("0*
-0 (*
-1*ƒ
-1
- (o
-m
-
- (
-%retShapes.LineGeometry"__id*>
-
- (2*0
-Shapes.Line"
-geometryShapes.LineGeometry*
-2*8
-2 (")
- (
-
-%retShapes.LineGeometryB
-Shapes.Line
+ Shapes.Polygon.FillLinearEnd.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs· ·("0*
+0
+· ·(*
+1*‚
+1
+·
+ ·(Rd
+b
+
+·: ·(>
+%0Shapes.GradientFill"__id*31*/
+Shapes.Polygon"
+fillShapes.GradientFillu
+s
+
+·: ·(P=
+
+%0Shapes.GradientFill" 
+	linearEndUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3Ž
+‹
+
+·
+ ·(R
+
+%1void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)* 
+
+·
+ ·(
+Shapes.Polygon*B
+
+· ·(84*2
+Shapes.ShapesMaterialUtils"
+propFillEndint*M
+
+·: ·(P?*=
+
+%0Shapes.GradientFill" 
+	linearEndUnityEngine.Vector3*
+2*2
+2
+·S ·(S"!
+
+·R ·(S
+implicit return:
+valueUnityEngine.Vector3B
+Shapes.Polygon

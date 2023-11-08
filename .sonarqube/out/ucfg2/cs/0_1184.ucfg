@@ -1,37 +1,33 @@
 
-%Shapes.ShapeRenderer.SortingOrder.setÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs) )("0*
-0) )(*
-1*ç
-1)
- )(H¯
-ı
-)
- )(3
-%1UnityEngine.MeshRenderer"@Shapes.ShapeRenderer.MakeSureComponentExists<T>(ref T, out bool)*$
-)
- )(!
-Shapes.ShapeRenderer*G
-)# )(*;*9
-Shapes.ShapeRenderer"
-rndUnityEngine.MeshRenderer*
-), )(1
+ Shapes.Draw.TorusRadiusSpace.setà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs∆ ∆("0*
+0
+∆ ∆(*
+1*Ï
+1
+∆
+ ∆(#\
+Z
 
+∆
+ ∆(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylex
+v
 
-%0bool~
-|
-)
- )(H	
-%2int"%UnityEngine.Renderer.sortingOrder.set*,
-)
- )(3 
+∆
+ ∆(#>
+
+%0Shapes.DrawStyle"$
+radiusSpaceShapes.ThicknessSpace"__id*" 
 
-%1UnityEngine.MeshRenderer*
-
-valueint*
-2*.
-2)I )(I"
-)H )(I
-implicit return:
-valueintB
-Shapes.ShapeRenderer
+valueShapes.ThicknessSpace*
+2*2
+2
+∆$ ∆($"!
+
+∆# ∆($
+implicit return: 
+valueShapes.ThicknessSpaceB"
+Shapes.Draw

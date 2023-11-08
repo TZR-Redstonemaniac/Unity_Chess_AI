@@ -20,18 +20,18 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S113",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Add a new line at the end of the file 'SpinningColorDiscs.cs'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/SpinningColorDiscs.cs",
                 "region": {
-                  "startLine": 7,
-                  "startColumn": 14,
-                  "endLine": 7,
-                  "endColumn": 31
+                  "startLine": 46,
+                  "startColumn": 1,
+                  "endLine": 46,
+                  "endColumn": 2
                 }
               }
             }
@@ -41,18 +41,375 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S105",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Replace all tab characters in this file by sequences of white-spaces.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/SpinningColorDiscs.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 1,
+                  "endLine": 5,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S113",
+          "level": "warning",
+          "message": "Add a new line at the end of the file 'AmmoBar.cs'.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
                 "region": {
+                  "startLine": 68,
+                  "startColumn": 1,
+                  "endLine": 68,
+                  "endColumn": 2
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S105",
+          "level": "warning",
+          "message": "Replace all tab characters in this file by sequences of white-spaces.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 1,
+                  "endLine": 5,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S113",
+          "level": "warning",
+          "message": "Add a new line at the end of the file 'Compass.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 1,
+                  "endLine": 88,
+                  "endColumn": 2
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S105",
+          "level": "warning",
+          "message": "Replace all tab characters in this file by sequences of white-spaces.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 1,
+                  "endLine": 5,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S113",
+          "level": "warning",
+          "message": "Add a new line at the end of the file 'ProceduralTree.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 1,
+                  "endLine": 76,
+                  "endColumn": 2
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S105",
+          "level": "warning",
+          "message": "Replace all tab characters in this file by sequences of white-spaces.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 1,
+                  "endLine": 6,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S105",
+          "level": "warning",
+          "message": "Replace all tab characters in this file by sequences of white-spaces.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 1,
+                  "endLine": 5,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S113",
+          "level": "warning",
+          "message": "Add a new line at the end of the file 'ChargeBar.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 1,
+                  "endLine": 103,
+                  "endColumn": 2
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S105",
+          "level": "warning",
+          "message": "Replace all tab characters in this file by sequences of white-spaces.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 1,
+                  "endLine": 5,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S113",
+          "level": "warning",
+          "message": "Add a new line at the end of the file 'IMColorPickerInteraction.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerInteraction.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 1,
+                  "endLine": 78,
+                  "endColumn": 2
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S105",
+          "level": "warning",
+          "message": "Replace all tab characters in this file by sequences of white-spaces.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerInteraction.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 1,
+                  "endLine": 5,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S113",
+          "level": "warning",
+          "message": "Add a new line at the end of the file 'Crosshair.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 1,
+                  "endLine": 51,
+                  "endColumn": 2
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S105",
+          "level": "warning",
+          "message": "Replace all tab characters in this file by sequences of white-spaces.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 1,
+                  "endLine": 5,
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S113",
+          "level": "warning",
+          "message": "Add a new line at the end of the file 'FpsController.cs'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
+                "region": {
+                  "startLine": 185,
+                  "startColumn": 1,
+                  "endLine": 185,
+                  "endColumn": 2
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S105",
+          "level": "warning",
+          "message": "Replace all tab characters in this file by sequences of white-spaces.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
+                "region": {
                   "startLine": 8,
-                  "startColumn": 14,
+                  "startColumn": 1,
                   "endLine": 8,
-                  "endColumn": 26
+                  "endColumn": 1
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'discCount' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/SpinningColorDiscs.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 31,
+                  "endLine": 18,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'discRadius' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/SpinningColorDiscs.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 34,
+                  "endLine": 19,
+                  "endColumn": 44
                 }
               }
             }
@@ -83,72 +440,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
-                "region": {
-                  "startLine": 10,
-                  "startColumn": 36,
-                  "endLine": 10,
-                  "endColumn": 51
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/SpinningColorDiscs.cs",
-                "region": {
-                  "startLine": 18,
-                  "startColumn": 31,
-                  "endLine": 18,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 35,
-                  "endLine": 11,
-                  "endColumn": 58
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'position' private.",
           "locations": [
             {
               "resultFile": {
@@ -167,9 +461,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'width' private.",
           "locations": [
             {
               "resultFile": {
@@ -178,7 +472,7 @@
                   "startLine": 8,
                   "startColumn": 16,
                   "endLine": 8,
-                  "endColumn": 26
+                  "endColumn": 21
                 }
               }
             }
@@ -188,93 +482,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
-                "region": {
-                  "startLine": 10,
-                  "startColumn": 16,
-                  "endLine": 10,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
-                "region": {
-                  "startLine": 10,
-                  "startColumn": 53,
-                  "endLine": 10,
-                  "endColumn": 78
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/SpinningColorDiscs.cs",
-                "region": {
-                  "startLine": 19,
-                  "startColumn": 34,
-                  "endLine": 19,
-                  "endColumn": 51
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
-                "region": {
-                  "startLine": 13,
-                  "startColumn": 33,
-                  "endLine": 13,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'lineThickness' private.",
           "locations": [
             {
               "resultFile": {
@@ -283,7 +493,7 @@
                   "startLine": 9,
                   "startColumn": 36,
                   "endLine": 9,
-                  "endColumn": 56
+                  "endColumn": 49
                 }
               }
             }
@@ -293,17 +503,17 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'bendRadius' private.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
                 "region": {
-                  "startLine": 12,
-                  "startColumn": 32,
-                  "endLine": 12,
+                  "startLine": 10,
+                  "startColumn": 36,
+                  "endLine": 10,
                   "endColumn": 46
                 }
               }
@@ -314,18 +524,60 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'crosshairCrossInnerRad' private.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 56,
+                  "endLine": 7,
+                  "endColumn": 78
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'crosshairCrossOuterRad' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 36,
+                  "endLine": 8,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'ticksPerQuarterTurn' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
                 "region": {
                   "startLine": 13,
-                  "startColumn": 32,
+                  "startColumn": 34,
                   "endLine": 13,
-                  "endColumn": 41
+                  "endColumn": 53
                 }
               }
             }
@@ -335,18 +587,18 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'tickSize' private.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
                 "region": {
                   "startLine": 14,
-                  "startColumn": 45,
+                  "startColumn": 35,
                   "endLine": 14,
-                  "endColumn": 71
+                  "endColumn": 43
                 }
               }
             }
@@ -356,9 +608,114 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'crosshairCrossThickness' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 36,
+                  "endLine": 9,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'crosshairHitCrossInnerRad' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 36,
+                  "endLine": 10,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'tickEdgeFadeFraction' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 34,
+                  "endLine": 15,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'crosshairHitCrossOuterRad' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 36,
+                  "endLine": 11,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'crosshairHitCrossThickness' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 36,
+                  "endLine": 12,
+                  "endColumn": 62
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'decaySpeed' private.",
           "locations": [
             {
               "resultFile": {
@@ -377,9 +734,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'magnitude' private.",
           "locations": [
             {
               "resultFile": {
@@ -398,9 +755,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'curve' private.",
           "locations": [
             {
               "resultFile": {
@@ -419,39 +776,18 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'fontSizeTickLabel' private.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
-                "region": {
-                  "startLine": 15,
-                  "startColumn": 45,
-                  "endLine": 15,
-                  "endColumn": 71
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
                 "region": {
                   "startLine": 16,
-                  "startColumn": 25,
+                  "startColumn": 40,
                   "endLine": 16,
-                  "endColumn": 74
+                  "endColumn": 57
                 }
               }
             }
@@ -461,51 +797,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
-                "region": {
-                  "startLine": 17,
-                  "startColumn": 25,
-                  "endLine": 17,
-                  "endColumn": 74
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
-                "region": {
-                  "startLine": 17,
-                  "startColumn": 35,
-                  "endLine": 17,
-                  "endColumn": 42
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'fieldOfView' private.",
           "locations": [
             {
               "resultFile": {
@@ -514,7 +808,7 @@
                   "startLine": 11,
                   "startColumn": 57,
                   "endLine": 11,
-                  "endColumn": 89
+                  "endColumn": 68
                 }
               }
             }
@@ -524,18 +818,18 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'fireDecayer' private.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
                 "region": {
-                  "startLine": 13,
-                  "startColumn": 32,
-                  "endLine": 13,
-                  "endColumn": 37
+                  "startLine": 15,
+                  "startColumn": 18,
+                  "endLine": 15,
+                  "endColumn": 29
                 }
               }
             }
@@ -545,18 +839,39 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'hitDecayer' private.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
                 "region": {
-                  "startLine": 18,
+                  "startLine": 16,
+                  "startColumn": 18,
+                  "endLine": 16,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'tickLabelOffset' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
+                "region": {
+                  "startLine": 17,
                   "startColumn": 35,
-                  "endLine": 18,
-                  "endColumn": 45
+                  "endLine": 17,
+                  "endColumn": 50
                 }
               }
             }
@@ -566,9 +881,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'picker' private.",
           "locations": [
             {
               "resultFile": {
@@ -587,9 +902,156 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'lookAngLabelOffset' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 18,
+                  "endLine": 20,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'totalBullets' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 14,
+                  "endLine": 7,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'bullets' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 14,
+                  "endLine": 8,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'triangleNootSize' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 36,
+                  "endLine": 21,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'value' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 32,
+                  "endLine": 13,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'bulletThicknessScale' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 53,
+                  "endLine": 10,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2931",
+          "level": "warning",
+          "message": "Implement 'IDisposable' in this class and use the 'Dispose' method to call 'Dispose' on 'hueStripPath'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 31,
+                  "endLine": 8,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'valueInv' private.",
           "locations": [
             {
               "resultFile": {
@@ -608,51 +1070,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
-                "region": {
-                  "startLine": 19,
-                  "startColumn": 35,
-                  "endLine": 19,
-                  "endColumn": 46
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
-                "region": {
-                  "startLine": 20,
-                  "startColumn": 18,
-                  "endLine": 20,
-                  "endColumn": 27
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 't' private.",
           "locations": [
             {
               "resultFile": {
@@ -671,143 +1091,17 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'bulletEjectScale' private.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
                 "region": {
-                  "startLine": 13,
-                  "startColumn": 34,
-                  "endLine": 13,
-                  "endColumn": 58
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
-                "region": {
-                  "startLine": 14,
-                  "startColumn": 30,
-                  "endLine": 14,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
-                "region": {
-                  "startLine": 14,
+                  "startLine": 11,
                   "startColumn": 35,
-                  "endLine": 14,
-                  "endColumn": 50
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
-                "region": {
-                  "startLine": 15,
-                  "startColumn": 30,
-                  "endLine": 15,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
-                "region": {
-                  "startLine": 16,
-                  "startColumn": 32,
-                  "endLine": 16,
-                  "endColumn": 55
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
-                "region": {
-                  "startLine": 15,
-                  "startColumn": 34,
-                  "endLine": 15,
-                  "endColumn": 61
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
-                "region": {
-                  "startLine": 17,
-                  "startColumn": 32,
-                  "endLine": 17,
+                  "endLine": 11,
                   "endColumn": 51
                 }
               }
@@ -818,60 +1112,18 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 56,
-                  "endLine": 7,
-                  "endColumn": 85
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
-                "region": {
-                  "startLine": 8,
-                  "startColumn": 36,
-                  "endLine": 8,
-                  "endColumn": 65
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'saturation' private.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
                 "region": {
-                  "startLine": 16,
-                  "startColumn": 35,
-                  "endLine": 16,
-                  "endColumn": 52
+                  "startLine": 12,
+                  "startColumn": 32,
+                  "endLine": 12,
+                  "endColumn": 42
                 }
               }
             }
@@ -881,93 +1133,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
-                "region": {
-                  "startLine": 13,
-                  "startColumn": 40,
-                  "endLine": 13,
-                  "endColumn": 64
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
-                "region": {
-                  "startLine": 16,
-                  "startColumn": 40,
-                  "endLine": 16,
-                  "endColumn": 62
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
-                "region": {
-                  "startLine": 18,
-                  "startColumn": 49,
-                  "endLine": 18,
-                  "endColumn": 85
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
-                "region": {
-                  "startLine": 19,
-                  "startColumn": 15,
-                  "endLine": 19,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'isCharging' private.",
           "locations": [
             {
               "resultFile": {
@@ -975,6 +1143,27 @@
                 "region": {
                   "startLine": 9,
                   "startColumn": 38,
+                  "endLine": 9,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3052",
+          "level": "warning",
+          "message": "Remove this initialization to 'isCharging', the compiler will do that for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 49,
                   "endLine": 9,
                   "endColumn": 56
                 }
@@ -986,17 +1175,59 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'value' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 32,
+                  "endLine": 13,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'tickColor' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 36,
+                  "endLine": 12,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'scaleFire' private.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
                 "region": {
-                  "startLine": 9,
-                  "startColumn": 36,
-                  "endLine": 9,
+                  "startLine": 14,
+                  "startColumn": 57,
+                  "endLine": 14,
                   "endColumn": 66
                 }
               }
@@ -1007,18 +1238,18 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'bulletDisappearTime' private.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
                 "region": {
-                  "startLine": 17,
-                  "startColumn": 35,
-                  "endLine": 17,
-                  "endColumn": 58
+                  "startLine": 13,
+                  "startColumn": 40,
+                  "endLine": 13,
+                  "endColumn": 59
                 }
               }
             }
@@ -1028,9 +1259,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'chargeFillGradient' private.",
           "locations": [
             {
               "resultFile": {
@@ -1049,60 +1280,18 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'lineColor' private.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 36,
-                  "endLine": 12,
-                  "endColumn": 59
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
-                "region": {
-                  "startLine": 20,
-                  "startColumn": 18,
-                  "endLine": 20,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
                 "region": {
                   "startLine": 10,
-                  "startColumn": 36,
+                  "startColumn": 16,
                   "endLine": 10,
-                  "endColumn": 68
+                  "endColumn": 25
                 }
               }
             }
@@ -1112,9 +1301,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'tickSizeSmol' private.",
           "locations": [
             {
               "resultFile": {
@@ -1123,7 +1312,7 @@
                   "startLine": 14,
                   "startColumn": 35,
                   "endLine": 14,
-                  "endColumn": 54
+                  "endColumn": 47
                 }
               }
             }
@@ -1133,18 +1322,18 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'bulletEjectAngSpeed' private.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
                 "region": {
-                  "startLine": 21,
-                  "startColumn": 36,
-                  "endLine": 21,
-                  "endColumn": 59
+                  "startLine": 14,
+                  "startColumn": 45,
+                  "endLine": 14,
+                  "endColumn": 64
                 }
               }
             }
@@ -1154,9 +1343,30 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'hueStripThickness' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 35,
+                  "endLine": 16,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'tickSizeLorge' private.",
           "locations": [
             {
               "resultFile": {
@@ -1165,48 +1375,6 @@
                   "startLine": 15,
                   "startColumn": 35,
                   "endLine": 15,
-                  "endColumn": 55
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 36,
-                  "endLine": 11,
-                  "endColumn": 68
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
-                "region": {
-                  "startLine": 16,
-                  "startColumn": 36,
-                  "endLine": 16,
                   "endColumn": 48
                 }
               }
@@ -1217,114 +1385,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 36,
-                  "endLine": 12,
-                  "endColumn": 69
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
-                "region": {
-                  "startLine": 17,
-                  "startColumn": 35,
-                  "endLine": 17,
-                  "endColumn": 50
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
-                "region": {
-                  "startLine": 14,
-                  "startColumn": 57,
-                  "endLine": 14,
-                  "endColumn": 73
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
-                "region": {
-                  "startLine": 15,
-                  "startColumn": 18,
-                  "endLine": 15,
-                  "endColumn": 45
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Crosshair.cs",
-                "region": {
-                  "startLine": 16,
-                  "startColumn": 18,
-                  "endLine": 16,
-                  "endColumn": 44
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'head' private.",
           "locations": [
             {
               "resultFile": {
@@ -1343,9 +1406,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'cam' private.",
           "locations": [
             {
               "resultFile": {
@@ -1364,30 +1427,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
-                "region": {
-                  "startLine": 18,
-                  "startColumn": 35,
-                  "endLine": 18,
-                  "endColumn": 55
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'crosshair' private.",
           "locations": [
             {
               "resultFile": {
@@ -1406,9 +1448,30 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'lineCount' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 33,
+                  "endLine": 13,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'chargeBar' private.",
           "locations": [
             {
               "resultFile": {
@@ -1427,9 +1490,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'ammoBar' private.",
           "locations": [
             {
               "resultFile": {
@@ -1448,9 +1511,30 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'ejectRotSpeedVariance' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 45,
+                  "endLine": 15,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'compass' private.",
           "locations": [
             {
               "resultFile": {
@@ -1469,9 +1553,30 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'bulletEjectX' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 25,
+                  "endLine": 16,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'crosshairTransform' private.",
           "locations": [
             {
               "resultFile": {
@@ -1490,18 +1595,18 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'bulletEjectY' private.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
                 "region": {
-                  "startLine": 20,
-                  "startColumn": 35,
-                  "endLine": 20,
-                  "endColumn": 59
+                  "startLine": 17,
+                  "startColumn": 25,
+                  "endLine": 17,
+                  "endColumn": 37
                 }
               }
             }
@@ -1511,18 +1616,18 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'tickTickness' private.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
                 "region": {
-                  "startLine": 19,
-                  "startColumn": 35,
-                  "endLine": 19,
-                  "endColumn": 60
+                  "startLine": 16,
+                  "startColumn": 36,
+                  "endLine": 16,
+                  "endColumn": 48
                 }
               }
             }
@@ -1532,9 +1637,114 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'outline' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 35,
+                  "endLine": 17,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'branchesMin' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 30,
+                  "endLine": 14,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'fontSize' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 35,
+                  "endLine": 17,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'quadMargin' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 35,
+                  "endLine": 18,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'branchesMax' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 30,
+                  "endLine": 15,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'moveSpeed' private.",
           "locations": [
             {
               "resultFile": {
@@ -1543,7 +1753,7 @@
                   "startLine": 40,
                   "startColumn": 16,
                   "endLine": 40,
-                  "endColumn": 30
+                  "endColumn": 25
                 }
               }
             }
@@ -1553,9 +1763,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'lookSensitivity' private.",
           "locations": [
             {
               "resultFile": {
@@ -1564,7 +1774,7 @@
                   "startLine": 41,
                   "startColumn": 16,
                   "endLine": 41,
-                  "endColumn": 36
+                  "endColumn": 31
                 }
               }
             }
@@ -1574,9 +1784,240 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'branchLengthMin' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 32,
+                  "endLine": 16,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'fontSizeLorge' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 35,
+                  "endLine": 18,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'hueDotScale' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 35,
+                  "endLine": 19,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'labelSize' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 18,
+                  "endLine": 20,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'branchLengthMax' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 32,
+                  "endLine": 17,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'percentLabelOffset' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 35,
+                  "endLine": 19,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'fontGrowRangePrev' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 35,
+                  "endLine": 20,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'use3D' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 15,
+                  "endLine": 19,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3052",
+          "level": "warning",
+          "message": "Remove this initialization to 'use3D', the compiler will do that for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 21,
+                  "endLine": 19,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'maxAngDeviation' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 49,
+                  "endLine": 18,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3052",
+          "level": "warning",
+          "message": "Remove this initialization to 'currentLineCount', the compiler will do that for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 24,
+                  "endLine": 44,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'fontGrowRangeNext' private.",
           "locations": [
             {
               "resultFile": {
@@ -1585,6 +2026,27 @@
                   "startLine": 21,
                   "startColumn": 35,
                   "endLine": 21,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'ammoBarOutlineThickness' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 36,
+                  "endLine": 48,
                   "endColumn": 59
                 }
               }
@@ -1595,9 +2057,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'chargeFillCurve' private.",
           "locations": [
             {
               "resultFile": {
@@ -1616,93 +2078,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
-                "region": {
-                  "startLine": 27,
-                  "startColumn": 16,
-                  "endLine": 27,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
-                "region": {
-                  "startLine": 26,
-                  "startColumn": 36,
-                  "endLine": 26,
-                  "endColumn": 63
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
-                "region": {
-                  "startLine": 25,
-                  "startColumn": 25,
-                  "endLine": 25,
-                  "endColumn": 87
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
-                "region": {
-                  "startLine": 48,
-                  "startColumn": 36,
-                  "endLine": 48,
-                  "endColumn": 66
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'ammoBarThickness' private.",
           "locations": [
             {
               "resultFile": {
@@ -1721,9 +2099,30 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'animChargeShakeMagnitude' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 25,
+                  "endLine": 25,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'ammoBarRadius' private.",
           "locations": [
             {
               "resultFile": {
@@ -1742,9 +2141,30 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'chargeShakeMagnitude' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 36,
+                  "endLine": 26,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'fireSidebarRadiusPunchAmount' private.",
           "locations": [
             {
               "resultFile": {
@@ -1753,7 +2173,7 @@
                   "startLine": 52,
                   "startColumn": 60,
                   "endLine": 52,
-                  "endColumn": 95
+                  "endColumn": 88
                 }
               }
             }
@@ -1763,9 +2183,30 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'chargeShakeSpeed' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 16,
+                  "endLine": 27,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'shakeAnimX' private.",
           "locations": [
             {
               "resultFile": {
@@ -1774,7 +2215,7 @@
                   "startLine": 53,
                   "startColumn": 25,
                   "endLine": 53,
-                  "endColumn": 72
+                  "endColumn": 35
                 }
               }
             }
@@ -1784,9 +2225,9 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Make 'shakeAnimY' private.",
           "locations": [
             {
               "resultFile": {
@@ -1795,7 +2236,175 @@
                   "startLine": 54,
                   "startColumn": 25,
                   "endLine": 54,
-                  "endColumn": 72
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'hue' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 32,
+                  "endLine": 11,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'smoof' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 66,
+                  "endLine": 39,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'seed' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 39,
+                  "endLine": 12,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'lineThickness' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 61,
+                  "endLine": 9,
+                  "endColumn": 74
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'ammoBarAngularSpanRad' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 78,
+                  "endLine": 47,
+                  "endColumn": 99
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3052",
+          "level": "warning",
+          "message": "Remove this initialization to 'seed', the compiler will do that for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 44,
+                  "endLine": 12,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3052",
+          "level": "warning",
+          "message": "Remove this initialization to 'hue', the compiler will do that for you.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 36,
+                  "endLine": 11,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'fontSizeLookLabel' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 68,
+                  "endLine": 19,
+                  "endColumn": 85
                 }
               }
             }
@@ -1826,123 +2435,18 @@
           }
         },
         {
-          "ruleId": "S1104",
+          "ruleId": "S126",
           "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
+          "message": "Add the missing 'else' clause with either the appropriate action or a suitable comment as to why no action is taken.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerInteraction.cs",
                 "region": {
-                  "startLine": 12,
-                  "startColumn": 39,
-                  "endLine": 12,
-                  "endColumn": 47
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ProceduralTree.cs",
-                "region": {
-                  "startLine": 9,
-                  "startColumn": 61,
-                  "endLine": 9,
-                  "endColumn": 81
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/IMColorPickerRenderer.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 32,
-                  "endLine": 11,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 66,
-                  "endLine": 39,
-                  "endColumn": 79
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
-                "region": {
-                  "startLine": 47,
-                  "startColumn": 78,
-                  "endLine": 47,
-                  "endColumn": 99
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1104",
-          "level": "warning",
-          "message": "Make this field 'private' and encapsulate it in a 'public' property.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/Compass.cs",
-                "region": {
-                  "startLine": 19,
-                  "startColumn": 68,
-                  "endLine": 19,
-                  "endColumn": 90
+                  "startLine": 56,
+                  "startColumn": 4,
+                  "endLine": 56,
+                  "endColumn": 11
                 }
               }
             }
@@ -1994,6 +2498,27 @@
           }
         },
         {
+          "ruleId": "S3900",
+          "level": "warning",
+          "message": "Refactor this method to add validation of parameter 'fpsController' before using it.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/AmmoBar.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 25,
+                  "endLine": 32,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S1125",
           "level": "warning",
           "message": "Remove the unnecessary Boolean literal(s).",
@@ -2015,148 +2540,45 @@
           }
         },
         {
-          "ruleId": "S3776",
+          "ruleId": "S126",
           "level": "warning",
-          "message": "Refactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.",
+          "message": "Add the missing 'else' clause with either the appropriate action or a suitable comment as to why no action is taken.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
                 "region": {
-                  "startLine": 134,
-                  "startColumn": 8,
-                  "endLine": 134,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
-                "region": {
-                  "startLine": 135,
-                  "startColumn": 4,
-                  "endLine": 135,
-                  "endColumn": 6
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
-                "region": {
-                  "startLine": 141,
-                  "startColumn": 4,
-                  "endLine": 141,
-                  "endColumn": 6
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
-                "region": {
-                  "startLine": 150,
-                  "startColumn": 5,
-                  "endLine": 150,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
-                "region": {
-                  "startLine": 154,
-                  "startColumn": 5,
-                  "endLine": 154,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
-                "region": {
-                  "startLine": 154,
-                  "startColumn": 39,
-                  "endLine": 154,
-                  "endColumn": 41
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
-                "region": {
-                  "startLine": 159,
-                  "startColumn": 6,
-                  "endLine": 159,
-                  "endColumn": 8
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
-                "region": {
-                  "startLine": 159,
-                  "startColumn": 53,
-                  "endLine": 159,
-                  "endColumn": 55
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
-                "region": {
-                  "startLine": 167,
-                  "startColumn": 6,
-                  "endLine": 167,
-                  "endColumn": 8
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
-                "region": {
-                  "startLine": 177,
-                  "startColumn": 5,
-                  "endLine": 177,
-                  "endColumn": 7
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/FpsController.cs",
-                "region": {
                   "startLine": 179,
                   "startColumn": 6,
                   "endLine": 179,
-                  "endColumn": 10
+                  "endColumn": 13
                 }
               }
             }
           ],
           "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": "+1",
-              "1": "+1",
-              "2": "+2 (incl 1 for nesting)",
-              "3": "+2 (incl 1 for nesting)",
-              "4": "+1",
-              "5": "+3 (incl 2 for nesting)",
-              "6": "+1",
-              "7": "+3 (incl 2 for nesting)",
-              "8": "+2 (incl 1 for nesting)",
-              "9": "+1"
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3900",
+          "level": "warning",
+          "message": "Refactor this method to add validation of parameter 'fpsController' before using it.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Shapes/Samples/Assets/Scripts/ChargeBar.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 25,
+                  "endLine": 40,
+                  "endColumn": 38
+                }
+              }
             }
+          ],
+          "properties": {
+            "warningLevel": 1
           }
         },
         {
@@ -2166,22 +2588,38 @@
           "properties": {
             "warningLevel": 1
           }
+        },
+        {
+          "ruleId": "S3990",
+          "level": "warning",
+          "message": "Provide a 'CLSCompliant' attribute for assembly 'ShapesSamples'.",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3992",
+          "level": "warning",
+          "message": "Provide a 'ComVisible' attribute for assembly 'ShapesSamples'.",
+          "properties": {
+            "warningLevel": 1
+          }
         }
       ],
       "rules": {
-        "S1104": {
-          "id": "S1104",
-          "shortDescription": "Fields should not have public accessibility",
-          "fullDescription": "Public fields in public classes do not respect the encapsulation principle and have three main disadvantages:",
+        "S105": {
+          "id": "S105",
+          "shortDescription": "Tabulation characters should not be used",
+          "fullDescription": "The tab width can differ from one development environment to another. Using tabs may require other developers to configure their environment (text editor, preferences, etc.) to read source code.",
           "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1104",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-105",
           "properties": {
             "category": "Minor Code Smell",
-            "isEnabledByDefault": true,
+            "isEnabledByDefault": false,
             "tags": [
               "C#",
               "MainSourceScope",
-              "SonarWay"
+              "TestSourceScope"
             ]
           }
         },
@@ -2202,6 +2640,38 @@
             ]
           }
         },
+        "S113": {
+          "id": "S113",
+          "shortDescription": "Files should end with a newline",
+          "fullDescription": "Some tools work better when files end with an empty line.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-113",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S126": {
+          "id": "S126",
+          "shortDescription": "\"if ... else if\" constructs should end with \"else\" clauses",
+          "fullDescription": "This rule applies whenever an if statement is followed by one or more else if statements; the final else if should be followed by an else statement.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-126",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
         "S2190": {
           "id": "S2190",
           "shortDescription": "Loops and recursions should not be infinite",
@@ -2216,6 +2686,37 @@
               "MainSourceScope",
               "TestSourceScope",
               "SonarWay"
+            ]
+          }
+        },
+        "S2357": {
+          "id": "S2357",
+          "shortDescription": "Fields should be private",
+          "fullDescription": "Fields should not be part of an API, and therefore should always be private. Indeed, they cannot be added to an interface for instance, and validation cannot be added later on without breaking backward compatibility. Instead, developers should encapsulate their fields into properties. Explicit property getters and setters can be introduced for validation purposes or to smooth the transition to a newer system.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2357",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S2931": {
+          "id": "S2931",
+          "shortDescription": "Classes with \"IDisposable\" members should implement \"IDisposable\"",
+          "fullDescription": "An IDisposable object should be disposed (there are some rare exceptions where not disposing is fine, most notably Task). If a class has an IDisposable field, there can be two situations:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2931",
+          "properties": {
+            "category": "Blocker Bug",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope"
             ]
           }
         },
@@ -2236,20 +2737,35 @@
             ]
           }
         },
-        "S3776": {
-          "id": "S3776",
-          "shortDescription": "Cognitive Complexity of methods should not be too high",
-          "fullDescription": "This rule raises an issue when the code cognitive complexity of a function is above a certain threshold.",
+        "S3052": {
+          "id": "S3052",
+          "shortDescription": "Members should not be initialized to default values",
+          "fullDescription": "The compiler automatically initializes class fields, auto-properties and events to their default values before setting them with any initialization values, so there is no need to explicitly set a member to its default value. Further, under the logic that cleaner code is better code, it’s considered poor style to do so.",
           "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3052",
           "properties": {
-            "category": "Critical Code Smell",
+            "category": "Minor Code Smell",
             "isEnabledByDefault": false,
             "tags": [
               "C#",
               "MainSourceScope",
-              "TestSourceScope",
-              "SonarWay"
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3900": {
+          "id": "S3900",
+          "shortDescription": "Arguments of public methods should be validated against null",
+          "fullDescription": "Methods declared as public, protected, or protected internal can be accessed from other assemblies, which means you should validate parameters to be within the expected constraints. In general, checking against null is recommended in defensive programming.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3900",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope"
             ]
           }
         },
@@ -2266,6 +2782,38 @@
               "C#",
               "MainSourceScope",
               "SonarWay"
+            ]
+          }
+        },
+        "S3990": {
+          "id": "S3990",
+          "shortDescription": "Assemblies should be marked as CLS compliant",
+          "fullDescription": "Assemblies should conform with the Common Language Specification (CLS) in order to be usable across programming languages. To be compliant an assembly has to indicate it with System.CLSCompliantAttribute.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3990",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3992": {
+          "id": "S3992",
+          "shortDescription": "Assemblies should explicitly specify COM visibility",
+          "fullDescription": "Assemblies should explicitly indicate whether they are meant to be COM visible or not. If the ComVisibleAttribute is not present, the default is to make the content of the assembly visible to COM clients.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3992",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope"
             ]
           }
         },

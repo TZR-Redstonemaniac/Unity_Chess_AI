@@ -1,30 +1,28 @@
 
-Shapes.Draw.ColorMask.get†
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csT T("0*
-0T T(*
-1*þ
-1T! T(<Z
-X
-T! T(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylem
-k
-T! T(2
-%1Shapes.RenderState"__id*?=*;
+!Shapes.Disc.DashShapeModifier.get–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs? ?("0*
+0? ?(*
+1*Õ
+1?
+ ?(!^
+\
+?
+ ?(
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStylea
+_
+?
+ ?(!
+%retfloat"__id*>
+?
+ ?(!2*0
 
-%0Shapes.DrawStyle"!
-renderStateShapes.RenderStatež
-›
-T! T(<,
-%ret$UnityEngine.Rendering.ColorWriteMask"__id*[
-T! T(<O*M
-
-%1Shapes.RenderState"1
-	colorMask$UnityEngine.Rendering.ColorWriteMask*
-2*I
-2T= T(=":
-T< T(=.
-,
-%ret$UnityEngine.Rendering.ColorWriteMaskB"
-Shapes.Draw
+%0Shapes.DashStyle"
+shapeModifierfloat*
+2**
+2?" ?(""
+?! ?("
+
+%retfloatB
+Shapes.Disc

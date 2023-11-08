@@ -1,10 +1,4 @@
-Ã
-Shapes.AmmoBarUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobjectm
--GetBulletEjectPos(UnityEngine.Vector2, float)<Shapes.AmmoBar.GetBulletEjectPos(UnityEngine.Vector2, float)
-Fire()Shapes.AmmoBar.Fire()#
-Reload()Shapes.AmmoBar.Reload()!
-Awake()Shapes.AmmoBar.Awake()[
-$DrawBar(Shapes.FpsController, float)3Shapes.AmmoBar.DrawBar(Shapes.FpsController, float)%
-	AmmoBar()Shapes.AmmoBar.AmmoBar()7
-HasBulletsLeft.get!Shapes.AmmoBar.HasBulletsLeft.get7
-HasBulletsLeft.set!Shapes.AmmoBar.HasBulletsLeft.set
+ñ
+Shapes.CompassUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectS
+ DrawCompass(UnityEngine.Vector3)/Shapes.Compass.DrawCompass(UnityEngine.Vector3)%
+	Compass()Shapes.Compass.Compass()

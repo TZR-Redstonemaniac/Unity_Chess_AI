@@ -1,31 +1,23 @@
 
-Shapes.Polygon.Fill.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs‰ ‰("0*
-0
-‰ ‰(*
-1*ß
-1
-Š ‹(g
-e
+)Shapes.ColorStack.Push(UnityEngine.Color)‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\ColorStack.cs ("0*
+0 (*
+1*ã
+12 (JÎ
+Ë
+2 (J
 
-Š Š(/
-Shapes.Polygon"
-fillShapes.GradientFill"__id* 
-
-valueShapes.GradientFill`
-^
-
-‹ ‹(
-
-%0void""Shapes.Polygon.SetFillProperties()* 
-
-‹ ‹(
-Shapes.Polygon*
-2*2
-2
-Œ Œ("!
-
-Œ Œ(
-implicit return:
-valueShapes.GradientFillB
-Shapes.Polygon
+%0void"1System.Collections.Generic.ICollection<T>.Push(T)*R
+2 (8F*D
+Shapes.ColorStack"-
+colors#System.Collections.Generic.Stack<T>*,
+? (H 
+
+	prevStateUnityEngine.Color*
+2*.
+2K (K"
+J (K
+implicit return:*
+ (,
+	prevStateUnityEngine.ColorB"
+Shapes.ColorStack

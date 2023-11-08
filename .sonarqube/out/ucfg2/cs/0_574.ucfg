@@ -1,28 +1,37 @@
 
-&Shapes.Triangle.GetTriangleVertex(int)|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs7 7(""0*
-07 7(*
-1*ó
-173 7(>„
-
-73 7(>
-%0UnityEngine.Vector3"Shapes.Triangle.this[int].get*
-73 7(7
-Shapes.Triangle*
-78 7(=
-
-indexintX
-V
-73 7(>
-%retUnityEngine.Vector3"__id*'
-73 7(>
+$Shapes.Draw.GradientFillColorEnd.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÚ Ú("0*
+0
+Ú Ú(*
+1*Ø
+1
+Ú! Ú(D\
+Z
+
+Ú! Ú(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyler
+p
+
+Ú! Ú(3
+%1Shapes.GradientFill"__id*A?*=
+
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFillp
+n
+
+Ú! Ú(D:
 
-%0UnityEngine.Vector3*
-2*8
-27? 7(?")
-7> 7(?
-
-%retUnityEngine.Vector3:
-7$ 7(-
-indexintB
-Shapes.Triangle
+%1Shapes.GradientFill"
+colorEndUnityEngine.Color"__id*
+
+valueUnityEngine.Color*
+2*2
+2
+ÚE Ú(E"!
+
+ÚD Ú(E
+implicit return:
+valueUnityEngine.ColorB"
+Shapes.Draw

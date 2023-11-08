@@ -1,40 +1,35 @@
 
-Shapes.Disc.DashType.set–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs< <("0*
-0< <(*
-1*¾
-1<
- <(X^
-\
-<> <(G
-%0Shapes.DashStyle"__id*20*.
-Shapes.Disc"
-	dashStyleShapes.DashStylec
-a
-<> <(T1
-
-%0Shapes.DashStyle"
-typeShapes.DashType"__id*
-
-valueShapes.DashTypeä
-á
-<
- <(X
+Shapes.Polygon.this[int].get{
+qC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polygon.cs1 1("0*
+01 1(*
+1*¸
+11
+ 1(É
+Æ
+1
+ 1(
+%0UnityEngine.Vector2"7System.Collections.Generic.ICollection<T>.this[int].get*N
+1
+ 1(B*@
+Shapes.Polygon",
+points"System.Collections.Generic.List<T>*
+1 1(
 
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
-<
- <(
-Shapes.Disc*A
-< <(55*3
-Shapes.ShapesMaterialUtils"
-propDashTypeint*?
-<7 <(V3*1
-
-%0Shapes.DashStyle"
-typeShapes.DashType*
-2*.
-2<Y <(Y"
-<X <(Y
-implicit return:
-valueShapes.DashTypeB
-Shapes.Disc
+
+iintX
+V
+1
+ 1(
+%retUnityEngine.Vector2"__id*'
+1
+ 1(
+
+%0UnityEngine.Vector2*
+2*8
+21 1(")
+1 1(
+
+%retUnityEngine.Vector2:
+
+iintB
+Shapes.Polygon

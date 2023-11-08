@@ -1,19 +1,47 @@
 
-.Shapes.ShapeRendererFillable.FillLinearEnd.setâ
-C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRendererFillable.cs0 0("0*
-00 0(*
-1*c
-10
- 0(O
-M
-0
- 0(
-%0UnityEngine.Vector3"__id* 
-
-valueUnityEngine.Vector3*
+Shapes.Line.GetNetDashSpacing()ò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÅ Å("0*
+0
+Å Å(*
+1*»
+1
+Å Å(hÔ
+Ï
+
+Å Å(h
+%0float"KShapes.ShapeRenderer.GetNetDashSpacing(Shapes.DashStyle, bool, bool, float)*
+
+Å Å(0
+Shapes.Line*>
+
+Å2 Å(;0*.
+Shapes.Line"
+	dashStyleShapes.DashStyle*/
+
+Å= Å(C!*
+Shapes.Line"
+dashedbool*?
+
+ÅE Å([1*/
+Shapes.Line"
+matchDashSpacingToSizebool*3
+
+Å] Å(f%*#
+Shapes.Line"
+	thicknessfloat@
+>
+
+Å Å(h
+%retfloat"__id*
+
+Å Å(h
+
+%0float*
 2*.
-20 0("
-0 0(
-implicit return:
-valueUnityEngine.Vector3B 
-Shapes.ShapeRendererFillable
+2
+Åi Å(i"
+
+Åh Å(i
+
+%retfloatB
+Shapes.Line

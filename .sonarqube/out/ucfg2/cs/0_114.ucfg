@@ -1,0 +1,21 @@
+
+$Shapes.ListPool<T>.ListPool()!static
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs ("0*Œ
+0 (\Z
+( (<)
+%0#System.Collections.Generic.Stack<T>"#System.Collections.Generic.Stack<T>t
+r
+, (:
+
+%1void"+System.Collections.Generic.Stack<T>.Stack()*-+
+)
+%0#System.Collections.Generic.Stack<T>‡
+„
+! (<C
+Shapes.ListPool<T>"+
+pool#System.Collections.Generic.Stack<T>"__id*-+
+)
+%0#System.Collections.Generic.Stack<T>"
+ (
+implicit returnB"
+Shapes.ListPool<T>

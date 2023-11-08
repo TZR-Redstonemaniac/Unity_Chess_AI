@@ -1,52 +1,35 @@
 
-(Shapes.RegularPolygon.FillColorStart.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÇ Ç("0*
+&Shapes.RegularPolygon.FillColorEnd.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÊ Ê("0*
 0
-Ç Ç(*
-1*†
+Ê Ê(*
+1*þ
 1
-Ç
- Ç(Ok
+Ê
+ Ê(k
 i
 
-Ç6 Ç(:
+Ê
+ Ê(
 %0Shapes.GradientFill"__id*:8*6
 Shapes.RegularPolygon"
-fillShapes.GradientFillr
-p
+fillShapes.GradientFill{
+y
 
-Ç6 Ç(M<
+Ê
+ Ê(
+%retUnityEngine.Color"__id*J
+
+Ê
+ Ê(<*:
 
-%0Shapes.GradientFill"
-
-colorStartUnityEngine.Color"__id*
-
-valueUnityEngine.ColorŽ
-‹
-
-Ç
- Ç(O
-
-%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*'
-
-Ç
- Ç(
-Shapes.RegularPolygon*@
-
-Ç Ç(42*0
-Shapes.ShapesMaterialUtils"
-	propColorint*L
-
-Ç6 Ç(M>*<
-
-%0Shapes.GradientFill"
-
-colorStartUnityEngine.Color*
-2*2
+%0Shapes.GradientFill"
+colorEndUnityEngine.Color*
+2*:
 2
-ÇP Ç(P"!
+Ê Ê(")
 
-ÇO Ç(P
-implicit return:
-valueUnityEngine.ColorB
+Ê Ê(
+
+%retUnityEngine.ColorB
 Shapes.RegularPolygon

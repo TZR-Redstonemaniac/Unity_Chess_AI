@@ -1,13 +1,15 @@
 
-1Shapes.MpbLine3D.Shapes.IDashableMpb.dashType.get…
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs{& {()"0*ã
-0{* {(*›
-˜
-{& {(*(
-%0"System.Collections.Generic.List<T>"__id*\Z*X
-Shapes.MpbLine3D"B
-Shapes.IDashableMpb.dashType"System.Collections.Generic.List<T>"6
-{& {(**
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbLine3D
+4Shapes.MpbLine2D.Shapes.IDashableMpb.dashSpacing.set…
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs\) \(,"0*œ
+0\- \(-¡
+ž
+\) \(-[
+Shapes.MpbLine2D"E
+Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"i
+\) \(-]*[
+Shapes.MpbLine2D"E
+Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbLine2D

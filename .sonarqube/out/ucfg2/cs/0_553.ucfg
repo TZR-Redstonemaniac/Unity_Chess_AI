@@ -1,52 +1,50 @@
 
-#Shapes.Rectangle.FillColorStart.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÁ Á("0*
+!Shapes.Rectangle.FillColorEnd.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÅ Å("0*
 0
-Á Á(*
-1*ü
+Å Å(*
+1*û
 1
-Á
- Á(Of
+Å
+ Å(Pf
 d
 
-Á6 Á(:
+Å9 Å(=
 %0Shapes.GradientFill"__id*53*1
 Shapes.Rectangle"
-fillShapes.GradientFillr
-p
+fillShapes.GradientFillp
+n
 
-Á6 Á(M<
+Å9 Å(N:
 
-%0Shapes.GradientFill"
-
-colorStartUnityEngine.Color"__id*
+%0Shapes.GradientFill"
+colorEndUnityEngine.Color"__id*
 
-valueUnityEngine.Color‰
-†
+valueUnityEngine.ColorŠ
+‡
 
-Á
- Á(O
+Å
+ Å(P
 
 %1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*"
 
-Á
- Á(
-Shapes.Rectangle*@
+Å
+ Å(
+Shapes.Rectangle*C
 
-Á Á(42*0
-Shapes.ShapesMaterialUtils"
-	propColorint*L
+Å Å(75*3
+Shapes.ShapesMaterialUtils"
+propColorEndint*J
 
-Á6 Á(M>*<
+Å9 Å(N<*:
 
-%0Shapes.GradientFill"
-
-colorStartUnityEngine.Color*
+%0Shapes.GradientFill"
+colorEndUnityEngine.Color*
 2*2
 2
-ÁP Á(P"!
+ÅQ Å(Q"!
 
-ÁO Á(P
+ÅP Å(Q
 implicit return:
 valueUnityEngine.ColorB
 Shapes.Rectangle

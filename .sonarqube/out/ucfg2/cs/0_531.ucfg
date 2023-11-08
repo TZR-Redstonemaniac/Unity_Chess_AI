@@ -1,36 +1,30 @@
 
-(Shapes.RegularPolygon.FillColorStart.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÆ Æ("0*
+Shapes.Draw.SizeSpace.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs² ²("0*
 0
-Æ Æ(*
-1*€
+² ²(*
+1*ê
 1
-Æ
- Æ(k
-i
+²! ²(8\
+Z
 
-Æ
- Æ(
-%0Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFill}
-{
+²! ²(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylev
+t
 
-Æ
- Æ(
-%retUnityEngine.Color"__id*L
-
-Æ
- Æ(>*<
-
-%0Shapes.GradientFill"
-
-colorStartUnityEngine.Color*
-2*:
+²! ²(8<
+
+%0Shapes.DrawStyle""
+	sizeSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpace*
+2*2
 2
-Æ Æ(")
+²9 ²(9"!
 
-Æ Æ(
-
-%retUnityEngine.ColorB
-Shapes.RegularPolygon
+²8 ²(9
+implicit return: 
+valueShapes.ThicknessSpaceB"
+Shapes.Draw

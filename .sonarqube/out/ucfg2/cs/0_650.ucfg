@@ -1,55 +1,38 @@
 
-Shapes.ObjectPool<T>.Alloc()
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs ("0*
-0 (*
-1*º
-1 (,¢
-Ÿ
- ('	
-%0int"3System.Collections.Generic.ICollection<T>.Count.get*S
- (!G*E
-Shapes.ObjectPool<T>"+
-pool#System.Collections.Generic.Stack<T>*
-2
-3*’
-2/ (6
-/ (6
-%1T"T3
-1
-/ (6
-%2T"T.T()*
-/ (6	
-
-%1T/
--
-/ (6
-	%capture0T"__id*	
-
-%1T*
-4*â
-39 (Cœ
-™
-9 (C
-%3T"/System.Collections.Generic.ICollection<T>.Pop()*S
-9 (=G*E
-Shapes.ObjectPool<T>"+
-pool#System.Collections.Generic.Stack<T>/
--
-9 (C
-	%capture0T"__id*	
-
-%3T*
-4*O
-4 (C;
-9
- (C	
-%retT"__id*
- (C
-
-	%capture0T*
-5*&
-5D (D"
-C (D
-	
-%retTB"
-Shapes.ObjectPool<T>
+Shapes.Draw.DashSize.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs™ ™("0*
+0
+™ ™(*
+1*»
+1
+™! ™(5\
+Z
+
+™! ™(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+™! ™(0
+%1Shapes.DashStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStyle\
+Z
+
+™! ™(5
+%retfloat"__id*7
+
+™! ™(5)*'
+
+%1Shapes.DashStyle"
+sizefloat*
+2*.
+2
+™6 ™(6"
+
+™5 ™(6
+
+%retfloatB"
+Shapes.Draw

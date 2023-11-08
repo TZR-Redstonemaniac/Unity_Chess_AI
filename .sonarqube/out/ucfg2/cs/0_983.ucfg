@@ -1,38 +1,38 @@
 
-Shapes.Draw.FontSize.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csû û("0*
+Shapes.Draw.TextWrap.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs« «("0*
 0
-û û(*
-1*»
+« «(*
+1*¹
 1
-û! û(5\
+«! «(5\
 Z
 
-û! û(&
+«! «(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
 styleShapes.DrawStylei
 g
 
-û! û(0
+«! «(0
 %1Shapes.TextStyle"__id*;9*7
 
 %0Shapes.DrawStyle"
-	textStyleShapes.TextStyle\
-Z
+	textStyleShapes.TextStyleZ
+X
 
-û! û(5
-%retfloat"__id*7
+«! «(5
+%retbool"__id*6
 
-û! û(5)*'
+«! «(5(*&
 
-%1Shapes.TextStyle"
-sizefloat*
-2*.
+%1Shapes.TextStyle"
+wrapbool*
+2*-
 2
-û6 û(6"
+«6 «(6"
 
-û5 û(6
-
-%retfloatB"
+«5 «(6
+
+%retboolB"
 Shapes.Draw

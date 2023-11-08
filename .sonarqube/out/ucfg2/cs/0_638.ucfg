@@ -1,41 +1,62 @@
 
-Shapes.Line.DashSpacing.set–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csd d("0*
-0d d(*
-1*ç
-1e f(L^
+Shapes.Line.DashSpace.set–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cso o("0*
+0o o(*
+1*õ
+1p q(g^
 \
-e e(
+p6 p(?
 %0Shapes.DashStyle"__id*20*.
 Shapes.Line"
-	dashStyleShapes.DashStyleR
-P
-e e(*
+	dashStyleShapes.DashStylef
+d
+p6 p(M3
 
-%0Shapes.DashStyle"
-spacingfloat"__id*
-
-valuefloatW
-U
-f6 f(I
-%1float"Shapes.Line.GetNetDashSpacing()*
-f6 f(G
-Shapes.LineÅ
-Â
-f f(K
+%0Shapes.DashStyle"
+spaceShapes.DashSpace"__id*
+
+valueShapes.DashSpaceä
+á
+p p(Q
 
-%2void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-f f(
-Shapes.Line*D
-f f(48*6
-Shapes.ShapesMaterialUtils"
-propDashSpacingint*
-f6 f(I
+%1void"%Shapes.ShapeRenderer.SetInt(int, int)*
+p p(
+
+Shapes.Line*B
+p p(-6*4
+Shapes.ShapesMaterialUtils"
+propDashSpaceint*A
+p/ p(O5*3
+
+%0Shapes.DashStyle"
+spaceShapes.DashSpaceì
+é
+q3 q(d
+%2float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*<
+q3 q(<0*.
+Shapes.Line"
+	dashStyleShapes.DashStyle*-
+qQ q(W!*
+Shapes.Line"
+dashedbool*1
+qY q(b%*#
+Shapes.Line"
+	thicknessfloatÂ
+¿
+q q(f
+
+%3void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+q q(
+Shapes.Line*A
+q q(15*3
+Shapes.ShapesMaterialUtils"
+propDashSizeint*
+q3 q(d
 
-%1float*
+%2float*
 2*.
-2g g("
-g g(
-implicit return:
-valuefloatB
+2r r("
+r r(
+implicit return:
+valueShapes.DashSpaceB
 Shapes.Line

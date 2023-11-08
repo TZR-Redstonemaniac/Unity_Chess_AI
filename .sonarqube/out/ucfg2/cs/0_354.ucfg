@@ -1,68 +1,41 @@
 
-Shapes.Line.ColorMode.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs, ,("0*
-0, ,(*
-1*™
-1,
- ,(f?
-=
-,
- ,(
-	%capture0Shapes.Line"__id*
-Shapes.Line]
-[
-, ,(7
-	%capture1int"__id*75*3
-Shapes.ShapesMaterialUtils"
-propColorEndints
-q
-,; ,(L7
-Shapes.Line"&
-	colorModeShapes.Line.LineColorMode"__id*&$
-"
-valueShapes.Line.LineColorMode*
-2
-3*z
-2,i ,(qf
-d
-,i ,(q
-	%capture2UnityEngine.Color"__id*20*.
-Shapes.Line"
-colorEndUnityEngine.Color*
-4*€
-3,t ,(~vt
-,t ,(~
-%0UnityEngine.Color"Shapes.ShapeRenderer.Color.get*$
-,t ,(x
-Shapes.ShapeRenderer2	Color.getO
-M
-,t ,(~
-	%capture2UnityEngine.Color"__id*
-
-%0UnityEngine.Color*
-4*‡
-4	,
- ,(Ä 
-«
-	,
- ,(Ä
+Shapes.Disc.DashSpacing.setñ
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs& &("0*
+0& &(*
+1*Á
+1' ((L^
+\
+' '(
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStyleR
+P
+' '(*
+
+%0Shapes.DashStyle"
+spacingfloat"__id*
+
+valuefloatW
+U
+(6 ((I
+%1float"Shapes.Disc.GetNetDashSpacing()*
+(6 ((G
+Shapes.Disc≈
+¬
+( ((K
 
-%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*&
-,
- ,(
-
-	%capture0Shapes.Line*
-, ,(7
-
-	%capture1int*,
-,9 ,(~ 
-
-	%capture2UnityEngine.Color*
-5*2
-5
-,Å ,(Å"!
-
-,Ä ,(Å
-implicit return:$"
-valueShapes.Line.LineColorModeB
-Shapes.Line
+%2void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+( ((
+Shapes.Disc*D
+( ((48*6
+Shapes.ShapesMaterialUtils"
+propDashSpacingint*
+(6 ((I
+
+%1float*
+2*.
+2) )("
+) )(
+implicit return:
+valuefloatB
+Shapes.Disc

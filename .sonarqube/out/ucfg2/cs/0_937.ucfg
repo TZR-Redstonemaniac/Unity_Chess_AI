@@ -1,18 +1,18 @@
 
-BShapes.MpbRegularPolygon.Shapes.IDashableMpb.dashShapeModifier.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csó/ ó(2"0*¾
+6Shapes.MpbTriangle.Shapes.IDashableMpb.dashSpacing.set‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs¾) ¾(,"0*¦
 0
-ó3 ó(3±
-®
+¾- ¾(-¥
+¢
 
-ó/ ó(3i
-Shapes.MpbRegularPolygon"K
-%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"__id*/-
+¾) ¾(-]
+Shapes.MpbTriangle"E
+Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>"__id*/-
 +
-value"System.Collections.Generic.List<T>"y
+value"System.Collections.Generic.List<T>"m
 
-ó/ ó(3k*i
-Shapes.MpbRegularPolygon"K
-%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+¾) ¾(-_*]
+Shapes.MpbTriangle"E
+Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbTriangle

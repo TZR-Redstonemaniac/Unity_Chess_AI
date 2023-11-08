@@ -1,30 +1,27 @@
 
-Shapes.Rectangle.Type.set}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csO O("0*
-0O O(*
-1*Ø
-1P R(}
-{
-P P(<
-Shapes.Rectangle"&
-typeShapes.Rectangle.RectangleType"__id*+)
-'
-valueShapes.Rectangle.RectangleTypea
-_
-Q Q(
+Shapes.Triangle.Roundness.get~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs“ “("0*
+0
+“ “(*
+1*r
+1
+“
+ “(\
+Z
 
-%0void"%Shapes.ShapeRenderer.UpdateMaterial()* 
-Q Q(
-Shapes.Rectangleb
-`
-R R(
+“
+ “(
+%retfloat"__id*7
 
-%1void"&Shapes.ShapeRenderer.ApplyProperties()* 
-R R(
-Shapes.Rectangle*
+“
+ “()*'
+Shapes.Triangle"
+	roundnessfloat*
 2*.
-2S S("
-S S(
-implicit return:)'
-valueShapes.Rectangle.RectangleTypeB
-Shapes.Rectangle
+2
+“ “("
+
+“ “(
+
+%retfloatB
+Shapes.Triangle

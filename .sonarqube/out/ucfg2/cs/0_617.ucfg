@@ -1,37 +1,21 @@
 
-(Shapes.Draw.GradientFillRadialRadius.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csò ò("0*
-0
-ò ò(*
-1*Ä
-1
-ò! ò(H\
-Z
-
-ò! ò(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyler
-p
-
-ò! ò(3
-%1Shapes.GradientFill"__id*A?*=
-
-%0Shapes.DrawStyle"#
-gradientFillShapes.GradientFill\
-Z
-
-ò! ò(H2
-
-%1Shapes.GradientFill"
-radialRadiusfloat"__id*
-
-valuefloat*
-2*2
-2
-òI ò(I"!
-
-òH ò(I
-implicit return:
-valuefloatB"
-Shapes.Draw
+Shapes.Triangle.C.get|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csv v("0*
+0v v(*
+1*€
+1v
+ v(l
+j
+v
+ v(
+%retUnityEngine.Vector3"__id*;
+v
+ v(/*-
+Shapes.Triangle"
+cUnityEngine.Vector3*
+2*8
+2v v(")
+v v(
+
+%retUnityEngine.Vector3B
+Shapes.Triangle

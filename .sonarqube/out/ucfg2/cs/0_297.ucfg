@@ -1,27 +1,35 @@
 
-Shapes.Triangle.Dashed.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csæ æ("0*
+Shapes.Rectangle.DashSize.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csâ â("0*
 0
-æ æ(*
-1*m
+â â(*
+1*Ù
 1
-æ
- æ(W
-U
+â
+ â(e
+c
 
-æ
- æ(
-%retbool"__id*3
+â
+ â(
+%0Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStyle\
+Z
 
-æ
- æ(%*#
-Shapes.Triangle"
-dashedbool*
-2*-
+â
+ â(
+%retfloat"__id*7
+
+â
+ â()*'
+
+%0Shapes.DashStyle"
+sizefloat*
+2*.
 2
-æ æ("
+â â("
 
-æ æ(
-
-%retboolB
-Shapes.Triangle
+â â(
+
+%retfloatB
+Shapes.Rectangle

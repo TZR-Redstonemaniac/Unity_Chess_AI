@@ -1,33 +1,35 @@
 
-Shapes.Draw.RingDashStyle.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÔ Ô("0*
+,Shapes.Draw.RegularPolygonThicknessSpace.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs‰ ‰("0*
 0
-Ô Ô(*
-1*à
+‰ ‰(*
+1*ü
 1
-Ô
- Ô(!\
+‰
+ ‰(\
 Z
 
-Ô
- Ô(
+‰
+ ‰(
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStylel
-j
+styleShapes.DrawStyle‡
+„
 
-Ô
- Ô(!7
+‰
+ ‰(
+%retShapes.ThicknessSpace"__id*Q
+
+‰
+ ‰(C*A
 
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStyle"__id*
-
-valueShapes.DashStyle*
-2*2
+%0Shapes.DrawStyle"'
+thicknessSpaceShapes.ThicknessSpace*
+2*>
 2
-Ô" Ô(""!
+‰ ‰("-
 
-Ô! Ô("
-implicit return:
-valueShapes.DashStyleB"
+‰ ‰(
+
+%retShapes.ThicknessSpaceB"
 Shapes.Draw

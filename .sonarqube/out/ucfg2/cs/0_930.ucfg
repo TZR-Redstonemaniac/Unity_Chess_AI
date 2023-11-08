@@ -1,18 +1,38 @@
 
-5Shapes.MpbTriangle.Shapes.IDashableMpb.dashOffset.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs¹( ¹(+"0*¤
+(Shapes.Rectangle.UpdateRectPositioning()
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csŽ Ž("0*
 0
-¹, ¹(,¤
-¡
+Ž Ž(*
+1*ó
+1
+Ž" Ž(bt
+r
 
-¹( ¹(,\
-Shapes.MpbTriangle"D
-Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"l
+ŽL Ž(`
+%0UnityEngine.Vector4"%Shapes.Rectangle.GetPositioningRect()*"
 
-¹( ¹(,^*\
-Shapes.MpbTriangle"D
-Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbTriangle
+ŽL Ž(^
+Shapes.Rectangleæ
+ã
+
+Ž" Ž(b
+
+%1void"9Shapes.ShapeRenderer.SetVector4(int, UnityEngine.Vector4)*"
+
+Ž" Ž(,
+Shapes.Rectangle*?
+
+Ž. Ž(J1*/
+Shapes.ShapesMaterialUtils"
+propRectint*)
+
+ŽL Ž(`
+
+%0UnityEngine.Vector4*
+2*2
+2
+Žc Ž(c"!
+
+Žb Ž(c
+implicit returnB
+Shapes.Rectangle

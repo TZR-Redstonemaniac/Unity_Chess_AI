@@ -1,76 +1,21 @@
 
-Shapes.Line.DashSize.set–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csZ Z("0*
-0Z Z(*
-1*ð
-1[ ](^
-\
-[ [(
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStyleO
-M
-[ [('
-
-%0Shapes.DashStyle"
-sizefloat"__id*
-
-valuefloatì
-é
-\ \(I
-%1float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*<
-\ \(!0*.
-Shapes.Line"
-	dashStyleShapes.DashStyle*-
-\6 \(<!*
-Shapes.Line"
-dashedbool*1
-\> \(G%*#
-Shapes.Line"
-	thicknessfloat9
-7
-\
- \(I
-netDashSizefloat"__id*
-
-%1float*
-2
-3*°
-2^ ^(JW
-U
-^4 ^(G
-%2float"Shapes.Line.GetNetDashSpacing()*
-^4 ^(E
-Shapes.LineÂ
-¿
-^ ^(I
-
-%3void")Shapes.ShapeRenderer.SetFloat(int, float)*
-^ ^(
-Shapes.Line*D
-^ ^(28*6
-Shapes.ShapesMaterialUtils"
-propDashSpacingint*
-^4 ^(G
-
-%2float*
-3*à
-3_ _(AË
-È
-_ _(@
-
-%4void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-_ _(
-Shapes.Line*A
-_ _(15*3
-Shapes.ShapesMaterialUtils"
-propDashSizeint*"
-_3 _(>
-
-netDashSizefloat*
-4*.
-4` `("
-` `(
-implicit return:
-valuefloatB
-Shapes.Line
+"Shapes.RegularPolygon.Geometry.get‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.cs: :("0*
+0: :(*
+1*£
+1:
+ :(Ž
+‹
+:
+ :(%
+%retShapes.RegularPolygonGeometry"__id*R
+:
+ :(F*D
+Shapes.RegularPolygon")
+geometryShapes.RegularPolygonGeometry*
+2*B
+2: :("3
+: :('
+%
+%retShapes.RegularPolygonGeometryB
+Shapes.RegularPolygon

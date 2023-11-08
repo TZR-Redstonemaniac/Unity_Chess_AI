@@ -1,54 +1,28 @@
 
-$Shapes.Rectangle.FillLinearStart.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¶ ¶("0*
-0
-¶ ¶(*
-1*‚
-1
-· ¸(Tf
-d
-
-· ·(
-%0Shapes.GradientFill"__id*53*1
-Shapes.Rectangle"
-fillShapes.GradientFillw
-u
-
-· ·(?
+Shapes.Disc.ColorOuter.getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csY Y("0*
+0Y Y(*
+1*Í
+1Y
+ Y(c
+a
+Y
+ Y(
+%0UnityEngine.Color"Shapes.Disc.ColorOuterStart.get*
+Y
+ Y(
+Shapes.DiscT
+R
+Y
+ Y(
+%retUnityEngine.Color"__id*%
+Y
+ Y(
+
+%0UnityEngine.Color*
+2*6
+2Y Y("'
+Y Y(
 
-%0Shapes.GradientFill""
-linearStartUnityEngine.Vector3"__id* 
-
-valueUnityEngine.Vector3™
-–
-
-¸6 ¸(Q
-%1UnityEngine.Vector4"*Shapes.GradientFill.GetShaderStartVector()*A
-
-¸6 ¸(:3*1
-Shapes.Rectangle"
-fillShapes.GradientFillî
-ë
-
-¸ ¸(S
-
-%2void"<Shapes.ShapeRenderer.SetVector4Now(int, UnityEngine.Vector4)*"
-
-¸ ¸(
-Shapes.Rectangle*D
-
-¸ ¸(46*4
-Shapes.ShapesMaterialUtils"
-propFillStartint*)
-
-¸6 ¸(Q
-
-%1UnityEngine.Vector4*
-2*2
-2
-¹ ¹("!
-
-¹ ¹(
-implicit return:
-valueUnityEngine.Vector3B
-Shapes.Rectangle
+%retUnityEngine.ColorB
+Shapes.Disc

@@ -1,28 +1,35 @@
 
-!Shapes.Disc.DashShapeModifier.get–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs? ?("0*
-0? ?(*
-1*Õ
-1?
- ?(!^
-\
-?
- ?(
-%0Shapes.DashStyle"__id*20*.
-Shapes.Disc"
-	dashStyleShapes.DashStylea
-_
-?
- ?(!
-%retfloat"__id*>
-?
- ?(!2*0
-
-%0Shapes.DashStyle"
-shapeModifierfloat*
-2**
-2?" ?(""
-?! ?("
+Shapes.Rectangle.DashType.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs‚ ‚("0*
+0
+‚ ‚(*
+1*í
+1
+‚
+ ‚(e
+c
 
-%retfloatB
-Shapes.Disc
+‚
+ ‚(
+%0Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStylep
+n
+
+‚
+ ‚(
+%retShapes.DashType"__id*A
+
+‚
+ ‚(3*1
+
+%0Shapes.DashStyle"
+typeShapes.DashType*
+2*8
+2
+‚ ‚("'
+
+‚ ‚(
+
+%retShapes.DashTypeB
+Shapes.Rectangle

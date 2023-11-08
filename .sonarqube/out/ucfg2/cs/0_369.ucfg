@@ -1,50 +1,40 @@
 
-Shapes.Rectangle.DashOffset.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csô ô("0*
-0
-ô ô(*
-1*Â
-1
-ô
- ô(Ue
-c
-
-ô; ô(D
-%0Shapes.DashStyle"__id*75*3
-Shapes.Rectangle"
-	dashStyleShapes.DashStyleS
-Q
-
-ô; ô(S)
+Shapes.Disc.DashOffset.set–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs- -("0*
+0- -(*
+1*ª
+1-
+ -(U^
+\
+-; -(D
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStyleQ
+O
+-; -(S)
 
 %0Shapes.DashStyle"
 offsetfloat"__id*
 
-valuefloatï
-ì
+valuefloatâ
+ß
+-
+ -(U
 
-ô
- ô(U
-
-%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*"
-
-ô
- ô(
-Shapes.Rectangle*E
-
-ô ô(97*5
+%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+-
+ -(
+Shapes.Disc*C
+- -(97*5
 Shapes.ShapesMaterialUtils"
-propDashOffsetint*9
-
-ô; ô(S+*)
+propDashOffsetint*7
+-; -(S+*)
 
 %0Shapes.DashStyle"
 offsetfloat*
-2*2
-2
-ôV ô(V"!
-
-ôU ô(V
+2*.
+2-V -(V"
+-U -(V
 implicit return:
-valuefloatB
-Shapes.Rectangle
+valuefloatB
+Shapes.Disc

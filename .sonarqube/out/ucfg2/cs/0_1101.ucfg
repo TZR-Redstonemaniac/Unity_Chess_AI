@@ -1,43 +1,27 @@
 
-'Shapes.ShapeRenderer.SortingLayerID.getÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs# #("0*
-0# #(*
-1*∑
-1#
- #(B¯
-ı
-#
- #(3
-%1UnityEngine.MeshRenderer"@Shapes.ShapeRenderer.MakeSureComponentExists<T>(ref T, out bool)*$
-#
- #(!
-Shapes.ShapeRenderer*G
-## #(*;*9
-Shapes.ShapeRenderer"
-rndUnityEngine.MeshRenderer*
-#, #(1
+Shapes.Quad.ColorTop.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs√ √("0*
+0
+√ √(*
+1*É
+1
+√
+ √(m
+k
 
+√
+ √(
+%retUnityEngine.Color"__id*<
 
-%0booln
-l
-#
- #(B	
-%2int"'UnityEngine.Renderer.sortingLayerID.get*,
-#
- #(3 
-
-%1UnityEngine.MeshRenderer8
-6
-#
- #(B
-%retint"__id*
-#
- #(B
-	
-%2int*
-2*(
-2#C #(C"
-#B #(C
-
-%retintB
-Shapes.ShapeRenderer
+√
+ √(.*,
+Shapes.Quad"
+colorBUnityEngine.Color*
+2*:
+2
+√ √(")
+
+√ √(
+
+%retUnityEngine.ColorB
+Shapes.Quad

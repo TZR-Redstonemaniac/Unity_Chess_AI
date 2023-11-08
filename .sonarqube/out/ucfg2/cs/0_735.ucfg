@@ -1,43 +1,33 @@
 
-Shapes.Triangle.ColorB.set~
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs© ©("0*
-0
-© ©(*
-1*ü
-1
-©
- ©(Gf
-d
+(Shapes.RegularPolygon.ThicknessSpace.set‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.csN N("0*
+0N N(*
+1*–
+1N
+ N(^z
+x
+ND N(ZB
+Shapes.RegularPolygon"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpace…
+‚
+N
+ N(^
 
-©7 ©(E0
-Shapes.Triangle"
-colorBUnityEngine.Color"__id*
-
-valueUnityEngine.Colorý
-ú
-
-©
- ©(G
-
-%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*!
-
-©
- ©(
-Shapes.Triangle*A
-
-© ©(53*1
-Shapes.ShapesMaterialUtils"
-
-propColorBint*@
-
-©7 ©(E2*0
-Shapes.Triangle"
-colorBUnityEngine.Color*
-2*2
-2
-©H ©(H"!
-
-©G ©(H
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Triangle
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*%
+N
+ N(
+Shapes.RegularPolygon*G
+N N(;;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*P
+N= N(\D*B
+Shapes.RegularPolygon"'
+thicknessSpaceShapes.ThicknessSpace*
+2*.
+2N_ N(_"
+N^ N(_
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.RegularPolygon

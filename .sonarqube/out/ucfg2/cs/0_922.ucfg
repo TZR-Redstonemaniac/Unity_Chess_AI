@@ -1,30 +1,16 @@
 
- Shapes.Draw.PolylineGeometry.setà
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csœ œ("0*
+5Shapes.MpbTriangle.Shapes.IDashableMpb.dashOffset.getá
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csπ( π(+"0*Ì
 0
-œ œ(*
-1*ˆ
-1
-œ! œ(?\
-Z
+π, π(,°
+û
 
-œ! œ(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleÅ
-
+π( π(,(
+%0"System.Collections.Generic.List<T>"__id*`^*\
+Shapes.MpbTriangle"D
+Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>"8
 
-œ! œ(?E
-
-%0Shapes.DrawStyle"+
-polylineGeometryShapes.PolylineGeometry"__id*$"
- 
-valueShapes.PolylineGeometry*
-2*2
-2
-œ@ œ(@"!
-
-œ? œ(@
-implicit return:" 
-valueShapes.PolylineGeometryB"
-Shapes.Draw
+π( π(,*
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbTriangle

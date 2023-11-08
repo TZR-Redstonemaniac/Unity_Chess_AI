@@ -1,24 +1,24 @@
 
-Shapes.Draw.Color.get†
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csw w("0*
-0w w(*
-1*á
-1w! w(,Z
-X
-w! w(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleq
-o
-w! w(,
-%retUnityEngine.Color"__id*B
-w! w(,6*4
-
-%0Shapes.DrawStyle"
-colorUnityEngine.Color*
-2*6
-2w- w(-"'
-w, w(-
-
-%retUnityEngine.ColorB"
-Shapes.Draw
+Shapes.Disc.ColorMode.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs0 0("0*
+00 0(*
+1*æ
+11 2(s
+q
+1 1(7
+Shapes.Disc"&
+	colorModeShapes.Disc.DiscColorMode"__id*&$
+"
+valueShapes.Disc.DiscColorMode]
+[
+2 2(
+
+%0void"&Shapes.ShapeRenderer.ApplyProperties()*
+2 2(
+Shapes.Disc*
+2*.
+23 3("
+3 3(
+implicit return:$"
+valueShapes.Disc.DiscColorModeB
+Shapes.Disc

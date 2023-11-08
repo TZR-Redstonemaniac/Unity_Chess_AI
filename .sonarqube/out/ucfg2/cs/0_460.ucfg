@@ -1,30 +1,51 @@
 
-Shapes.Disc.Type.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs% %("0*
-0% %(*
-1*´
-1& ((Z
-X
-& &((
-Shapes.Disc"
-typeShapes.DiscType"__id*
-
-valueShapes.DiscType\
-Z
-' '(
+!Shapes.RegularPolygon.UseFill.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csú ú("0*
+0
+ú ú(*
+1*ã
+1
+ù û(XS
+Q
 
-%0void"%Shapes.ShapeRenderer.UpdateMaterial()*
-' '(
-Shapes.Disc]
-[
-( ((
+ù ù(*
+Shapes.RegularPolygon"
+useFillbool"__id*
 
-%1void"&Shapes.ShapeRenderer.ApplyProperties()*
-( ((
-Shapes.Disc*
-2*.
-2) )("
-) )(
-implicit return:
-valueShapes.DiscTypeB
-Shapes.Disc
+valueboolŒ
+À
+
+û1 û(U	
+%0int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*F
+
+û1 û(58*6
+Shapes.RegularPolygon"
+fillShapes.GradientFill*:
+
+ûL û(S,**
+Shapes.RegularPolygon"
+useFillboolŒ
+À
+
+û û(W
+
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*'
+
+û û(
+Shapes.RegularPolygon*C
+
+û û(/5*3
+Shapes.ShapesMaterialUtils"
+propFillTypeint*
+
+û1 û(U
+	
+%0int*
+2*2
+2
+ü ü("!
+
+ü ü(
+implicit return:
+valueboolB
+Shapes.RegularPolygon

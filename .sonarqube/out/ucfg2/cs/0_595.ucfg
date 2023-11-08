@@ -1,27 +1,27 @@
 
-Shapes.Disc.Radius.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs“ “("0*
+Shapes.Disc.AngRadiansStart.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs‡ ‡("0*
 0
-“ “(*
-1*k
+‡ ‡(*
+1*t
 1
-“
- “(U
-S
+‡
+ ‡(^
+\
 
-“
- “(
-%retfloat"__id*0
+‡
+ ‡(
+%retfloat"__id*9
 
-“
- “("* 
-Shapes.Disc"
-radiusfloat*
+‡
+ ‡(+*)
+Shapes.Disc"
+angRadiansStartfloat*
 2*.
 2
-“ “("
+‡ ‡("
 
-“ “(
+‡ ‡(
 
 %retfloatB
 Shapes.Disc

@@ -1,40 +1,42 @@
 
-)Shapes.DiscColors.Flat(UnityEngine.Color)‚
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DiscColors.cs! !("0*
-0! !(*
-1*„
-1!2 !(^86
-!2 !(^
-%0Shapes.DiscColors"Shapes.DiscColorsß
-Ü
-!2 !(^
+?Shapes.DiscColors.Angular(UnityEngine.Color, UnityEngine.Color)‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DiscColors.cs+ +(""0*
+0+ +(*
+1*€
+1+@ +(h86
++@ +(h
+%0Shapes.DiscColors"Shapes.DiscColorsÛ
+Ø
++@ +(h
 %1Shapes.DiscColors"hShapes.DiscColors.DiscColors(UnityEngine.Color, UnityEngine.Color, UnityEngine.Color, UnityEngine.Color)*%
-!2 !(^
++@ +(h
 
 %0Shapes.DiscColors*(
-!B !(G
++P +(U
 
-colorUnityEngine.Color*(
-!I !(N
+startUnityEngine.Color*(
++W +(\
 
-colorUnityEngine.Color*(
-!P !(U
-
-colorUnityEngine.Color*(
-!W !(\
-
-colorUnityEngine.ColorT
+startUnityEngine.Color*&
++^ +(a
+
+endUnityEngine.Color*&
++c +(f
+
+endUnityEngine.ColorT
 R
-!2 !(^
++@ +(h
 %retShapes.DiscColors"__id*%
-!2 !(^
++@ +(h
 
 %0Shapes.DiscColors*
 2*6
-2!_ !(_"'
-!^ !(_
+2+i +(i"'
++h +(i
 
 %retShapes.DiscColors:&
-!! !(,
-colorUnityEngine.ColorB"
++$ +(/
+startUnityEngine.Color:$
++1 +(:
+endUnityEngine.ColorB"
 Shapes.DiscColors

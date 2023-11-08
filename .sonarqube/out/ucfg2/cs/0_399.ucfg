@@ -1,50 +1,30 @@
 
-Shapes.Rectangle.DashSnap.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÿ ÿ("0*
-0
-ÿ ÿ(*
-1*â
-1
-ÿ
- ÿ(Xe
-c
-
-ÿ> ÿ(G
-%0Shapes.DashStyle"__id*75*3
-Shapes.Rectangle"
-	dashStyleShapes.DashStylem
+Shapes.Draw.ZOffsetUnits.set†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csP P("0*
+0P P(*
+1*´
+1P! P(GZ
+X
+P! P(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
 k
-
-ÿ> ÿ(T5
+P! P(2
+%1Shapes.RenderState"__id*?=*;
 
-%0Shapes.DashStyle"
-snapShapes.DashSnapping"__id* 
-
-valueShapes.DashSnappingõ
-ò
-
-ÿ
- ÿ(X
-
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*"
-
-ÿ
- ÿ(
-Shapes.Rectangle*C
-
-ÿ ÿ(55*3
-Shapes.ShapesMaterialUtils"
-propDashSnapint*E
-
-ÿ7 ÿ(V7*5
-
-%0Shapes.DashStyle"
-snapShapes.DashSnapping*
-2*2
-2
-ÿY ÿ(Y"!
-
-ÿX ÿ(Y
-implicit return:
-valueShapes.DashSnappingB
-Shapes.Rectangle
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderStateU
+S
+P! P(G/
+
+%1Shapes.RenderState"
+zOffsetUnitsint"__id*
+
+valueint*
+2*.
+2PH P(H"
+PG P(H
+implicit return:
+valueintB"
+Shapes.Draw

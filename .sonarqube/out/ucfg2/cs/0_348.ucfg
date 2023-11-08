@@ -1,51 +1,53 @@
 
-Shapes.Disc.DashSpacing.get–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs% %("0*
-0% %(*
-1*
-1%
- %( *
-2
-3*Ç
-2%# %(1^
-\
-%# %(,
-%0Shapes.DashStyle"__id*20*.
-Shapes.Disc"
-	dashStyleShapes.DashStyleS
-Q
-%# %(1
-	%capture0float"__id*+)*'
-
-%0Shapes.DashStyle"
-sizefloat*
-4*Ê
-3%4 %(E^
-\
-%4 %(=
-%1Shapes.DashStyle"__id*20*.
-Shapes.Disc"
-	dashStyleShapes.DashStyleV
-T
-%4 %(E
-	%capture0float"__id*.,**
-
-%1Shapes.DashStyle"
-spacingfloat*
-4*W
-4%
- %(EC
-A
-%
- %(E
-%retfloat"__id* 
-%
- %(E
-
-	%capture0float*
-5**
-5%F %(F"
-%E %(F
+Shapes.Triangle.DashSpacing.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csù ù("0*
+0
+ù ù(*
+1*‰
+1
+ú û(Ld
+b
 
-%retfloatB
-Shapes.Disc
+ú ú(
+%0Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyleT
+R
+
+ú ú(*
+
+%0Shapes.DashStyle"
+spacingfloat"__id*
+
+valuefloatc
+a
+
+û6 û(I
+%1float"#Shapes.Triangle.GetNetDashSpacing()*!
+
+û6 û(G
+Shapes.TriangleÑ
+Î
+
+û û(K
+
+%2void",Shapes.ShapeRenderer.SetFloatNow(int, float)*!
+
+û û(
+Shapes.Triangle*F
+
+û û(48*6
+Shapes.ShapesMaterialUtils"
+propDashSpacingint*
+
+û6 û(I
+
+%1float*
+2*2
+2
+ü ü("!
+
+ü ü(
+implicit return:
+valuefloatB
+Shapes.Triangle

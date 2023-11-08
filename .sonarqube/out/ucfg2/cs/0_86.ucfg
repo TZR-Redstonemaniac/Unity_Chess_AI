@@ -1,7 +1,24 @@
 
-$Shapes.PolylinePoint.PolylinePoint()
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\PolylinePoint.cs	 	("0*.
-0U U("
- U(
-implicit returnB
-Shapes.PolylinePoint
+.Shapes.ShapesTextPool.ImmediateModeElement.get}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesTextPool.cs ()"0*
+0 (*
+1*ú
+1- (=
+Œ
+- (=
+%0TMPro.TextMeshPro"%Shapes.ShapesTextPool.GetElement(int)*%
+- (7
+Shapes.ShapesTextPool*
+9 (;2ÿÿÿÿÿÿÿÿÿT
+R
+- (=
+%retTMPro.TextMeshPro"__id*%
+- (=
+
+%0TMPro.TextMeshPro*
+2*6
+2> (>"'
+= (>
+
+%retTMPro.TextMeshProB
+Shapes.ShapesTextPool

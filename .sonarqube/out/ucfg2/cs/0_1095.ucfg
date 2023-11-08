@@ -1,35 +1,33 @@
 
-"Shapes.Draw.RectangleShapeFill.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cså å("0*
+)Shapes.Draw.RegularPolygonRadiusSpace.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs ("0*
 0
-å å(*
-1*õ
+ (*
+1*ì
 1
-å
- å(\
+
+ (#\
 Z
 
-å
- å(
+
+ (
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStyle€
-~
+styleShapes.DrawStylex
+v
 
-å
- å(
-%retShapes.GradientFill"__id*M
-
-å
- å(?*=
+
+ (#>
 
-%0Shapes.DrawStyle"#
-gradientFillShapes.GradientFill*
-2*<
+%0Shapes.DrawStyle"$
+radiusSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpace*
+2*2
 2
-å å("+
+$ ($"!
 
-å å(
-
-%retShapes.GradientFillB"
+# ($
+implicit return: 
+valueShapes.ThicknessSpaceB"
 Shapes.Draw

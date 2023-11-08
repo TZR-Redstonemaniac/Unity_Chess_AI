@@ -1,50 +1,58 @@
 
-#Shapes.RegularPolygon.FillSpace.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csª ª("0*
+Shapes.Rectangle.FillType.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs ("0*
 0
-ª ª(*
-1*í
+ (*
+1*ù
 1
-ª
- ª(Uk
-i
+ Ÿ(Xf
+d
 
-ª? ª(C
-%0Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFillk
-i
+ (
+%0Shapes.GradientFill"__id*53*1
+Shapes.Rectangle"
+fillShapes.GradientFillh
+f
 
-ª? ª(Q6
+ (4
 
-%0Shapes.GradientFill"
-spaceShapes.FillSpace"__id*
-
-valueShapes.FillSpaceü
-ù
+%0Shapes.GradientFill"
+typeShapes.FillType"__id*
+
+valueShapes.FillTypeÄ
+Á
 
-ª
- ª(U
+Ÿ1 Ÿ(U	
+%1int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*A
 
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*'
+Ÿ1 Ÿ(53*1
+Shapes.Rectangle"
+fillShapes.GradientFill*5
 
-ª
- ª(
-Shapes.RegularPolygon*D
+ŸL Ÿ(S'*%
+Shapes.Rectangle"
+useFillboolÉ
+Æ
 
-ª ª(66*4
-Shapes.ShapesMaterialUtils"
-propFillSpaceint*F
+Ÿ Ÿ(W
 
-ª8 ª(S8*6
-
-%0Shapes.GradientFill"
-spaceShapes.FillSpace*
+%2void"(Shapes.ShapeRenderer.SetIntNow(int, int)*"
+
+Ÿ Ÿ(
+Shapes.Rectangle*C
+
+Ÿ Ÿ(/5*3
+Shapes.ShapesMaterialUtils"
+propFillTypeint*
+
+Ÿ1 Ÿ(U
+	
+%1int*
 2*2
 2
-ªV ª(V"!
+   ("!
 
-ªU ª(V
-implicit return:
-valueShapes.FillSpaceB
-Shapes.RegularPolygon
+   (
+implicit return:
+valueShapes.FillTypeB
+Shapes.Rectangle

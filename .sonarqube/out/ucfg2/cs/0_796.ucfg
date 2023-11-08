@@ -1,35 +1,42 @@
 
-Shapes.Polyline.this[int].get|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.csR R("0*
-0R R(*
-1*¼
-1R
- R(Ë
-È
-R
- R(
-%0Shapes.PolylinePoint"7System.Collections.Generic.ICollection<T>.this[int].get*O
-R
- R(C*A
-Shapes.Polyline",
-points"System.Collections.Generic.List<T>*
-R R(
+Shapes.Polyline.Geometry.set|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.cs" "("0*
+0" "(*
+1*¾
+1# &(r
+p
+# #(8
+Shapes.Polyline"#
+geometryShapes.PolylineGeometry"__id*$"
+ 
+valueShapes.PolylineGeometryð
+í
+$ $(A
 
-
-iintZ
-X
-R
- R(
-%retShapes.PolylinePoint"__id*(
-R
- R(
-
-%0Shapes.PolylinePoint*
-2*9
-2R R("*
-R R(
-
-%retShapes.PolylinePoint:
-
-iintB
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+$ $(
+Shapes.Polyline*B
+$ $(06*4
+Shapes.ShapesMaterialUtils"
+propAlignmentint*F
+$2 $(?:*8
+Shapes.Polyline"#
+geometryShapes.PolylineGeometry`
+^
+% %(
+
+%1void"%Shapes.ShapeRenderer.UpdateMaterial()*
+% %(
+Shapes.Polylinea
+_
+& &(
+
+%2void"&Shapes.ShapeRenderer.ApplyProperties()*
+& &(
+Shapes.Polyline*
+2*.
+2' '("
+' '(
+implicit return:" 
+valueShapes.PolylineGeometryB
 Shapes.Polyline

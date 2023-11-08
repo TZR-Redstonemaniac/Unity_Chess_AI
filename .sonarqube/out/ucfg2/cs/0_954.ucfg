@@ -1,18 +1,112 @@
 
-:Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSpace.setá
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csˆ' ˆ(*"0*Æ
-0
-ˆ+ ˆ(+©
-¶
+nShapes.GradientFill.Radial(UnityEngine.Vector3, float, UnityEngine.Color, UnityEngine.Color, Shapes.FillSpace)Ä
+vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.csH H(#"0*
+0H H(*
+1*«
+1I Q(<:
+I R(
+%0Shapes.GradientFill"Shapes.GradientFillt
+r
+I R(
+%1Shapes.GradientFill""Shapes.GradientFill.GradientFill()*'
+I R(
+
+%0Shapes.GradientFillS
+Q
+I R( 
+	%capture0Shapes.GradientFill"__id*
+
+%0Shapes.GradientFillW
+U
+J J(";
+ 
+	%capture0Shapes.GradientFill"
+typeShapes.FillType"__id*2p
+n
+K K(=
+ 
+	%capture0Shapes.GradientFill"
+spaceShapes.FillSpace"__id*
+
+spaceShapes.FillSpace|
+z
+L L(C
+ 
+	%capture0Shapes.GradientFill"
 
-ˆ' ˆ(+a
-Shapes.MpbRegularPolygon"C
-Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"q
+colorStartUnityEngine.Color"__id*#!
+
 
-ˆ' ˆ(+c*a
-Shapes.MpbRegularPolygon"C
-Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+colorInnerUnityEngine.Colorz
+x
+M M(A
+ 
+	%capture0Shapes.GradientFill"
+colorEndUnityEngine.Color"__id*#!
+
+
+colorOuterUnityEngine.Colorn
+l
+N N(
+%2Shapes.GradientFill"__id*?=*;
+Shapes.GradientFill""
+defaultFillShapes.GradientFill†
+ù
+N N()F
+ 
+	%capture0Shapes.GradientFill""
+linearStartUnityEngine.Vector3"__id*CA*?
+
+%2Shapes.GradientFill""
+linearStartUnityEngine.Vector3n
+l
+O O(
+%3Shapes.GradientFill"__id*?=*;
+Shapes.GradientFill""
+defaultFillShapes.GradientFillú
+ô
+O O(%D
+ 
+	%capture0Shapes.GradientFill" 
+	linearEndUnityEngine.Vector3"__id*A?*=
+
+%3Shapes.GradientFill" 
+	linearEndUnityEngine.Vector3~
+|
+P P(G
+ 
+	%capture0Shapes.GradientFill"#
+radialOriginUnityEngine.Vector3"__id*!
+
+originUnityEngine.Vector3b
+`
+Q Q(9
+ 
+	%capture0Shapes.GradientFill"
+radialRadiusfloat"__id*
+
+radiusfloat_
+]
+I R(
+%retShapes.GradientFill"__id*.
+I R("
+ 
+	%capture0Shapes.GradientFill*
+2*8
+2R R(")
+R R(
+
+%retShapes.GradientFill:)
+H% H(3
+originUnityEngine.Vector3:
+H5 H(A
+radiusfloat:+
+HC H(S
+
+colorInnerUnityEngine.Color:+
+HU H(e
+
+colorOuterUnityEngine.Color:&
+	Hg H(à
+spaceShapes.FillSpaceB"
+Shapes.GradientFill

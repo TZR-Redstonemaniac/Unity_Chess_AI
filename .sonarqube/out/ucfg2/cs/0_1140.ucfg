@@ -1,33 +1,33 @@
 
-,Shapes.Draw.RegularPolygonThicknessSpace.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csŠ Š("0*
-0
-Š Š(*
-1*ï
-1
-Š
- Š(&\
-Z
+"Shapes.ShapeRenderer.ScaleMode.set
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs> >("0*
+0> >(*
+1*õ
+1>
+ >(Tj
+h
+>? >(P7
+Shapes.ShapeRenderer"
+	scaleModeShapes.ScaleMode"__id*
+
+valueShapes.ScaleModeô
+ñ
+>
+ >(T
 
-Š
- Š(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle{
-y
-
-Š
- Š(&A
-
-%0Shapes.DrawStyle"'
-thicknessSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpace*
-2*2
-2
-Š' Š('"!
-
-Š& Š('
-implicit return: 
-valueShapes.ThicknessSpaceB"
-Shapes.Draw
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*$
+>
+ >(
+Shapes.ShapeRenderer*B
+> >(66*4
+Shapes.ShapesMaterialUtils"
+propScaleModeint*E
+>8 >(R9*7
+Shapes.ShapeRenderer"
+	scaleModeShapes.ScaleMode*
+2*.
+2>U >(U"
+>T >(U
+implicit return:
+valueShapes.ScaleModeB
+Shapes.ShapeRenderer

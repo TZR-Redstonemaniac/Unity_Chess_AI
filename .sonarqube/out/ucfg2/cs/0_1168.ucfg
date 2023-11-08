@@ -1,37 +1,18 @@
 
-'Shapes.ShapeRenderer.SortingLayerID.setÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs$ $("0*
-0$ $(*
-1*ê
-1$
- $(J¯
-ı
-$
- $(3
-%1UnityEngine.MeshRenderer"@Shapes.ShapeRenderer.MakeSureComponentExists<T>(ref T, out bool)*$
-$
- $(!
-Shapes.ShapeRenderer*G
-$# $(*;*9
-Shapes.ShapeRenderer"
-rndUnityEngine.MeshRenderer*
-$, $(1
+9Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillType.setá
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÔ& Ô()"0*¨
+0
+Ô* Ô(*®
+•
 
+Ô& Ô(*`
+Shapes.MpbRegularPolygon"B
+Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"p
 
-%0boolÄ
-~
-$
- $(J	
-%2int"'UnityEngine.Renderer.sortingLayerID.set*,
-$
- $(3 
-
-%1UnityEngine.MeshRenderer*
-
-valueint*
-2*.
-2$K $(K"
-$J $(K
-implicit return:
-valueintB
-Shapes.ShapeRenderer
+Ô& Ô(*b*`
+Shapes.MpbRegularPolygon"B
+Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

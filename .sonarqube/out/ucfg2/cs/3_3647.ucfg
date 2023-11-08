@@ -1,18 +1,56 @@
 
-Layer.GetBiases()n
-dC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Neural Network\Layer.cs2 2("0*
-02 2(*
-1*e
-13 3(Q
-O
-3 3(
-%retdouble[]"__id*+
-3 3(*
-Layer"
-biasesdouble[]*
-2*-
-24 4("
-4 4(
-
-%retdouble[]B	
-Layer
+PSystem.Collections.Generic.ICollection<T>.SetValue(TValueStorage[], int, TValue)á
+}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.csy y(!"0*
+0y y(*
+1*«
+1{ |(0.
+{ {("
+%0TValueStorage"TValueStoragec
+a
+{ {("
+%1TValueStorage"TValueStorage.TValueStorage()*!
+{ {("
+
+%0TValueStorage´
+®
+{ {("
+%2TValueStorage",System.Array.SetValue(object?, params int[])*(
+{ {(
+
+storageTValueStorage[]*
+
+%0TValueStorage*
+{
+ {(
+
+
+iintù
+ö
+| |(
+%3TValueStorage"7System.Collections.Generic.ICollection<T>.this[int].get*(
+| |(	
+
+storageTValueStorage[]*
+|
+ |(
+
+
+iintN
+L
+| |(%
+
+%3TValueStorage"
+dataTValue"__id*
+
+valueTValue*
+2*.
+2} }("
+} }(
+implicit return:&
+y" y(9
+storageTValueStorage[]:
+y; y(@
+iint:
+yB y(N
+valueTValueB75
+3SerializableDictionary<TKey, TValue, TValueStorage>

@@ -1,16 +1,38 @@
 
-3Shapes.MpbTriangle.Shapes.IDashableMpb.dashSize.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs»& »()"0*ë
+Shapes.Draw.Font.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csõ õ("0*
 0
-»* »(*Ÿ
-œ
+õ õ(*
+1*×
+1
+õ! õ(5\
+Z
 
-»& »(*(
-%0"System.Collections.Generic.List<T>"__id*^\*Z
-Shapes.MpbTriangle"B
-Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>"8
+õ! õ(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-»& »(**
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbTriangle
+õ! õ(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStylex
+v
+
+õ! õ(5
+%retTMPro.TMP_FontAsset"__id*E
+
+õ! õ(57*5
+
+%1Shapes.TextStyle"
+fontTMPro.TMP_FontAsset*
+2*<
+2
+õ6 õ(6"+
+
+õ5 õ(6
+
+%retTMPro.TMP_FontAssetB"
+Shapes.Draw

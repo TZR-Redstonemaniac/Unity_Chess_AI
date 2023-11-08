@@ -1,37 +1,35 @@
 
-Shapes.Draw.TextWrap.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¬ ¬("0*
+'Shapes.Draw.RegularPolygonShapeFill.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csß ß("0*
 0
-¬ ¬(*
-1*®
+ß ß(*
+1*õ
 1
-¬! ¬(=\
+ß
+ ß(\
 Z
 
-¬! ¬(&
+ß
+ ß(
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStylei
-g
+styleShapes.DrawStyle€
+~
 
-¬! ¬(0
-%1Shapes.TextStyle"__id*;9*7
+ß
+ ß(
+%retShapes.GradientFill"__id*M
+
+ß
+ ß(?*=
 
-%0Shapes.DrawStyle"
-	textStyleShapes.TextStyleO
-M
-
-¬! ¬(=&
-
-%1Shapes.TextStyle"
-wrapbool"__id*
-
-valuebool*
-2*2
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFill*
+2*<
 2
-¬> ¬(>"!
+ß ß("+
 
-¬= ¬(>
-implicit return:
-valueboolB"
+ß ß(
+
+%retShapes.GradientFillB"
 Shapes.Draw

@@ -1,27 +1,27 @@
 
-!Shapes.RegularPolygon.UseFill.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs› ›("0*
+Shapes.Rectangle.Fill.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csŽ Ž("0*
 0
-› ›(*
-1*t
+Ž Ž(*
+1*Š
 1
-›
- ›(^
-\
+Ž
+ Ž(t
+r
 
-›
- ›(
-%retbool"__id*:
+Ž
+ Ž(
+%retShapes.GradientFill"__id*A
 
-›
- ›(,**
-Shapes.RegularPolygon"
-useFillbool*
-2*-
+Ž
+ Ž(3*1
+Shapes.Rectangle"
+fillShapes.GradientFill*
+2*<
 2
-› ›("
+Ž Ž("+
 
-› ›(
-
-%retboolB
-Shapes.RegularPolygon
+Ž Ž(
+
+%retShapes.GradientFillB
+Shapes.Rectangle

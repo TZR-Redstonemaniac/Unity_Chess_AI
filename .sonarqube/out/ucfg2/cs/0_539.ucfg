@@ -1,50 +1,36 @@
 
-"Shapes.Rectangle.FillLinearEnd.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs½ ½("0*
+#Shapes.Rectangle.FillColorStart.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÀ À("0*
 0
-½ ½(*
-1*†
+À À(*
+1*û
 1
-½
- ½(Rf
+À
+ À(f
 d
 
-½: ½(>
+À
+ À(
 %0Shapes.GradientFill"__id*53*1
 Shapes.Rectangle"
-fillShapes.GradientFillu
-s
+fillShapes.GradientFill}
+{
 
-½: ½(P=
+À
+ À(
+%retUnityEngine.Color"__id*L
+
+À
+ À(>*<
 
-%0Shapes.GradientFill" 
-	linearEndUnityEngine.Vector3"__id* 
-
-valueUnityEngine.Vector3
-
+%0Shapes.GradientFill"
 
-½
- ½(R
-
-%1void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*"
-
-½
- ½(
-Shapes.Rectangle*B
-
-½ ½(84*2
-Shapes.ShapesMaterialUtils"
-propFillEndint*M
-
-½: ½(P?*=
-
-%0Shapes.GradientFill" 
-	linearEndUnityEngine.Vector3*
-2*2
+colorStartUnityEngine.Color*
+2*:
 2
-½S ½(S"!
+À À(")
 
-½R ½(S
-implicit return:
-valueUnityEngine.Vector3B
+À À(
+
+%retUnityEngine.ColorB
 Shapes.Rectangle

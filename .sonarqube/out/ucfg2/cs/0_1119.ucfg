@@ -1,23 +1,21 @@
 
-(Shapes.StyleStack.Push(Shapes.DrawStyle)Ç
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\StyleStack.cs ("0*
-0 (*
-1*‚
-16 (NÕ
- 
-6 (N
-
-%0void"1System.Collections.Generic.ICollection<T>.Push(T)*R
-6 (<F*D
-Shapes.StyleStack"-
-styles#System.Collections.Generic.Stack<T>*+
-C (L
-
-	prevStateShapes.DrawStyle*
-2*.
-2O (O"
-N (O
-implicit return:)
- (0
-	prevStateShapes.DrawStyleB"
-Shapes.StyleStack
+"Shapes.ShapeRenderer.BlendMode.getÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs4 4("0*
+04 4(*
+1*ì
+14
+ 4(
+}
+4
+ 4(
+%retShapes.ShapesBlendMode"__id*K
+4
+ 4(?*=
+Shapes.ShapeRenderer"#
+	blendModeShapes.ShapesBlendMode*
+2*;
+24 4(",
+4 4( 
+
+%retShapes.ShapesBlendModeB
+Shapes.ShapeRenderer

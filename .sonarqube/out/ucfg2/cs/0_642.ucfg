@@ -1,24 +1,36 @@
 
-Shapes.Rectangle.Width.set}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.cs; ;("0*
-0; ;(*
-1*É
-1< =(L
-J
-< <($
-Shapes.Rectangle"
-widthfloat"__id*
-
-valuefloatg
-e
-= =(
+Shapes.Disc.RadiusInner.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs   ("0*
+0
+   (*
+1*­
+1
+ 
+  (U
+S
 
-%0void"+Shapes.Rectangle.UpdateRectPositioningNow()* 
-= =(
-Shapes.Rectangle*
+ 
+  (
+%0float"Shapes.Disc.Thickness.get*
+
+ 
+  (
+Shapes.Disc@
+>
+
+ 
+  (
+%retfloat"__id*
+
+ 
+  (
+
+%0float*
 2*.
-2> >("
-> >(
-implicit return:
-valuefloatB
-Shapes.Rectangle
+2
+   ("
+
+   (
+
+%retfloatB
+Shapes.Disc

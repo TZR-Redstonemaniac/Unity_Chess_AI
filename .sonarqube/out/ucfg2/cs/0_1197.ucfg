@@ -1,27 +1,16 @@
 
-Shapes.Quad.ColorBottom.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csÓ Ó("0*
+9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSize.get‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csô& ô()"0*ñ
 0
-Ó Ó(*
-1*ƒ
-1
-Ó
- Ó(m
-k
+ô* ô(*¥
+¢
 
-Ó
- Ó(
-%retUnityEngine.Color"__id*<
+ô& ô(*(
+%0"System.Collections.Generic.List<T>"__id*db*`
+Shapes.MpbRegularPolygon"B
+Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>"8
 
-Ó
- Ó(.*,
-Shapes.Quad"
-colorDUnityEngine.Color*
-2*:
-2
-Ó Ó(")
-
-Ó Ó(
-
-%retUnityEngine.ColorB
-Shapes.Quad
+ô& ô(**
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

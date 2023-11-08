@@ -1,35 +1,63 @@
 
-,Shapes.Draw.RegularPolygonThicknessSpace.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs‰ ‰("0*
+Shapes.Quad.ColorBottom.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csÔ Ô("0*
 0
-‰ ‰(*
-1*ü
+Ô Ô(*
+1*Æ
 1
-‰
- ‰(\
-Z
+Õ Ö(@b
+`
 
-‰
- ‰(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle‡
-„
+Õ. Õ(<,
+Shapes.Quad"
+colorDUnityEngine.Color"__id*
+
+valueUnityEngine.Colorò
+ï
 
-‰
- ‰(
-%retShapes.ThicknessSpace"__id*Q
+Õ Õ(>
 
-‰
- ‰(C*A
-
-%0Shapes.DrawStyle"'
-thicknessSpaceShapes.ThicknessSpace*
-2*>
+%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+Õ Õ(
+Shapes.Quad*A
+
+Õ Õ(,3*1
+Shapes.ShapesMaterialUtils"
+
+propColorDint*<
+
+Õ. Õ(<.*,
+Shapes.Quad"
+colorDUnityEngine.Colora
+_
+
+Ö0 Ö(=+
+Shapes.Quad"
+colorUnityEngine.Color"__id*
+
+valueUnityEngine.Coloró
+ð
+
+Ö Ö(?
+
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+
+Ö Ö(
+Shapes.Quad*@
+
+Ö Ö(.2*0
+Shapes.ShapesMaterialUtils"
+	propColorint*;
+
+Ö0 Ö(=-*+
+Shapes.Quad"
+colorUnityEngine.Color*
+2*2
 2
-‰ ‰("-
+× ×("!
 
-‰ ‰(
-
-%retShapes.ThicknessSpaceB"
-Shapes.Draw
+× ×(
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Quad

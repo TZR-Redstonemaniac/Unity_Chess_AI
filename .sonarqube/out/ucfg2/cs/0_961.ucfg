@@ -1,31 +1,28 @@
 
-'Shapes.Draw.RegularPolygonSideCount.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csà à("0*
-0
-à à(*
-1*ß
-1
-à! à(>\
-Z
-
-à! à(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylek
-i
-
-à! à(>
-%retint"__id*H
-
-à! à(>:*8
-
-%0Shapes.DrawStyle"
-regularPolygonSideCountint*
-2*,
-2
-à? à(?"
-
-à> à(?
-
-%retintB"
-Shapes.Draw
+Shapes.Quad.GetQuadVertex(int)x
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs@ @("0*
+0@ @(*
+1*é
+1@/ @(:{
+y
+@/ @(:
+%0UnityEngine.Vector3"Shapes.Quad.this[int].get*
+@/ @(3
+Shapes.Quad*
+@4 @(9
+
+indexintX
+V
+@/ @(:
+%retUnityEngine.Vector3"__id*'
+@/ @(:
+
+%0UnityEngine.Vector3*
+2*8
+2@; @(;")
+@: @(;
+
+%retUnityEngine.Vector3:
+@  @()
+indexintB
+Shapes.Quad

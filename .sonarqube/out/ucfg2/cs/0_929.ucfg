@@ -1,16 +1,38 @@
 
-5Shapes.MpbTriangle.Shapes.IDashableMpb.dashOffset.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs¹( ¹(+"0*í
+Shapes.Draw.FontSize.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csû û("0*
 0
-¹, ¹(,¡
-ž
+û û(*
+1*»
+1
+û! û(5\
+Z
 
-¹( ¹(,(
-%0"System.Collections.Generic.List<T>"__id*`^*\
-Shapes.MpbTriangle"D
-Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>"8
+û! û(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-¹( ¹(,*
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbTriangle
+û! û(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyle\
+Z
+
+û! û(5
+%retfloat"__id*7
+
+û! û(5)*'
+
+%1Shapes.TextStyle"
+sizefloat*
+2*.
+2
+û6 û(6"
+
+û5 û(6
+
+%retfloatB"
+Shapes.Draw

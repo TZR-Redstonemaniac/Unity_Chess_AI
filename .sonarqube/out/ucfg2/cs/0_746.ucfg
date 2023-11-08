@@ -1,33 +1,19 @@
 
-(Shapes.RegularPolygon.ThicknessSpace.set‚
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.csN N("0*
-0N N(*
-1*–
-1N
- N(^z
-x
-ND N(ZB
-Shapes.RegularPolygon"'
-thicknessSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpace…
-‚
-N
- N(^
-
-%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*%
-N
- N(
-Shapes.RegularPolygon*G
-N N(;;*9
-Shapes.ShapesMaterialUtils"
-propThicknessSpaceint*P
-N= N(\D*B
-Shapes.RegularPolygon"'
-thicknessSpaceShapes.ThicknessSpace*
+1Shapes.ShapeRendererFillable.FillRadialRadius.set‰
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRendererFillable.cs( (("0*
+0( ((*
+1*G
+1(
+ ((3
+1
+(
+ ((
+%0float"__id*
+
+valuefloat*
 2*.
-2N_ N(_"
-N^ N(_
-implicit return: 
-valueShapes.ThicknessSpaceB
-Shapes.RegularPolygon
+2( (("
+( ((
+implicit return:
+valuefloatB 
+Shapes.ShapeRendererFillable

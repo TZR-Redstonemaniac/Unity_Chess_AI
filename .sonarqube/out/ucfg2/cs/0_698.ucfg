@@ -1,35 +1,40 @@
 
-(Shapes.ShapeRendererFillable.UseFill.set‰
-C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRendererFillable.cs ("0*
-0 (*
-1*·
-1 (EX
-V
- (1
-Shapes.ShapeRendererFillable"
-useFillbool"__id*
+Shapes.Line.DashType.set–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csz z("0*
+0z z(*
+1*¾
+1z
+ z(X^
+\
+z> z(G
+%0Shapes.DashStyle"__id*20*.
+Shapes.Line"
+	dashStyleShapes.DashStylec
+a
+z> z(T1
+
+%0Shapes.DashStyle"
+typeShapes.DashType"__id*
+
+valueShapes.DashTypeä
+á
+z
+ z(X
 
-valuebooly
-w
-1 (B	
-%0int"2Shapes.ShapeRendererFillable.FillTypeShaderInt.get*,
-1 (B 
-Shapes.ShapeRendererFillableÍ
-Ê
- (D
-
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*,
- ( 
-Shapes.ShapeRendererFillable*A
- (/5*3
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+z
+ z(
+Shapes.Line*A
+z z(55*3
 Shapes.ShapesMaterialUtils"
-propFillTypeint*
-1 (B
-	
-%0int*
+propDashTypeint*?
+z7 z(V3*1
+
+%0Shapes.DashStyle"
+typeShapes.DashType*
 2*.
-2 ("
- (
-implicit return:
-valueboolB 
-Shapes.ShapeRendererFillable
+2zY z(Y"
+zX z(Y
+implicit return:
+valueShapes.DashTypeB
+Shapes.Line

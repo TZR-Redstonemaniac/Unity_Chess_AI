@@ -1,3 +1,105 @@
-À
- Shapes.ShapesColorFieldAttributeUnityEngine.PropertyAttributeSystem.Attributeobjectc
-ShapesColorFieldAttribute(bool)@Shapes.ShapesColorFieldAttribute.ShapesColorFieldAttribute(bool)
+Ó8
+Shapes.ShapeRendererUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject1
+OnValidate()!Shapes.ShapeRenderer.OnValidate()I
+HideMeshFilterRenderer()-Shapes.ShapeRenderer.HideMeshFilterRenderer()o
++MakeSureComponentExists<T>(ref T, out bool)@Shapes.ShapeRenderer.MakeSureComponentExists<T>(ref T, out bool)=
+VerifyComponents()'Shapes.ShapeRenderer.VerifyComponents()'
+Awake()Shapes.ShapeRenderer.Awake()-
+
+OnEnable()Shapes.ShapeRenderer.OnEnable()/
+OnDisable() Shapes.ShapeRenderer.OnDisable()g
+'OnPreCamCullWithCam(UnityEngine.Camera)<Shapes.ShapeRenderer.OnPreCamCullWithCam(UnityEngine.Camera)Å
+VOnPreCamCullWithCam(UnityEngine.Rendering.ScriptableRenderContext, UnityEngine.Camera)kShapes.ShapeRenderer.OnPreCamCullWithCam(UnityEngine.Rendering.ScriptableRenderContext, UnityEngine.Camera)C
+SubscribeCamPreCull()*Shapes.ShapeRenderer.SubscribeCamPreCull()G
+UnsubscribeCamPreCull(),Shapes.ShapeRenderer.UnsubscribeCamPreCull()E
+UpdateMeshOnUndoRedo()+Shapes.ShapeRenderer.UpdateMeshOnUndoRedo()'
+Reset()Shapes.ShapeRenderer.Reset()/
+OnDestroy() Shapes.ShapeRenderer.OnDestroy()=
+ShapeClampRanges()'Shapes.ShapeRenderer.ShapeClampRanges()5
+GenerateMesh()#Shapes.ShapeRenderer.GenerateMesh()C
+GetInitialMeshAsset()*Shapes.ShapeRenderer.GetInitialMeshAsset()5
+CamOnPreCull()#Shapes.ShapeRenderer.CamOnPreCull()=
+UpdateMeshBounds()'Shapes.ShapeRenderer.UpdateMeshBounds()]
+"TryDestroyInstancedMaterials(bool)7Shapes.ShapeRenderer.TryDestroyInstancedMaterials(bool)‰
+8MakeSureMaterialInstancesAreGood(UnityEngine.Material[])MShapes.ShapeRenderer.MakeSureMaterialInstancesAreGood(UnityEngine.Material[])9
+UpdateMaterial()%Shapes.ShapeRenderer.UpdateMaterial(){
+1UpdateMaterialsEditorMode(UnityEngine.Material[])FShapes.ShapeRenderer.UpdateMaterialsEditorMode(UnityEngine.Material[])9
+UpdateMesh(bool)%Shapes.ShapeRenderer.UpdateMesh(bool)/
+GetBounds() Shapes.ShapeRenderer.GetBounds()9
+GetWorldBounds()%Shapes.ShapeRenderer.GetWorldBounds()W
+OnDidApplyAnimationProperties()4Shapes.ShapeRenderer.OnDidApplyAnimationProperties()g
+'SetIntOnAllInstancedMaterials(int, int)<Shapes.ShapeRenderer.SetIntOnAllInstancedMaterials(int, int)o
++SetFloatOnAllInstancedMaterials(int, float)@Shapes.ShapeRenderer.SetFloatOnAllInstancedMaterials(int, float)S
+UpdateAllMaterialProperties()2Shapes.ShapeRenderer.UpdateAllMaterialProperties();
+ApplyProperties()&Shapes.ShapeRenderer.ApplyProperties()›
+ASetAllDashValues(Shapes.DashStyle, bool, bool, float, bool, bool)VShapes.ShapeRenderer.SetAllDashValues(Shapes.DashStyle, bool, bool, float, bool, bool)…
+6GetNetDashSpacing(Shapes.DashStyle, bool, bool, float)KShapes.ShapeRenderer.GetNetDashSpacing(Shapes.DashStyle, bool, bool, float)Y
+ SetColor(int, UnityEngine.Color)5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)A
+SetFloat(int, float))Shapes.ShapeRenderer.SetFloat(int, float)9
+SetInt(int, int)%Shapes.ShapeRenderer.SetInt(int, int)a
+$SetVector3(int, UnityEngine.Vector3)9Shapes.ShapeRenderer.SetVector3(int, UnityEngine.Vector3)a
+$SetVector4(int, UnityEngine.Vector4)9Shapes.ShapeRenderer.SetVector4(int, UnityEngine.Vector4)_
+#SetColorNow(int, UnityEngine.Color)8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)G
+SetFloatNow(int, float),Shapes.ShapeRenderer.SetFloatNow(int, float)?
+SetIntNow(int, int)(Shapes.ShapeRenderer.SetIntNow(int, int)g
+'SetVector3Now(int, UnityEngine.Vector3)<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)g
+'SetVector4Now(int, UnityEngine.Vector4)<Shapes.ShapeRenderer.SetVector4Now(int, UnityEngine.Vector4)7
+ShapeRenderer()$Shapes.ShapeRenderer.ShapeRenderer()'
+Mpb.getShapes.ShapeRenderer.Mpb.get'
+Mpb.setShapes.ShapeRenderer.Mpb.setM
+IsUsingUniqueMaterials.get/Shapes.ShapeRenderer.IsUsingUniqueMaterials.getM
+IsUsingUniqueMaterials.set/Shapes.ShapeRenderer.IsUsingUniqueMaterials.set)
+Mesh.getShapes.ShapeRenderer.Mesh.get)
+Mesh.setShapes.ShapeRenderer.Mesh.set=
+SortingLayerID.get'Shapes.ShapeRenderer.SortingLayerID.get=
+SortingLayerID.set'Shapes.ShapeRenderer.SortingLayerID.set9
+SortingOrder.get%Shapes.ShapeRenderer.SortingOrder.get9
+SortingOrder.set%Shapes.ShapeRenderer.SortingOrder.setA
+SortingLayerName.get)Shapes.ShapeRenderer.SortingLayerName.getA
+SortingLayerName.set)Shapes.ShapeRenderer.SortingLayerName.set3
+BlendMode.get"Shapes.ShapeRenderer.BlendMode.get3
+BlendMode.set"Shapes.ShapeRenderer.BlendMode.set3
+ScaleMode.get"Shapes.ShapeRenderer.ScaleMode.get3
+ScaleMode.set"Shapes.ShapeRenderer.ScaleMode.set+
+	Color.getShapes.ShapeRenderer.Color.get+
+	Color.setShapes.ShapeRenderer.Color.set7
+DetailLevel.get$Shapes.ShapeRenderer.DetailLevel.get7
+DetailLevel.set$Shapes.ShapeRenderer.DetailLevel.set7
+IsInstanced.get$Shapes.ShapeRenderer.IsInstanced.get7
+IsInstanced.set$Shapes.ShapeRenderer.IsInstanced.setO
+UsingDefaultRenderQueue.get0Shapes.ShapeRenderer.UsingDefaultRenderQueue.getO
+UsingDefaultRenderQueue.set0Shapes.ShapeRenderer.UsingDefaultRenderQueue.set7
+RenderQueue.get$Shapes.ShapeRenderer.RenderQueue.get7
+RenderQueue.set$Shapes.ShapeRenderer.RenderQueue.setE
+UsingDefaultZTests.get+Shapes.ShapeRenderer.UsingDefaultZTests.getE
+UsingDefaultZTests.set+Shapes.ShapeRenderer.UsingDefaultZTests.set+
+	ZTest.getShapes.ShapeRenderer.ZTest.get+
+	ZTest.setShapes.ShapeRenderer.ZTest.set;
+ZOffsetFactor.get&Shapes.ShapeRenderer.ZOffsetFactor.get;
+ZOffsetFactor.set&Shapes.ShapeRenderer.ZOffsetFactor.set9
+ZOffsetUnits.get%Shapes.ShapeRenderer.ZOffsetUnits.get9
+ZOffsetUnits.set%Shapes.ShapeRenderer.ZOffsetUnits.set3
+ColorMask.get"Shapes.ShapeRenderer.ColorMask.get3
+ColorMask.set"Shapes.ShapeRenderer.ColorMask.setG
+UsingDefaultMasking.get,Shapes.ShapeRenderer.UsingDefaultMasking.getG
+UsingDefaultMasking.set,Shapes.ShapeRenderer.UsingDefaultMasking.set7
+StencilComp.get$Shapes.ShapeRenderer.StencilComp.get7
+StencilComp.set$Shapes.ShapeRenderer.StencilComp.set;
+StencilOpPass.get&Shapes.ShapeRenderer.StencilOpPass.get;
+StencilOpPass.set&Shapes.ShapeRenderer.StencilOpPass.set9
+StencilRefID.get%Shapes.ShapeRenderer.StencilRefID.get9
+StencilRefID.set%Shapes.ShapeRenderer.StencilRefID.set?
+StencilReadMask.get(Shapes.ShapeRenderer.StencilReadMask.get?
+StencilReadMask.set(Shapes.ShapeRenderer.StencilReadMask.setA
+StencilWriteMask.get)Shapes.ShapeRenderer.StencilWriteMask.getA
+StencilWriteMask.set)Shapes.ShapeRenderer.StencilWriteMask.setQ
+HasGeneratedOrCopyOfMesh.get1Shapes.ShapeRenderer.HasGeneratedOrCopyOfMesh.getQ
+HasGeneratedOrCopyOfMesh.set1Shapes.ShapeRenderer.HasGeneratedOrCopyOfMesh.set=
+MeshUpdateMode.get'Shapes.ShapeRenderer.MeshUpdateMode.get=
+MeshUpdateMode.set'Shapes.ShapeRenderer.MeshUpdateMode.set;
+HasScaleModes.get&Shapes.ShapeRenderer.HasScaleModes.get;
+HasScaleModes.set&Shapes.ShapeRenderer.HasScaleModes.set?
+HasDetailLevels.get(Shapes.ShapeRenderer.HasDetailLevels.get?
+HasDetailLevels.set(Shapes.ShapeRenderer.HasDetailLevels.set?
+UseCamOnPreCull.get(Shapes.ShapeRenderer.UseCamOnPreCull.get?
+UseCamOnPreCull.set(Shapes.ShapeRenderer.UseCamOnPreCull.set

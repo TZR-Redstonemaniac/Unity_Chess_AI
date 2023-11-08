@@ -1,9 +1,11 @@
-Û
-Shapes.PolylinePointSystem.ValueTypeobject]
-"PolylinePoint(UnityEngine.Vector3)7Shapes.PolylinePoint.PolylinePoint(UnityEngine.Vector3)]
-"PolylinePoint(UnityEngine.Vector2)7Shapes.PolylinePoint.PolylinePoint(UnityEngine.Vector2)ƒ
-5PolylinePoint(UnityEngine.Vector3, UnityEngine.Color)JShapes.PolylinePoint.PolylinePoint(UnityEngine.Vector3, UnityEngine.Color)ƒ
-5PolylinePoint(UnityEngine.Vector2, UnityEngine.Color)JShapes.PolylinePoint.PolylinePoint(UnityEngine.Vector2, UnityEngine.Color)‘
-<PolylinePoint(UnityEngine.Vector3, UnityEngine.Color, float)QShapes.PolylinePoint.PolylinePoint(UnityEngine.Vector3, UnityEngine.Color, float)‘
-<PolylinePoint(UnityEngine.Vector2, UnityEngine.Color, float)QShapes.PolylinePoint.PolylinePoint(UnityEngine.Vector2, UnityEngine.Color, float)7
-PolylinePoint()$Shapes.PolylinePoint.PolylinePoint()
+ô
+Shapes.DisposableMeshobjectSystem.IDisposable>
+EnsureMeshExists()(Shapes.DisposableMesh.EnsureMeshExists()p
++RegisterToCommandBuffer(Shapes.DrawCommand)AShapes.DisposableMesh.RegisterToCommandBuffer(Shapes.DrawCommand)f
+&ReleaseFromCommand(Shapes.DrawCommand)<Shapes.DisposableMesh.ReleaseFromCommand(Shapes.DrawCommand),
+	Dispose()Shapes.DisposableMesh.Dispose()0
+ClearMesh()!Shapes.DisposableMesh.ClearMesh()<
+ExternallyDirty()'Shapes.DisposableMesh.ExternallyDirty()2
+UpdateMesh()"Shapes.DisposableMesh.UpdateMesh()–
+>EnsureMeshIsReadyToRender(out UnityEngine.Mesh, System.Action)TShapes.DisposableMesh.EnsureMeshIsReadyToRender(out UnityEngine.Mesh, System.Action):
+DisposableMesh()&Shapes.DisposableMesh.DisposableMesh()

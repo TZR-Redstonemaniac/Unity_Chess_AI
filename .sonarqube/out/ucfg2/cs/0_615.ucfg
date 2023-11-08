@@ -1,38 +1,43 @@
 
-(Shapes.Draw.GradientFillRadialRadius.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csñ ñ("0*
+Shapes.Disc.AngRadiansEnd.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csŽ Ž("0*
 0
-ñ ñ(*
-1*Ï
+Ž Ž(*
+1*Î
 1
-ñ! ñ(@\
-Z
+Ž
+ Ž(NQ
+O
 
-ñ! ñ(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyler
-p
+Ž7 Ž(L'
+Shapes.Disc"
+angRadiansEndfloat"__id*
+
+valuefloatä
+á
 
-ñ! ñ(3
-%1Shapes.GradientFill"__id*A?*=
-
-%0Shapes.DrawStyle"#
-gradientFillShapes.GradientFillg
-e
+Ž
+ Ž(N
 
-ñ! ñ(@
-%retfloat"__id*B
+%0void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
 
-ñ! ñ(@4*2
-
-%1Shapes.GradientFill"
-radialRadiusfloat*
-2*.
+Ž
+ Ž(
+Shapes.Disc*A
+
+Ž Ž(53*1
+Shapes.ShapesMaterialUtils"
+
+propAngEndint*7
+
+Ž7 Ž(L)*'
+Shapes.Disc"
+angRadiansEndfloat*
+2*2
 2
-ñA ñ(A"
+ŽO Ž(O"!
 
-ñ@ ñ(A
-
-%retfloatB"
-Shapes.Draw
+ŽN Ž(O
+implicit return:
+valuefloatB
+Shapes.Disc

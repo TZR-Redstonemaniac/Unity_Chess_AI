@@ -1,15 +1,13 @@
 
-:Shapes.MpbLine3D.Shapes.IDashableMpb.dashShapeModifier.set…
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csv/ v(2"0*¨
-0v3 v(3§
-¤
-v/ v(3a
-Shapes.MpbLine3D"K
-%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"o
-v/ v(3c*a
-Shapes.MpbLine3D"K
-%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbLine3D
+/Shapes.MpbDisc.Shapes.IDashableMpb.dashSnap.get…
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs6& 6()"0*á
+06* 6(*™
+–
+6& 6(*(
+%0"System.Collections.Generic.List<T>"__id*ZX*V
+Shapes.MpbDisc"B
+Shapes.IDashableMpb.dashSnap"System.Collections.Generic.List<T>"6
+6& 6(**
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbDisc

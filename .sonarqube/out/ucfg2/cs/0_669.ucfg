@@ -1,28 +1,17 @@
 
-Shapes.Line.DashSnap.get–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csu u("0*
-0u u(*
-1*è
-1u
- u(^
-\
-u
- u(
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStylet
-r
-u
- u(
-%retShapes.DashSnapping"__id*C
-u
- u(7*5
-
-%0Shapes.DashStyle"
-snapShapes.DashSnapping*
-2*8
-2u u(")
-u u(
-
-%retShapes.DashSnappingB
-Shapes.Line
+Shapes.ShapeGroup.OnValidate()~
+tC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeGroup.cs+ +("0*
+0+ +(*
+1*v
+1+ +(*b
+`
++ +(*
+
+%0void"%Shapes.ShapeGroup.UpdateChildShapes()*!
++ +((
+Shapes.ShapeGroup*
+2*.
+2++ +(+"
++* +(+
+implicit returnB
+Shapes.ShapeGroup

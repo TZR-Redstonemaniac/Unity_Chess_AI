@@ -1,84 +1,29 @@
 
-Shapes.Disc.Color.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs8 8("0*
-08 8(*
-1*“
-19 <(P_
-]
-9- 9(:+
-Shapes.Disc"
-colorUnityEngine.Color"__id*
-
-valueUnityEngine.Colorè
-å
-9 9(<
+/Shapes.ColorStack.ColorStack(UnityEngine.Color)‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\ColorStack.cs ("1*
+19 (9*
+0*Î
+0& (6ˆ
+…
+& (,)
+%0#System.Collections.Generic.Stack<T>"__id*HF*D
+Shapes.ColorStack"-
+colors#System.Collections.Generic.Stack<T>™
+–
+& (8
 
-%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
-9 9(
-Shapes.Disc*>
-9 9(+2*0
-Shapes.ShapesMaterialUtils"
-	propColorint*9
-9- 9(:-*+
-Shapes.Disc"
-colorUnityEngine.Colori
-g
-:7 :(N5
-Shapes.Disc"$
-colorOuterStartUnityEngine.Color"__id*
-
-valueUnityEngine.Colorü
-ù
-: :(P
+%1void"1System.Collections.Generic.ICollection<T>.Push(T)*-+
+)
+%0#System.Collections.Generic.Stack<T>*
+
+mtxUnityEngine.Color"
+& (8
 
-%1void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
-: :(
-Shapes.Disc*H
-: :(5<*:
-Shapes.ShapesMaterialUtils"
-propColorOuterStartint*C
-:7 :(N7*5
-Shapes.Disc"$
-colorOuterStartUnityEngine.Colorg
-e
-;5 ;(J3
-Shapes.Disc""
-colorInnerEndUnityEngine.Color"__id*
-
-valueUnityEngine.Colorø
-õ
-; ;(L
 
-%2void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
-; ;(
-Shapes.Disc*F
-; ;(3:*8
-Shapes.ShapesMaterialUtils"
-propColorInnerEndint*A
-;5 ;(J5*3
-Shapes.Disc""
-colorInnerEndUnityEngine.Colorg
-e
-<8 <(M3
-Shapes.Disc""
-colorOuterEndUnityEngine.Color"__id*
-
-valueUnityEngine.Colorû
-ø
-< <(O
-
-%3void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
-< <(
-Shapes.Disc*F
-< <(6:*8
-Shapes.ShapesMaterialUtils"
-propColorOuterEndint*A
-<8 <(M5*3
-Shapes.Disc""
-colorOuterEndUnityEngine.Color*
-2*.
-2= =("
-= =(
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Disc
+%1void*.
+29 (9"
+8 (9
+implicit return:$
+ ( 
+mtxUnityEngine.ColorB
+Shapes.ColorStack

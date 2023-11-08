@@ -1,31 +1,30 @@
 
-$Shapes.Draw.PolygonTriangulation.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÈ È("0*
+'Shapes.Draw.RegularPolygonSideCount.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csá á("0*
 0
-È È(*
-1*Ž
+á á(*
+1*Ô
 1
-È! È(;\
+á! á(F\
 Z
 
-È! È(&
+á! á(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStyle™
-–
+styleShapes.DrawStyle`
+^
 
-È! È(;#
-%retShapes.PolygonTriangulation"__id*]
-
-È! È(;O*M
+á! á(F8
 
-%0Shapes.DrawStyle"3
-polygonTriangulationShapes.PolygonTriangulation*
-2*D
+%0Shapes.DrawStyle"
+regularPolygonSideCountint"__id*
+
+valueint*
+2*2
 2
-È< È(<"3
+áG á(G"!
 
-È; È(<%
-#
-%retShapes.PolygonTriangulationB"
+áF á(G
+implicit return:
+valueintB"
 Shapes.Draw

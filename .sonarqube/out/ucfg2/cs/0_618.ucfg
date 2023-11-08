@@ -1,36 +1,28 @@
 
-Shapes.Disc.RadiusInner.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs   ("0*
-0
-   (*
-1*­
-1
- 
-  (U
-S
-
- 
-  (
-%0float"Shapes.Disc.Thickness.get*
-
- 
-  (
-Shapes.Disc@
->
-
- 
-  (
-%retfloat"__id*
-
- 
-  (
-
-%0float*
-2*.
-2
-   ("
-
-   (
+Shapes.Line.DashOffset.get–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csj j("0*
+0j j(*
+1*Î
+1j
+ j(^
+\
+j
+ j(
+%0Shapes.DashStyle"__id*20*.
+Shapes.Line"
+	dashStyleShapes.DashStyleZ
+X
+j
+ j(
+%retfloat"__id*7
+j
+ j(+*)
+
+%0Shapes.DashStyle"
+offsetfloat*
+2**
+2j j("
+j j(
 
 %retfloatB
-Shapes.Disc
+Shapes.Line

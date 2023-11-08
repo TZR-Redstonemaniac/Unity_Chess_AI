@@ -1,91 +1,64 @@
 
-aShapes.DashStyle.RelativeDashes(Shapes.DashType, float, float, Shapes.DashSnapping, float, float)}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.csQ Q(("0*
-0Q Q(*
-1*•
-1R Y(!64
-R Z(
-%0Shapes.DashStyle"Shapes.DashStyleh
-f
-R Z(
-%1Shapes.DashStyle"Shapes.DashStyle.DashStyle()*$
-R Z(
-
-%0Shapes.DashStyleM
-K
-R Z(
-	%capture0Shapes.DashStyle"__id*
-
-%0Shapes.DashStyle_
-]
-S S(:
-
-	%capture0Shapes.DashStyle"
-spaceShapes.DashSpace"__id*2ÿÿÿÿÿÿÿÿÿi
-g
-T T(8
-
-	%capture0Shapes.DashStyle"
-typeShapes.DashType"__id*
-
-typeShapes.DashTypeU
-S
-U U(.
-
-	%capture0Shapes.DashStyle"
-sizefloat"__id*
-
-sizefloat[
+3Shapes.ShapesExtensions.ToVector4(UnityEngine.Rect)
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesExtensions.cs (!"0*
+0 (*
+1*Œ
+14 (^V
+T
+A (D
+%0float"UnityEngine.Rect.x.get*#
+A (B
+
+rUnityEngine.RectV
+T
+F (I
+%1float"UnityEngine.Rect.y.get*#
+F (G
+
+rUnityEngine.RectZ
+X
+K (R
+%2float"UnityEngine.Rect.width.get*#
+K (L
+
+rUnityEngine.Rect[
 Y
-V V(1
-
-	%capture0Shapes.DashStyle"
-spacingfloat"__id*
-
-spacingfloatq
-o
-W W(<
-
-	%capture0Shapes.DashStyle"
-snapShapes.DashSnapping"__id*
+T (\
+%3float"UnityEngine.Rect.height.get*#
+T (U
+
+rUnityEngine.Rect<:
+4 (^
+%4UnityEngine.Vector4"UnityEngine.Vector4ö
+ó
+4 (^
+%5UnityEngine.Vector4"7UnityEngine.Vector4.Vector4(float, float, float, float)*'
+4 (^
+
+%4UnityEngine.Vector4*
+A (D
+
+%0float*
+F (I
+
+%1float*
+K (R
+
+%2float*
+T (\
+
+%3floatX
+V
+4 (^
+%retUnityEngine.Vector4"__id*'
+4 (^
+
+%4UnityEngine.Vector4*
+2*8
+2_ (_")
+^ (_
 
-snapShapes.DashSnappingY
-W
-X X(0
-
-	%capture0Shapes.DashStyle"
-offsetfloat"__id*
-
-offsetfloatg
-e
-Y Y(!7
-
-	%capture0Shapes.DashStyle"
-shapeModifierfloat"__id*
-
-shapeModifierfloatY
-W
-R Z(
-%retShapes.DashStyle"__id*+
-R Z(
-
-	%capture0Shapes.DashStyle*
-2*5
-2Z Z("&
-Z Z(
-
-%retShapes.DashStyle:#
-Q* Q(7
-typeShapes.DashType:
-Q9 Q(C
-sizefloat:
-QE Q(R
-spacingfloat:'
-QT Q(x
-snapShapes.DashSnapping:
-	Qz Q(‹
-offsetfloat:$
-
-Q Q(¥
-shapeModifierfloatB"
-Shapes.DashStyle
+%retUnityEngine.Vector4:!
+# (.
+rUnityEngine.RectB"
+Shapes.ShapesExtensions

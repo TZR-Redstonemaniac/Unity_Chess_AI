@@ -1,31 +1,48 @@
 
-Shapes.Draw.SizeSpace.getà
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs± ±("0*
-0
-± ±(*
-1*ˆ
-1
-±! ±(0\
-Z
+Shapes.Disc.ColorOuter.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csZ Z("0*
+0Z Z(*
+1*„
+1[ \(Pi
+g
+[7 [(N5
+Shapes.Disc"$
+colorOuterStartUnityEngine.Color"__id*
+
+valueUnityEngine.Color¸
+˘
+[ [(P
 
-±! ±(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleÅ
-
+%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+[ [(
+Shapes.Disc*H
+[ [(5<*:
+Shapes.ShapesMaterialUtils"
+propColorOuterStartint*C
+[7 [(N7*5
+Shapes.Disc"$
+colorOuterStartUnityEngine.Colorg
+e
+\8 \(M3
+Shapes.Disc""
+colorOuterEndUnityEngine.Color"__id*
+
+valueUnityEngine.Color˚
+¯
+\ \(O
 
-±! ±(0
-%retShapes.ThicknessSpace"__id*L
-
-±! ±(0>*<
-
-%0Shapes.DrawStyle""
-	sizeSpaceShapes.ThicknessSpace*
-2*>
-2
-±1 ±(1"-
-
-±0 ±(1
-
-%retShapes.ThicknessSpaceB"
-Shapes.Draw
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+\ \(
+Shapes.Disc*F
+\ \(6:*8
+Shapes.ShapesMaterialUtils"
+propColorOuterEndint*A
+\8 \(M5*3
+Shapes.Disc""
+colorOuterEndUnityEngine.Color*
+2*.
+2] ]("
+] ](
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Disc

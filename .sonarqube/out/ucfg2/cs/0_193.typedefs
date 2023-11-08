@@ -1,13 +1,0 @@
-„
-Shapes.PolygonPathShapes.PointPath<T>Shapes.DisposableMeshobject1
-PolygonPath() Shapes.PolygonPath.PolygonPath()C
-AddPoint(float, float))Shapes.PolygonPath.AddPoint(float, float)Ø
-LBezierTo(UnityEngine.Vector2, UnityEngine.Vector2, UnityEngine.Vector2, int)_Shapes.PolygonPath.BezierTo(UnityEngine.Vector2, UnityEngine.Vector2, UnityEngine.Vector2, int)≥
-NBezierTo(UnityEngine.Vector2, UnityEngine.Vector2, UnityEngine.Vector2, float)aShapes.PolygonPath.BezierTo(UnityEngine.Vector2, UnityEngine.Vector2, UnityEngine.Vector2, float)ë
-=ArcTo(UnityEngine.Vector2, UnityEngine.Vector2, float, float)PShapes.PolygonPath.ArcTo(UnityEngine.Vector2, UnityEngine.Vector2, float, float)ç
-;ArcTo(UnityEngine.Vector2, UnityEngine.Vector2, float, int)NShapes.PolygonPath.ArcTo(UnityEngine.Vector2, UnityEngine.Vector2, float, int)É
-6ArcTo(UnityEngine.Vector2, UnityEngine.Vector2, float)IShapes.PolygonPath.ArcTo(UnityEngine.Vector2, UnityEngine.Vector2, float)∑
-PArcTo(UnityEngine.Vector2, UnityEngine.Vector2, float, float, UnityEngine.Color)cShapes.PolygonPath.ArcTo(UnityEngine.Vector2, UnityEngine.Vector2, float, float, UnityEngine.Color)µ
-OAddArcPoints(UnityEngine.Vector2, UnityEngine.Vector2, float, bool, int, float)bShapes.PolygonPath.AddArcPoints(UnityEngine.Vector2, UnityEngine.Vector2, float, bool, int, float)Ø
-LEnsureMeshIsReadyToRender(Shapes.PolygonTriangulation, out UnityEngine.Mesh)_Shapes.PolygonPath.EnsureMeshIsReadyToRender(Shapes.PolygonTriangulation, out UnityEngine.Mesh)k
-*TryUpdateMesh(Shapes.PolygonTriangulation)=Shapes.PolygonPath.TryUpdateMesh(Shapes.PolygonTriangulation)

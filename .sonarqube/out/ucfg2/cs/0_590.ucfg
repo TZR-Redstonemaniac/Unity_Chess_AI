@@ -1,43 +1,33 @@
 
-Shapes.Disc.AngRadiansEnd.setz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csŽ Ž("0*
-0
-Ž Ž(*
-1*Î
-1
-Ž
- Ž(NQ
-O
-
-Ž7 Ž(L'
-Shapes.Disc"
-angRadiansEndfloat"__id*
-
-valuefloatä
+Shapes.Disc.Geometry.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs| |("0*
+0| |(*
+1*á
+1|
+ |(Sf
+d
+|? |(O0
+Shapes.Disc"
+geometryShapes.DiscGeometry"__id* 
+
+valueShapes.DiscGeometryä
 á
+|
+ |(S
 
-Ž
- Ž(N
-
-%0void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-
-Ž
- Ž(
-Shapes.Disc*A
-
-Ž Ž(53*1
-Shapes.ShapesMaterialUtils"
-
-propAngEndint*7
-
-Ž7 Ž(L)*'
-Shapes.Disc"
-angRadiansEndfloat*
-2*2
-2
-ŽO Ž(O"!
-
-ŽN Ž(O
-implicit return:
-valuefloatB
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+|
+ |(
+Shapes.Disc*B
+| |(66*4
+Shapes.ShapesMaterialUtils"
+propAlignmentint*>
+|8 |(Q2*0
+Shapes.Disc"
+geometryShapes.DiscGeometry*
+2*.
+2|T |(T"
+|S |(T
+implicit return:
+valueShapes.DiscGeometryB
 Shapes.Disc
