@@ -1,21 +1,40 @@
 
-Shapes.Rectangle.Pivot.get}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.cs0 0("0*
-00 0(*
-1*
-10
- 0(k
-i
-0
- 0(
-%retShapes.RectPivot"__id*=
-0
- 0(1*/
-Shapes.Rectangle"
-pivotShapes.RectPivot*
-2*5
-20 0("&
-0 0(
-
-%retShapes.RectPivotB
-Shapes.Rectangle
+Shapes.Line.DashOffset.set–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csk k("0*
+0k k(*
+1*ª
+1k
+ k(U^
+\
+k; k(D
+%0Shapes.DashStyle"__id*20*.
+Shapes.Line"
+	dashStyleShapes.DashStyleQ
+O
+k; k(S)
+
+%0Shapes.DashStyle"
+offsetfloat"__id*
+
+valuefloatâ
+ß
+k
+ k(U
+
+%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+k
+ k(
+Shapes.Line*C
+k k(97*5
+Shapes.ShapesMaterialUtils"
+propDashOffsetint*7
+k; k(S+*)
+
+%0Shapes.DashStyle"
+offsetfloat*
+2*.
+2kV k(V"
+kU k(V
+implicit return:
+valuefloatB
+Shapes.Line

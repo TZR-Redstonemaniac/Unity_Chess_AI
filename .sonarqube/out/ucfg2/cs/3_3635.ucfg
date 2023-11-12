@@ -1,13 +1,30 @@
 
-=SerializableDictionary<TKey, TValue>.SerializableDictionary()‡
-}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.csK K("1*¹
-1M M(¤
-¡
+ISystem.Collections.Generic.ICollection<T>.SetValue(TValue[], int, TValue)‡
+}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.csZ Z(!"0*
+0Z Z(*
+1*®
+1\ \(™
+–
+\ \(
+%0TValue",System.Array.SetValue(object?, params int[])*!
+\ \(
+
+storageTValue[]*
+
+valueTValue*
+\
+ \(
 
-%0void"TSerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase()*=;9
-7SerializableDictionaryBase<TKey, TValue, TValueStorage>*
-0*.
-0M M("
-M M(
-implicit returnB(&
+
+iint*
+2*.
+2] ]("
+] ](
+implicit return:
+Z" Z(2
+storageTValue[]:
+Z4 Z(9
+iint:
+Z; Z(G
+valueTValueB(&
 $SerializableDictionary<TKey, TValue>

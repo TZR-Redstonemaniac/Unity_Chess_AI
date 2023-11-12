@@ -1,37 +1,177 @@
 
-$Shapes.Draw.TextParagraphSpacing.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs   ("0*
+2Shapes.MpbRegularPolygon.TransferShapeProperties()‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csú ú(1"0*
 0
-   (*
-1*¼
+ú ú(*
+1*–
 1
- !  (I\
-Z
+û „(F²
+¯
 
- !  (&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
+û û(;
 
- !  (0
-%1Shapes.TextStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	textStyleShapes.TextStyle]
-[
+%0void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)**
 
- !  (I3
-
-%1Shapes.TextStyle"
-paragraphSpacingfloat"__id*
-
-valuefloat*
+û û(
+Shapes.MpbRegularPolygon*D
+
+û û(.6*4
+Shapes.ShapesMaterialUtils"
+propAlignmentint*]
+
+û0 û(9O*M
+Shapes.MpbRegularPolygon"/
+	alignment"System.Collections.Generic.List<T>¨
+¥
+
+ü ü(1
+
+%1void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)**
+
+ü ü(
+Shapes.MpbRegularPolygon*>
+
+ü ü((0*.
+Shapes.ShapesMaterialUtils"
+propAngint*Y
+
+ü* ü(/K*I
+Shapes.MpbRegularPolygon"+
+angle"System.Collections.Generic.List<T>¬
+©
+
+ı ı(5
+
+%2void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)**
+
+ı ı(
+Shapes.MpbRegularPolygon*A
+
+ı ı(+3*1
+Shapes.ShapesMaterialUtils"
+
+propBorderint*Z
+
+ı- ı(3L*J
+Shapes.MpbRegularPolygon",
+hollow"System.Collections.Generic.List<T>¬
+©
+
+ş ş(5
+
+%3void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)**
+
+ş ş(
+Shapes.MpbRegularPolygon*A
+
+ş ş(+3*1
+Shapes.ShapesMaterialUtils"
+
+propRadiusint*Z
+
+ş- ş(3L*J
+Shapes.MpbRegularPolygon",
+radius"System.Collections.Generic.List<T>¶
+³
+
+ÿ ÿ(?
+
+%4void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)**
+
+ÿ ÿ(
+Shapes.MpbRegularPolygon*F
+
+ÿ ÿ(08*6
+Shapes.ShapesMaterialUtils"
+propRadiusSpaceint*_
+
+ÿ2 ÿ(=Q*O
+Shapes.MpbRegularPolygon"1
+radiusSpace"System.Collections.Generic.List<T>²
+¯
+
+€ €(;
+
+%5void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)**
+
+€ €(
+Shapes.MpbRegularPolygon*D
+
+€ €(.6*4
+Shapes.ShapesMaterialUtils"
+propRoundnessint*]
+
+€0 €(9O*M
+Shapes.MpbRegularPolygon"/
+	roundness"System.Collections.Generic.List<T>²
+¯
+
+ (;
+
+%6void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)**
+
+ (
+Shapes.MpbRegularPolygon*D
+
+ (.6*4
+Shapes.ShapesMaterialUtils"
+propScaleModeint*]
+
+0 (9O*M
+Shapes.MpbRegularPolygon"/
+	scaleMode"System.Collections.Generic.List<T>ª
+§
+
+‚ ‚(3
+
+%7void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)**
+
+‚ ‚(
+Shapes.MpbRegularPolygon*@
+
+‚ ‚(*2*0
+Shapes.ShapesMaterialUtils"
+	propSidesint*Y
+
+‚, ‚(1K*I
+Shapes.MpbRegularPolygon"+
+sides"System.Collections.Generic.List<T>²
+¯
+
+ƒ ƒ(;
+
+%8void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)**
+
+ƒ ƒ(
+Shapes.MpbRegularPolygon*D
+
+ƒ ƒ(.6*4
+Shapes.ShapesMaterialUtils"
+propThicknessint*]
+
+ƒ0 ƒ(9O*M
+Shapes.MpbRegularPolygon"/
+	thickness"System.Collections.Generic.List<T>¼
+¹
+
+„ „(E
+
+%9void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)**
+
+„ „(
+Shapes.MpbRegularPolygon*I
+
+„ „(3;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*b
+
+„5 „(CT*R
+Shapes.MpbRegularPolygon"4
+thicknessSpace"System.Collections.Generic.List<T>*
 2*2
 2
- J  (J"!
+… …("!
 
- I  (J
-implicit return:
-valuefloatB"
-Shapes.Draw
+… …(
+implicit returnB
+Shapes.MpbRegularPolygon

@@ -1,30 +1,30 @@
 
-Shapes.Draw.StencilReadMask.get†
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csh h("0*
-0h h(*
-1*Â
-1h! h(BZ
+Shapes.Draw.StencilComp.set†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csZ Z("0*
+0Z Z(*
+1*ù
+1Z! Z(FZ
 X
-h! h(&
+Z! Z(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
 styleShapes.DrawStylem
 k
-h! h(2
+Z! Z(2
 %1Shapes.RenderState"__id*?=*;
 
 %0Shapes.DrawStyle"!
-renderStateShapes.RenderStatec
-a
-h! h(B
-%retbyte"__id*A
-h! h(B5*3
+renderStateShapes.RenderState™
+–
+Z! Z(FP
 
-%1Shapes.RenderState"
-stencilReadMaskbyte*
-2*)
-2hC h(C"
-hB h(C
-
-%retbyteB"
+%1Shapes.RenderState"4
+stencilComp%UnityEngine.Rendering.CompareFunction"__id*20
+.
+value%UnityEngine.Rendering.CompareFunction*
+2*.
+2ZG Z(G"
+ZF Z(G
+implicit return:0.
+value%UnityEngine.Rendering.CompareFunctionB"
 Shapes.Draw

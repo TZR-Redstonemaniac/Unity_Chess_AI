@@ -1,27 +1,16 @@
 
-#Shapes.Rectangle.ThicknessSpace.get
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csˆ ˆ("0*
+0Shapes.MpbRect.Shapes.IDashableMpb.dashSpace.get‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÏ' Ï(*"0*è
 0
-ˆ ˆ(*
-1*š
-1
-ˆ
- ˆ(ƒ
-€
+Ï+ Ï(+œ
+™
 
-ˆ
- ˆ(
-%retShapes.ThicknessSpace"__id*M
+Ï' Ï(+(
+%0"System.Collections.Generic.List<T>"__id*[Y*W
+Shapes.MpbRect"C
+Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>"8
 
-ˆ
- ˆ(?*=
-Shapes.Rectangle"'
-thicknessSpaceShapes.ThicknessSpace*
-2*>
-2
-ˆ ˆ("-
-
-ˆ ˆ(
-
-%retShapes.ThicknessSpaceB
-Shapes.Rectangle
+Ï' Ï(+*
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbRect

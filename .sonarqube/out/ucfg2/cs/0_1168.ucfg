@@ -1,18 +1,35 @@
 
-9Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillType.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csï& ï()"0*¬
+Shapes.Draw.SphereRadius.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs­ ­("0*
 0
-ï* ï(*¨
-¥
+­ ­(*
+1*Ò
+1
+­
+ ­(\
+Z
 
-ï& ï(*`
-Shapes.MpbRegularPolygon"B
-Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"p
+­
+ ­(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyle^
+\
 
-ï& ï(*b*`
-Shapes.MpbRegularPolygon"B
-Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+­
+ ­(
+%retfloat"__id*9
+
+­
+ ­(+*)
+
+%0Shapes.DrawStyle"
+radiusfloat*
+2*.
+2
+­ ­("
+
+­ ­(
+
+%retfloatB"
+Shapes.Draw

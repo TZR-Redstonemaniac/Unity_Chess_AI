@@ -1,40 +1,49 @@
 
-Shapes.Line.DashType.setñ
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csz z("0*
-0z z(*
-1*æ
-1z
- z(X^
-\
-z> z(G
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStylec
-a
-z> z(T1
-
-%0Shapes.DashStyle"
-typeShapes.DashType"__id*
-
-valueShapes.DashType‰
-·
-z
- z(X
+(Shapes.MpbCone.TransferShapeProperties()Ö
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs (1"0*
+0 (*
+1*—
+1 (<ê
+ç
+ (5
 
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
-z
- z(
-Shapes.Line*A
-z z(55*3
-Shapes.ShapesMaterialUtils"
-propDashTypeint*?
-z7 z(V3*1
-
-%0Shapes.DashStyle"
-typeShapes.DashType*
+%0void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+ (
+Shapes.MpbCone*?
+ (+3*1
+Shapes.ShapesMaterialUtils"
+
+propLengthint*N
+- (3B*@
+Shapes.MpbCone",
+length"System.Collections.Generic.List<T>ê
+ç
+ (5
+
+%1void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+ (
+Shapes.MpbCone*?
+ (+3*1
+Shapes.ShapesMaterialUtils"
+
+propRadiusint*N
+- (3B*@
+Shapes.MpbCone",
+radius"System.Collections.Generic.List<T>ñ
+ì
+ (;
+
+%2void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+ (
+Shapes.MpbCone*B
+ (.6*4
+Shapes.ShapesMaterialUtils"
+propSizeSpaceint*Q
+0 (9E*C
+Shapes.MpbCone"/
+	sizeSpace"System.Collections.Generic.List<T>*
 2*.
-2zY z(Y"
-zX z(Y
-implicit return:
-valueShapes.DashTypeB
-Shapes.Line
+2 ("
+ (
+implicit returnB
+Shapes.MpbCone

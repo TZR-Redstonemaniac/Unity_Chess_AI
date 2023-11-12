@@ -1,19 +1,21 @@
-﻿C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Managers\FenManager.cs
-C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Managers\GeneralManager.cs
-C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Managers\MovementManager.cs
-C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Neural Network\PointGenerator.cs
-C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Renderers\RenderPieces.cs
+﻿C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Neural Network\PointGenerator.cs
 C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Convenience\Converter.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Visualize.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Renderers\RenderPieces.cs
 C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Neural Network\Visualizer.cs
 C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Core\Board.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Managers\MovementManager.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Renderers\RenderBoard.cs
 C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Neural Network\NeuralNetwork.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Managers\FenManager.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Managers\GeneralManager.cs
 C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Neural Network\NetworkManager.cs
 C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Neural Network\Layer.cs
 C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\Example\SerializableDictionaryExample.cs
 C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\Example\UserSerializableDictionaries.cs
 C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Core\Piece.cs
-C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Renderers\RenderBoard.cs
 C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.cs
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\AudioManager.cs
 C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle Darken.shader
 C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Generated Shaders\Resources\Rect Multiplicative.shader
 C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Shaders\Core\Line 3D Core.cginc

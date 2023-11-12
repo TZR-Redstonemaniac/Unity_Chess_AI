@@ -1,38 +1,21 @@
 
-Shapes.Triangle.Hollow.get~
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs ("0*
-0
- (*
-1*¯
-1
-
- (Y
-W
-
-
- (
-
-%0bool"Shapes.Triangle.Border.get*!
-
-
- (
-Shapes.Triangle>
-<
-
-
- (
-%retbool"__id*
-
-
- (
-
-
-%0bool*
-2*-
-2
- ("
-
- (
+Shapes.Line.Dashed.get–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csQ Q("0*
+0Q Q(*
+1*c
+1Q
+ Q(O
+M
+Q
+ Q(
+%retbool"__id*-
+Q
+ Q(!*
+Shapes.Line"
+dashedbool*
+2*)
+2Q Q("
+Q Q(
 
-%retboolB
-Shapes.Triangle
+%retboolB
+Shapes.Line

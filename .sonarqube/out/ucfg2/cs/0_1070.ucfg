@@ -1,27 +1,21 @@
 
-Shapes.Quad.Color.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs± ±("0*
-0
-± ±(*
-1*‚
-1
-±
- ±(l
+Shapes.Triangle.C.get|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csv v("0*
+0v v(*
+1*€
+1v
+ v(l
 j
-
-±
- ±(
-%retUnityEngine.Color"__id*;
-
-±
- ±(-*+
-Shapes.Quad"
-colorUnityEngine.Color*
-2*:
-2
-± ±(")
-
-± ±(
-
-%retUnityEngine.ColorB
-Shapes.Quad
+v
+ v(
+%retUnityEngine.Vector3"__id*;
+v
+ v(/*-
+Shapes.Triangle"
+cUnityEngine.Vector3*
+2*8
+2v v(")
+v v(
+
+%retUnityEngine.Vector3B
+Shapes.Triangle

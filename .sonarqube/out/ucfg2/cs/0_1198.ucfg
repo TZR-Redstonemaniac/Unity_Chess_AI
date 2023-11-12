@@ -1,18 +1,35 @@
 
-9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSize.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csô& ô()"0*¬
+#Shapes.Draw.TorusThicknessSpace.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¿ ¿("0*
 0
-ô* ô(*¨
-¥
+¿ ¿(*
+1*ü
+1
+¿
+ ¿(\
+Z
 
-ô& ô(*`
-Shapes.MpbRegularPolygon"B
-Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"p
+¿
+ ¿(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyle‡
+„
 
-ô& ô(*b*`
-Shapes.MpbRegularPolygon"B
-Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+¿
+ ¿(
+%retShapes.ThicknessSpace"__id*Q
+
+¿
+ ¿(C*A
+
+%0Shapes.DrawStyle"'
+thicknessSpaceShapes.ThicknessSpace*
+2*>
+2
+¿ ¿("-
+
+¿ ¿(
+
+%retShapes.ThicknessSpaceB"
+Shapes.Draw

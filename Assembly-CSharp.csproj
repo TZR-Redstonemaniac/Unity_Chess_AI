@@ -45,22 +45,24 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.11f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Chess\Managers\FenManager.cs" />
-     <Compile Include="Assets\Scripts\Chess\Managers\GeneralManager.cs" />
-     <Compile Include="Assets\Scripts\Chess\Managers\MovementManager.cs" />
      <Compile Include="Assets\Scripts\Neural Network\PointGenerator.cs" />
-     <Compile Include="Assets\Scripts\Chess\Renderers\RenderPieces.cs" />
      <Compile Include="Assets\Scripts\Convenience\Converter.cs" />
+     <Compile Include="Assets\Scripts\Visualize.cs" />
+     <Compile Include="Assets\Scripts\Chess\Renderers\RenderPieces.cs" />
      <Compile Include="Assets\Scripts\Neural Network\Visualizer.cs" />
      <Compile Include="Assets\Scripts\Chess\Core\Board.cs" />
+     <Compile Include="Assets\Scripts\Chess\Managers\MovementManager.cs" />
+     <Compile Include="Assets\Scripts\Chess\Renderers\RenderBoard.cs" />
      <Compile Include="Assets\Scripts\Neural Network\NeuralNetwork.cs" />
+     <Compile Include="Assets\Scripts\Chess\Managers\FenManager.cs" />
+     <Compile Include="Assets\Scripts\Chess\Managers\GeneralManager.cs" />
      <Compile Include="Assets\Scripts\Neural Network\NetworkManager.cs" />
      <Compile Include="Assets\Scripts\Neural Network\Layer.cs" />
      <Compile Include="Assets\Scripts\SerializableDictionary\Example\SerializableDictionaryExample.cs" />
      <Compile Include="Assets\Scripts\SerializableDictionary\Example\UserSerializableDictionaries.cs" />
      <Compile Include="Assets\Scripts\Chess\Core\Piece.cs" />
-     <Compile Include="Assets\Scripts\Chess\Renderers\RenderBoard.cs" />
      <Compile Include="Assets\Scripts\SerializableDictionary\SerializableDictionary.cs" />
+     <Compile Include="Assets\AudioManager.cs" />
      <Folder Include="Assets" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle Darken.shader" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Rect Multiplicative.shader" />
@@ -89,7 +91,7 @@
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Polygon Additive.shader" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Cuboid ColorDodge.shader" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Line 2D ColorBurn.shader" />
-     <Folder Include="Assets\Scripts\Chess\Renderers\" />
+     <Folder Include="Assets\Scripts\Chess\Renderers" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Torus Transparent.shader" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Triangle Transparent.shader" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Line 3D Opaque.shader" />
@@ -140,6 +142,7 @@
      <None Include="Assets\Shapes\Shaders\Core\Polyline 2D Core.cginc" />
      <Folder Include="Assets\Textures\Neural Network" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Quad Opaque.shader" />
+     <Folder Include="Assets\Scripts\Chess" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Polyline 2D LinearBurn.shader" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Disc Transparent.shader" />
      <None Include="Assets\Shapes\Shaders\Core\Rect Core.cginc" />
@@ -191,6 +194,7 @@
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Disc Screen.shader" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Torus Multiplicative.shader" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Line 2D Multiplicative.shader" />
+     <Folder Include="Assets\Scripts\Chess\Managers" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Cuboid Transparent.shader" />
      <None Include="Assets\Shapes\Shaders\Generated Shaders\Resources\Line 3D ColorDodge.shader" />
      <Folder Include="Assets\Shapes\Shaders\Generated Shaders\Resources" />

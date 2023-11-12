@@ -1,33 +1,40 @@
 
-Shapes.Line.ColorEnd.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs? ?("0*
-0? ?(*
-1*ê
-1?
- ?(Kb
-`
-?9 ?(I.
-Shapes.Line"
-colorEndUnityEngine.Color"__id*
-
-valueUnityEngine.Colorñ
-î
-?
- ?(K
+Shapes.Disc.DashOffset.set–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs- -("0*
+0- -(*
+1*ª
+1-
+ -(U^
+\
+-; -(D
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStyleQ
+O
+-; -(S)
+
+%0Shapes.DashStyle"
+offsetfloat"__id*
+
+valuefloatâ
+ß
+-
+ -(U
 
-%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
-?
- ?(
-Shapes.Line*A
-? ?(75*3
-Shapes.ShapesMaterialUtils"
-propColorEndint*<
-?9 ?(I0*.
-Shapes.Line"
-colorEndUnityEngine.Color*
+%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+-
+ -(
+Shapes.Disc*C
+- -(97*5
+Shapes.ShapesMaterialUtils"
+propDashOffsetint*7
+-; -(S+*)
+
+%0Shapes.DashStyle"
+offsetfloat*
 2*.
-2?L ?(L"
-?K ?(L
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Line
+2-V -(V"
+-U -(V
+implicit return:
+valuefloatB
+Shapes.Disc

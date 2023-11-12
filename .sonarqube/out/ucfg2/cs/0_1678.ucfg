@@ -1,23 +1,61 @@
 
-4Shapes.ShapeRenderer.OnDidApplyAnimationProperties()É
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csÍ Í($"0*
+&Shapes.ShapeRenderer.ApplyProperties()É
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csó ó(("0*
 0
-Í Í(*
-1*å
+ó ó(*
+1*É
 1
-Í* Í(Gv
-t
+ò ö(4k
+i
 
-Í* Í(G
+ò ò(
 
-%0void"2Shapes.ShapeRenderer.UpdateAllMaterialProperties()*&
+%0void"'Shapes.ShapeRenderer.VerifyComponents()*&
 
-Í* Í(E
-Shapes.ShapeRenderer*
-2*2
+ò ò(
+Shapes.ShapeRenderer}
+{
+
+ô ô('
+%1!UnityEngine.MaterialPropertyBlock"Shapes.ShapeRenderer.Mpb.get*&
+
+ô ô(
+Shapes.ShapeRendererÈ
+Ê
+
+ô ô(
+
+%2void"HUnityEngine.Renderer.SetPropertyBlock(UnityEngine.MaterialPropertyBlock)*I
+
+ô ô(;*9
+Shapes.ShapeRenderer"
+rndUnityEngine.MeshRenderer*7
+
+ô ô()
+'
+%1!UnityEngine.MaterialPropertyBlockëé
+
+ö ö(
+%3Shapes.MeshUpdateMode"'Shapes.ShapeRenderer.MeshUpdateMode.get*&
+
+ö ö(
+Shapes.ShapeRenderer2MeshUpdateMode.get*
+2
+3*Å
 2
-ÍH Í(H"!
+õ õ(k
+i
 
-ÍG Í(H
+õ õ(
+
+%4void"'Shapes.ShapeRenderer.UpdateMeshBounds()*&
+
+õ õ(
+Shapes.ShapeRenderer*
+3*2
+3
+ú ú("!
+
+ú ú(
 implicit returnB
 Shapes.ShapeRenderer

@@ -3,8 +3,22 @@ Shader "Custom/RenderBoard"
     Properties
     {
         _MainTex("Texture", 2D) = "white" {}
+        
         _LightColor("Light Color", Color) = (0, 0, 0, 1)
+        _LightPickupColor("Light Pickup Color", Color) = (0, 0, 0, 1)
+        _LightDropColor("Light Drop Color", Color) = (0, 0, 0, 1)
+        
         _DarkColor("Dark Color", Color) = (0, 0, 0, 1)
+        _DarkPickupColor("Dark Pickup Color", Color) = (0, 0, 0, 1)
+        _DarkDropColor("Dark Drop Color", Color) = (0, 0, 0, 1)
+        
+        _Pickup("Pickup", int) = 0
+        _Drop("Drop", int) = 0
+        
+        _PickupMouseX("Pickup Mouse X", Float) = -1
+        _PickupMouseY("Pickup Mouse Y", Float) = -1
+        _DropMouseX("Drop Mouse X", Float) = -1
+        _DropMouseY("Drop Mouse Y", Float) = -1
     }
     SubShader
     {
@@ -36,8 +50,22 @@ Shader "Custom/RenderBoard"
             }
 
             int _SquareIndex = -1;
-            half4 _DarkColor;
+
+            float _PickupMouseX = -1;
+            float _PickupMouseY = -1;
+            float _DropMouseX = -1;
+            float _DropMouseY = -1;
+            
+            int _Pickup = 0;
+            int _Drop = 0;
+            
             half4 _LightColor;
+            half4 _LightPickupColor;
+            half4 _LightDropColor;
+            
+            half4 _DarkColor;
+            half4 _DarkPickupColor;
+            half4 _DarkDropColor;
 
             half4 frag(v2f i) : SV_Target
             {
@@ -58,11 +86,25 @@ Shader "Custom/RenderBoard"
                         const float yRegionEnd = (yIndex + 1) * regionSize / _ScreenParams.y - .0835;
 
                         // Check if the current pixel is within the specified region
-                        if (i.texcoord.x >= xRegionStart && i.texcoord.x < xRegionEnd && i.texcoord.y >= yRegionStart && i.texcoord.y < yRegionEnd) {
-                            // Check if the index is even or odd
-                            if (_SquareIndex % 2 != 0) return _DarkColor; //Dark color for odd regions
+                        if (i.texcoord.x >= xRegionStart && i.texcoord.x < xRegionEnd && i.texcoord.y >= yRegionStart
+                            && i.texcoord.y < yRegionEnd) {
+                            if (_PickupMouseX >= xRegionStart && _PickupMouseX < xRegionEnd && _PickupMouseY >= yRegionStart
+                                && _PickupMouseY < yRegionEnd && _Pickup > 0) {
+                                //Dark color for odd regions
+                                //Light color for even regions
+                                return _SquareIndex % 2 != 0 ? _DarkPickupColor : _LightPickupColor;
+                            }
+
+                            if (_DropMouseX >= xRegionStart && _DropMouseX < xRegionEnd && _DropMouseY >= yRegionStart
+                                && _DropMouseY < yRegionEnd && _Drop > 0) {
+                                //Dark color for odd regions
+                                //Light color for even regions
+                                return _SquareIndex % 2 != 0 ? _DarkDropColor : _LightDropColor;
+                            }
                             
-                            return _LightColor; //Light color for even regions
+                            //Dark color for odd regions
+                            //Light color for even regions
+                            return _SquareIndex % 2 != 0 ? _DarkColor : _LightColor; 
                         }
                     }
 

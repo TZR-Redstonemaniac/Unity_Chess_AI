@@ -1,38 +1,27 @@
 
-(Shapes.Draw.GradientFillRadialRadius.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csñ ñ("0*
+Shapes.Disc.AngRadiansStart.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs‡ ‡("0*
 0
-ñ ñ(*
-1*Ï
+‡ ‡(*
+1*t
 1
-ñ! ñ(@\
-Z
+‡
+ ‡(^
+\
 
-ñ! ñ(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyler
-p
+‡
+ ‡(
+%retfloat"__id*9
 
-ñ! ñ(3
-%1Shapes.GradientFill"__id*A?*=
-
-%0Shapes.DrawStyle"#
-gradientFillShapes.GradientFillg
-e
-
-ñ! ñ(@
-%retfloat"__id*B
-
-ñ! ñ(@4*2
-
-%1Shapes.GradientFill"
-radialRadiusfloat*
+‡
+ ‡(+*)
+Shapes.Disc"
+angRadiansStartfloat*
 2*.
 2
-ñA ñ(A"
+‡ ‡("
 
-ñ@ ñ(A
+‡ ‡(
 
-%retfloatB"
-Shapes.Draw
+%retfloatB
+Shapes.Disc

@@ -1,29 +1,130 @@
 
-5Shapes.AngularUnitExtensions.Name(Shapes.AngularUnit)
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\AngularUnit.cs ("0*
-0 (*
-1*ù
-18 (O»
-≈
-8 (O
-%0string"7System.Collections.Generic.ICollection<T>.this[int].get*H
-8 (D<*:
-Shapes.AngularUnitExtensions"
-angUnitNamesstring[]*(
-E (N
-
-unitShapes.AngularUnit>
-<
-8 (O
-%retstring"__id*
-8 (O
-
-%0string*
-2*+
-2P (P"
-O (P
-
-%retstring:&
- (2
-unitShapes.AngularUnitB "
-Shapes.AngularUnitExtensions
+)Shapes.MpbTorus.TransferShapeProperties()á
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csü ü(1"0*
+0
+ü ü(*
+1*ç
+1
+† ¶(Fú
+ô
+
+† †(7
+
+%0void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*!
+
+† †(
+Shapes.MpbTorus*A
+
+† †(+3*1
+Shapes.ShapesMaterialUtils"
+
+propAngEndint*S
+
+†- †(5E*C
+Shapes.MpbTorus".
+angleEnd"System.Collections.Generic.List<T>†
+ù
+
+° °(;
+
+%1void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*!
+
+° °(
+Shapes.MpbTorus*C
+
+° °(-5*3
+Shapes.ShapesMaterialUtils"
+propAngStartint*U
+
+°/ °(9G*E
+Shapes.MpbTorus"0
+
+angleStart"System.Collections.Generic.List<T>ö
+ó
+
+¢ ¢(5
+
+%2void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*!
+
+¢ ¢(
+Shapes.MpbTorus*A
+
+¢ ¢(+3*1
+Shapes.ShapesMaterialUtils"
+
+propRadiusint*Q
+
+¢- ¢(3C*A
+Shapes.MpbTorus",
+radius"System.Collections.Generic.List<T>§
+°
+
+£ £(?
+
+%3void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*!
+
+£ £(
+Shapes.MpbTorus*F
+
+£ £(08*6
+Shapes.ShapesMaterialUtils"
+propRadiusSpaceint*V
+
+£2 £(=H*F
+Shapes.MpbTorus"1
+radiusSpace"System.Collections.Generic.List<T>†
+ù
+
+§ §(;
+
+%4void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*!
+
+§ §(
+Shapes.MpbTorus*D
+
+§ §(.6*4
+Shapes.ShapesMaterialUtils"
+propScaleModeint*T
+
+§0 §(9F*D
+Shapes.MpbTorus"/
+	scaleMode"System.Collections.Generic.List<T>†
+ù
+
+• •(;
+
+%5void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*!
+
+• •(
+Shapes.MpbTorus*D
+
+• •(.6*4
+Shapes.ShapesMaterialUtils"
+propThicknessint*T
+
+•0 •(9F*D
+Shapes.MpbTorus"/
+	thickness"System.Collections.Generic.List<T>™
+ß
+
+¶ ¶(E
+
+%6void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*!
+
+¶ ¶(
+Shapes.MpbTorus*I
+
+¶ ¶(3;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*Y
+
+¶5 ¶(CK*I
+Shapes.MpbTorus"4
+thicknessSpace"System.Collections.Generic.List<T>*
+2*2
+2
+ß ß("!
+
+ß ß(
+implicit returnB
+Shapes.MpbTorus

@@ -1,33 +1,50 @@
 
-Shapes.Line.ColorStart.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs9 9("0*
-09 9(*
-1*á
-19
- 9(E_
-]
-96 9(C+
-Shapes.Line"
-colorUnityEngine.Color"__id*
-
-valueUnityEngine.Colorë
-è
-9
- 9(E
+Shapes.Rectangle.DashOffset.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csô ô("0*
+0
+ô ô(*
+1*Â
+1
+ô
+ ô(Ue
+c
 
-%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
-9
- 9(
-Shapes.Line*>
-9 9(42*0
-Shapes.ShapesMaterialUtils"
-	propColorint*9
-96 9(C-*+
-Shapes.Line"
-colorUnityEngine.Color*
-2*.
-29F 9(F"
-9E 9(F
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Line
+ô; ô(D
+%0Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStyleS
+Q
+
+ô; ô(S)
+
+%0Shapes.DashStyle"
+offsetfloat"__id*
+
+valuefloatï
+ì
+
+ô
+ ô(U
+
+%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*"
+
+ô
+ ô(
+Shapes.Rectangle*E
+
+ô ô(97*5
+Shapes.ShapesMaterialUtils"
+propDashOffsetint*9
+
+ô; ô(S+*)
+
+%0Shapes.DashStyle"
+offsetfloat*
+2*2
+2
+ôV ô(V"!
+
+ôU ô(V
+implicit return:
+valuefloatB
+Shapes.Rectangle

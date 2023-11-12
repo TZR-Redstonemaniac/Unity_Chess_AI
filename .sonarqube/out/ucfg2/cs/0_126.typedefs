@@ -1,77 +1,0 @@
-ò
-Shapes.DiscShapes.ShapeRendererUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectShapes.IDashable<
-SetAllDashValues(bool)"Shapes.Disc.SetAllDashValues(bool)6
-GetNetDashSpacing()Shapes.Disc.GetNetDashSpacing()D
-SetAllMaterialProperties()&Shapes.Disc.SetAllMaterialProperties()4
-ShapeClampRanges()Shapes.Disc.ShapeClampRanges(),
-GetMaterials()Shapes.Disc.GetMaterials()8
-GetBounds_Internal() Shapes.Disc.GetBounds_Internal()
-Disc()Shapes.Disc.Disc()D
-MatchDashSpacingToSize.get&Shapes.Disc.MatchDashSpacingToSize.getD
-MatchDashSpacingToSize.set&Shapes.Disc.MatchDashSpacingToSize.set$
-
-Dashed.getShapes.Disc.Dashed.get$
-
-Dashed.setShapes.Disc.Dashed.set(
-DashSize.getShapes.Disc.DashSize.get(
-DashSize.setShapes.Disc.DashSize.set.
-DashSpacing.getShapes.Disc.DashSpacing.get.
-DashSpacing.setShapes.Disc.DashSpacing.set,
-DashOffset.getShapes.Disc.DashOffset.get,
-DashOffset.setShapes.Disc.DashOffset.set*
-DashSpace.getShapes.Disc.DashSpace.get*
-DashSpace.setShapes.Disc.DashSpace.set(
-DashSnap.getShapes.Disc.DashSnap.get(
-DashSnap.setShapes.Disc.DashSnap.set(
-DashType.getShapes.Disc.DashType.get(
-DashType.setShapes.Disc.DashType.set:
-DashShapeModifier.get!Shapes.Disc.DashShapeModifier.get:
-DashShapeModifier.set!Shapes.Disc.DashShapeModifier.set0
-HasThickness.getShapes.Disc.HasThickness.get0
-HasThickness.setShapes.Disc.HasThickness.set*
-HasSector.getShapes.Disc.HasSector.get*
-HasSector.setShapes.Disc.HasSector.set 
-Type.getShapes.Disc.Type.get 
-Type.setShapes.Disc.Type.set*
-ColorMode.getShapes.Disc.ColorMode.get*
-ColorMode.setShapes.Disc.ColorMode.set"
-	Color.getShapes.Disc.Color.get"
-	Color.setShapes.Disc.Color.set6
-ColorInnerStart.getShapes.Disc.ColorInnerStart.get6
-ColorInnerStart.setShapes.Disc.ColorInnerStart.set6
-ColorOuterStart.getShapes.Disc.ColorOuterStart.get6
-ColorOuterStart.setShapes.Disc.ColorOuterStart.set2
-ColorInnerEnd.getShapes.Disc.ColorInnerEnd.get2
-ColorInnerEnd.setShapes.Disc.ColorInnerEnd.set2
-ColorOuterEnd.getShapes.Disc.ColorOuterEnd.get2
-ColorOuterEnd.setShapes.Disc.ColorOuterEnd.set,
-ColorOuter.getShapes.Disc.ColorOuter.get,
-ColorOuter.setShapes.Disc.ColorOuter.set,
-ColorInner.getShapes.Disc.ColorInner.get,
-ColorInner.setShapes.Disc.ColorInner.set,
-ColorStart.getShapes.Disc.ColorStart.get,
-ColorStart.setShapes.Disc.ColorStart.set(
-ColorEnd.getShapes.Disc.ColorEnd.get(
-ColorEnd.setShapes.Disc.ColorEnd.set(
-Geometry.getShapes.Disc.Geometry.get(
-Geometry.setShapes.Disc.Geometry.set6
-AngRadiansStart.getShapes.Disc.AngRadiansStart.get6
-AngRadiansStart.setShapes.Disc.AngRadiansStart.set2
-AngRadiansEnd.getShapes.Disc.AngRadiansEnd.get2
-AngRadiansEnd.setShapes.Disc.AngRadiansEnd.set$
-
-Radius.getShapes.Disc.Radius.get$
-
-Radius.setShapes.Disc.Radius.set.
-RadiusSpace.getShapes.Disc.RadiusSpace.get.
-RadiusSpace.setShapes.Disc.RadiusSpace.set.
-RadiusInner.getShapes.Disc.RadiusInner.get.
-RadiusInner.setShapes.Disc.RadiusInner.set*
-Thickness.getShapes.Disc.Thickness.get*
-Thickness.setShapes.Disc.Thickness.set4
-ThicknessSpace.getShapes.Disc.ThicknessSpace.get4
-ThicknessSpace.setShapes.Disc.ThicknessSpace.set,
-ArcEndCaps.getShapes.Disc.ArcEndCaps.get,
-ArcEndCaps.setShapes.Disc.ArcEndCaps.set6
-HasDetailLevels.getShapes.Disc.HasDetailLevels.get6
-HasDetailLevels.setShapes.Disc.HasDetailLevels.set

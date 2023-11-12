@@ -1,15 +1,38 @@
 
-/Shapes.MpbDisc.Shapes.IDashableMpb.dashSnap.set…
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs6& 6()"0*’
-06* 6(*œ
-™
-6& 6(*V
-Shapes.MpbDisc"B
-Shapes.IDashableMpb.dashSnap"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"d
-6& 6(*X*V
-Shapes.MpbDisc"B
-Shapes.IDashableMpb.dashSnap"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbDisc
+Shapes.Draw.Font.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csõ õ("0*
+0
+õ õ(*
+1*×
+1
+õ! õ(5\
+Z
+
+õ! õ(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+õ! õ(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStylex
+v
+
+õ! õ(5
+%retTMPro.TMP_FontAsset"__id*E
+
+õ! õ(57*5
+
+%1Shapes.TextStyle"
+fontTMPro.TMP_FontAsset*
+2*<
+2
+õ6 õ(6"+
+
+õ5 õ(6
+
+%retTMPro.TMP_FontAssetB"
+Shapes.Draw

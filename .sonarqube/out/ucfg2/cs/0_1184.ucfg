@@ -1,33 +1,21 @@
 
- Shapes.Draw.TorusRadiusSpace.setà
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs∆ ∆("0*
-0
-∆ ∆(*
-1*Ï
-1
-∆
- ∆(#\
-Z
-
-∆
- ∆(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylex
-v
-
-∆
- ∆(#>
-
-%0Shapes.DrawStyle"$
-radiusSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpace*
-2*2
-2
-∆$ ∆($"!
-
-∆# ∆($
-implicit return: 
-valueShapes.ThicknessSpaceB"
-Shapes.Draw
+$Shapes.ShapeRenderer.RenderQueue.getÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csX X("0*
+0X X(*
+1*o
+1X
+ X([
+Y
+X
+ X(
+%retint"__id*:
+X
+ X(.*,
+Shapes.ShapeRenderer"
+renderQueueint*
+2*(
+2X X("
+X X(
+
+%retintB
+Shapes.ShapeRenderer

@@ -1,21 +1,35 @@
 
-Shapes.Line.Thickness.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.csP P("0*
-0P P(*
-1*h
-1P
- P(T
-R
-P
- P(
-%retfloat"__id*1
-P
- P(%*#
-Shapes.Line"
-	thicknessfloat*
-2**
-2P P("
-P P(
+Shapes.Rectangle.DashType.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs‚ ‚("0*
+0
+‚ ‚(*
+1*í
+1
+‚
+ ‚(e
+c
 
-%retfloatB
-Shapes.Line
+‚
+ ‚(
+%0Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStylep
+n
+
+‚
+ ‚(
+%retShapes.DashType"__id*A
+
+‚
+ ‚(3*1
+
+%0Shapes.DashStyle"
+typeShapes.DashType*
+2*8
+2
+‚ ‚("'
+
+‚ ‚(
+
+%retShapes.DashTypeB
+Shapes.Rectangle

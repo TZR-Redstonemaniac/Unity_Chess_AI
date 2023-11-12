@@ -1,7 +1,9 @@
-è
-Shapes.CrosshairUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject!
-Fire()Shapes.Crosshair.Fire()'
-	FireHit()Shapes.Crosshair.FireHit()A
-UpdateCrosshairDecay()'Shapes.Crosshair.UpdateCrosshairDecay()3
-DrawCrosshair() Shapes.Crosshair.DrawCrosshair()+
-Crosshair()Shapes.Crosshair.Crosshair()
+³
+Shapes.IMColorPickerInteractionUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject4
+Update()(Shapes.IMColorPickerInteraction.Update():
+OnDisable()+Shapes.IMColorPickerInteraction.OnDisable()ˆ
+2RaycastInteract(UnityEngine.Ray, bool, bool, bool)RShapes.IMColorPickerInteraction.RaycastInteract(UnityEngine.Ray, bool, bool, bool)p
+&UpdatePickerColor(UnityEngine.Vector2)FShapes.IMColorPickerInteraction.UpdatePickerColor(UnityEngine.Vector2)r
+'GetPickerElementAt(UnityEngine.Vector2)GShapes.IMColorPickerInteraction.GetPickerElementAt(UnityEngine.Vector2)n
+%HueStripContains(UnityEngine.Vector2)EShapes.IMColorPickerInteraction.HueStripContains(UnityEngine.Vector2)X
+IMColorPickerInteraction():Shapes.IMColorPickerInteraction.IMColorPickerInteraction()

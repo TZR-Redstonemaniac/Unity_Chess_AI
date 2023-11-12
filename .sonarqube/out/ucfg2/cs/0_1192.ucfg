@@ -1,21 +1,27 @@
 
-$Shapes.ShapeRenderer.RenderQueue.getÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csX X("0*
-0X X(*
-1*o
-1X
- X([
-Y
-X
- X(
-%retint"__id*:
-X
- X(.*,
-Shapes.ShapeRenderer"
-renderQueueint*
-2*(
-2X X("
-X X(
-
-%retintB
-Shapes.ShapeRenderer
+Shapes.Quad.ColorLeft.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csª ª("0*
+0
+ª ª(*
+1*Ç
+1
+ª
+ ª(l
+j
+
+ª
+ ª(
+%retUnityEngine.Color"__id*;
+
+ª
+ ª(-*+
+Shapes.Quad"
+colorUnityEngine.Color*
+2*:
+2
+ª ª(")
+
+ª ª(
+
+%retUnityEngine.ColorB
+Shapes.Quad

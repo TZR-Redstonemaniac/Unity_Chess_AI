@@ -1,21 +1,15 @@
 
-Shapes.Polyline.Geometry.get|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.cs! !("0*
-0! !(*
-1*è
-1!
- !({
-y
-!
- !(
-%retShapes.PolylineGeometry"__id*F
-!
- !(:*8
-Shapes.Polyline"#
-geometryShapes.PolylineGeometry*
-2*<
-2! !("-
-! !(!
-
-%retShapes.PolylineGeometryB
-Shapes.Polyline
+4Shapes.MpbLine2D.Shapes.IDashableMpb.dashSpacing.setÖ
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs\) \(,"0*ú
+0\- \(-°
+û
+\) \(-[
+Shapes.MpbLine2D"E
+Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"i
+\) \(-]*[
+Shapes.MpbLine2D"E
+Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbLine2D

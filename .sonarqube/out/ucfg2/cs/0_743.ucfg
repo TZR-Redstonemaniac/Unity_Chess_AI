@@ -1,30 +1,13 @@
 
-$Shapes.Draw.PolygonTriangulation.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÉ É("0*
-0
-É É(*
-1*ƒ
-1
-É! É(C\
-Z
-
-É! É(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleŽ
-‹
-
-É! É(CM
-
-%0Shapes.DrawStyle"3
-polygonTriangulationShapes.PolygonTriangulation"__id*(&
-$
-valueShapes.PolygonTriangulation*
-2*2
-2
-ÉD É(D"!
-
-ÉC É(D
-implicit return:&$
-valueShapes.PolygonTriangulationB"
-Shapes.Draw
+:Shapes.MpbLine2D.Shapes.IDashableMpb.dashShapeModifier.get…
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csX/ X(2"0*ì
+0X3 X(3¤
+¡
+X/ X(3(
+%0"System.Collections.Generic.List<T>"__id*ec*a
+Shapes.MpbLine2D"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"6
+X/ X(3*
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbLine2D

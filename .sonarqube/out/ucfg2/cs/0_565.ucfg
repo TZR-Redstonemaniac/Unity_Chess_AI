@@ -1,21 +1,30 @@
 
-&Shapes.Line.MatchDashSpacingToSize.get–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csI I("0*
-0I I(*
-1*s
-1I
- I( _
-]
-I
- I( 
-%retbool"__id*=
-I
- I( 1*/
-Shapes.Line"
-matchDashSpacingToSizebool*
-2*)
-2I! I(!"
-I  I(!
-
-%retboolB
-Shapes.Line
+Shapes.Draw.GradientFill.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÂ Â("0*
+0
+Â Â(*
+1*é
+1
+Â! Â(;\
+Z
+
+Â! Â(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleu
+s
+
+Â! Â(;=
+
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFill"__id* 
+
+valueShapes.GradientFill*
+2*2
+2
+Â< Â(<"!
+
+Â; Â(<
+implicit return:
+valueShapes.GradientFillB"
+Shapes.Draw

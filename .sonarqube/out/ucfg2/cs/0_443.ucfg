@@ -1,47 +1,27 @@
 
-)Shapes.RegularPolygon.GetNetDashSpacing()ò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csê ê("0*
+Shapes.Rectangle.Fill.getò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csé é("0*
 0
-ê ê(*
-1*˙
+é é(*
+1*ä
 1
-ê ê(h°
-û
+é
+ é(t
+r
 
-ê ê(h
-%0float"KShapes.ShapeRenderer.GetNetDashSpacing(Shapes.DashStyle, bool, bool, float)*'
+é
+ é(
+%retShapes.GradientFill"__id*A
 
-ê ê(0
-Shapes.RegularPolygon*H
-
-ê2 ê(;:*8
-Shapes.RegularPolygon"
-	dashStyleShapes.DashStyle*9
-
-ê= ê(C+*)
-Shapes.RegularPolygon"
-dashedbool*I
-
-êE ê([;*9
-Shapes.RegularPolygon"
-matchDashSpacingToSizebool*=
-
-ê] ê(f/*-
-Shapes.RegularPolygon"
-	thicknessfloat@
->
-
-ê ê(h
-%retfloat"__id*
-
-ê ê(h
-
-%0float*
-2*.
+é
+ é(3*1
+Shapes.Rectangle"
+fillShapes.GradientFill*
+2*<
 2
-êi ê(i"
+é é("+
 
-êh ê(i
-
-%retfloatB
-Shapes.RegularPolygon
+é é(
+
+%retShapes.GradientFillB
+Shapes.Rectangle

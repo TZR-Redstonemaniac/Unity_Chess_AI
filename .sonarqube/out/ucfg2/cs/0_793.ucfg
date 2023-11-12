@@ -1,56 +1,41 @@
 
-%Shapes.ShapesTextPool.GetElement(int)}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesTextPool.cs? ?("0*
-0? ?(*
-1*´
-1@ @(Eì
-ê
-@ @(<
+<Shapes.DisposableMesh.ReleaseFromCommand(Shapes.DrawCommand)Ü
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DisposableMesh.cs2 2(""0*
+02 2(*
+1*ù
+13 4( ÷
+”
+3 3(
 
-%0bool"GSystem.Collections.Generic.ICollection<T>.TryGetValue(TKey, out TValue)*n
-@ @(b*`
-Shapes.ShapesTextPool"E
-elementsActive3System.Collections.Generic.Dictionary<TKey, TValue>*
-@# @(%
-	
-idint*&
-@' @(:
-
-tmpTMPro.TextMeshPro*
-2
-3*Ú
-2A A( í
-è
-A
- A(
-%1TMPro.TextMeshPro"*Shapes.ShapesTextPool.AllocateElement(int)*%
-A
- A(
-Shapes.ShapesTextPool*
-A A(
-	
-idintI
-G
-A A(
-tmpTMPro.TextMeshPro"__id*
-
-%1TMPro.TextMeshPro*
-3*i
-3B
- B(U
-S
-B
- B(
-%retTMPro.TextMeshPro"__id*&
-B
- B(
-
-tmpTMPro.TextMeshPro*
-4*6
-4C C("'
-C C(
+%0bool"3System.Collections.Generic.ICollection<T>.Remove(T)*]
+3 3(Q*O
+Shapes.DisposableMesh"4
+usedByCommands"System.Collections.Generic.List<T>*'
+3 3(
 
-%retTMPro.TextMeshPro:
-?! ?('	
-idintB
-Shapes.ShapesTextPool
+cmdShapes.DrawCommand¨
+©
+4 4(	
+%1int"3System.Collections.Generic.ICollection<T>.Count.get*]
+4 4(Q*O
+Shapes.DisposableMesh"4
+usedByCommands"System.Collections.Generic.List<T>*
+2
+4*
+24$ 4(<*
+3
+4*t
+35 5(`
+^
+5 5(
+
+%2void"Shapes.DisposableMesh.Dispose()*%
+5 5(
+Shapes.DisposableMesh*
+4*.
+46 6("
+6 6(
+implicit return:%
+2$ 2(3
+cmdShapes.DrawCommandB
+Shapes.DisposableMesh

@@ -1,15 +1,30 @@
 
-4Shapes.MpbLine2D.Shapes.IDashableMpb.dashSpacing.set…
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs\) \(,"0*œ
-0\- \(-¡
-ž
-\) \(-[
-Shapes.MpbLine2D"E
-Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"i
-\) \(-]*[
-Shapes.MpbLine2D"E
-Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbLine2D
+&Shapes.Draw.RegularPolygonGeometry.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csç ç("0*
+0
+ç ç(*
+1*‰
+1
+ç! ç(E\
+Z
+
+ç! ç(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyle”
+‘
+
+ç! ç(EQ
+
+%0Shapes.DrawStyle"7
+regularPolygonGeometryShapes.RegularPolygonGeometry"__id**(
+&
+valueShapes.RegularPolygonGeometry*
+2*2
+2
+çF ç(F"!
+
+çE ç(F
+implicit return:(&
+valueShapes.RegularPolygonGeometryB"
+Shapes.Draw

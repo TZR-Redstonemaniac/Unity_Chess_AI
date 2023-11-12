@@ -1,33 +1,35 @@
 
-!Shapes.Draw.TriangleThickness.setà
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¢ ¢("0*
-0
-¢ ¢(*
-1* 
-1
-¢
- ¢(!\
-Z
+!Shapes.PointPath<T>.this[int].getÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PointPath.cs ("0*
+0 (*
+1*Ö
+1
+ (∫
+∑
+
+ (
+%0T"7System.Collections.Generic.ICollection<T>.this[int].get*Q
+
+ (E*C
+Shapes.PointPath<T>"*
+path"System.Collections.Generic.List<T>*
+ (
 
-¢
- ¢(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleV
-T
-
-¢
- ¢(!,
-
-%0Shapes.DrawStyle"
-	thicknessfloat"__id*
-
-valuefloat*
-2*2
-2
-¢" ¢(""!
-
-¢! ¢("
-implicit return:
-valuefloatB"
-Shapes.Draw
+
+iint4
+2
+
+ (	
+%retT"__id*
+
+ (	
+
+%0T*
+2*&
+2 ("
+ (
+	
+%retT:
+
+iintB
+Shapes.PointPath<T>

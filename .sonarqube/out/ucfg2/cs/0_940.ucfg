@@ -1,18 +1,106 @@
 
-3Shapes.MpbTriangle.Shapes.IDashableMpb.dashType.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs¿& ¿()"0* 
-0
-¿* ¿(*¢
-Ÿ
-
-¿& ¿(*Z
-Shapes.MpbTriangle"B
-Shapes.IDashableMpb.dashType"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"j
-
-¿& ¿(*\*Z
-Shapes.MpbTriangle"B
-Shapes.IDashableMpb.dashType"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbTriangle
+Shapes.Quad.this[int].getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs   ("0*
+0   (*
+1*M
+1! "(6
+4
+! !(
+	%capture0int"__id*
+
+indexint*
+2
+3*Æ
+2" "(W
+U
+" "(
+%0UnityEngine.Vector3"Shapes.Quad.A.get*
+" "(
+Shapes.QuadX
+V
+" "(
+%retUnityEngine.Vector3"__id*'
+" "(
+
+%0UnityEngine.Vector3*
+10*
+3#
+ #(*
+4
+5*Æ
+4# #(W
+U
+# #(
+%1UnityEngine.Vector3"Shapes.Quad.B.get*
+# #(
+Shapes.QuadX
+V
+# #(
+%retUnityEngine.Vector3"__id*'
+# #(
+
+%1UnityEngine.Vector3*
+10*
+5$
+ $(*
+6
+7*Æ
+6$ $(W
+U
+$ $(
+%2UnityEngine.Vector3"Shapes.Quad.C.get*
+$ $(
+Shapes.QuadX
+V
+$ $(
+%retUnityEngine.Vector3"__id*'
+$ $(
+
+%2UnityEngine.Vector3*
+10*
+7%
+ %(*
+8
+9*Æ
+8% %(W
+U
+% %(
+%3UnityEngine.Vector3"Shapes.Quad.D.get*
+% %(
+Shapes.QuadX
+V
+% %(
+%retUnityEngine.Vector3"__id*'
+% %(
+
+%3UnityEngine.Vector3*
+10*ï
+9' '(w”
+‘
+'* '(u
+%4string"__concat*Q
+', '(mEC
+AQuad only has four vertices, 0 to 3, you tried to access element *
+'m '(t
+
+indexintTR
+' '(w%
+%5System.IndexOutOfRangeException"System.IndexOutOfRangeExceptionÇ
+Ä
+' '(w%
+%6System.IndexOutOfRangeException"@System.IndexOutOfRangeException.IndexOutOfRangeException(string)*3
+' '(w'
+%
+%5System.IndexOutOfRangeException*
+'* '(u
+
+%4string")
+) )(
+
+%retUnityEngine.Vector3*9
+10) )(")
+) )(
+
+%retUnityEngine.Vector3:
+indexintB
+Shapes.Quad

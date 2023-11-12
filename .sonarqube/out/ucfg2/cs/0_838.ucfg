@@ -1,13 +1,42 @@
 
-2Shapes.MpbLine2D.Shapes.IDashableMpb.dashSpace.get…
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs[' [(*"0*ä
-0[+ [(+œ
-™
-[' [(+(
-%0"System.Collections.Generic.List<T>"__id*][*Y
-Shapes.MpbLine2D"C
-Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>"6
-[' [(+*
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbLine2D
+#Shapes.Rectangle.ThicknessSpace.set
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.cs‰ ‰("0*
+0
+‰ ‰(*
+1*“
+1
+‰
+ ‰(^w
+u
+
+‰D ‰(Z=
+Shapes.Rectangle"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpaceƒ
+€
+
+‰
+ ‰(^
+
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*"
+
+‰
+ ‰(
+Shapes.Rectangle*I
+
+‰ ‰(;;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*M
+
+‰= ‰(\?*=
+Shapes.Rectangle"'
+thicknessSpaceShapes.ThicknessSpace*
+2*2
+2
+‰_ ‰(_"!
+
+‰^ ‰(_
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.Rectangle

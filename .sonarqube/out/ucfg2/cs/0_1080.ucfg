@@ -1,33 +1,43 @@
 
-'Shapes.Draw.RegularPolygonThickness.setà
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÑ Ñ("0*
-0
-Ñ Ñ(*
-1* 
-1
-Ñ
- Ñ(!\
-Z
+'Shapes.ShapeRenderer.SortingLayerID.getÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs# #("0*
+0# #(*
+1*∑
+1#
+ #(B¯
+ı
+#
+ #(3
+%1UnityEngine.MeshRenderer"@Shapes.ShapeRenderer.MakeSureComponentExists<T>(ref T, out bool)*$
+#
+ #(!
+Shapes.ShapeRenderer*G
+## #(*;*9
+Shapes.ShapeRenderer"
+rndUnityEngine.MeshRenderer*
+#, #(1
 
-Ñ
- Ñ(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleV
-T
 
-Ñ
- Ñ(!,
-
-%0Shapes.DrawStyle"
-	thicknessfloat"__id*
-
-valuefloat*
-2*2
-2
-Ñ" Ñ(""!
-
-Ñ! Ñ("
-implicit return:
-valuefloatB"
-Shapes.Draw
+%0booln
+l
+#
+ #(B	
+%2int"'UnityEngine.Renderer.sortingLayerID.get*,
+#
+ #(3 
+
+%1UnityEngine.MeshRenderer8
+6
+#
+ #(B
+%retint"__id*
+#
+ #(B
+	
+%2int*
+2*(
+2#C #(C"
+#B #(C
+
+%retintB
+Shapes.ShapeRenderer

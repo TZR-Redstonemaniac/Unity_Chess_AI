@@ -1,31 +1,15 @@
 
-Shapes.Polygon.Fill.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs‰ ‰("0*
-0
-‰ ‰(*
-1*ß
-1
-Š ‹(g
-e
+Shapes.ShapeGroup.IsEnabled.get~
+tC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeGroup.cs ("0*u
+0  ( L
+J
+ ( 
 
-Š Š(/
-Shapes.Polygon"
-fillShapes.GradientFill"__id* 
-
-valueShapes.GradientFill`
-^
+%0bool"__id*,**(
+Shapes.ShapeGroup"
+	IsEnabledbool"
+ ( 
 
-‹ ‹(
 
-%0void""Shapes.Polygon.SetFillProperties()* 
-
-‹ ‹(
-Shapes.Polygon*
-2*2
-2
-Œ Œ("!
-
-Œ Œ(
-implicit return:
-valueShapes.GradientFillB
-Shapes.Polygon
+%0boolB
+Shapes.ShapeGroup

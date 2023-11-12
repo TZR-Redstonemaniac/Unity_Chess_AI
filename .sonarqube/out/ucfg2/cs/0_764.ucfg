@@ -1,28 +1,13 @@
 
-Shapes.Rectangle.Radius.get}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csa a("0*
-0a a(*
-1*°
-1a
- a(^
-\
-a
- a(
-%0float"!Shapes.Rectangle.CornerRadius.get* 
-a
- a(
-Shapes.Rectangle<
-:
-a
- a(
-%retfloat"__id*
-a
- a(
-
-%0float*
-2**
-2a a("
-a a(
-
-%retfloatB
-Shapes.Rectangle
+2Shapes.MpbLine2D.Shapes.IDashableMpb.dashSpace.get…
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs[' [(*"0*ä
+0[+ [(+œ
+™
+[' [(+(
+%0"System.Collections.Generic.List<T>"__id*][*Y
+Shapes.MpbLine2D"C
+Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>"6
+[' [(+*
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbLine2D

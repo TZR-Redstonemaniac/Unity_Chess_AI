@@ -1,21 +1,35 @@
 
-Shapes.Rectangle.Width.get}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.cs: :("0*
-0: :(*
-1*i
-1:
- :(U
-S
-:
- :(
-%retfloat"__id*2
-:
- :(&*$
-Shapes.Rectangle"
-widthfloat*
-2**
-2: :("
-: :(
+*Shapes.MpbCuboid.TransferShapeProperties()…
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs (1"0*
+0 (*
+1*Ð
+1 (<ž
+›
+ (1
 
-%retfloatB
-Shapes.Rectangle
+%0void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
+ (
+Shapes.MpbCuboid*=
+ ()1*/
+Shapes.ShapesMaterialUtils"
+propSizeint*N
++ (/B*@
+Shapes.MpbCuboid"*
+size"System.Collections.Generic.List<T>š
+—
+ (;
+
+%1void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)* 
+ (
+Shapes.MpbCuboid*B
+ (.6*4
+Shapes.ShapesMaterialUtils"
+propSizeSpaceint*S
+0 (9G*E
+Shapes.MpbCuboid"/
+	sizeSpace"System.Collections.Generic.List<T>*
+2*.
+2 ("
+ (
+implicit returnB
+Shapes.MpbCuboid

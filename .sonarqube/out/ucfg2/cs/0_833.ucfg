@@ -1,21 +1,18 @@
 
- Shapes.Rectangle.CornerRadii.get}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csp p("0*
-0p p(*
-1*ã
-1p
- p(w
-u
-p
- p(
-%retUnityEngine.Vector4"__id*F
-p
- p(:*8
-Shapes.Rectangle""
-cornerRadiiUnityEngine.Vector4*
-2*8
-2p p(")
-p p(
-
-%retUnityEngine.Vector4B
-Shapes.Rectangle
+2Shapes.MpbPolygon.Shapes.IFillableMpb.fillType.setá
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csè& è()"0*û
+0
+è* è(*°
+û
+
+è& è(*Y
+Shapes.MpbPolygon"B
+Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"i
+
+è& è(*[*Y
+Shapes.MpbPolygon"B
+Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbPolygon

@@ -1,35 +1,33 @@
 
-Shapes.Draw.ConeSizeSpace.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csË Ë("0*
+Shapes.Draw.CuboidSizeSpace.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csº º("0*
 0
-Ë Ë(*
-1*ö
+º º(*
+1*ê
 1
-Ë
- Ë(\
+º
+ º(!\
 Z
 
-Ë
- Ë(
+º
+ º(
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStyle
-
+styleShapes.DrawStylev
+t
 
-Ë
- Ë(
-%retShapes.ThicknessSpace"__id*L
-
-Ë
- Ë(>*<
+º
+ º(!<
 
 %0Shapes.DrawStyle""
-	sizeSpaceShapes.ThicknessSpace*
-2*>
+	sizeSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpace*
+2*2
 2
-Ë Ë("-
+º" º(""!
 
-Ë Ë(
-
-%retShapes.ThicknessSpaceB"
+º! º("
+implicit return: 
+valueShapes.ThicknessSpaceB"
 Shapes.Draw

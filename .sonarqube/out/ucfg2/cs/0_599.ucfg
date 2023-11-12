@@ -1,76 +1,24 @@
 
-Shapes.Line.DashSize.set–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csZ Z("0*
-0Z Z(*
-1*ð
-1[ ](^
-\
-[ [(
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStyleO
-M
-[ [('
-
-%0Shapes.DashStyle"
-sizefloat"__id*
-
-valuefloatì
-é
-\ \(I
-%1float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*<
-\ \(!0*.
-Shapes.Line"
-	dashStyleShapes.DashStyle*-
-\6 \(<!*
-Shapes.Line"
-dashedbool*1
-\> \(G%*#
-Shapes.Line"
-	thicknessfloat9
-7
-\
- \(I
-netDashSizefloat"__id*
-
-%1float*
-2
-3*°
-2^ ^(JW
-U
-^4 ^(G
-%2float"Shapes.Line.GetNetDashSpacing()*
-^4 ^(E
-Shapes.LineÂ
-¿
-^ ^(I
+Shapes.ObjectPool<T>.Free(T)
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs ("0*
+0 (*
+1*Î
+1& (6¹
+¶
+& (6
 
-%3void")Shapes.ShapeRenderer.SetFloat(int, float)*
-^ ^(
-Shapes.Line*D
-^ ^(28*6
-Shapes.ShapesMaterialUtils"
-propDashSpacingint*
-^4 ^(G
-
-%2float*
-3*à
-3_ _(AË
-È
-_ _(@
+%0void"1System.Collections.Generic.ICollection<T>.Push(T)*S
+& (*G*E
+Shapes.ObjectPool<T>"+
+pool#System.Collections.Generic.Stack<T>*
+1 (4
 
-%4void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-_ _(
-Shapes.Line*A
-_ _(15*3
-Shapes.ShapesMaterialUtils"
-propDashSizeint*"
-_3 _(>
-
-netDashSizefloat*
-4*.
-4` `("
-` `(
-implicit return:
-valuefloatB
-Shapes.Line
+
+objT*
+2*.
+27 (7"
+6 (7
+implicit return:
+ ( 
+objTB"
+Shapes.ObjectPool<T>

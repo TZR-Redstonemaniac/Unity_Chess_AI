@@ -1,68 +1,99 @@
 
-Shapes.Line.ColorMode.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs, ,("0*
-0, ,(*
-1*ª
-1,
- ,(f?
-=
-,
- ,(
-	%capture0Shapes.Line"__id*
-Shapes.Line]
-[
-, ,(7
-	%capture1int"__id*75*3
-Shapes.ShapesMaterialUtils"
-propColorEndints
-q
-,; ,(L7
-Shapes.Line"&
-	colorModeShapes.Line.LineColorMode"__id*&$
-"
-valueShapes.Line.LineColorMode*
+Shapes.Rectangle.DashSize.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csã ã("0*
+0
+ã ã(*
+1*”
+1
+ä æ(e
+c
+
+ä ä(
+%0Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStyleQ
+O
+
+ä ä('
+
+%0Shapes.DashStyle"
+sizefloat"__id*
+
+valuefloatƒ
+€
+
+å å(I
+%1float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*C
+
+å å(!5*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStyle*4
+
+å6 å(<&*$
+Shapes.Rectangle"
+dashedbool*8
+
+å> å(G**(
+Shapes.Rectangle"
+	thicknessfloat;
+9
+
+å
+ å(I
+netDashSizefloat"__id*
+
+%1float*
 2
-3*z
-2,i ,(qf
-d
-,i ,(q
-	%capture2UnityEngine.Color"__id*20*.
-Shapes.Line"
-colorEndUnityEngine.Color*
-4*Û
-3,t ,(~vt
-,t ,(~
-%0UnityEngine.Color"Shapes.ShapeRenderer.Color.get*$
-,t ,(x
-Shapes.ShapeRenderer2	Color.getO
-M
-,t ,(~
-	%capture2UnityEngine.Color"__id*
-
-%0UnityEngine.Color*
-4*à
-4	,
- ,(€Ê
-Ç
-	,
- ,(€
+3*Í
+2
+ç ç(Je
+c
 
-%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*&
-,
- ,(
-
-	%capture0Shapes.Line*
-, ,(7
-
-	%capture1int*,
-,9 ,(~ 
-
-	%capture2UnityEngine.Color*
-5*2
-5
-, ,("!
+ç4 ç(G
+%2float"$Shapes.Rectangle.GetNetDashSpacing()*"
 
-,€ ,(
-implicit return:$"
-valueShapes.Line.LineColorModeB
-Shapes.Line
+ç4 ç(E
+Shapes.RectangleÏ
+Ì
+
+ç ç(I
+
+%3void")Shapes.ShapeRenderer.SetFloat(int, float)*"
+
+ç ç(
+Shapes.Rectangle*F
+
+ç ç(28*6
+Shapes.ShapesMaterialUtils"
+propDashSpacingint*
+
+ç4 ç(G
+
+%2float*
+3*ï
+3
+è è(AØ
+Õ
+
+è è(@
+
+%4void",Shapes.ShapeRenderer.SetFloatNow(int, float)*"
+
+è è(
+Shapes.Rectangle*C
+
+è è(15*3
+Shapes.ShapesMaterialUtils"
+propDashSizeint*$
+
+è3 è(>
+
+netDashSizefloat*
+4*2
+4
+é é("!
+
+é é(
+implicit return:
+valuefloatB
+Shapes.Rectangle

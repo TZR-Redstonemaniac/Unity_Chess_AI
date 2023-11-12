@@ -591,17 +591,7 @@ nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scr
 || (
 
 ~~" 2Ñ
-ÅC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\ShapesRenderFeature.cs·
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\PolylineJoins.csn
- ' 4	 	 	 	 "") 6$$	 %%	 &&	 ''	 
-
- .
-
-  (
-5 9 M QT X
-
-"" "(
-""7 ;## ((M Q((T X˜	
+ÅC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\ShapesRenderFeature.cs˜	
 wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\PolylinePoint.csx
 		  * 7; H * 7 3 @ $ 15 B Ç
  e jo t] b 	% *. 3"" ** 33 << FF PP Ñ
@@ -636,7 +626,17 @@ wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scr
 EE: CHH 
 OO  %PP 
 OO- 2QQ 
-OO: CRR ⁄)
+OO: CRR ·
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\PolylineJoins.csn
+ ' 4	 	 	 	 "") 6$$	 %%	 &&	 ''	 
+
+ .
+
+  (
+5 9 M QT X
+
+"" "(
+""7 ;## ((M Q((T X⁄)
 ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs
 
  F
@@ -4473,20 +4473,7 @@ zC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scr
 
 -- 
 
-.. ã
-yC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MatrixStack.cs
-
-
-
- #(
-# +6 > + 3
-
- 
-' 0E N
-  
-" %: =
-
- ⁄8
+.. ⁄8
 wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs
 
  $"
@@ -5201,7 +5188,20 @@ wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scr
 ﬁﬁ 
 
 ››: ?
-ﬁﬁ Ø
+ﬁﬁ ã
+yC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MatrixStack.cs
+
+
+
+ #(
+# +6 > + 3
+
+ 
+' 0E N
+  
+" %: =
+
+ Ø
 mC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesIO.cs
 
  (

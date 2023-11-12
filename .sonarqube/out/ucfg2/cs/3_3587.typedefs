@@ -1,0 +1,11 @@
+Ž
+Managers.MovementManagerUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject+
+Start() Managers.MovementManager.Start()-
+Update()!Managers.MovementManager.Update()S
+FindIndices(float[], float)4Managers.MovementManager.FindIndices(float[], float)i
+&PickupObject(int, UnityEngine.Vector3)?Managers.MovementManager.PickupObject(int, UnityEngine.Vector3)e
+$DropObject(int, UnityEngine.Vector3)=Managers.MovementManager.DropObject(int, UnityEngine.Vector3)[
+MoveObject(UnityEngine.Vector3)8Managers.MovementManager.MoveObject(UnityEngine.Vector3)?
+MovementManager()*Managers.MovementManager.MovementManager()5
+PickedUp.get%Managers.MovementManager.PickedUp.get5
+PickedUp.set%Managers.MovementManager.PickedUp.set

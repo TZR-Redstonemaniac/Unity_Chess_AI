@@ -1,33 +1,18 @@
 
-$Shapes.Draw.RegularPolygonRadius.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csþ þ("0*
+6Shapes.MpbTriangle.Shapes.IDashableMpb.dashSpacing.set‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs¾) ¾(,"0*¦
 0
-þ þ(*
-1*Ç
-1
-þ
- þ(\
-Z
+¾- ¾(-¥
+¢
 
-þ
- þ(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleS
-Q
+¾) ¾(-]
+Shapes.MpbTriangle"E
+Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"m
 
-þ
- þ()
-
-%0Shapes.DrawStyle"
-radiusfloat"__id*
-
-valuefloat*
-2*2
-2
-þ þ("!
-
-þ þ(
-implicit return:
-valuefloatB"
-Shapes.Draw
+¾) ¾(-_*]
+Shapes.MpbTriangle"E
+Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbTriangle

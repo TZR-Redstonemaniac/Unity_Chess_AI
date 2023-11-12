@@ -1,116 +1,109 @@
 
-~Shapes.ShapesMath.WeightedSum(UnityEngine.Vector4, UnityEngine.Color, UnityEngine.Color, UnityEngine.Color, UnityEngine.Color)y
-oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesMath.cs%- %(8"0*
-0% %(*
-1*“
-1	%m %(í”
-–
-%m %(t
-%0UnityEngine.Color"6UnityEngine.Color.operator *(float, UnityEngine.Color)*"
-UnityEngine.Color*4
-%m %(p(*&
-
-wUnityEngine.Vector4"
+÷Shapes.ShapesExtensions.Zip<T1, T2, T3, TResult>(System.Collections.Generic.IEnumerable<T1>, System.Collections.Generic.IEnumerable<T2>, System.Collections.Generic.IEnumerable<T3>, System.Func<T1, T2, T3, TResult>)
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesExtensions.csk% k(("0*“
+0l l()√¿
+l l()/
+%0)System.Collections.Generic.IEnumerator<T>"9System.Collections.Generic.IEnumerable<T>.GetEnumerator()*75
+3
+source)System.Collections.Generic.IEnumerable<T>2GetEnumerator()x
+v
+l l()/
+e1)System.Collections.Generic.IEnumerator<T>"__id*31
+/
+%0)System.Collections.Generic.IEnumerator<T>*
+1*“
+1m m(*√¿
+m m(*/
+%1)System.Collections.Generic.IEnumerator<T>"9System.Collections.Generic.IEnumerable<T>.GetEnumerator()*75
+3
+second)System.Collections.Generic.IEnumerable<T>2GetEnumerator()x
+v
+m m(*/
+e2)System.Collections.Generic.IEnumerator<T>"__id*31
+/
+%1)System.Collections.Generic.IEnumerator<T>*
+2*—
+2n n(*¬ø
+n n(*/
+%2)System.Collections.Generic.IEnumerator<T>"9System.Collections.Generic.IEnumerable<T>.GetEnumerator()*64
+2
+third)System.Collections.Generic.IEnumerable<T>2GetEnumerator()x
+v
+n n(*/
+e3)System.Collections.Generic.IEnumerator<T>"__id*31
+/
+%2)System.Collections.Generic.IEnumerator<T>*
+3*ù
+3o o(ÖÇ
+o o(
 
-xfloat*$
-%s %(t
-
-aUnityEngine.Color”
-–
-%w %(~
-%1UnityEngine.Color"6UnityEngine.Color.operator *(float, UnityEngine.Color)*"
-UnityEngine.Color*4
-%w %(z(*&
-
-wUnityEngine.Vector4"
+%3bool")System.Collections.IEnumerator.MoveNext()*31
+/
+e1)System.Collections.Generic.IEnumerator<T>2
+MoveNext()*
+4
+5*ù
+4o o(+ÖÇ
+o o(+
 
-yfloat*$
-%} %(~
-
-bUnityEngine.Color—
-Œ
-%m %(~
-%2UnityEngine.Color"BUnityEngine.Color.operator +(UnityEngine.Color, UnityEngine.Color)*"
-UnityEngine.Color*%
-%m %(t
-
-%0UnityEngine.Color*%
-%w %(~
-
-%1UnityEngine.ColorŸ
-÷
+%4bool")System.Collections.IEnumerator.MoveNext()*31
+/
+e2)System.Collections.Generic.IEnumerator<T>2
+MoveNext()*
+6
+5*ù
+6o/ o(<ÖÇ
+o/ o(<
 
-%Å %(à
-%3UnityEngine.Color"6UnityEngine.Color.operator *(float, UnityEngine.Color)*"
-UnityEngine.Color*6
+%5bool")System.Collections.IEnumerator.MoveNext()*31
+/
+e3)System.Collections.Generic.IEnumerator<T>2
+MoveNext()*
+7
+5*Ò
+7p p(<êç
+p p($
+%6T1"5System.Collections.Generic.IEnumerator<T>.Current.get*31
+/
+e1)System.Collections.Generic.IEnumerator<T>2Current.getêç
+p& p(0
+%7T2"5System.Collections.Generic.IEnumerator<T>.Current.get*31
+/
+e2)System.Collections.Generic.IEnumerator<T>2Current.getêç
+p2 p(<
+%8T3"5System.Collections.Generic.IEnumerator<T>.Current.get*31
+/
+e3)System.Collections.Generic.IEnumerator<T>2Current.get£
+†
+p p(>
+%9TResult"3System.Func<T1, T2, T3, TResult>.Invoke(T1, T2, T3)*&$"
+ System.Func<T1, T2, T3, TResult>*
 
-%Å %(Ñ(*&
-
-wUnityEngine.Vector4"
+
+%6T1*
 
-zfloat*&
+
+%7T2*
 
-%á %(à
-
-cUnityEngine.Color‘
-—
-	%m %(à
-%4UnityEngine.Color"BUnityEngine.Color.operator +(UnityEngine.Color, UnityEngine.Color)*"
-UnityEngine.Color*%
-%m %(~
-
-%2UnityEngine.Color*'
+
+%8T3*
+3*
+5q q(*
+8*
+8q q(*
+9*
+9q q(*
+10*/
+10q q("
+q q(
+implicit return:?
+k? k(Z3
+source)System.Collections.Generic.IEnumerable<T>:?
+k\ k(r3
+second)System.Collections.Generic.IEnumerable<T>:?
+	kt k(â2
+third)System.Collections.Generic.IEnumerable<T>:6
 
-%Å %(à
-
-%3UnityEngine.ColorŸ
-÷
-
-%ã %(í
-%5UnityEngine.Color"6UnityEngine.Color.operator *(float, UnityEngine.Color)*"
-UnityEngine.Color*6
-
-%ã %(é(*&
-
-wUnityEngine.Vector4"
-
-wfloat*&
-
-%ë %(í
-
-dUnityEngine.Color’
-“
-	%m %(í
-%6UnityEngine.Color"BUnityEngine.Color.operator +(UnityEngine.Color, UnityEngine.Color)*"
-UnityEngine.Color*&
-	%m %(à
-
-%4UnityEngine.Color*'
-
-%ã %(í
-
-%5UnityEngine.ColorV
-T
-	%m %(í
-%retUnityEngine.Color"__id*&
-	%m %(í
-
-%6UnityEngine.Color*
-2*:
-2
-%ì %(ì")
-
-%í %(ì
-
-%retUnityEngine.Color:$
-%: %(C
-wUnityEngine.Vector4:"
-%E %(L
-aUnityEngine.Color:"
-%N %(U
-bUnityEngine.Color:"
-%W %(^
-cUnityEngine.Color:"
-%` %(g
-dUnityEngine.ColorB"
-Shapes.ShapesMath
+kã k(©(
+func System.Func<T1, T2, T3, TResult>B"
+Shapes.ShapesExtensions

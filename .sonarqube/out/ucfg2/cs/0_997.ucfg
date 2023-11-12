@@ -1,21 +1,92 @@
 
-Shapes.Quad.ColorMode.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csm m("0*
-0m m(*
-1*
-1m
- m(|
-z
-m
- m(!
-%retShapes.Quad.QuadColorMode"__id*E
-m
- m(9*7
-Shapes.Quad"&
-	colorModeShapes.Quad.QuadColorMode*
-2*>
-2m m("/
-m m(#
-!
-%retShapes.Quad.QuadColorModeB
-Shapes.Quad
+aShapes.DashStyle.FixedDashCount(Shapes.DashType, float, float, Shapes.DashSnapping, float, float)}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.csc c(("0*
+0c c(*
+1*ž
+1d k(!64
+d l(
+%0Shapes.DashStyle"Shapes.DashStyleh
+f
+d l(
+%1Shapes.DashStyle"Shapes.DashStyle.DashStyle()*$
+d l(
+
+%0Shapes.DashStyleM
+K
+d l(
+	%capture0Shapes.DashStyle"__id*
+
+%0Shapes.DashStyle_
+]
+e e( :
+
+	%capture0Shapes.DashStyle"
+spaceShapes.DashSpace"__id*2þÿÿÿÿÿÿÿÿi
+g
+f f(8
+
+	%capture0Shapes.DashStyle"
+typeShapes.DashType"__id*
+
+typeShapes.DashTypeV
+T
+g g(.
+
+	%capture0Shapes.DashStyle"
+sizefloat"__id*
+
+countfloatc
+a
+h h(1
+
+	%capture0Shapes.DashStyle"
+spacingfloat"__id*
+
+spacingFractionfloatq
+o
+i i(<
+
+	%capture0Shapes.DashStyle"
+snapShapes.DashSnapping"__id*
+
+snapShapes.DashSnappingY
+W
+j j(0
+
+	%capture0Shapes.DashStyle"
+offsetfloat"__id*
+
+offsetfloatg
+e
+k k(!7
+
+	%capture0Shapes.DashStyle"
+shapeModifierfloat"__id*
+
+shapeModifierfloatY
+W
+d l(
+%retShapes.DashStyle"__id*+
+d l(
+
+	%capture0Shapes.DashStyle*
+2*5
+2l l("&
+l l(
+
+%retShapes.DashStyle:#
+c* c(7
+typeShapes.DashType:
+c9 c(D
+countfloat:$
+cF c(b
+spacingFractionfloat:(
+	cd c(ˆ
+snapShapes.DashSnapping:
+
+cŠ c(›
+offsetfloat:$
+
+c c(µ
+shapeModifierfloatB"
+Shapes.DashStyle

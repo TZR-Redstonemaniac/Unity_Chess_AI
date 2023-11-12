@@ -1,30 +1,27 @@
 
-Shapes.Draw.DiscGeometry.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÛ Û("0*
+Shapes.Disc.ThicknessSpace.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs¯ ¯("0*
 0
-Û Û(*
-1*é
+¯ ¯(*
+1*“
 1
-Û! Û(;\
-Z
+¯
+ ¯(}
+{
 
-Û! Û(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleu
-s
+¯
+ ¯(
+%retShapes.ThicknessSpace"__id*H
 
-Û! Û(;=
-
-%0Shapes.DrawStyle"#
-discGeometryShapes.DiscGeometry"__id* 
-
-valueShapes.DiscGeometry*
-2*2
+¯
+ ¯(:*8
+Shapes.Disc"'
+thicknessSpaceShapes.ThicknessSpace*
+2*>
 2
-Û< Û(<"!
+¯ ¯("-
 
-Û; Û(<
-implicit return:
-valueShapes.DiscGeometryB"
-Shapes.Draw
+¯ ¯(
+
+%retShapes.ThicknessSpaceB
+Shapes.Disc

@@ -1,28 +1,41 @@
 
-Shapes.Disc.DashOffset.get–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs, ,("0*
-0, ,(*
-1*Î
-1,
- ,(^
+Shapes.Disc.DashSpacing.set–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs& &("0*
+0& &(*
+1*ç
+1' ((L^
 \
-,
- ,(
+' '(
 %0Shapes.DashStyle"__id*20*.
 Shapes.Disc"
-	dashStyleShapes.DashStyleZ
-X
-,
- ,(
-%retfloat"__id*7
-,
- ,(+*)
+	dashStyleShapes.DashStyleR
+P
+' '(*
 
-%0Shapes.DashStyle"
-offsetfloat*
-2**
-2, ,("
-, ,(
+%0Shapes.DashStyle"
+spacingfloat"__id*
+
+valuefloatW
+U
+(6 ((I
+%1float"Shapes.Disc.GetNetDashSpacing()*
+(6 ((G
+Shapes.DiscÅ
+Â
+( ((K
 
-%retfloatB
+%2void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+( ((
+Shapes.Disc*D
+( ((48*6
+Shapes.ShapesMaterialUtils"
+propDashSpacingint*
+(6 ((I
+
+%1float*
+2*.
+2) )("
+) )(
+implicit return:
+valuefloatB
 Shapes.Disc

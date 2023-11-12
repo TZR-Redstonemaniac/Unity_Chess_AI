@@ -1,33 +1,35 @@
 
-Shapes.ShapeRenderer.Color.set
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csD D("0*
-0D D(*
-1*ü
-1D
- D(Eh
-f
-D6 D(C4
-Shapes.ShapeRenderer"
-colorUnityEngine.Color"__id*
-
-valueUnityEngine.Colorý
-ú
-D
- D(E
+&Shapes.Draw.TriangleThicknessSpace.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs§ §("0*
+0
+§ §(*
+1*ü
+1
+§
+ §(\
+Z
 
-%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*$
-D
- D(
-Shapes.ShapeRenderer*>
-D D(42*0
-Shapes.ShapesMaterialUtils"
-	propColorint*B
-D6 D(C6*4
-Shapes.ShapeRenderer"
-colorUnityEngine.Color*
-2*.
-2DF D(F"
-DE D(F
-implicit return:
-valueUnityEngine.ColorB
-Shapes.ShapeRenderer
+§
+ §(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyle‡
+„
+
+§
+ §(
+%retShapes.ThicknessSpace"__id*Q
+
+§
+ §(C*A
+
+%0Shapes.DrawStyle"'
+thicknessSpaceShapes.ThicknessSpace*
+2*>
+2
+§ §("-
+
+§ §(
+
+%retShapes.ThicknessSpaceB"
+Shapes.Draw

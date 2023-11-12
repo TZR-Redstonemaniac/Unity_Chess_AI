@@ -1,7 +1,24 @@
 
-$Shapes.PolylinePoint.PolylinePoint()Å
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\PolylinePoint.cs	 	("0*.
-0U U("
- U(
-implicit returnB
-Shapes.PolylinePoint
+%Shapes.ColorStack.ColorStack()!staticÇ
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\ColorStack.cs
+ 
+(""0*ç
+0 (\Z
+( (:)
+%0#System.Collections.Generic.Stack<T>"#System.Collections.Generic.Stack<T>t
+r
+, (8
+
+%1void"+System.Collections.Generic.Stack<T>.Stack()*-+
+)
+%0#System.Collections.Generic.Stack<T>à
+Ö
+ (:D
+Shapes.ColorStack"-
+colors#System.Collections.Generic.Stack<T>"__id*-+
+)
+%0#System.Collections.Generic.Stack<T>"
+
+ (
+implicit returnB"
+Shapes.ColorStack

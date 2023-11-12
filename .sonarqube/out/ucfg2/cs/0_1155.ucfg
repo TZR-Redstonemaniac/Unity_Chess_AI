@@ -1,42 +1,47 @@
 
-Shapes.Quad.ColorA.setz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs› ›("0*
-0
-› ›(*
-1*Ì
-1
-›
- ›(Ea
-_
++Shapes.MpbTexture.TransferShapeProperties()Ü
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbTexture.cs (1"0*
+0 (*
+1*Ä
+1 (9†
+ù
+ (1
 
-›6 ›(C+
-Shapes.Quad"
-colorUnityEngine.Color"__id*
-
-valueUnityEngine.ColorÛ
-
+%0void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*!
+ (
+Shapes.MpbTexture*=
+ ()1*/
+Shapes.ShapesMaterialUtils"
+propRectint*O
++ (/C*A
+Shapes.MpbTexture"*
+rect"System.Collections.Generic.List<T>û
+õ
+ (/
 
-›
- ›(E
+%1void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*!
+ (
+Shapes.MpbTexture*<
+ ((0*.
+Shapes.ShapesMaterialUtils"
+propUvsint*N
+* (-B*@
+Shapes.MpbTexture")
+uvs"System.Collections.Generic.List<T>ß
+§
+ (8
 
-%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
-
-›
- ›(
-Shapes.Quad*@
-
-› ›(42*0
-Shapes.ShapesMaterialUtils"
-	propColorint*;
-
-›6 ›(C-*+
-Shapes.Quad"
-colorUnityEngine.Color*
-2*2
-2
-›F ›(F"!
-
-›E ›(F
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Quad
+%2void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Texture>)*!
+ (
+Shapes.MpbTexture*@
+ (,4*2
+Shapes.ShapesMaterialUtils"
+propMainTexint*S
+. (6G*E
+Shapes.MpbTexture".
+textures"System.Collections.Generic.List<T>*
+2*.
+2 ("
+ (
+implicit returnB
+Shapes.MpbTexture

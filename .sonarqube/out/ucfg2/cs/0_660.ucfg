@@ -1,38 +1,28 @@
 
-Shapes.Draw.DashSpacing.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¨ ¨("0*
+Shapes.Disc.RadiusInner.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs¡ ¡("0*
 0
-¨ ¨(*
-1*¾
+¡ ¡(*
+1*
 1
-¨! ¨(8\
-Z
-
-¨! ¨(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
+¡
+ ¡(i
 g
 
-¨! ¨(0
-%1Shapes.DashStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStyle_
-]
+¡
+ ¡(
+%0float"Shapes.Disc.Thickness.set*
 
-¨! ¨(8
-%retfloat"__id*:
-
-¨! ¨(8,**
-
-%1Shapes.DashStyle"
-spacingfloat*
-2*.
+¡
+ ¡(
+Shapes.Disc*
+
+valuefloat*
+2*2
 2
-¨9 ¨(9"
+¡ ¡("!
 
-¨8 ¨(9
-
-%retfloatB"
-Shapes.Draw
+¡ ¡(
+implicit return:
+valuefloatB
+Shapes.Disc

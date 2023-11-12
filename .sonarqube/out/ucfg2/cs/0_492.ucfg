@@ -1,50 +1,30 @@
 
-Shapes.Rectangle.FillSpace.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¤ ¤("0*
+Shapes.Draw.BlendMode.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csˆ ˆ("0*
 0
-¤ ¤(*
-1*ã
+ˆ ˆ(*
+1*ì
 1
-¤
- ¤(Uf
-d
+ˆ! ˆ(8\
+Z
 
-¤? ¤(C
-%0Shapes.GradientFill"__id*53*1
-Shapes.Rectangle"
-fillShapes.GradientFillk
-i
+ˆ! ˆ(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylex
+v
 
-¤? ¤(Q6
-
-%0Shapes.GradientFill"
-spaceShapes.FillSpace"__id*
-
-valueShapes.FillSpace÷
-ô
-
-¤
- ¤(U
-
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*"
-
-¤
- ¤(
-Shapes.Rectangle*D
-
-¤ ¤(66*4
-Shapes.ShapesMaterialUtils"
-propFillSpaceint*F
-
-¤8 ¤(S8*6
-
-%0Shapes.GradientFill"
-spaceShapes.FillSpace*
+ˆ! ˆ(8=
+
+%0Shapes.DrawStyle"#
+	blendModeShapes.ShapesBlendMode"__id*#!
+
+valueShapes.ShapesBlendMode*
 2*2
 2
-¤V ¤(V"!
+ˆ9 ˆ(9"!
 
-¤U ¤(V
-implicit return:
-valueShapes.FillSpaceB
-Shapes.Rectangle
+ˆ8 ˆ(9
+implicit return:!
+valueShapes.ShapesBlendModeB"
+Shapes.Draw

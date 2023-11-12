@@ -1,27 +1,38 @@
 
-Shapes.Triangle.ColorC.get~
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csÆ Æ("0*
+Shapes.Draw.DashSpace.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csç ç("0*
 0
-Æ Æ(*
-1*á
+ç ç(*
+1*“
 1
-Æ
- Æ(q
-o
+ç! ç(6\
+Z
 
-Æ
- Æ(
-%retUnityEngine.Color"__id*@
+ç! ç(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-Æ
- Æ(2*0
-Shapes.Triangle"
-colorCUnityEngine.Color*
-2*:
+ç! ç(0
+%1Shapes.DashStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStyles
+q
+
+ç! ç(6
+%retShapes.DashSpace"__id*C
+
+ç! ç(65*3
+
+%1Shapes.DashStyle"
+spaceShapes.DashSpace*
+2*9
 2
-Æ Æ(")
+ç7 ç(7"(
 
-Æ Æ(
-
-%retUnityEngine.ColorB
-Shapes.Triangle
+ç6 ç(7
+
+%retShapes.DashSpaceB"
+Shapes.Draw

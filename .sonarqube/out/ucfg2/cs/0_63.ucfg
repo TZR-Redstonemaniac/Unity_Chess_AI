@@ -1,39 +1,97 @@
 
-&Shapes.ShapesTextPool.ShapesTextPool()}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesTextPool.cs (,"0*»
-0v v(\Z
-' (?)
-%0#System.Collections.Generic.Stack<T>"#System.Collections.Generic.Stack<T>t
-r
-+ (=
+Shapes.MpbQuad.MpbQuad()á
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs• •("0*ê
+0
+π π(l
+j
 
-%1void"+System.Collections.Generic.Stack<T>.Stack()*-+
-)
-%0#System.Collections.Generic.Stack<T>ï
-í
- (?Q
-Shapes.ShapesTextPool"6
-elementsPassive#System.Collections.Generic.Stack<T>"__id*-+
-)
-%0#System.Collections.Generic.Stack<T>|z
-0 (R9
-%23System.Collections.Generic.Dictionary<TKey, TValue>"3System.Collections.Generic.Dictionary<TKey, TValue>ö
-ó
-4 (P
+ß& ß(9(
+%0"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb
+}
 
-%3void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*=;
-9
-%23System.Collections.Generic.Dictionary<TKey, TValue>¥
-±
- (R`
-Shapes.ShapesTextPool"E
-elementsActive3System.Collections.Generic.Dictionary<TKey, TValue>"__id*=;
-9
-%23System.Collections.Generic.Dictionary<TKey, TValue>Z
-X
+ß" ß(9;
+Shapes.MpbQuad"'
+a"System.Collections.Generic.List<T>"__id*,*
+(
+%0"System.Collections.Generic.List<T>l
+j
 
-%4void")UnityEngine.MonoBehaviour.MonoBehaviour()*
-UnityEngine.MonoBehaviour"
- v(
-implicit returnB
-Shapes.ShapesTextPool
+®& ®(9(
+%1"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb
+}
+
+®" ®(9;
+Shapes.MpbQuad"'
+b"System.Collections.Generic.List<T>"__id*,*
+(
+%1"System.Collections.Generic.List<T>l
+j
+
+©& ©(9(
+%2"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb
+}
+
+©" ©(9;
+Shapes.MpbQuad"'
+c"System.Collections.Generic.List<T>"__id*,*
+(
+%2"System.Collections.Generic.List<T>l
+j
+
+™+ ™(>(
+%3"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbÖ
+Ç
+
+™" ™(>@
+Shapes.MpbQuad",
+colorB"System.Collections.Generic.List<T>"__id*,*
+(
+%3"System.Collections.Generic.List<T>l
+j
+
+´+ ´(>(
+%4"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbÖ
+Ç
+
+´" ´(>@
+Shapes.MpbQuad",
+colorC"System.Collections.Generic.List<T>"__id*,*
+(
+%4"System.Collections.Generic.List<T>l
+j
+
+¨+ ¨(>(
+%5"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbÖ
+Ç
+
+¨" ¨(>@
+Shapes.MpbQuad",
+colorD"System.Collections.Generic.List<T>"__id*,*
+(
+%5"System.Collections.Generic.List<T>l
+j
+
+≠& ≠(9(
+%6"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpb
+}
+
+≠" ≠(9;
+Shapes.MpbQuad"'
+d"System.Collections.Generic.List<T>"__id*,*
+(
+%6"System.Collections.Generic.List<T>>
+<
+
+%7void"Shapes.MetaMpb.MetaMpb()*
+Shapes.MetaMpb"!
+
+• π(
+implicit returnB
+Shapes.MpbQuad

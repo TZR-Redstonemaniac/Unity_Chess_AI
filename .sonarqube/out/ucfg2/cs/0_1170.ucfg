@@ -1,43 +1,43 @@
 
-Shapes.Quad.ColorB.setz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csã ã("0*
+Shapes.Triangle.ColorB.set~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs© ©("0*
 0
-ã ã(*
-1*ð
+© ©(*
+1*ü
 1
-ã
- ã(Gb
-`
+©
+ ©(Gf
+d
 
-ã7 ã(E,
-Shapes.Quad"
+©7 ©(E0
+Shapes.Triangle"
 colorBUnityEngine.Color"__id*
 
-valueUnityEngine.Colorõ
-ò
+valueUnityEngine.Colorý
+ú
 
-ã
- ã(G
+©
+ ©(G
 
-%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*!
 
-ã
- ã(
-Shapes.Quad*A
+©
+ ©(
+Shapes.Triangle*A
 
-ã ã(53*1
+© ©(53*1
 Shapes.ShapesMaterialUtils"
 
-propColorBint*<
+propColorBint*@
 
-ã7 ã(E.*,
-Shapes.Quad"
+©7 ©(E2*0
+Shapes.Triangle"
 colorBUnityEngine.Color*
 2*2
 2
-ãH ã(H"!
+©H ©(H"!
 
-ãG ã(H
+©G ©(H
 implicit return:
-valueUnityEngine.ColorB
-Shapes.Quad
+valueUnityEngine.ColorB
+Shapes.Triangle

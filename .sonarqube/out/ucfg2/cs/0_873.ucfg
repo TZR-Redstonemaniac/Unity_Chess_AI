@@ -1,49 +1,18 @@
 
-)Shapes.ShapesTextPool.ReleaseElement(int)}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesTextPool.csT T("0*
-0T T(*
-1*«
-1U U(<“
-
-U U(<
+8Shapes.MpbRect.Shapes.IDashableMpb.dashShapeModifier.set‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÌ/ Ì(2"0*ª
+0
+Ì3 Ì(3§
+¤
 
-%0bool"GSystem.Collections.Generic.ICollection<T>.TryGetValue(TKey, out TValue)*n
-U U(b*`
-Shapes.ShapesTextPool"E
-elementsActive3System.Collections.Generic.Dictionary<TKey, TValue>*
-U# U(%
-	
-idint*&
-U' U(:
-
-tmpTMPro.TextMeshPro*
-2
-3*Ç
-2V W( Ú
-×
-V V(
+Ì/ Ì(3_
+Shapes.MpbRect"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"o
 
-%1bool"6System.Collections.Generic.ICollection<T>.Remove(TKey)*n
-V V(b*`
-Shapes.ShapesTextPool"E
-elementsActive3System.Collections.Generic.Dictionary<TKey, TValue>*
-V V(
-	
-idintÕ
-Ò
-W W(
-
-%2void"1System.Collections.Generic.ICollection<T>.Push(T)*_
-W W(S*Q
-Shapes.ShapesTextPool"6
-elementsPassive#System.Collections.Generic.Stack<T>*&
-W W(
-
-tmpTMPro.TextMeshPro*
-3*.
-3[ [("
-[ [(
-implicit return:
-T T($	
-idintB
-Shapes.ShapesTextPool
+Ì/ Ì(3a*_
+Shapes.MpbRect"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbRect

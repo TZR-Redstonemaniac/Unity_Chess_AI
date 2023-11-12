@@ -1,37 +1,21 @@
 
-Shapes.Draw.TextLineSpacing.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csš š("0*
-0
-š š(*
-1*·
-1
-š! š(D\
-Z
+ Shapes.DashStyle.UniformSize.get}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.csC C("0*
+0C C(*
+1*h
+1C
+ C(T
+R
+C
+ C(
+%retfloat"__id*1
+C
+ C(%*#
+Shapes.DashStyle"
+sizefloat*
+2**
+2C C("
+C C(
 
-š! š(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
-
-š! š(0
-%1Shapes.TextStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	textStyleShapes.TextStyleX
-V
-
-š! š(D.
-
-%1Shapes.TextStyle"
-lineSpacingfloat"__id*
-
-valuefloat*
-2*2
-2
-šE š(E"!
-
-šD š(E
-implicit return:
-valuefloatB"
-Shapes.Draw
+%retfloatB
+Shapes.DashStyle

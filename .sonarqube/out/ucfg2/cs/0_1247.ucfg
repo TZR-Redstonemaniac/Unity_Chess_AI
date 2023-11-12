@@ -1,39 +1,43 @@
 
-DShapes.ShapesMaterialUtils.GetPolylineJoinsMat(Shapes.PolylineJoins)„
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesMaterialUtils.cs¦  ¦(3"0*
+Shapes.Quad.ColorB.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csã ã("0*
 0
-¦ ¦(*
-1*í
+ã ã(*
+1*ð
 1
-¦M ¦(hò
-ï
-
-¦M ¦(h
-%0Shapes.ShapesMaterials"7System.Collections.Generic.ICollection<T>.this[int].get*\
-
-¦M ¦(]N*L
-Shapes.ShapesMaterialUtils",
-matsPolylineJoinShapes.ShapesMaterials[]*,
-
-¦^ ¦(g
-
-joinShapes.PolylineJoinsb
+ã
+ ã(Gb
 `
 
-¦M ¦(h
-%retShapes.ShapesMaterials"__id*,
+ã7 ã(E,
+Shapes.Quad"
+colorBUnityEngine.Color"__id*
+
+valueUnityEngine.Colorõ
+ò
 
-¦M ¦(h
-
-%0Shapes.ShapesMaterials*
-2*?
+ã
+ ã(G
+
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+
+ã
+ ã(
+Shapes.Quad*A
+
+ã ã(53*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*<
+
+ã7 ã(E.*,
+Shapes.Quad"
+colorBUnityEngine.Color*
+2*2
 2
-¦i ¦(i".
+ãH ã(H"!
 
-¦h ¦(i 
-
-%retShapes.ShapesMaterials:*
-
-¦5 ¦(G
-joinShapes.PolylineJoinsB"
-Shapes.ShapesMaterialUtils
+ãG ã(H
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Quad

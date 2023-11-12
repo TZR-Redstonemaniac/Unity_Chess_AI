@@ -1,35 +1,30 @@
 
-Shapes.Rectangle.DashSpace.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs÷ ÷("0*
-0
-÷ ÷(*
-1*ð
-1
-÷
- ÷(e
-c
-
-÷
- ÷(
-%0Shapes.DashStyle"__id*75*3
-Shapes.Rectangle"
-	dashStyleShapes.DashStyles
-q
-
-÷
- ÷(
-%retShapes.DashSpace"__id*C
-
-÷
- ÷(5*3
+Shapes.Draw.ZTest.get†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csE E("0*
+0E E(*
+1*ü
+1E! E(8Z
+X
+E! E(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
+k
+E! E(2
+%1Shapes.RenderState"__id*?=*;
 
-%0Shapes.DashStyle"
-spaceShapes.DashSpace*
-2*9
-2
-÷ ÷("(
-
-÷ ÷(
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderStateœ
+™
+E! E(8-
+%ret%UnityEngine.Rendering.CompareFunction"__id*X
+E! E(8L*J
 
-%retShapes.DashSpaceB
-Shapes.Rectangle
+%1Shapes.RenderState".
+zTest%UnityEngine.Rendering.CompareFunction*
+2*J
+2E9 E(9";
+E8 E(9/
+-
+%ret%UnityEngine.Rendering.CompareFunctionB"
+Shapes.Draw

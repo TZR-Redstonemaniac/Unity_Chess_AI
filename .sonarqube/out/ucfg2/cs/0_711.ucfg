@@ -1,33 +1,37 @@
 
-%Shapes.RegularPolygon.RadiusSpace.set‚
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.csB B("0*
-0B B(*
-1*
-1B
- B(Xw
-u
-BA B(T?
-Shapes.RegularPolygon"$
-radiusSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpaceÿ
-ü
-B
- B(X
+Shapes.Draw.DashSize.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csš š("0*
+0
+š š(*
+1*°
+1
+š! š(=\
+Z
 
-%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*%
-B
- B(
-Shapes.RegularPolygon*D
-B B(88*6
-Shapes.ShapesMaterialUtils"
-propRadiusSpaceint*M
-B: B(VA*?
-Shapes.RegularPolygon"$
-radiusSpaceShapes.ThicknessSpace*
-2*.
-2BY B(Y"
-BX B(Y
-implicit return: 
-valueShapes.ThicknessSpaceB
-Shapes.RegularPolygon
+š! š(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+š! š(0
+%1Shapes.DashStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStyleQ
+O
+
+š! š(='
+
+%1Shapes.DashStyle"
+sizefloat"__id*
+
+valuefloat*
+2*2
+2
+š> š(>"!
+
+š= š(>
+implicit return:
+valuefloatB"
+Shapes.Draw

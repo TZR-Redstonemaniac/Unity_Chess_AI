@@ -1,28 +1,30 @@
 
-Shapes.Line.DashSnap.get–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csu u("0*
-0u u(*
-1*è
-1u
- u(^
-\
-u
- u(
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStylet
-r
-u
- u(
-%retShapes.DashSnapping"__id*C
-u
- u(7*5
-
-%0Shapes.DashStyle"
-snapShapes.DashSnapping*
-2*8
-2u u(")
-u u(
-
-%retShapes.DashSnappingB
-Shapes.Line
+Shapes.Rectangle.Type.set}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csO O("0*
+0O O(*
+1*Ø
+1P R(}
+{
+P P(<
+Shapes.Rectangle"&
+typeShapes.Rectangle.RectangleType"__id*+)
+'
+valueShapes.Rectangle.RectangleTypea
+_
+Q Q(
+
+%0void"%Shapes.ShapeRenderer.UpdateMaterial()* 
+Q Q(
+Shapes.Rectangleb
+`
+R R(
+
+%1void"&Shapes.ShapeRenderer.ApplyProperties()* 
+R R(
+Shapes.Rectangle*
+2*.
+2S S("
+S S(
+implicit return:)'
+valueShapes.Rectangle.RectangleTypeB
+Shapes.Rectangle

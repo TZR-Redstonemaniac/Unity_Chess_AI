@@ -1,21 +1,15 @@
 
-Shapes.Rectangle.Type.get}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csN N("0*
-0N N(*
-1*œ
-1N
- N(‡
-„
-N
- N(&
-%retShapes.Rectangle.RectangleType"__id*J
-N
- N(>*<
-Shapes.Rectangle"&
-typeShapes.Rectangle.RectangleType*
-2*C
-2N N("4
-N N((
-&
-%retShapes.Rectangle.RectangleTypeB
-Shapes.Rectangle
+:Shapes.MpbLine2D.Shapes.IDashableMpb.dashShapeModifier.set…
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csX/ X(2"0*¨
+0X3 X(3§
+¤
+X/ X(3a
+Shapes.MpbLine2D"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"o
+X/ X(3c*a
+Shapes.MpbLine2D"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbLine2D

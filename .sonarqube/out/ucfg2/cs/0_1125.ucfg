@@ -1,35 +1,24 @@
 
-&Shapes.Draw.TriangleThicknessSpace.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs§ §("0*
-0
-§ §(*
-1*ü
-1
-§
- §(\
-Z
+"Shapes.ShapeRenderer.BlendMode.set
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs5 5("0*
+05 5(*
+1*ñ
+16 7(v
+t
+6 6(=
+Shapes.ShapeRenderer"#
+	blendModeShapes.ShapesBlendMode"__id*#!
+
+valueShapes.ShapesBlendModee
+c
+7 7(
 
-§
- §(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle‡
-„
-
-§
- §(
-%retShapes.ThicknessSpace"__id*Q
-
-§
- §(C*A
-
-%0Shapes.DrawStyle"'
-thicknessSpaceShapes.ThicknessSpace*
-2*>
-2
-§ §("-
-
-§ §(
-
-%retShapes.ThicknessSpaceB"
-Shapes.Draw
+%0void"%Shapes.ShapeRenderer.UpdateMaterial()*$
+7 7(
+Shapes.ShapeRenderer*
+2*.
+28 8("
+8 8(
+implicit return:!
+valueShapes.ShapesBlendModeB
+Shapes.ShapeRenderer

@@ -1,50 +1,30 @@
 
-Shapes.Rectangle.DashType.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csƒ ƒ("0*
-0
-ƒ ƒ(*
-1*Ö
-1
-ƒ
- ƒ(Xe
-c
-
-ƒ> ƒ(G
-%0Shapes.DashStyle"__id*75*3
-Shapes.Rectangle"
-	dashStyleShapes.DashStylee
-c
-
-ƒ> ƒ(T1
+Shapes.Draw.ColorMask.set†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csU U("0*
+0U U(*
+1*õ
+1U! U(DZ
+X
+U! U(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
+k
+U! U(2
+%1Shapes.RenderState"__id*?=*;
 
-%0Shapes.DashStyle"
-typeShapes.DashType"__id*
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderState•
+’
+U! U(DM
 
-valueShapes.DashTypeñ
-î
-
-ƒ
- ƒ(X
-
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*"
-
-ƒ
- ƒ(
-Shapes.Rectangle*C
-
-ƒ ƒ(55*3
-Shapes.ShapesMaterialUtils"
-propDashTypeint*A
-
-ƒ7 ƒ(V3*1
-
-%0Shapes.DashStyle"
-typeShapes.DashType*
-2*2
-2
-ƒY ƒ(Y"!
-
-ƒX ƒ(Y
-implicit return:
-valueShapes.DashTypeB
-Shapes.Rectangle
+%1Shapes.RenderState"1
+	colorMask$UnityEngine.Rendering.ColorWriteMask"__id*1/
+-
+value$UnityEngine.Rendering.ColorWriteMask*
+2*.
+2UE U(E"
+UD U(E
+implicit return:/-
+value$UnityEngine.Rendering.ColorWriteMaskB"
+Shapes.Draw

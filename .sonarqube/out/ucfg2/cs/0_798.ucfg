@@ -1,21 +1,47 @@
 
-Shapes.Polyline.Thickness.get|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.csB B("0*
-0B B(*
-1*l
-1B
- B(X
-V
-B
- B(
-%retfloat"__id*5
-B
- B()*'
-Shapes.Polyline"
-	thicknessfloat*
-2**
-2B B("
-B B(
+Shapes.Line.GetNetDashSpacing()ò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÅ Å("0*
+0
+Å Å(*
+1*»
+1
+Å Å(hÔ
+Ï
 
-%retfloatB
-Shapes.Polyline
+Å Å(h
+%0float"KShapes.ShapeRenderer.GetNetDashSpacing(Shapes.DashStyle, bool, bool, float)*
+
+Å Å(0
+Shapes.Line*>
+
+Å2 Å(;0*.
+Shapes.Line"
+	dashStyleShapes.DashStyle*/
+
+Å= Å(C!*
+Shapes.Line"
+dashedbool*?
+
+ÅE Å([1*/
+Shapes.Line"
+matchDashSpacingToSizebool*3
+
+Å] Å(f%*#
+Shapes.Line"
+	thicknessfloat@
+>
+
+Å Å(h
+%retfloat"__id*
+
+Å Å(h
+
+%0float*
+2*.
+2
+Åi Å(i"
+
+Åh Å(i
+
+%retfloatB
+Shapes.Line

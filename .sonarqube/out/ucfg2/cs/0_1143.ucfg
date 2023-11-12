@@ -1,18 +1,21 @@
 
-:Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillSpace.setá
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÌ' Ì(*"0*Æ
-0
-Ì+ Ì(+©
-¶
-
-Ì' Ì(+a
-Shapes.MpbRegularPolygon"C
-Shapes.IFillableMpb.fillSpace"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"q
-
-Ì' Ì(+c*a
-Shapes.MpbRegularPolygon"C
-Shapes.IFillableMpb.fillSpace"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+Shapes.ShapeRenderer.Color.getÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csC C("0*
+0C C(*
+1*Ö
+1C
+ C(q
+o
+C
+ C(
+%retUnityEngine.Color"__id*B
+C
+ C(6*4
+Shapes.ShapeRenderer"
+colorUnityEngine.Color*
+2*6
+2C C("'
+C C(
+
+%retUnityEngine.ColorB
+Shapes.ShapeRenderer

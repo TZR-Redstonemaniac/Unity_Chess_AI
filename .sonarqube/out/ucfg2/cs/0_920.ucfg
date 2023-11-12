@@ -1,29 +1,16 @@
 
-7Shapes.AngularUnitExtensions.Suffix(Shapes.AngularUnit)
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\AngularUnit.cs ("0*
-0 (*
-1* 
-1: (TË
-È
-: (T
-%0string"7System.Collections.Generic.ICollection<T>.this[int].get*K
-: (I?*=
-Shapes.AngularUnitExtensions"
-angUnitToSuffixstring[]*(
-J (S
-
-unitShapes.AngularUnit>
-<
-: (T
-%retstring"__id*
-: (T
-
-%0string*
-2*+
-2U (U"
-T (U
-
-%retstring:&
- (4
-unitShapes.AngularUnitB "
-Shapes.AngularUnitExtensions
+9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSnap.get‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csõ& õ()"0*ñ
+0
+õ* õ(*¥
+¢
+
+õ& õ(*(
+%0"System.Collections.Generic.List<T>"__id*db*`
+Shapes.MpbRegularPolygon"B
+Shapes.IDashableMpb.dashSnap"System.Collections.Generic.List<T>"8
+
+õ& õ(**
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

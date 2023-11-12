@@ -7619,168 +7619,7 @@ FixedCount
 Shapes
  
 { 
-} а
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\PolylineJoins.cs
-	namespace 	
-Shapes
- 
-{ 
-public 
-enum 
-PolylineJoins 
-{ 
-Simple
-
- 
-,
-
- 	
-Miter 
-, 
-Round 
-, 
-Bevel 
-} 
-internal 	
-static
- 
-class #
-PolylineJoinsExtensions .
-{/ 0
-public 
-static	 
-bool 
-HasJoinMesh  
-(  !
-this" &
-PolylineJoins' 4
-join5 9
-): ;
-{< =
-switch 	
-(	 
-
-join 
-) 
-{ 
-case 
-PolylineJoins	 
-. 
-Simple 
-: 
-return %
-false& +
-;+ ,
-case 
-PolylineJoins	 
-. 
-Miter 
-: 
-return %
-false& +
-;+ ,
-case 
-PolylineJoins	 
-. 
-Round 
-: 
-return %
-true& *
-;* +
-case 
-PolylineJoins	 
-. 
-Bevel 
-: 
-return %
-true& *
-;* +
-default 
-: 
-throw $
-new% ('
-ArgumentOutOfRangeException) D
-(D E
-nameofF L
-(L M
-joinM Q
-)Q R
-,R S
-joinT X
-,X Y
-nullZ ^
-)_ `
-;` a
-} 
-}   
-public"" 
-static""	 
-bool"" 
-HasSimpleJoin"" "
-(""" #
-this""$ (
-PolylineJoins"") 6
-join""7 ;
-)""< =
-{""> ?
-switch## 	
-(##	 
-
-join## 
-)## 
-{## 
-case$$ 
-PolylineJoins$$	 
-.$$ 
-Simple$$ 
-:$$ 
-return$$ %
-false$$& +
-;$$+ ,
-case%% 
-PolylineJoins%%	 
-.%% 
-Miter%% 
-:%% 
-return%% %
-false%%& +
-;%%+ ,
-case&& 
-PolylineJoins&&	 
-.&& 
-Round&& 
-:&& 
-return&& %
-false&&& +
-;&&+ ,
-case'' 
-PolylineJoins''	 
-.'' 
-Bevel'' 
-:'' 
-return'' %
-true''& *
-;''* +
-default(( 
-:(( 
-throw(( $
-new((% ('
-ArgumentOutOfRangeException(() D
-(((D E
-nameof((F L
-(((L M
-join((M Q
-)((Q R
-,((R S
-join((T X
-,((X Y
-null((Z ^
-)((_ `
-;((` a
-})) 
-}** 
-},, 
-}.. К4
+} К4
 wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\PolylinePoint.cs
 	namespace 	
 Shapes
@@ -8172,7 +8011,168 @@ wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scr
 ;RR 
 }SS 
 }UU 
-}WW ≤з
+}WW а
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\PolylineJoins.cs
+	namespace 	
+Shapes
+ 
+{ 
+public 
+enum 
+PolylineJoins 
+{ 
+Simple
+
+ 
+,
+
+ 	
+Miter 
+, 
+Round 
+, 
+Bevel 
+} 
+internal 	
+static
+ 
+class #
+PolylineJoinsExtensions .
+{/ 0
+public 
+static	 
+bool 
+HasJoinMesh  
+(  !
+this" &
+PolylineJoins' 4
+join5 9
+): ;
+{< =
+switch 	
+(	 
+
+join 
+) 
+{ 
+case 
+PolylineJoins	 
+. 
+Simple 
+: 
+return %
+false& +
+;+ ,
+case 
+PolylineJoins	 
+. 
+Miter 
+: 
+return %
+false& +
+;+ ,
+case 
+PolylineJoins	 
+. 
+Round 
+: 
+return %
+true& *
+;* +
+case 
+PolylineJoins	 
+. 
+Bevel 
+: 
+return %
+true& *
+;* +
+default 
+: 
+throw $
+new% ('
+ArgumentOutOfRangeException) D
+(D E
+nameofF L
+(L M
+joinM Q
+)Q R
+,R S
+joinT X
+,X Y
+nullZ ^
+)_ `
+;` a
+} 
+}   
+public"" 
+static""	 
+bool"" 
+HasSimpleJoin"" "
+(""" #
+this""$ (
+PolylineJoins"") 6
+join""7 ;
+)""< =
+{""> ?
+switch## 	
+(##	 
+
+join## 
+)## 
+{## 
+case$$ 
+PolylineJoins$$	 
+.$$ 
+Simple$$ 
+:$$ 
+return$$ %
+false$$& +
+;$$+ ,
+case%% 
+PolylineJoins%%	 
+.%% 
+Miter%% 
+:%% 
+return%% %
+false%%& +
+;%%+ ,
+case&& 
+PolylineJoins&&	 
+.&& 
+Round&& 
+:&& 
+return&& %
+false&&& +
+;&&+ ,
+case'' 
+PolylineJoins''	 
+.'' 
+Bevel'' 
+:'' 
+return'' %
+true''& *
+;''* +
+default(( 
+:(( 
+throw(( $
+new((% ('
+ArgumentOutOfRangeException(() D
+(((D E
+nameof((F L
+(((L M
+join((M Q
+)((Q R
+,((R S
+join((T X
+,((X Y
+null((Z ^
+)((_ `
+;((` a
+})) 
+}** 
+},, 
+}.. ≤з
 ЛC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs
 	namespace 	
 Shapes
@@ -109224,146 +109224,7 @@ DrawShapes!! 
 OnCameraPreRender..; L
 ;..L M
 }11 
-}33 е
-yC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MatrixStack.cs
-	namespace 	
-Shapes
- 
-{ 
-public
-
- 
-readonly
-
- 
-struct
-
- 
-MatrixStack
-
- #
-:
-
-$ %
-IDisposable
-
-& 1
-{
-
-2 3
-static 
-readonly	 
-Stack 
-< 
-	Matrix4x4 !
->! "
-matrices# +
-=, -
-new. 1
-Stack2 7
-<7 8
-	Matrix4x48 A
->A B
-(B C
-)C D
-;D E
-internal 
-
-static 
-void 
-Push 
-( 
-	Matrix4x4 &
-	prevState' 0
-)1 2
-=>3 5
-matrices6 >
-.> ?
-Push? C
-(C D
-	prevStateE N
-)O P
-;P Q
-internal 
-
-static 
-void 
-Pop 
-( 
-) 
-{ 
-try 
-{ 
-Draw 
-. 	
-Matrix	 
-= 
-matrices 
-. 
-Pop 
-( 
-)  
-;  !
-} 
-catch 
-
-(
- 
-	Exception 
-e 
-) 
-{ 
-Debug 	
-.	 
-
-LogError
- 
-( 
-$" 
-$str +
-{+ ,
-nameof, 2
-(2 3
-	Matrix4x43 <
-)< =
-}= >
-$str> c
-"c d
-+e f
-eg h
-.h i
-Messagei p
-)q r
-;r s
-} 
-} 
-internal 
-
-MatrixStack 
-( 
-	Matrix4x4 !
-mtx" %
-)& '
-=>( *
-matrices+ 3
-.3 4
-Push4 8
-(8 9
-mtx: =
-)> ?
-;? @
-public 
-void	 
-Dispose 
-( 
-) 
-=> 
-Pop 
-( 
-)  
-;  !
-} 
-} ив
+}33 ив
 wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs
 	namespace
 
@@ -115051,7 +114912,146 @@ SetVector4
 аа 
 }
 гг 
-}ее §p
+}ее е
+yC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MatrixStack.cs
+	namespace 	
+Shapes
+ 
+{ 
+public
+
+ 
+readonly
+
+ 
+struct
+
+ 
+MatrixStack
+
+ #
+:
+
+$ %
+IDisposable
+
+& 1
+{
+
+2 3
+static 
+readonly	 
+Stack 
+< 
+	Matrix4x4 !
+>! "
+matrices# +
+=, -
+new. 1
+Stack2 7
+<7 8
+	Matrix4x48 A
+>A B
+(B C
+)C D
+;D E
+internal 
+
+static 
+void 
+Push 
+( 
+	Matrix4x4 &
+	prevState' 0
+)1 2
+=>3 5
+matrices6 >
+.> ?
+Push? C
+(C D
+	prevStateE N
+)O P
+;P Q
+internal 
+
+static 
+void 
+Pop 
+( 
+) 
+{ 
+try 
+{ 
+Draw 
+. 	
+Matrix	 
+= 
+matrices 
+. 
+Pop 
+( 
+)  
+;  !
+} 
+catch 
+
+(
+ 
+	Exception 
+e 
+) 
+{ 
+Debug 	
+.	 
+
+LogError
+ 
+( 
+$" 
+$str +
+{+ ,
+nameof, 2
+(2 3
+	Matrix4x43 <
+)< =
+}= >
+$str> c
+"c d
++e f
+eg h
+.h i
+Messagei p
+)q r
+;r s
+} 
+} 
+internal 
+
+MatrixStack 
+( 
+	Matrix4x4 !
+mtx" %
+)& '
+=>( *
+matrices+ 3
+.3 4
+Push4 8
+(8 9
+mtx: =
+)> ?
+;? @
+public 
+void	 
+Dispose 
+( 
+) 
+=> 
+Pop 
+( 
+)  
+;  !
+} 
+} §p
 mC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesIO.cs
 	namespace 	
 Shapes

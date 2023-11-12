@@ -1,52 +1,68 @@
 
-!Shapes.Polygon.FillColorStart.setò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csª ª("0*
-0
-ª ª(*
-1*¯
-1
-ª
- ª(Od
-b
+Shapes.Line.ColorMode.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs, ,("0*
+0, ,(*
+1*™
+1,
+ ,(f?
+=
+,
+ ,(
+	%capture0Shapes.Line"__id*
+Shapes.Line]
+[
+, ,(7
+	%capture1int"__id*75*3
+Shapes.ShapesMaterialUtils"
+propColorEndints
+q
+,; ,(L7
+Shapes.Line"&
+	colorModeShapes.Line.LineColorMode"__id*&$
+"
+valueShapes.Line.LineColorMode*
+2
+3*z
+2,i ,(qf
+d
+,i ,(q
+	%capture2UnityEngine.Color"__id*20*.
+Shapes.Line"
+colorEndUnityEngine.Color*
+4*€
+3,t ,(~vt
+,t ,(~
+%0UnityEngine.Color"Shapes.ShapeRenderer.Color.get*$
+,t ,(x
+Shapes.ShapeRenderer2	Color.getO
+M
+,t ,(~
+	%capture2UnityEngine.Color"__id*
+
+%0UnityEngine.Color*
+4*‡
+4	,
+ ,(Ä 
+«
+	,
+ ,(Ä
 
-ª6 ª(:
-%0Shapes.GradientFill"__id*31*/
-Shapes.Polygon"
-fillShapes.GradientFillr
-p
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*&
+,
+ ,(
+
+	%capture0Shapes.Line*
+, ,(7
+
+	%capture1int*,
+,9 ,(~ 
+
+	%capture2UnityEngine.Color*
+5*2
+5
+,Å ,(Å"!
 
-ª6 ª(M<
-
-%0Shapes.GradientFill"
-
-colorStartUnityEngine.Color"__id*
-
-valueUnityEngine.Colorá
-Ñ
-
-ª
- ª(O
-
-%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)* 
-
-ª
- ª(
-Shapes.Polygon*@
-
-ª ª(42*0
-Shapes.ShapesMaterialUtils"
-	propColorint*L
-
-ª6 ª(M>*<
-
-%0Shapes.GradientFill"
-
-colorStartUnityEngine.Color*
-2*2
-2
-ªP ª(P"!
-
-ªO ª(P
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Polygon
+,Ä ,(Å
+implicit return:$"
+valueShapes.Line.LineColorModeB
+Shapes.Line

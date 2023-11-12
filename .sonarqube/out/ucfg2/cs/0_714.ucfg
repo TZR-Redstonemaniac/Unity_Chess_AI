@@ -1,44 +1,29 @@
 
-Shapes.Disc.ArcEndCaps.setz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs¶ ¶("0*
-0
-¶ ¶(*
-1*è
-1
-¶
- ¶(Ud
-b
-
-¶? ¶(Q/
-Shapes.Disc"
-
-arcEndCapsShapes.ArcEndCap"__id*
+!Shapes.Rectangle.CornerRadius.get}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csh h("0*
+0h h(*
+1*Ù
+1h
+ h(k
+i
+h
+ h(
+%0UnityEngine.Vector4"__id*<:*8
+Shapes.Rectangle""
+cornerRadiiUnityEngine.Vector4X
+V
+h
+ h(
+%retfloat"__id*5
+h
+ h()*'
 
-valueShapes.ArcEndCapë
-è
+%0UnityEngine.Vector4"
 
-¶
- ¶(U
+xfloat*
+2**
+2h h("
+h h(
 
-%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
-
-¶
- ¶(
-Shapes.Disc*D
-
-¶ ¶(66*4
-Shapes.ShapesMaterialUtils"
-propRoundCapsint*?
-
-¶8 ¶(S1*/
-Shapes.Disc"
-
-arcEndCapsShapes.ArcEndCap*
-2*2
-2
-¶V ¶(V"!
-
-¶U ¶(V
-implicit return:
-valueShapes.ArcEndCapB
-Shapes.Disc
+%retfloatB
+Shapes.Rectangle

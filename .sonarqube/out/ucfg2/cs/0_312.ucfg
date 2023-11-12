@@ -1,49 +1,40 @@
 
-hShapes.DiscColors.DiscColors(UnityEngine.Color, UnityEngine.Color, UnityEngine.Color, UnityEngine.Color)‚
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DiscColors.cs ("1*
-1 (*
-0*Î
-0 (o
-m
- (6
-Shapes.DiscColors"
-
-innerStartUnityEngine.Color"__id*#!
-
-
-innerStartUnityEngine.Coloro
-m
- (6
-Shapes.DiscColors"
-
-outerStartUnityEngine.Color"__id*#!
-
-
-outerStartUnityEngine.Colork
-i
- (4
-Shapes.DiscColors"
-innerEndUnityEngine.Color"__id*!
-
-innerEndUnityEngine.Colork
-i
- (4
-Shapes.DiscColors"
-outerEndUnityEngine.Color"__id*!
-
-outerEndUnityEngine.Color*
-2*.
-2 ("
- (
-implicit return:+
- ('
-
-innerStartUnityEngine.Color:+
-) (9
-
-outerStartUnityEngine.Color:)
-; (I
-innerEndUnityEngine.Color:)
-K (Y
-outerEndUnityEngine.ColorB
+)Shapes.DiscColors.Flat(UnityEngine.Color)‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DiscColors.cs! !("0*
+0! !(*
+1*„
+1!2 !(^86
+!2 !(^
+%0Shapes.DiscColors"Shapes.DiscColorsß
+Ü
+!2 !(^
+%1Shapes.DiscColors"hShapes.DiscColors.DiscColors(UnityEngine.Color, UnityEngine.Color, UnityEngine.Color, UnityEngine.Color)*%
+!2 !(^
+
+%0Shapes.DiscColors*(
+!B !(G
+
+colorUnityEngine.Color*(
+!I !(N
+
+colorUnityEngine.Color*(
+!P !(U
+
+colorUnityEngine.Color*(
+!W !(\
+
+colorUnityEngine.ColorT
+R
+!2 !(^
+%retShapes.DiscColors"__id*%
+!2 !(^
+
+%0Shapes.DiscColors*
+2*6
+2!_ !(_"'
+!^ !(_
+
+%retShapes.DiscColors:&
+!! !(,
+colorUnityEngine.ColorB"
 Shapes.DiscColors

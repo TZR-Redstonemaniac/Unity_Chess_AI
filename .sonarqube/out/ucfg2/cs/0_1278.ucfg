@@ -1,21 +1,21 @@
 
- Shapes.Torus.AngRadiansStart.gety
-oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Torus.cs, ,("0*
-0, ,(*
-1*o
-1,
- ,([
-Y
-,
- ,(
-%retfloat"__id*8
-,
- ,(,**
-Shapes.Torus"
-angRadiansStartfloat*
-2**
-2, ,("
-, ,(
-
-%retfloatB
-Shapes.Torus
+Shapes.Cone.SizeSpace.getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Cone.cs! !("0*
+0! !(*
+1*ˆ
+1!
+ !(t
+r
+!
+ !(
+%retShapes.ThicknessSpace"__id*A
+!
+ !(5*3
+Shapes.Cone""
+	sizeSpaceShapes.ThicknessSpace*
+2*:
+2! !("+
+! !(
+
+%retShapes.ThicknessSpaceB
+Shapes.Cone

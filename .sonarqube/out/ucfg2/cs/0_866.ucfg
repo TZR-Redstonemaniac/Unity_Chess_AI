@@ -1,28 +1,37 @@
 
-!Shapes.Rectangle.CornerRadiii.get}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csv v("0*
-0v v(*
-1*Ù
-1v
- v(k
-i
-v
- v(
-%0UnityEngine.Vector4" Shapes.Rectangle.CornerRadii.get* 
-v
- v(
-Shapes.RectangleX
-V
-v
- v(
-%retUnityEngine.Vector4"__id*'
-v
- v(
+Shapes.Draw.FontStyle.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs‚ ‚("0*
+0
+‚ ‚(*
+1*Ç
+1
+‚! ‚(>\
+Z
+
+‚! ‚(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+‚! ‚(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyleh
+f
+
+‚! ‚(>3
+
+%1Shapes.TextStyle"
+styleTMPro.FontStyles"__id*
 
-%0UnityEngine.Vector4*
-2*8
-2v v(")
-v v(
-
-%retUnityEngine.Vector4B
-Shapes.Rectangle
+valueTMPro.FontStyles*
+2*2
+2
+‚? ‚(?"!
+
+‚> ‚(?
+implicit return:
+valueTMPro.FontStylesB"
+Shapes.Draw

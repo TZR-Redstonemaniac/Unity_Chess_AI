@@ -1,33 +1,42 @@
 
-Shapes.Cone.SizeSpace.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Cone.cs" "("0*
-0" "(*
-1*é
-1"
- "(Tk
-i
-"? "(P3
-Shapes.Cone""
-	sizeSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpaceç
-ä
-"
- "(T
+%Shapes.ShapeRenderer.StencilRefID.setƒ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs­ ­("0*
+0
+­ ­(*
+1*÷
+1
+­
+ ­(bW
+U
 
-%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
-"
- "(
-Shapes.Cone*B
-" "(66*4
+­L ­(`.
+Shapes.ShapeRenderer"
+stencilRefIDbyte"__id*
+
+valuebyte‡
+„
+
+­
+ ­(b
+
+%0void"<Shapes.ShapeRenderer.SetIntOnAllInstancedMaterials(int, int)*&
+
+­
+ ­('
+Shapes.ShapeRenderer*D
+
+­) ­(J6*4
 Shapes.ShapesMaterialUtils"
-propSizeSpaceint*A
-"8 "(R5*3
-Shapes.Cone""
-	sizeSpaceShapes.ThicknessSpace*
-2*.
-2"U "(U"
-"T "(U
-implicit return: 
-valueShapes.ThicknessSpaceB
-Shapes.Cone
+propStencilIDint*>
+
+­L ­(`0*.
+Shapes.ShapeRenderer"
+stencilRefIDbyte*
+2*2
+2
+­c ­(c"!
+
+­b ­(c
+implicit return:
+valuebyteB
+Shapes.ShapeRenderer

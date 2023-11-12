@@ -1,28 +1,43 @@
 
-Shapes.Line.DashOffset.get–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csj j("0*
-0j j(*
-1*Î
-1j
- j(^
-\
-j
- j(
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStyleZ
-X
-j
- j(
-%retfloat"__id*7
-j
- j(+*)
-
-%0Shapes.DashStyle"
-offsetfloat*
-2**
-2j j("
-j j(
+Shapes.Disc.AngRadiansEnd.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csŽ Ž("0*
+0
+Ž Ž(*
+1*Î
+1
+Ž
+ Ž(NQ
+O
 
-%retfloatB
-Shapes.Line
+Ž7 Ž(L'
+Shapes.Disc"
+angRadiansEndfloat"__id*
+
+valuefloatä
+á
+
+Ž
+ Ž(N
+
+%0void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+
+Ž
+ Ž(
+Shapes.Disc*A
+
+Ž Ž(53*1
+Shapes.ShapesMaterialUtils"
+
+propAngEndint*7
+
+Ž7 Ž(L)*'
+Shapes.Disc"
+angRadiansEndfloat*
+2*2
+2
+ŽO Ž(O"!
+
+ŽN Ž(O
+implicit return:
+valuefloatB
+Shapes.Disc

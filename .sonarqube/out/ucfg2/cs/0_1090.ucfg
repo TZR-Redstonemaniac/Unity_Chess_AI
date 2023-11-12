@@ -1,33 +1,43 @@
 
-,Shapes.Draw.RegularPolygonThicknessSpace.setà
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csä ä("0*
-0
-ä ä(*
-1*Ô
-1
-ä
- ä(&\
-Z
+%Shapes.ShapeRenderer.SortingOrder.getÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs( (("0*
+0( ((*
+1*µ
+1(
+ ((@¯
+ı
+(
+ ((3
+%1UnityEngine.MeshRenderer"@Shapes.ShapeRenderer.MakeSureComponentExists<T>(ref T, out bool)*$
+(
+ ((!
+Shapes.ShapeRenderer*G
+(# ((*;*9
+Shapes.ShapeRenderer"
+rndUnityEngine.MeshRenderer*
+(, ((1
 
-ä
- ä(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle{
-y
 
-ä
- ä(&A
-
-%0Shapes.DrawStyle"'
-thicknessSpaceShapes.ThicknessSpace"__id*" 
+%0booll
+j
+(
+ ((@	
+%2int"%UnityEngine.Renderer.sortingOrder.get*,
+(
+ ((3 
 
-valueShapes.ThicknessSpace*
-2*2
-2
-ä' ä('"!
-
-ä& ä('
-implicit return: 
-valueShapes.ThicknessSpaceB"
-Shapes.Draw
+%1UnityEngine.MeshRenderer8
+6
+(
+ ((@
+%retint"__id*
+(
+ ((@
+	
+%2int*
+2*(
+2(A ((A"
+(@ ((A
+
+%retintB
+Shapes.ShapeRenderer

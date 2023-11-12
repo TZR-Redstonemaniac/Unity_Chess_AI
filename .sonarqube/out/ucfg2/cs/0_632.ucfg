@@ -1,38 +1,33 @@
 
-Shapes.Draw.DashSpace.getà
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csç ç("0*
-0
-ç ç(*
-1*“
-1
-ç! ç(6\
-Z
+Shapes.Cuboid.SizeSpace.setz
+pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Cuboid.cs ("0*
+0 (*
+1*Ô
+1
+ (Tm
+k
+? (P5
+Shapes.Cuboid""
+	sizeSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpaceÎ
+Ë
+
+ (T
 
-ç! ç(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
-
-ç! ç(0
-%1Shapes.DashStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStyles
-q
-
-ç! ç(6
-%retShapes.DashSpace"__id*C
-
-ç! ç(65*3
-
-%1Shapes.DashStyle"
-spaceShapes.DashSpace*
-2*9
-2
-ç7 ç(7"(
-
-ç6 ç(7
-
-%retShapes.DashSpaceB"
-Shapes.Draw
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+
+ (
+Shapes.Cuboid*B
+ (66*4
+Shapes.ShapesMaterialUtils"
+propSizeSpaceint*C
+8 (R7*5
+Shapes.Cuboid""
+	sizeSpaceShapes.ThicknessSpace*
+2*.
+2U (U"
+T (U
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.Cuboid

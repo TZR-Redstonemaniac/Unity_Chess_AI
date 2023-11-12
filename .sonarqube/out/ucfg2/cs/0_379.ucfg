@@ -1,50 +1,50 @@
 
-Shapes.Triangle.DashOffset.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs€ €("0*
+$Shapes.RegularPolygon.DashOffset.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csú ú("0*
 0
-€ €(*
-1*À
+ú ú(*
+1*Ì
 1
-€
- €(Ud
-b
+ú
+ ú(Uj
+h
 
-€; €(D
-%0Shapes.DashStyle"__id*64*2
-Shapes.Triangle"
+ú; ú(D
+%0Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
 	dashStyleShapes.DashStyleS
 Q
 
-€; €(S)
+ú; ú(S)
 
 %0Shapes.DashStyle"
 offsetfloat"__id*
 
-valuefloatî
-ë
+valuefloatô
+ñ
 
-€
- €(U
+ú
+ ú(U
 
-%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*!
+%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*'
 
-€
- €(
-Shapes.Triangle*E
+ú
+ ú(
+Shapes.RegularPolygon*E
 
-€ €(97*5
+ú ú(97*5
 Shapes.ShapesMaterialUtils"
 propDashOffsetint*9
 
-€; €(S+*)
+ú; ú(S+*)
 
 %0Shapes.DashStyle"
 offsetfloat*
 2*2
 2
-€V €(V"!
+úV ú(V"!
 
-€U €(V
+úU ú(V
 implicit return:
-valuefloatB
-Shapes.Triangle
+valuefloatB
+Shapes.RegularPolygon

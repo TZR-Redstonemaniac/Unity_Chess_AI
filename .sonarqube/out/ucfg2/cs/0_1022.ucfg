@@ -1,35 +1,27 @@
 
-Shapes.Draw.DiscRadius.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÍ Í("0*
+)Shapes.DashStyle.DefaultDashStyleLine.get
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.csŽ Ž("0*
 0
-Í Í(*
-1*Ò
+Ž Ž(*
+1*”
 1
-Í
- Í(\
-Z
+Ž
+ Ž(~
+|
 
-Í
- Í(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle^
-\
+Ž
+ Ž(
+%retShapes.DashStyle"__id*N
 
-Í
- Í(
-%retfloat"__id*9
-
-Í
- Í(+*)
-
-%0Shapes.DrawStyle"
-radiusfloat*
-2*.
+Ž
+ Ž(@*>
+Shapes.DashStyle"(
+defaultDashStyleLineShapes.DashStyle*
+2*9
 2
-Í Í("
+Ž Ž("(
 
-Í Í(
-
-%retfloatB"
-Shapes.Draw
+Ž Ž(
+
+%retShapes.DashStyleB"
+Shapes.DashStyle

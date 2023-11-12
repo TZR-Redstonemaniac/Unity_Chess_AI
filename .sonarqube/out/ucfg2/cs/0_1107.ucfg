@@ -1,35 +1,27 @@
 
-'Shapes.Draw.RectangleThicknessSpace.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs› ›("0*
+Shapes.Quad.C.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs‰ ‰("0*
 0
-› ›(*
-1*ü
+‰ ‰(*
+1*‚
 1
-›
- ›(\
-Z
+‰
+ ‰(l
+j
 
-›
- ›(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle‡
-„
+‰
+ ‰(
+%retUnityEngine.Vector3"__id*9
 
-›
- ›(
-%retShapes.ThicknessSpace"__id*Q
-
-›
- ›(C*A
-
-%0Shapes.DrawStyle"'
-thicknessSpaceShapes.ThicknessSpace*
-2*>
+‰
+ ‰(+*)
+Shapes.Quad"
+cUnityEngine.Vector3*
+2*<
 2
-› ›("-
+‰ ‰("+
 
-› ›(
-
-%retShapes.ThicknessSpaceB"
-Shapes.Draw
+‰ ‰(
+
+%retUnityEngine.Vector3B
+Shapes.Quad

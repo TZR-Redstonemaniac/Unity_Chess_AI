@@ -1,27 +1,21 @@
 
-Shapes.Quad.ColorBottom.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csÓ Ó("0*
-0
-Ó Ó(*
-1*ƒ
-1
-Ó
- Ó(m
-k
-
-Ó
- Ó(
-%retUnityEngine.Color"__id*<
-
-Ó
- Ó(.*,
-Shapes.Quad"
-colorDUnityEngine.Color*
-2*:
-2
-Ó Ó(")
-
-Ó Ó(
-
-%retUnityEngine.ColorB
-Shapes.Quad
+"Shapes.ShapeRenderer.ScaleMode.get
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs= =("0*
+0= =(*
+1*‡
+1=
+ =(s
+q
+=
+ =(
+%retShapes.ScaleMode"__id*E
+=
+ =(9*7
+Shapes.ShapeRenderer"
+	scaleModeShapes.ScaleMode*
+2*5
+2= =("&
+= =(
+
+%retShapes.ScaleModeB
+Shapes.ShapeRenderer

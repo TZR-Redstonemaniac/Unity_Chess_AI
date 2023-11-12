@@ -1,13 +1,156 @@
 
-8Shapes.MpbDisc.Shapes.IDashableMpb.dashShapeModifier.getÖ
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs4/ 4(2"0*Í
-043 4(3¢
-ü
-4/ 4(3(
-%0"System.Collections.Generic.List<T>"__id*ca*_
-Shapes.MpbDisc"K
-%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"6
-4/ 4(3*
-(
-%0"System.Collections.Generic.List<T>B
+(Shapes.MpbDisc.TransferShapeProperties()Ö
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs; ;(1"0*
+0; ;(*
+1*ä
+1< G(Fñ
+ì
+< <(;
+
+%0void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+< <(
+Shapes.MpbDisc*B
+< <(.6*4
+Shapes.ShapesMaterialUtils"
+propAlignmentint*Q
+<0 <(9E*C
+Shapes.MpbDisc"/
+	alignment"System.Collections.Generic.List<T>í
+è
+= =(7
+
+%1void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+= =(
+Shapes.MpbDisc*?
+= =(+3*1
+Shapes.ShapesMaterialUtils"
+
+propAngEndint*P
+=- =(5D*B
+Shapes.MpbDisc".
+angleEnd"System.Collections.Generic.List<T>ñ
+ì
+> >(;
+
+%2void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+> >(
+Shapes.MpbDisc*A
+> >(-5*3
+Shapes.ShapesMaterialUtils"
+propAngStartint*R
+>/ >(9F*D
+Shapes.MpbDisc"0
+
+angleStart"System.Collections.Generic.List<T>¨
+©
+? ?(C
+
+%3void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*
+? ?(
+Shapes.MpbDisc*F
+? ?(2:*8
+Shapes.ShapesMaterialUtils"
+propColorInnerEndint*U
+?4 ?(AI*G
+Shapes.MpbDisc"3
+colorInnerEnd"System.Collections.Generic.List<T>¨
+©
+@ @(C
+
+%4void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*
+@ @(
+Shapes.MpbDisc*F
+@ @(2:*8
+Shapes.ShapesMaterialUtils"
+propColorOuterEndint*U
+@4 @(AI*G
+Shapes.MpbDisc"3
+colorOuterEnd"System.Collections.Generic.List<T>∞
+≠
+A A(G
+
+%5void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*
+A A(
+Shapes.MpbDisc*H
+A A(4<*:
+Shapes.ShapesMaterialUtils"
+propColorOuterStartint*W
+A6 A(EK*I
+Shapes.MpbDisc"5
+colorOuterStart"System.Collections.Generic.List<T>ê
+ç
+B B(5
+
+%6void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+B B(
+Shapes.MpbDisc*?
+B B(+3*1
+Shapes.ShapesMaterialUtils"
+
+propRadiusint*N
+B- B(3B*@
+Shapes.MpbDisc",
+radius"System.Collections.Generic.List<T>ö
+ó
+C C(?
+
+%7void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+C C(
+Shapes.MpbDisc*D
+C C(08*6
+Shapes.ShapesMaterialUtils"
+propRadiusSpaceint*S
+C2 C(=G*E
+Shapes.MpbDisc"1
+radiusSpace"System.Collections.Generic.List<T>ñ
+ì
+D D(;
+
+%8void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+D D(
+Shapes.MpbDisc*B
+D D(.6*4
+Shapes.ShapesMaterialUtils"
+propRoundCapsint*Q
+D0 D(9E*C
+Shapes.MpbDisc"/
+	roundCaps"System.Collections.Generic.List<T>ñ
+ì
+E E(;
+
+%9void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+E E(
+Shapes.MpbDisc*B
+E E(.6*4
+Shapes.ShapesMaterialUtils"
+propScaleModeint*Q
+E0 E(9E*C
+Shapes.MpbDisc"/
+	scaleMode"System.Collections.Generic.List<T>ó
+î
+F F(;
+%10void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+F F(
+Shapes.MpbDisc*B
+F F(.6*4
+Shapes.ShapesMaterialUtils"
+propThicknessint*Q
+F0 F(9E*C
+Shapes.MpbDisc"/
+	thickness"System.Collections.Generic.List<T>°
+û
+G G(E
+%11void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
+G G(
+Shapes.MpbDisc*G
+G G(3;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*V
+G5 G(CJ*H
+Shapes.MpbDisc"4
+thicknessSpace"System.Collections.Generic.List<T>*
+2*.
+2H H("
+H H(
+implicit returnB
 Shapes.MpbDisc

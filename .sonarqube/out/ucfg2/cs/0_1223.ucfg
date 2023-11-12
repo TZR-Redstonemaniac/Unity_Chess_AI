@@ -1,89 +1,27 @@
 
-6Shapes.ShapesMaterialUtils.GetRectMaterial(bool, bool)„
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesMaterialUtils.cs“  “(/"0*
+Shapes.Quad.ColorBottom.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csÓ Ó("0*
 0
-“ “(*
-1*
+Ó Ó(*
+1*ƒ
 1
-” ”(*
-2
-6*
+Ó
+ Ó(m
+k
+
+Ó
+ Ó(
+%retUnityEngine.Color"__id*<
+
+Ó
+ Ó(.*,
+Shapes.Quad"
+colorDUnityEngine.Color*
+2*:
 2
-• •(*
-3
-4*¥
-3
-• •()Ž
-‹
+Ó Ó(")
 
-• •()#
-	%capture0Shapes.ShapesMaterials"__id*RP*N
-Shapes.ShapesMaterialUtils".
-matRectBorderRoundedShapes.ShapesMaterials*
-5*ž
-4
-•, •(9‡
-„
-
-•, •(9#
-	%capture0Shapes.ShapesMaterials"__id*KI*G
-Shapes.ShapesMaterialUtils"'
-matRectBorderShapes.ShapesMaterials*
-5*€
-5
-• •(9i
-g
-
-• •(9
-%retShapes.ShapesMaterials"__id*3
-
-• •(9%
-#
-	%capture0Shapes.ShapesMaterials*
-10*
-6
-— —(*
-7
-8*Ÿ
-7
-— —(#ˆ
-…
-
-— —(##
-	%capture1Shapes.ShapesMaterials"__id*LJ*H
-Shapes.ShapesMaterialUtils"(
-matRectRoundedShapes.ShapesMaterials*
-9*ž
-8
-—& —(3‡
-„
-
-—& —(3#
-	%capture1Shapes.ShapesMaterials"__id*KI*G
-Shapes.ShapesMaterialUtils"'
-matRectSimpleShapes.ShapesMaterials*
-9*€
-9
-— —(3i
-g
-
-— —(3
-%retShapes.ShapesMaterials"__id*3
-
-— —(3%
-#
-	%capture1Shapes.ShapesMaterials*
-10*@
-10
-˜ ˜(".
-
-˜ ˜( 
-
-%retShapes.ShapesMaterials:
-
-“1 “(<
-hollowbool:
-
-“> “(J
-roundedboolB"
-Shapes.ShapesMaterialUtils
+Ó Ó(
+
+%retUnityEngine.ColorB
+Shapes.Quad

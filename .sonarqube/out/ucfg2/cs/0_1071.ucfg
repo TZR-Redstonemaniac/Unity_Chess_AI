@@ -1,35 +1,33 @@
 
-$Shapes.Draw.RegularPolygonRadius.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csý ý("0*
+,Shapes.Draw.RegularPolygonThicknessSpace.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csŠ Š("0*
 0
-ý ý(*
-1*Ò
+Š Š(*
+1*ï
 1
-ý
- ý(\
+Š
+ Š(&\
 Z
 
-ý
- ý(
+Š
+ Š(
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStyle^
-\
+styleShapes.DrawStyle{
+y
 
-ý
- ý(
-%retfloat"__id*9
-
-ý
- ý(+*)
+Š
+ Š(&A
 
-%0Shapes.DrawStyle"
-radiusfloat*
-2*.
+%0Shapes.DrawStyle"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpace*
+2*2
 2
-ý ý("
+Š' Š('"!
 
-ý ý(
-
-%retfloatB"
+Š& Š('
+implicit return: 
+valueShapes.ThicknessSpaceB"
 Shapes.Draw

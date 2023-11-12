@@ -1,27 +1,30 @@
 
-Shapes.Triangle.Color.get~
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs™ ™("0*
+Shapes.Draw.DashStyle.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs‚ ‚("0*
 0
-™ ™(*
-1*†
+‚ ‚(*
+1*à
 1
-™
- ™(p
-n
+‚! ‚(8\
+Z
 
-™
- ™(
-%retUnityEngine.Color"__id*?
+‚! ‚(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylel
+j
 
-™
- ™(1*/
-Shapes.Triangle"
-colorUnityEngine.Color*
-2*:
-2
-™ ™(")
-
-™ ™(
+‚! ‚(87
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStyle"__id*
 
-%retUnityEngine.ColorB
-Shapes.Triangle
+valueShapes.DashStyle*
+2*2
+2
+‚9 ‚(9"!
+
+‚8 ‚(9
+implicit return:
+valueShapes.DashStyleB"
+Shapes.Draw

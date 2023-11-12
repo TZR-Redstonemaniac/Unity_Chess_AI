@@ -1,18 +1,38 @@
 
-0Shapes.MpbRect.Shapes.IDashableMpb.dashSpace.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÏ' Ï(*"0*š
+Shapes.Draw.TextWordSpacing.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs“ “("0*
 0
-Ï+ Ï(+Ÿ
-œ
+“ “(*
+1*Â
+1
+“! “(<\
+Z
 
-Ï' Ï(+W
-Shapes.MpbRect"C
-Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"g
+“! “(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-Ï' Ï(+Y*W
-Shapes.MpbRect"C
-Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRect
+“! “(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStylec
+a
+
+“! “(<
+%retfloat"__id*>
+
+“! “(<0*.
+
+%1Shapes.TextStyle"
+wordSpacingfloat*
+2*.
+2
+“= “(="
+
+“< “(=
+
+%retfloatB"
+Shapes.Draw

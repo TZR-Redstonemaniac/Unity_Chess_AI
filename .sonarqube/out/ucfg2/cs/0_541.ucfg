@@ -1,50 +1,31 @@
 
-&Shapes.RegularPolygon.FillColorEnd.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csË Ë("0*
+Shapes.Draw.RadiusSpace.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs« «("0*
 0
-Ë Ë(*
-1*…
+« «(*
+1*ù
 1
-Ë
- Ë(Pk
-i
+«! «(2\
+Z
 
-Ë9 Ë(=
-%0Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFillp
-n
+«! «(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyle„
+
 
-Ë9 Ë(N:
-
-%0Shapes.GradientFill"
-colorEndUnityEngine.Color"__id*
-
-valueUnityEngine.Color
-Œ
+«! «(2
+%retShapes.ThicknessSpace"__id*N
 
-Ë
- Ë(P
-
-%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*'
-
-Ë
- Ë(
-Shapes.RegularPolygon*C
-
-Ë Ë(75*3
-Shapes.ShapesMaterialUtils"
-propColorEndint*J
-
-Ë9 Ë(N<*:
-
-%0Shapes.GradientFill"
-colorEndUnityEngine.Color*
-2*2
+«! «(2@*>
+
+%0Shapes.DrawStyle"$
+radiusSpaceShapes.ThicknessSpace*
+2*>
 2
-ËQ Ë(Q"!
+«3 «(3"-
 
-ËP Ë(Q
-implicit return:
-valueUnityEngine.ColorB
-Shapes.RegularPolygon
+«2 «(3
+
+%retShapes.ThicknessSpaceB"
+Shapes.Draw

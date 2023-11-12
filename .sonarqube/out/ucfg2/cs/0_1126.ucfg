@@ -1,24 +1,35 @@
 
-"Shapes.ShapeRenderer.BlendMode.setÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs5 5("0*
-05 5(*
-1*Ò
-16 7(v
-t
-6 6(=
-Shapes.ShapeRenderer"#
-	blendModeShapes.ShapesBlendMode"__id*#!
-
-valueShapes.ShapesBlendModee
-c
-7 7(
+"Shapes.Draw.RectangleThickness.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csï ï("0*
+0
+ï ï(*
+1*’
+1
+ï
+ ï(\
+Z
 
-%0void"%Shapes.ShapeRenderer.UpdateMaterial()*$
-7 7(
-Shapes.ShapeRenderer*
+ï
+ ï(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylea
+_
+
+ï
+ ï(
+%retfloat"__id*<
+
+ï
+ ï(.*,
+
+%0Shapes.DrawStyle"
+	thicknessfloat*
 2*.
-28 8("
-8 8(
-implicit return:!
-valueShapes.ShapesBlendModeB
-Shapes.ShapeRenderer
+2
+ï ï("
+
+ï ï(
+
+%retfloatB"
+Shapes.Draw

@@ -1,18 +1,37 @@
 
-3Shapes.MpbTriangle.Shapes.IDashableMpb.dashSnap.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs¼& ¼()"0* 
+Shapes.Draw.TextMargins.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¦ ¦("0*
 0
-¼* ¼(*¢
-Ÿ
+¦ ¦(*
+1*Ï
+1
+¦! ¦(@\
+Z
 
-¼& ¼(*Z
-Shapes.MpbTriangle"B
-Shapes.IDashableMpb.dashSnap"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"j
+¦! ¦(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-¼& ¼(*\*Z
-Shapes.MpbTriangle"B
-Shapes.IDashableMpb.dashSnap"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbTriangle
+¦! ¦(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStylep
+n
+
+¦! ¦(@8
+
+%1Shapes.TextStyle"
+marginsUnityEngine.Vector4"__id* 
+
+valueUnityEngine.Vector4*
+2*2
+2
+¦A ¦(A"!
+
+¦@ ¦(A
+implicit return:
+valueUnityEngine.Vector4B"
+Shapes.Draw

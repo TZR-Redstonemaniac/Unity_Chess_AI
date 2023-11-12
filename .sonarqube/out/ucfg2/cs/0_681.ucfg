@@ -1,43 +1,51 @@
 
-Shapes.Triangle.ColorB.set~
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs© ©("0*
-0
-© ©(*
-1*ü
-1
-©
- ©(Gf
-d
+Shapes.Line.DashSpacing.get–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csc c("0*
+0c c(*
+1*
+1c
+ c( *
+2
+3*Ç
+2c# c(1^
+\
+c# c(,
+%0Shapes.DashStyle"__id*20*.
+Shapes.Line"
+	dashStyleShapes.DashStyleS
+Q
+c# c(1
+	%capture0float"__id*+)*'
+
+%0Shapes.DashStyle"
+sizefloat*
+4*Ê
+3c4 c(E^
+\
+c4 c(=
+%1Shapes.DashStyle"__id*20*.
+Shapes.Line"
+	dashStyleShapes.DashStyleV
+T
+c4 c(E
+	%capture0float"__id*.,**
+
+%1Shapes.DashStyle"
+spacingfloat*
+4*W
+4c
+ c(EC
+A
+c
+ c(E
+%retfloat"__id* 
+c
+ c(E
+
+	%capture0float*
+5**
+5cF c(F"
+cE c(F
 
-©7 ©(E0
-Shapes.Triangle"
-colorBUnityEngine.Color"__id*
-
-valueUnityEngine.Colorý
-ú
-
-©
- ©(G
-
-%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*!
-
-©
- ©(
-Shapes.Triangle*A
-
-© ©(53*1
-Shapes.ShapesMaterialUtils"
-
-propColorBint*@
-
-©7 ©(E2*0
-Shapes.Triangle"
-colorBUnityEngine.Color*
-2*2
-2
-©H ©(H"!
-
-©G ©(H
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Triangle
+%retfloatB
+Shapes.Line

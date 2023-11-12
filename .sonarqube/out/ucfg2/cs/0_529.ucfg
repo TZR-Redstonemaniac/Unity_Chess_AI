@@ -1,35 +1,30 @@
 
-"Shapes.Rectangle.FillLinearEnd.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¼ ¼("0*
+Shapes.Draw.Radius.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs   ("0*
 0
-¼ ¼(*
-1*ÿ
+   (*
+1*Ç
 1
-¼
- ¼(f
-d
+ !  (5\
+Z
 
-¼
- ¼(
-%0Shapes.GradientFill"__id*53*1
-Shapes.Rectangle"
-fillShapes.GradientFill€
-~
+ !  (&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleS
+Q
 
-¼
- ¼(
-%retUnityEngine.Vector3"__id*M
-
-¼
- ¼(?*=
-
-%0Shapes.GradientFill" 
-	linearEndUnityEngine.Vector3*
-2*<
+ !  (5)
+
+%0Shapes.DrawStyle"
+radiusfloat"__id*
+
+valuefloat*
+2*2
 2
-¼ ¼("+
+ 6  (6"!
 
-¼ ¼(
-
-%retUnityEngine.Vector3B
-Shapes.Rectangle
+ 5  (6
+implicit return:
+valuefloatB"
+Shapes.Draw

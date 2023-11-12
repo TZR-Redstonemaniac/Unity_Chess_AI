@@ -1,30 +1,33 @@
 
-Shapes.Draw.RadiusSpace.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¬ ¬("0*
-0
-¬ ¬(*
-1*ì
-1
-¬! ¬(:\
-Z
+Shapes.Disc.ColorInnerEnd.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csN N("0*
+0N N(*
+1*ù
+1N
+ N(Ug
+e
+N> N(S3
+Shapes.Disc""
+colorInnerEndUnityEngine.Color"__id*
+
+valueUnityEngine.Colorû
+ø
+N
+ N(U
 
-¬! ¬(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylex
-v
-
-¬! ¬(:>
-
-%0Shapes.DrawStyle"$
-radiusSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpace*
-2*2
-2
-¬; ¬(;"!
-
-¬: ¬(;
-implicit return: 
-valueShapes.ThicknessSpaceB"
-Shapes.Draw
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+N
+ N(
+Shapes.Disc*F
+N N(<:*8
+Shapes.ShapesMaterialUtils"
+propColorInnerEndint*A
+N> N(S5*3
+Shapes.Disc""
+colorInnerEndUnityEngine.Color*
+2*.
+2NV N(V"
+NU N(V
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Disc

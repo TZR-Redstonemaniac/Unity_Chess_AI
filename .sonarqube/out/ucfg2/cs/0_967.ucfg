@@ -1,35 +1,30 @@
 
-.Shapes.GradientFill.GetShaderFillTypeInt(bool)€
-vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.csY Y(#"0*
-0Y Y(*
-1*
-1Y3 Y(6*
-2
-3*n
-2Y9 Y(BZ
-X
-Y9 Y(B
-	%capture0int"__id*42*0
-Shapes.GradientFill"
-typeShapes.FillType*
-4*I
-3YE Y(N5
-3
-YE Y(N
-	%capture0int"__id*2ÿÿÿÿÿÿÿÿÿ*
-4*S
-4Y3 Y(N?
-=
-Y3 Y(N
-%retint"__id*
-Y3 Y(N
-
-	%capture0int*
-5*(
-5YO Y(O"
-YN Y(O
-
-%retint:
-Y% Y(-
-useboolB
+TShapes.GradientFill.SetRadialOriginWorld(UnityEngine.Transform, UnityEngine.Vector3)€
+vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.cs_ _(""0*
+0_ _(*
+1*â
+1_K _({Í
+Ê
+_K _({
+
+%0void"dShapes.GradientFill.SetWorldPos(UnityEngine.Transform, ref UnityEngine.Vector3, UnityEngine.Vector3)*#
+_K _(V
+Shapes.GradientFill*)
+_X _(Z
+
+tfUnityEngine.Transform*J
+_\ _(l>*<
+Shapes.GradientFill"#
+radialOriginUnityEngine.Vector3*0
+_n _(y$
+"
+worldOriginUnityEngine.Vector3*
+2*.
+2_| _(|"
+_{ _(|
+implicit return:'
+_$ _(0
+tfUnityEngine.Transform:.
+_2 _(E"
+worldOriginUnityEngine.Vector3B
 Shapes.GradientFill

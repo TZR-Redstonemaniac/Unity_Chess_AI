@@ -1,24 +1,41 @@
 
-©SerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)‡
-}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.csr r(!"1*
-1rj r(j*
-0*›
-0rT r(g†
-ƒ
-rT r(h
-
-%0void"±SerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)*=;9
-7SerializableDictionaryBase<TKey, TValue, TValueStorage>*:8
+'NeuralNetwork.Classify(params double[])v
+lC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Neural Network\NeuralNetwork.cs ("0*
+0 (*
+1*š
+1 ('ˆ
+…
+ (3
+%0double[]"(NeuralNetwork.CalculateOutputs(double[])*
+ (+
+NeuralNetwork* 
+, (2
+
+inputsdouble[];
+9
+ (3
+outputsdouble[]"__id*
+
+%0double[]ƒ
+€
+ ('	
+%1int"'NeuralNetwork.IndexOfMaxValue(double[])*
+ (
+NeuralNetwork*!
+ (&
+
+outputsdouble[]8
 6
-info.System.Runtime.Serialization.SerializationInfo*<:
-8
-context-System.Runtime.Serialization.StreamingContext*
-2*.
-2rj r(j"
-ri r(j
-implicit return:B
-r" r(86
-info.System.Runtime.Serialization.SerializationInfo:D
-r: r(R8
-context-System.Runtime.Serialization.StreamingContextB75
-3SerializableDictionary<TKey, TValue, TValueStorage>
+ ('
+%retint"__id*
+ ('
+	
+%1int*
+2*(
+2 ("
+ (
+
+%retint:
+ (/
+inputsdouble[]B
+NeuralNetwork

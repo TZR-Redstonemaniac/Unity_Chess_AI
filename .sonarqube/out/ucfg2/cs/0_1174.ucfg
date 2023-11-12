@@ -1,33 +1,33 @@
 
-#Shapes.Draw.TorusThicknessSpace.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÀ À("0*
+!Shapes.Draw.SphereRadiusSpace.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs´ ´("0*
 0
-À À(*
-1*ï
+´ ´(*
+1*ì
 1
-À
- À(&\
+´
+ ´(#\
 Z
 
-À
- À(
+´
+ ´(
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStyle{
-y
+styleShapes.DrawStylex
+v
 
-À
- À(&A
+´
+ ´(#>
 
-%0Shapes.DrawStyle"'
-thicknessSpaceShapes.ThicknessSpace"__id*" 
+%0Shapes.DrawStyle"$
+radiusSpaceShapes.ThicknessSpace"__id*" 
 
 valueShapes.ThicknessSpace*
 2*2
 2
-À' À('"!
+´$ ´($"!
 
-À& À('
+´# ´($
 implicit return: 
 valueShapes.ThicknessSpaceB"
 Shapes.Draw

@@ -1,3 +1,60 @@
-…
-Shapes.ShapesAssetsUnityEngine.ScriptableObjectUnityEngine.Objectobject4
-ShapesAssets()"Shapes.ShapesAssets.ShapesAssets()
+þ
+Shapes.QuadShapes.ShapeRendererUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject4
+GetQuadVertex(int)Shapes.Quad.GetQuadVertex(int)^
+'SetQuadVertex(int, UnityEngine.Vector3)3Shapes.Quad.SetQuadVertex(int, UnityEngine.Vector3)2
+GetQuadColor(int)Shapes.Quad.GetQuadColor(int)X
+$SetQuadColor(int, UnityEngine.Color)0Shapes.Quad.SetQuadColor(int, UnityEngine.Color)$
+
+AutoSetD()Shapes.Quad.AutoSetD().
+CheckAutoSetD()Shapes.Quad.CheckAutoSetD()D
+SetAllMaterialProperties()&Shapes.Quad.SetAllMaterialProperties():
+GetInitialMeshAsset()!Shapes.Quad.GetInitialMeshAsset(),
+GetMaterials()Shapes.Quad.GetMaterials()8
+GetBounds_Internal() Shapes.Quad.GetBounds_Internal()
+Quad()Shapes.Quad.Quad()*
+this[int].getShapes.Quad.this[int].get*
+this[int].setShapes.Quad.this[int].set*
+ColorMode.getShapes.Quad.ColorMode.get*
+ColorMode.setShapes.Quad.ColorMode.set
+A.getShapes.Quad.A.get
+A.setShapes.Quad.A.set
+B.getShapes.Quad.B.get
+B.setShapes.Quad.B.set
+C.getShapes.Quad.C.get
+C.setShapes.Quad.C.set
+D.getShapes.Quad.D.get
+D.setShapes.Quad.D.set0
+IsUsingAutoD.getShapes.Quad.IsUsingAutoD.get0
+IsUsingAutoD.setShapes.Quad.IsUsingAutoD.set"
+	DAuto.getShapes.Quad.DAuto.get"
+	DAuto.setShapes.Quad.DAuto.set"
+	Color.getShapes.Quad.Color.get"
+	Color.setShapes.Quad.Color.set*
+ColorLeft.getShapes.Quad.ColorLeft.get*
+ColorLeft.setShapes.Quad.ColorLeft.set(
+ColorTop.getShapes.Quad.ColorTop.get(
+ColorTop.setShapes.Quad.ColorTop.set,
+ColorRight.getShapes.Quad.ColorRight.get,
+ColorRight.setShapes.Quad.ColorRight.set.
+ColorBottom.getShapes.Quad.ColorBottom.get.
+ColorBottom.setShapes.Quad.ColorBottom.set$
+
+ColorA.getShapes.Quad.ColorA.get$
+
+ColorA.setShapes.Quad.ColorA.set$
+
+ColorB.getShapes.Quad.ColorB.get$
+
+ColorB.setShapes.Quad.ColorB.set$
+
+ColorC.getShapes.Quad.ColorC.get$
+
+ColorC.setShapes.Quad.ColorC.set$
+
+ColorD.getShapes.Quad.ColorD.get$
+
+ColorD.setShapes.Quad.ColorD.set6
+HasDetailLevels.getShapes.Quad.HasDetailLevels.get6
+HasDetailLevels.setShapes.Quad.HasDetailLevels.set2
+HasScaleModes.getShapes.Quad.HasScaleModes.get2
+HasScaleModes.setShapes.Quad.HasScaleModes.set

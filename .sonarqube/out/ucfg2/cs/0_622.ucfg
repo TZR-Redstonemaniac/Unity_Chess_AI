@@ -1,33 +1,21 @@
 
-Shapes.Triangle.C.set|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csw w("0*
-0w w(*
-1*ë
-1w
- w(?c
-a
-w4 w(=-
-Shapes.Triangle"
-cUnityEngine.Vector3"__id* 
-
-valueUnityEngine.Vector3ñ
-î
-w
- w(?
-
-%0void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*
-w
- w(
-Shapes.Triangle*:
-w w(2.*,
-Shapes.ShapesMaterialUtils"
-propCint*;
-w4 w(=/*-
-Shapes.Triangle"
-cUnityEngine.Vector3*
-2*.
-2w@ w(@"
-w? w(@
-implicit return:
-valueUnityEngine.Vector3B
-Shapes.Triangle
+&Shapes.Line.MatchDashSpacingToSize.get–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csI I("0*
+0I I(*
+1*s
+1I
+ I( _
+]
+I
+ I( 
+%retbool"__id*=
+I
+ I( 1*/
+Shapes.Line"
+matchDashSpacingToSizebool*
+2*)
+2I! I(!"
+I  I(!
+
+%retboolB
+Shapes.Line

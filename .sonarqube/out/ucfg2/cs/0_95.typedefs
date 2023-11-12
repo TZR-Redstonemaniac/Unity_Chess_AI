@@ -1,3 +1,11 @@
-€
-Shapes.Quad.QuadColorModeSystem.EnumSystem.ValueTypeobject<
-QuadColorMode())Shapes.Quad.QuadColorMode.QuadColorMode()
+Ø
+Shapes.DrawCommandobjectSystem.IDisposable™
+AInitialize(UnityEngine.Camera, UnityEngine.Rendering.CameraEvent)TShapes.DrawCommand.Initialize(UnityEngine.Camera, UnityEngine.Rendering.CameraEvent)}
+3AppendToBuffer(UnityEngine.Rendering.CommandBuffer)FShapes.DrawCommand.AppendToBuffer(UnityEngine.Rendering.CommandBuffer)%
+Clear()Shapes.DrawCommand.Clear()S
+CleanupCachedAssetsAndMeshes()1Shapes.DrawCommand.CleanupCachedAssetsAndMeshes())
+	Dispose()Shapes.DrawCommand.Dispose()A
+CheckIfRenderIsDone()(Shapes.DrawCommand.CheckIfRenderIsDone()1
+AddToCamera() Shapes.DrawCommand.AddToCamera();
+RemoveFromCamera()%Shapes.DrawCommand.RemoveFromCamera()1
+DrawCommand() Shapes.DrawCommand.DrawCommand()

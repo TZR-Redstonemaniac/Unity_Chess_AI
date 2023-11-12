@@ -1,27 +1,23 @@
 
- Shapes.RegularPolygon.Dashed.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csà à("0*
-0
-à à(*
-1*s
-1
-à
- à(]
-[
+)Shapes.ColorStack.Push(UnityEngine.Color)‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\ColorStack.cs ("0*
+0 (*
+1*ã
+12 (JÎ
+Ë
+2 (J
 
-à
- à(
-%retbool"__id*9
-
-à
- à(+*)
-Shapes.RegularPolygon"
-dashedbool*
-2*-
-2
-à à("
-
-à à(
-
-%retboolB
-Shapes.RegularPolygon
+%0void"1System.Collections.Generic.ICollection<T>.Push(T)*R
+2 (8F*D
+Shapes.ColorStack"-
+colors#System.Collections.Generic.Stack<T>*,
+? (H 
+
+	prevStateUnityEngine.Color*
+2*.
+2K (K"
+J (K
+implicit return:*
+ (,
+	prevStateUnityEngine.ColorB"
+Shapes.ColorStack

@@ -1,16 +1,37 @@
 
-2Shapes.MpbPolygon.Shapes.IFillableMpb.fillType.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs& ()"0*ê
+Shapes.Draw.FontSize.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csü ü("0*
 0
-* (*
-›
+ü ü(*
+1*°
+1
+ü! ü(=\
+Z
 
-& (*(
-%0"System.Collections.Generic.List<T>"__id*][*Y
-Shapes.MpbPolygon"B
-Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>"8
+ü! ü(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-& (**
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbPolygon
+ü! ü(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyleQ
+O
+
+ü! ü(='
+
+%1Shapes.TextStyle"
+sizefloat"__id*
+
+valuefloat*
+2*2
+2
+ü> ü(>"!
+
+ü= ü(>
+implicit return:
+valuefloatB"
+Shapes.Draw

@@ -1,18 +1,42 @@
 
-:Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillStart.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csî) î(,"0*®
+Shapes.Triangle.ColorA.set~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs£ £("0*
 0
-î- î(-©
-¦
+£ £(*
+1*ù
+1
+£
+ £(Ee
+c
 
-î) î(-a
-Shapes.MpbRegularPolygon"C
-Shapes.IFillableMpb.fillStart"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"q
+£6 £(C/
+Shapes.Triangle"
+colorUnityEngine.Color"__id*
+
+valueUnityEngine.Colorû
+ø
 
-î) î(-c*a
-Shapes.MpbRegularPolygon"C
-Shapes.IFillableMpb.fillStart"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+£
+ £(E
+
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*!
+
+£
+ £(
+Shapes.Triangle*@
+
+£ £(42*0
+Shapes.ShapesMaterialUtils"
+	propColorint*?
+
+£6 £(C1*/
+Shapes.Triangle"
+colorUnityEngine.Color*
+2*2
+2
+£F £(F"!
+
+£E £(F
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Triangle

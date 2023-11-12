@@ -1,35 +1,27 @@
 
-"Shapes.RegularPolygon.FillType.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¢ ¢("0*
+Shapes.Rectangle.UseFill.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs• •("0*
 0
-¢ ¢(*
-1*ö
+• •(*
+1*o
 1
-¢
- ¢(k
-i
+•
+ •(Y
+W
 
-¢
- ¢(
-%0Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFills
-q
+•
+ •(
+%retbool"__id*5
 
-¢
- ¢(
-%retShapes.FillType"__id*D
-
-¢
- ¢(6*4
-
-%0Shapes.GradientFill"
-typeShapes.FillType*
-2*8
+•
+ •('*%
+Shapes.Rectangle"
+useFillbool*
+2*-
 2
-¢ ¢("'
+• •("
 
-¢ ¢(
-
-%retShapes.FillTypeB
-Shapes.RegularPolygon
+• •(
+
+%retboolB
+Shapes.Rectangle

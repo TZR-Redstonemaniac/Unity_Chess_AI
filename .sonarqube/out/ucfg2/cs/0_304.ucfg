@@ -1,40 +1,35 @@
 
-)Shapes.DiscColors.Flat(UnityEngine.Color)Ç
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DiscColors.cs! !("0*
-0! !(*
-1*Ñ
-1!2 !(^86
-!2 !(^
-%0Shapes.DiscColors"Shapes.DiscColorsﬂ
-‹
-!2 !(^
-%1Shapes.DiscColors"hShapes.DiscColors.DiscColors(UnityEngine.Color, UnityEngine.Color, UnityEngine.Color, UnityEngine.Color)*%
-!2 !(^
-
-%0Shapes.DiscColors*(
-!B !(G
-
-colorUnityEngine.Color*(
-!I !(N
-
-colorUnityEngine.Color*(
-!P !(U
-
-colorUnityEngine.Color*(
-!W !(\
-
-colorUnityEngine.ColorT
-R
-!2 !(^
-%retShapes.DiscColors"__id*%
-!2 !(^
-
-%0Shapes.DiscColors*
-2*6
-2!_ !(_"'
-!^ !(_
+Shapes.Polygon.FillSpace.getò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csù ù("0*
+0
+ù ù(*
+1*Ú
+1
+ù
+ ù(d
+b
+
+ù
+ ù(
+%0Shapes.GradientFill"__id*31*/
+Shapes.Polygon"
+fillShapes.GradientFillv
+t
+
+ù
+ ù(
+%retShapes.FillSpace"__id*F
+
+ù
+ ù(8*6
 
-%retShapes.DiscColors:&
-!! !(,
-colorUnityEngine.ColorB"
-Shapes.DiscColors
+%0Shapes.GradientFill"
+spaceShapes.FillSpace*
+2*9
+2
+ù ù("(
+
+ù ù(
+
+%retShapes.FillSpaceB
+Shapes.Polygon

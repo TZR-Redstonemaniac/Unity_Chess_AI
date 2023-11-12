@@ -1,0 +1,7 @@
+÷
+3SerializableDictionary<TKey, TValue, TValueStorage>7SerializableDictionaryBase<TKey, TValue, TValueStorage>3System.Collections.Generic.Dictionary<TKey, TValue>objecth
+SerializableDictionary()LSerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary()Ñ
+LSerializableDictionary(System.Collections.Generic.IDictionary<TKey, TValue>)€SerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary(System.Collections.Generic.IDictionary<TKey, TValue>)£
+uSerializableDictionary(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)©SerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)j
+GetValue(TValueStorage[], int)HSystem.Collections.Generic.ICollection<T>.GetValue(TValueStorage[], int)z
+&SetValue(TValueStorage[], int, TValue)PSystem.Collections.Generic.ICollection<T>.SetValue(TValueStorage[], int, TValue)

@@ -1,35 +1,21 @@
 
-(Shapes.ShapeRendererFillable.UseFill.set‰
-C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRendererFillable.cs ("0*
-0 (*
-1*·
-1 (EX
-V
- (1
-Shapes.ShapeRendererFillable"
-useFillbool"__id*
+#Shapes.RegularPolygon.Thickness.get‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.csG G("0*
+0G G(*
+1*r
+1G
+ G(^
+\
+G
+ G(
+%retfloat"__id*;
+G
+ G(/*-
+Shapes.RegularPolygon"
+	thicknessfloat*
+2**
+2G G("
+G G(
 
-valuebooly
-w
-1 (B	
-%0int"2Shapes.ShapeRendererFillable.FillTypeShaderInt.get*,
-1 (B 
-Shapes.ShapeRendererFillableÍ
-Ê
- (D
-
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*,
- ( 
-Shapes.ShapeRendererFillable*A
- (/5*3
-Shapes.ShapesMaterialUtils"
-propFillTypeint*
-1 (B
-	
-%0int*
-2*.
-2 ("
- (
-implicit return:
-valueboolB 
-Shapes.ShapeRendererFillable
+%retfloatB
+Shapes.RegularPolygon

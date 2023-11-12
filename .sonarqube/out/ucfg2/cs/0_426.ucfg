@@ -1,40 +1,50 @@
 
-!Shapes.Disc.DashShapeModifier.set–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs@ @("0*
-0@ @(*
-1*¿
-1@
- @(c^
-\
-@B @(K
-%0Shapes.DashStyle"__id*20*.
-Shapes.Disc"
-	dashStyleShapes.DashStyleX
-V
-@B @(a0
+&Shapes.Rectangle.DashShapeModifier.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs‡ ‡("0*
+0
+‡ ‡(*
+1*×
+1
+‡
+ ‡(ce
+c
+
+‡B ‡(K
+%0Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStyleZ
+X
+
+‡B ‡(a0
 
 %0Shapes.DashStyle"
 shapeModifierfloat"__id*
 
-valuefloatð
-í
-@
- @(c
+valuefloatý
+ú
 
-%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-@
- @(
-Shapes.Disc*J
-@ @(@>*<
+‡
+ ‡(c
+
+%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*"
+
+‡
+ ‡(
+Shapes.Rectangle*L
+
+‡ ‡(@>*<
 Shapes.ShapesMaterialUtils"
-propDashShapeModifierint*>
-@B @(a2*0
+propDashShapeModifierint*@
+
+‡B ‡(a2*0
 
 %0Shapes.DashStyle"
 shapeModifierfloat*
-2*.
-2@d @(d"
-@c @(d
+2*2
+2
+‡d ‡(d"!
+
+‡c ‡(d
 implicit return:
-valuefloatB
-Shapes.Disc
+valuefloatB
+Shapes.Rectangle

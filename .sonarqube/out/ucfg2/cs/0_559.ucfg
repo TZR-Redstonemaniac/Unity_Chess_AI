@@ -1,37 +1,31 @@
 
-!Shapes.Draw.GradientFillSpace.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÎ Î("0*
+Shapes.Draw.GradientFill.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÁ Á("0*
 0
-Î Î(*
-1*Ó
+Á Á(*
+1*õ
 1
-Î! Î(A\
+Á! Á(3\
 Z
 
-Î! Î(&
+Á! Á(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStyler
-p
+styleShapes.DrawStyle€
+~
 
-Î! Î(3
-%1Shapes.GradientFill"__id*A?*=
+Á! Á(3
+%retShapes.GradientFill"__id*M
+
+Á! Á(3?*=
 
 %0Shapes.DrawStyle"#
-gradientFillShapes.GradientFillk
-i
-
-Î! Î(A6
-
-%1Shapes.GradientFill"
-spaceShapes.FillSpace"__id*
-
-valueShapes.FillSpace*
-2*2
+gradientFillShapes.GradientFill*
+2*<
 2
-ÎB Î(B"!
+Á4 Á(4"+
 
-ÎA Î(B
-implicit return:
-valueShapes.FillSpaceB"
+Á3 Á(4
+
+%retShapes.GradientFillB"
 Shapes.Draw

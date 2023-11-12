@@ -1,21 +1,21 @@
 
-"Shapes.ShapeRenderer.ScaleMode.getÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs= =("0*
-0= =(*
-1*á
-1=
- =(s
-q
-=
- =(
-%retShapes.ScaleMode"__id*E
-=
- =(9*7
-Shapes.ShapeRenderer"
-	scaleModeShapes.ScaleMode*
-2*5
-2= =("&
-= =(
-
-%retShapes.ScaleModeB
+"Shapes.ShapeRenderer.BlendMode.getÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs4 4("0*
+04 4(*
+1*ì
+14
+ 4(
+}
+4
+ 4(
+%retShapes.ShapesBlendMode"__id*K
+4
+ 4(?*=
+Shapes.ShapeRenderer"#
+	blendModeShapes.ShapesBlendMode*
+2*;
+24 4(",
+4 4( 
+
+%retShapes.ShapesBlendModeB
 Shapes.ShapeRenderer

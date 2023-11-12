@@ -1,50 +1,54 @@
 
-'Shapes.RegularPolygon.FillLinearEnd.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÃ Ã("0*
+$Shapes.Rectangle.FillLinearStart.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¶ ¶("0*
 0
-Ã Ã(*
-1*
+¶ ¶(*
+1*‚
 1
-Ã
- Ã(Rk
-i
+· ¸(Tf
+d
 
-Ã: Ã(>
-%0Shapes.GradientFill"__id*:8*6
-Shapes.RegularPolygon"
-fillShapes.GradientFillu
-s
+· ·(
+%0Shapes.GradientFill"__id*53*1
+Shapes.Rectangle"
+fillShapes.GradientFillw
+u
 
-Ã: Ã(P=
+· ·(?
 
-%0Shapes.GradientFill" 
-	linearEndUnityEngine.Vector3"__id* 
+%0Shapes.GradientFill""
+linearStartUnityEngine.Vector3"__id* 
 
-valueUnityEngine.Vector3•
-’
+valueUnityEngine.Vector3™
+–
 
-Ã
- Ã(R
+¸6 ¸(Q
+%1UnityEngine.Vector4"*Shapes.GradientFill.GetShaderStartVector()*A
 
-%1void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*'
+¸6 ¸(:3*1
+Shapes.Rectangle"
+fillShapes.GradientFillî
+ë
 
-Ã
- Ã(
-Shapes.RegularPolygon*B
+¸ ¸(S
 
-Ã Ã(84*2
-Shapes.ShapesMaterialUtils"
-propFillEndint*M
+%2void"<Shapes.ShapeRenderer.SetVector4Now(int, UnityEngine.Vector4)*"
 
-Ã: Ã(P?*=
+¸ ¸(
+Shapes.Rectangle*D
+
+¸ ¸(46*4
+Shapes.ShapesMaterialUtils"
+propFillStartint*)
+
+¸6 ¸(Q
 
-%0Shapes.GradientFill" 
-	linearEndUnityEngine.Vector3*
+%1UnityEngine.Vector4*
 2*2
 2
-ÃS Ã(S"!
+¹ ¹("!
 
-ÃR Ã(S
+¹ ¹(
 implicit return:
-valueUnityEngine.Vector3B
-Shapes.RegularPolygon
+valueUnityEngine.Vector3B
+Shapes.Rectangle

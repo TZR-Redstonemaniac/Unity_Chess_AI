@@ -1,33 +1,33 @@
 
-"Shapes.Draw.RectangleShapeFill.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csæ æ("0*
-0
-æ æ(*
-1*é
-1
-æ
- æ($\
-Z
-
-æ
- æ(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleu
-s
-
-æ
- æ($=
-
-%0Shapes.DrawStyle"#
-gradientFillShapes.GradientFill"__id* 
+Shapes.Triangle.A.set|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csk k("0*
+0k k(*
+1*ë
+1k
+ k(?c
+a
+k4 k(=-
+Shapes.Triangle"
+aUnityEngine.Vector3"__id* 
 
-valueShapes.GradientFill*
-2*2
-2
-æ% æ(%"!
+valueUnityEngine.Vector3ñ
+î
+k
+ k(?
 
-æ$ æ(%
+%0void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*
+k
+ k(
+Shapes.Triangle*:
+k k(2.*,
+Shapes.ShapesMaterialUtils"
+propAint*;
+k4 k(=/*-
+Shapes.Triangle"
+aUnityEngine.Vector3*
+2*.
+2k@ k(@"
+k? k(@
 implicit return:
-valueShapes.GradientFillB"
-Shapes.Draw
+valueUnityEngine.Vector3B
+Shapes.Triangle

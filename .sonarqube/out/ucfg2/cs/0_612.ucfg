@@ -1,31 +1,37 @@
 
-Shapes.Draw.UseDashes.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csû û("0*
+'Shapes.Draw.GradientFillLinearStart.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csà à("0*
 0
-û û(*
-1*Ó
+à à(*
+1*ß
 1
-û! û(0\
+à! à(G\
 Z
 
-û! û(&
+à! à(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStyle_
-]
+styleShapes.DrawStyler
+p
 
-û! û(0
-%retbool"__id*;
-
-û! û(0-*+
+à! à(3
+%1Shapes.GradientFill"__id*A?*=
 
-%0Shapes.DrawStyle"
-	useDashesbool*
-2*-
-2
-û1 û(1"
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFillw
+u
 
-û0 û(1
-
-%retboolB"
+à! à(G?
+
+%1Shapes.GradientFill""
+linearStartUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3*
+2*2
+2
+àH à(H"!
+
+àG à(H
+implicit return:
+valueUnityEngine.Vector3B"
 Shapes.Draw

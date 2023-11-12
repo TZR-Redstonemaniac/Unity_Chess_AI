@@ -1,76 +1,48 @@
 
-Shapes.Disc.DashSize.set–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs ("0*
-0 (*
-1*ð
-1 (^
-\
- (
-%0Shapes.DashStyle"__id*20*.
-Shapes.Disc"
-	dashStyleShapes.DashStyleO
-M
- ('
-
-%0Shapes.DashStyle"
-sizefloat"__id*
-
-valuefloatì
-é
- (I
-%1float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*<
- (!0*.
-Shapes.Disc"
-	dashStyleShapes.DashStyle*-
-6 (<!*
-Shapes.Disc"
-dashedbool*1
-> (G%*#
-Shapes.Disc"
-	thicknessfloat9
-7
-
- (I
-netDashSizefloat"__id*
-
-%1float*
-2
-3*°
-2   (JW
-U
- 4  (G
-%2float"Shapes.Disc.GetNetDashSpacing()*
- 4  (E
-Shapes.DiscÂ
-¿
-   (I
+Shapes.Line.Color.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs1 1("0*
+01 1(*
+1*¶
+12 3(F_
+]
+2- 2(:+
+Shapes.Line"
+colorUnityEngine.Color"__id*
+
+valueUnityEngine.Colorè
+å
+2 2(<
 
-%3void")Shapes.ShapeRenderer.SetFloat(int, float)*
-   (
-Shapes.Disc*D
-   (28*6
-Shapes.ShapesMaterialUtils"
-propDashSpacingint*
- 4  (G
-
-%2float*
-3*à
-3! !(AË
-È
-! !(@
+%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+2 2(
+Shapes.Line*>
+2 2(+2*0
+Shapes.ShapesMaterialUtils"
+	propColorint*9
+2- 2(:-*+
+Shapes.Line"
+colorUnityEngine.Colorb
+`
+33 3(C.
+Shapes.Line"
+colorEndUnityEngine.Color"__id*
+
+valueUnityEngine.Colorñ
+î
+3 3(E
 
-%4void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-! !(
-Shapes.Disc*A
-! !(15*3
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+3 3(
+Shapes.Line*A
+3 3(15*3
 Shapes.ShapesMaterialUtils"
-propDashSizeint*"
-!3 !(>
-
-netDashSizefloat*
-4*.
-4" "("
-" "(
-implicit return:
-valuefloatB
-Shapes.Disc
+propColorEndint*<
+33 3(C0*.
+Shapes.Line"
+colorEndUnityEngine.Color*
+2*.
+24 4("
+4 4(
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Line

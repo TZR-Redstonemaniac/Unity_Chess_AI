@@ -1,37 +1,24 @@
 
-'Shapes.ShapeRenderer.SortingLayerID.setÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs$ $("0*
-0$ $(*
-1*ê
-1$
- $(J¯
-ı
-$
- $(3
-%1UnityEngine.MeshRenderer"@Shapes.ShapeRenderer.MakeSureComponentExists<T>(ref T, out bool)*$
-$
- $(!
-Shapes.ShapeRenderer*G
-$# $(*;*9
-Shapes.ShapeRenderer"
-rndUnityEngine.MeshRenderer*
-$, $(1
+Shapes.Quad.ColorMode.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csn n("0*
+0n n(*
+1*Ê
+1o p(s
+q
+o o(7
+Shapes.Quad"&
+	colorModeShapes.Quad.QuadColorMode"__id*&$
+"
+valueShapes.Quad.QuadColorMode]
+[
+p p(
 
-
-%0boolÄ
-~
-$
- $(J	
-%2int"'UnityEngine.Renderer.sortingLayerID.set*,
-$
- $(3 
-
-%1UnityEngine.MeshRenderer*
-
-valueint*
+%0void"&Shapes.ShapeRenderer.ApplyProperties()*
+p p(
+Shapes.Quad*
 2*.
-2$K $(K"
-$J $(K
-implicit return:
-valueintB
-Shapes.ShapeRenderer
+2q q("
+q q(
+implicit return:$"
+valueShapes.Quad.QuadColorModeB
+Shapes.Quad

@@ -1,35 +1,24 @@
 
-Shapes.Rectangle.FillType.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csœ œ("0*
-0
-œ œ(*
-1*ñ
-1
-œ
- œ(f
-d
-
-œ
- œ(
-%0Shapes.GradientFill"__id*53*1
-Shapes.Rectangle"
-fillShapes.GradientFills
+Shapes.Disc.ColorMode.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs0 0("0*
+00 0(*
+1*æ
+11 2(s
 q
+1 1(7
+Shapes.Disc"&
+	colorModeShapes.Disc.DiscColorMode"__id*&$
+"
+valueShapes.Disc.DiscColorMode]
+[
+2 2(
 
-œ
- œ(
-%retShapes.FillType"__id*D
-
-œ
- œ(6*4
-
-%0Shapes.GradientFill"
-typeShapes.FillType*
-2*8
-2
-œ œ("'
-
-œ œ(
-
-%retShapes.FillTypeB
-Shapes.Rectangle
+%0void"&Shapes.ShapeRenderer.ApplyProperties()*
+2 2(
+Shapes.Disc*
+2*.
+23 3("
+3 3(
+implicit return:$"
+valueShapes.Disc.DiscColorModeB
+Shapes.Disc

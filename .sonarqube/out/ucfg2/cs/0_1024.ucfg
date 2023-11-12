@@ -1,27 +1,33 @@
 
-)Shapes.DashStyle.DefaultDashStyleRing.get
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.cs‰ ‰("0*
+Shapes.Draw.RingThickness.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csì ì("0*
 0
-‰ ‰(*
-1*”
+ì ì(*
+1*Ê
 1
-‰
- ‰(~
-|
+ì
+ ì(!\
+Z
 
-‰
- ‰(
-%retShapes.DashStyle"__id*N
+ì
+ ì(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleV
+T
 
-‰
- ‰(@*>
-Shapes.DashStyle"(
-defaultDashStyleRingShapes.DashStyle*
-2*9
+ì
+ ì(!,
+
+%0Shapes.DrawStyle"
+	thicknessfloat"__id*
+
+valuefloat*
+2*2
 2
-‰ ‰("(
+ì" ì(""!
 
-‰ ‰(
-
-%retShapes.DashStyleB"
-Shapes.DashStyle
+ì! ì("
+implicit return:
+valuefloatB"
+Shapes.Draw

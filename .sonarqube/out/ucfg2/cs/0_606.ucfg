@@ -1,27 +1,30 @@
 
-Shapes.Disc.AngRadiansEnd.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csç ç("0*
-0
-ç ç(*
-1*r
-1
-ç
- ç(\
-Z
+ Shapes.RegularPolygon.Hollow.getÇ
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.cs ("0*
+0 (*
+1*±
+1
+ (a
+_
+
+ (
 
-ç
- ç(
-%retfloat"__id*7
+%0bool" Shapes.RegularPolygon.Border.get*%
+
+ (
+Shapes.RegularPolygon:
+8
+
+ (
+%retbool"__id*
+
+ (
 
-ç
- ç()*'
-Shapes.Disc"
-angRadiansEndfloat*
-2*.
-2
-ç ç("
 
-ç ç(
-
-%retfloatB
-Shapes.Disc
+%0bool*
+2*)
+2 ("
+ (
+
+%retboolB
+Shapes.RegularPolygon

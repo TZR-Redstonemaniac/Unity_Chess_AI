@@ -1,53 +1,28 @@
 
- Shapes.Rectangle.DashSpacing.setò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÌ Ì("0*
-0
-Ì Ì(*
-1*ç
-1
-Ó Ô(Le
-c
-
-Ó Ó(
-%0Shapes.DashStyle"__id*75*3
-Shapes.Rectangle"
-	dashStyleShapes.DashStyleT
-R
-
-Ó Ó(*
+Shapes.Disc.DashOffset.getñ
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs, ,("0*
+0, ,(*
+1*Œ
+1,
+ ,(^
+\
+,
+ ,(
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStyleZ
+X
+,
+ ,(
+%retfloat"__id*7
+,
+ ,(+*)
 
-%0Shapes.DashStyle"
-spacingfloat"__id*
-
-valuefloate
-c
+%0Shapes.DashStyle"
+offsetfloat*
+2**
+2, ,("
+, ,(
 
-Ô6 Ô(I
-%1float"$Shapes.Rectangle.GetNetDashSpacing()*"
-
-Ô6 Ô(G
-Shapes.Rectangle“
-œ
-
-Ô Ô(K
-
-%2void",Shapes.ShapeRenderer.SetFloatNow(int, float)*"
-
-Ô Ô(
-Shapes.Rectangle*F
-
-Ô Ô(48*6
-Shapes.ShapesMaterialUtils"
-propDashSpacingint*
-
-Ô6 Ô(I
-
-%1float*
-2*2
-2
- ("!
-
- (
-implicit return:
-valuefloatB
-Shapes.Rectangle
+%retfloatB
+Shapes.Disc

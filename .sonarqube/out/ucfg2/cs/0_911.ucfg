@@ -1,31 +1,37 @@
 
-Shapes.Draw.TextStyle.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csï ï("0*
+$Shapes.Draw.TextCharacterSpacing.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csŽ Ž("0*
 0
-ï ï(*
-1*ë
+Ž Ž(*
+1*¼
 1
-ï! ï(0\
+Ž! Ž(I\
 Z
 
-ï! ï(&
+Ž! Ž(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStylew
-u
+styleShapes.DrawStylei
+g
 
-ï! ï(0
-%retShapes.TextStyle"__id*G
-
-ï! ï(09*7
+Ž! Ž(0
+%1Shapes.TextStyle"__id*;9*7
 
 %0Shapes.DrawStyle"
-	textStyleShapes.TextStyle*
-2*9
-2
-ï1 ï(1"(
+	textStyleShapes.TextStyle]
+[
 
-ï0 ï(1
-
-%retShapes.TextStyleB"
+Ž! Ž(I3
+
+%1Shapes.TextStyle"
+characterSpacingfloat"__id*
+
+valuefloat*
+2*2
+2
+ŽJ Ž(J"!
+
+ŽI Ž(J
+implicit return:
+valuefloatB"
 Shapes.Draw

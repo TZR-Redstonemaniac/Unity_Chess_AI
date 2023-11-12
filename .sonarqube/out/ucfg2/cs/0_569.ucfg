@@ -1,38 +1,43 @@
 
-$Shapes.Draw.GradientFillColorEnd.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÙ Ù("0*
-0
-Ù Ù(*
-1*ã
-1
-Ù! Ù(<\
-Z
+Shapes.ArrayPool<T>.Free(T[])
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs
+ 
+("0*
+0
+ 
+(*
+1*Ï
+1
+( 
+(8º
+·
+
+( 
+(8
 
-Ù! Ù(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyler
-p
+%0void"1System.Collections.Generic.ICollection<T>.Push(T)*R
+
+( 
+(,F*D
+Shapes.ArrayPool<T>"+
+pool#System.Collections.Generic.Stack<T>*
+
+3 
+(6
 
-Ù! Ù(3
-%1Shapes.GradientFill"__id*A?*=
-
-%0Shapes.DrawStyle"#
-gradientFillShapes.GradientFill{
-y
 
-Ù! Ù(<
-%retUnityEngine.Color"__id*J
+objT[]*
+2*.
+2
+9 
+(9"
+
+8 
+(9
+implicit return:
+
+ 
+("
 
-Ù! Ù(<<*:
-
-%1Shapes.GradientFill"
-colorEndUnityEngine.Color*
-2*:
-2
-Ù= Ù(=")
-
-Ù< Ù(=
-
-%retUnityEngine.ColorB"
-Shapes.Draw
+objT[]B"
+Shapes.ArrayPool<T>

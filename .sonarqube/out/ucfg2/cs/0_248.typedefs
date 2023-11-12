@@ -1,12 +1,0 @@
-¨
-Shapes.ShapeGroupUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject*
-
-OnEnable()Shapes.ShapeGroup.OnEnable(),
-OnDisable()Shapes.ShapeGroup.OnDisable().
-OnValidate()Shapes.ShapeGroup.OnValidate()<
-UpdateChildShapes()%Shapes.ShapeGroup.UpdateChildShapes().
-ShapeGroup()Shapes.ShapeGroup.ShapeGroup()0
-IsEnabled.getShapes.ShapeGroup.IsEnabled.get0
-IsEnabled.setShapes.ShapeGroup.IsEnabled.set(
-	Color.getShapes.ShapeGroup.Color.get(
-	Color.setShapes.ShapeGroup.Color.set

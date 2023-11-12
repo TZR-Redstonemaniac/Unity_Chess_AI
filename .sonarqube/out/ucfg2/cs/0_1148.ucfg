@@ -1,21 +1,23 @@
 
-Shapes.ShapeRenderer.Color.getÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csC C("0*
-0C C(*
-1*Ö
-1C
- C(q
-o
-C
- C(
-%retUnityEngine.Color"__id*B
-C
- C(6*4
-Shapes.ShapeRenderer"
-colorUnityEngine.Color*
-2*6
-2C C("'
-C C(
-
-%retUnityEngine.ColorB
-Shapes.ShapeRenderer
+(Shapes.StyleStack.Push(Shapes.DrawStyle)Ç
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\StyleStack.cs ("0*
+0 (*
+1*‚
+16 (NÕ
+ 
+6 (N
+
+%0void"1System.Collections.Generic.ICollection<T>.Push(T)*R
+6 (<F*D
+Shapes.StyleStack"-
+styles#System.Collections.Generic.Stack<T>*+
+C (L
+
+	prevStateShapes.DrawStyle*
+2*.
+2O (O"
+N (O
+implicit return:)
+ (0
+	prevStateShapes.DrawStyleB"
+Shapes.StyleStack

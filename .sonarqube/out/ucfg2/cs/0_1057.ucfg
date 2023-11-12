@@ -1,31 +1,35 @@
 
-Shapes.Quad.IsUsingAutoD.setz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csž ž("0*
+'Shapes.Draw.RegularPolygonThickness.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csƒ ƒ("0*
 0
-ž ž(*
-1*³
+ƒ ƒ(*
+1*Õ
 1
-Ÿ  (J
-H
+ƒ
+ ƒ(\
+Z
 
-Ÿ Ÿ(!
-Shapes.Quad"
-autoSetDbool"__id*
+ƒ
+ ƒ(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylea
+_
 
-valueboolQ
-O
+ƒ
+ ƒ(
+%retfloat"__id*<
 
-   (
-
-%0void"Shapes.Quad.AutoSetD()*
-
-   (
-Shapes.Quad*
-2*2
+ƒ
+ ƒ(.*,
+
+%0Shapes.DrawStyle"
+	thicknessfloat*
+2*.
 2
-¡ ¡("!
+ƒ ƒ("
 
-¡ ¡(
-implicit return:
-valueboolB
-Shapes.Quad
+ƒ ƒ(
+
+%retfloatB"
+Shapes.Draw

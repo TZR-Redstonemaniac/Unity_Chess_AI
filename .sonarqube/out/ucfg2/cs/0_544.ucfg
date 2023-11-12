@@ -1,35 +1,36 @@
 
-!Shapes.Rectangle.FillColorEnd.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÄ Ä("0*
+#Shapes.Rectangle.FillColorStart.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÀ À("0*
 0
-Ä Ä(*
-1*ù
+À À(*
+1*û
 1
-Ä
- Ä(f
+À
+ À(f
 d
 
-Ä
- Ä(
+À
+ À(
 %0Shapes.GradientFill"__id*53*1
 Shapes.Rectangle"
-fillShapes.GradientFill{
-y
+fillShapes.GradientFill}
+{
 
-Ä
- Ä(
-%retUnityEngine.Color"__id*J
+À
+ À(
+%retUnityEngine.Color"__id*L
 
-Ä
- Ä(<*:
+À
+ À(>*<
 
-%0Shapes.GradientFill"
-colorEndUnityEngine.Color*
+%0Shapes.GradientFill"
+
+colorStartUnityEngine.Color*
 2*:
 2
-Ä Ä(")
+À À(")
 
-Ä Ä(
+À À(
 
 %retUnityEngine.ColorB
 Shapes.Rectangle

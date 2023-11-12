@@ -1,28 +1,38 @@
 
-Shapes.Quad.GetQuadVertex(int)x
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs@ @("0*
-0@ @(*
-1*é
-1@/ @(:{
+RShapes.ShapesMeshUtils.EnsureValidMeshBounds(UnityEngine.Mesh, UnityEngine.Bounds)~
+tC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesMeshUtils.cs: :(#"0*
+0: :(*
+1*ö
+1; =({
 y
-@/ @(:
-%0UnityEngine.Vector3"Shapes.Quad.this[int].get*
-@/ @(3
-Shapes.Quad*
-@4 @(9
-
-indexintX
-V
-@/ @(:
-%retUnityEngine.Vector3"__id*'
-@/ @(:
-
-%0UnityEngine.Vector3*
-2*8
-2@; @(;")
-@: @(;
-
-%retUnityEngine.Vector3:
-@  @()
-indexintB
-Shapes.Quad
+; ;(-
+%0UnityEngine.HideFlags" UnityEngine.Object.hideFlags.set*&
+; ;(
+
+meshUnityEngine.Mesh*2Ž
+‹
+< <(
+%1UnityEngine.Bounds"UnityEngine.Mesh.bounds.set*&
+< <(
+
+meshUnityEngine.Mesh* 
+
+boundsUnityEngine.BoundsT
+R
+=
+ =(
+%retUnityEngine.Mesh"__id*&
+=
+ =(
+
+meshUnityEngine.Mesh*
+2*5
+2> >("&
+> >(
+
+%retUnityEngine.Mesh:$
+:% :(.
+meshUnityEngine.Mesh:(
+:0 :(=
+boundsUnityEngine.BoundsB"
+Shapes.ShapesMeshUtils

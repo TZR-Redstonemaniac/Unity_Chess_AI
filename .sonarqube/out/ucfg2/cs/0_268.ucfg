@@ -1,27 +1,27 @@
 
-+Shapes.Rectangle.MatchDashSpacingToSize.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÒ Ò("0*
+0Shapes.RegularPolygon.MatchDashSpacingToSize.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csØ Ø("0*
 0
-Ò Ò(*
-1*~
+Ø Ø(*
+1*ƒ
 1
-Ò
- Ò( h
-f
+Ø
+ Ø( m
+k
 
-Ò
- Ò( 
-%retbool"__id*D
+Ø
+ Ø( 
+%retbool"__id*I
 
-Ò
- Ò( 6*4
-Shapes.Rectangle"
+Ø
+ Ø( ;*9
+Shapes.RegularPolygon"
 matchDashSpacingToSizebool*
 2*-
 2
-Ò! Ò(!"
+Ø! Ø(!"
 
-Ò  Ò(!
+Ø  Ø(!
 
-%retboolB
-Shapes.Rectangle
+%retboolB
+Shapes.RegularPolygon

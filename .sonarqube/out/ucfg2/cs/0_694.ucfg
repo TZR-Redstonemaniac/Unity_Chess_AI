@@ -1,40 +1,38 @@
 
-Shapes.Line.DashSnap.set–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csv v("0*
-0v v(*
-1*Ê
-1v
- v(X^
-\
-v> v(G
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStylek
-i
-v> v(T5
-
-%0Shapes.DashStyle"
-snapShapes.DashSnapping"__id* 
-
-valueShapes.DashSnappingè
-å
-v
- v(X
+Shapes.Draw.DashSnap.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs“ “("0*
+0
+“ “(*
+1*×
+1
+“! “(5\
+Z
 
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
-v
- v(
-Shapes.Line*A
-v v(55*3
-Shapes.ShapesMaterialUtils"
-propDashSnapint*C
-v7 v(V7*5
+“! “(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+“! “(0
+%1Shapes.DashStyle"__id*;9*7
 
-%0Shapes.DashStyle"
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStylex
+v
+
+“! “(5
+%retShapes.DashSnapping"__id*E
+
+“! “(57*5
+
+%1Shapes.DashStyle"
 snapShapes.DashSnapping*
-2*.
-2vY v(Y"
-vX v(Y
-implicit return:
-valueShapes.DashSnappingB
-Shapes.Line
+2*<
+2
+“6 “(6"+
+
+“5 “(6
+
+%retShapes.DashSnappingB"
+Shapes.Draw

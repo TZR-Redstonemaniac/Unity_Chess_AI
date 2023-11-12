@@ -1,18 +1,0 @@
-ì
-Shapes.SphereShapes.ShapeRendererUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectF
-SetAllMaterialProperties()(Shapes.Sphere.SetAllMaterialProperties()6
-ShapeClampRanges() Shapes.Sphere.ShapeClampRanges().
-GetMaterials()Shapes.Sphere.GetMaterials()<
-GetInitialMeshAsset()#Shapes.Sphere.GetInitialMeshAsset():
-GetBounds_Internal()"Shapes.Sphere.GetBounds_Internal()"
-Sphere()Shapes.Sphere.Sphere()&
-
-Radius.getShapes.Sphere.Radius.get&
-
-Radius.setShapes.Sphere.Radius.set0
-RadiusSpace.getShapes.Sphere.RadiusSpace.get0
-RadiusSpace.setShapes.Sphere.RadiusSpace.set8
-HasDetailLevels.get!Shapes.Sphere.HasDetailLevels.get8
-HasDetailLevels.set!Shapes.Sphere.HasDetailLevels.set4
-HasScaleModes.getShapes.Sphere.HasScaleModes.get4
-HasScaleModes.setShapes.Sphere.HasScaleModes.set

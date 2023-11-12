@@ -1,21 +1,99 @@
 
-Shapes.Line.Color.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs0 0("0*
-00 0(*
-1*|
-10
- 0(h
-f
-0
- 0(
-%retUnityEngine.Color"__id*9
-0
- 0(-*+
-Shapes.Line"
-colorUnityEngine.Color*
-2*6
-20 0("'
-0 0(
-
-%retUnityEngine.ColorB
-Shapes.Line
+Shapes.Triangle.DashSize.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csï ï("0*
+0
+ï ï(*
+1*
+1
+ğ ò(d
+b
+
+ğ ğ(
+%0Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyleQ
+O
+
+ğ ğ('
+
+%0Shapes.DashStyle"
+sizefloat"__id*
+
+valuefloat€
+ı
+
+ñ ñ(I
+%1float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*B
+
+ñ ñ(!4*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyle*3
+
+ñ6 ñ(<%*#
+Shapes.Triangle"
+dashedbool*7
+
+ñ> ñ(G)*'
+Shapes.Triangle"
+	thicknessfloat;
+9
+
+ñ
+ ñ(I
+netDashSizefloat"__id*
+
+%1float*
+2
+3*Ê
+2
+ó ó(Jc
+a
+
+ó4 ó(G
+%2float"#Shapes.Triangle.GetNetDashSpacing()*!
+
+ó4 ó(E
+Shapes.TriangleÎ
+Ë
+
+ó ó(I
+
+%3void")Shapes.ShapeRenderer.SetFloat(int, float)*!
+
+ó ó(
+Shapes.Triangle*F
+
+ó ó(28*6
+Shapes.ShapesMaterialUtils"
+propDashSpacingint*
+
+ó4 ó(G
+
+%2float*
+3*î
+3
+ô ô(A×
+Ô
+
+ô ô(@
+
+%4void",Shapes.ShapeRenderer.SetFloatNow(int, float)*!
+
+ô ô(
+Shapes.Triangle*C
+
+ô ô(15*3
+Shapes.ShapesMaterialUtils"
+propDashSizeint*$
+
+ô3 ô(>
+
+netDashSizefloat*
+4*2
+4
+õ õ("!
+
+õ õ(
+implicit return:
+valuefloatB
+Shapes.Triangle

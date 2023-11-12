@@ -1,35 +1,33 @@
 
-'Shapes.Draw.RegularPolygonThickness.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csƒ ƒ("0*
-0
-ƒ ƒ(*
-1*Õ
-1
-ƒ
- ƒ(\
-Z
+Shapes.Triangle.C.set|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csw w("0*
+0w w(*
+1*ë
+1w
+ w(?c
+a
+w4 w(=-
+Shapes.Triangle"
+cUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3ñ
+î
+w
+ w(?
 
-ƒ
- ƒ(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylea
-_
-
-ƒ
- ƒ(
-%retfloat"__id*<
-
-ƒ
- ƒ(.*,
-
-%0Shapes.DrawStyle"
-	thicknessfloat*
+%0void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*
+w
+ w(
+Shapes.Triangle*:
+w w(2.*,
+Shapes.ShapesMaterialUtils"
+propCint*;
+w4 w(=/*-
+Shapes.Triangle"
+cUnityEngine.Vector3*
 2*.
-2
-ƒ ƒ("
-
-ƒ ƒ(
-
-%retfloatB"
-Shapes.Draw
+2w@ w(@"
+w? w(@
+implicit return:
+valueUnityEngine.Vector3B
+Shapes.Triangle

@@ -1,20 +1,16 @@
 
-Shapes.ShapeRenderer.Mesh.setÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs ("0*
-0 (*
-1*∆
-1 ('±
-Æ
- ('
-%0UnityEngine.Mesh"%UnityEngine.MeshFilter.sharedMesh.set*D
- (8*6
-Shapes.ShapeRenderer"
-mfUnityEngine.MeshFilter*
-
-valueUnityEngine.Mesh*
-2*.
-2( (("
-' ((
-implicit return:
-valueUnityEngine.MeshB
-Shapes.ShapeRenderer
+6Shapes.MpbTriangle.Shapes.IDashableMpb.dashSpacing.getá
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csæ) æ(,"0*Ó
+0
+æ- æ(-¢
+ü
+
+æ) æ(-(
+%0"System.Collections.Generic.List<T>"__id*a_*]
+Shapes.MpbTriangle"E
+Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>"8
+
+æ) æ(-*
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbTriangle

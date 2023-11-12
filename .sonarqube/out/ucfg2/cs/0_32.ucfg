@@ -1,24 +1,24 @@
 
-3Shapes.GradientFillStack.GradientFillStack()!staticâ
-C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\GradientFillStack.cs
+#Shapes.DashStack.DashStack()!staticÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DashStack.cs
  
-()"0*ó
+(!"0*å
 0 (\Z
-: ([)
+4 (R)
 %0#System.Collections.Generic.Stack<T>"#System.Collections.Generic.Stack<T>t
 r
-> (Y
+8 (P
 
 %1void"+System.Collections.Generic.Stack<T>.Stack()*-+
 )
-%0#System.Collections.Generic.Stack<T>í
-è
-. ([N
-Shapes.GradientFillStack"0
-	gradients#System.Collections.Generic.Stack<T>"__id*-+
+%0#System.Collections.Generic.Stack<T>á
+Ñ
++ (RC
+Shapes.DashStack"-
+dashes#System.Collections.Generic.Stack<T>"__id*-+
 )
 %0#System.Collections.Generic.Stack<T>"
 
  (
-implicit returnB"
-Shapes.GradientFillStack
+implicit returnB"
+Shapes.DashStack

@@ -1,21 +1,35 @@
 
-Shapes.Cuboid.SizeSpace.getz
-pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Cuboid.cs ("0*
-0 (*
-1*Š
-1
- (v
-t
-
- (
-%retShapes.ThicknessSpace"__id*C
-
- (7*5
-Shapes.Cuboid""
-	sizeSpaceShapes.ThicknessSpace*
-2*:
-2 ("+
- (
-
-%retShapes.ThicknessSpaceB
-Shapes.Cuboid
+Shapes.Polyline.this[int].get|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.csR R("0*
+0R R(*
+1*¼
+1R
+ R(Ë
+È
+R
+ R(
+%0Shapes.PolylinePoint"7System.Collections.Generic.ICollection<T>.this[int].get*O
+R
+ R(C*A
+Shapes.Polyline",
+points"System.Collections.Generic.List<T>*
+R R(
+
+
+iintZ
+X
+R
+ R(
+%retShapes.PolylinePoint"__id*(
+R
+ R(
+
+%0Shapes.PolylinePoint*
+2*9
+2R R("*
+R R(
+
+%retShapes.PolylinePoint:
+
+iintB
+Shapes.Polyline

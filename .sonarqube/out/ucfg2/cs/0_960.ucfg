@@ -1,38 +1,33 @@
 
-Shapes.Draw.TextWordSpacing.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs“ “("0*
+Shapes.Draw.LineDashStyle.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÈ È("0*
 0
-“ “(*
-1*Â
+È È(*
+1*à
 1
-“! “(<\
+È
+ È(!\
 Z
 
-“! “(&
+È
+ È(
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStylei
-g
+styleShapes.DrawStylel
+j
 
-“! “(0
-%1Shapes.TextStyle"__id*;9*7
+È
+ È(!7
 
 %0Shapes.DrawStyle"
-	textStyleShapes.TextStylec
-a
-
-“! “(<
-%retfloat"__id*>
-
-“! “(<0*.
-
-%1Shapes.TextStyle"
-wordSpacingfloat*
-2*.
+	dashStyleShapes.DashStyle"__id*
+
+valueShapes.DashStyle*
+2*2
 2
-“= “(="
+È" È(""!
 
-“< “(=
-
-%retfloatB"
+È! È("
+implicit return:
+valueShapes.DashStyleB"
 Shapes.Draw

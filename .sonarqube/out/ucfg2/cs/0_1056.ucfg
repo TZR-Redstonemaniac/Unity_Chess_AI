@@ -1,33 +1,33 @@
 
-Shapes.Draw.RingThickness.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csì ì("0*
+$Shapes.Draw.RegularPolygonRadius.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csþ þ("0*
 0
-ì ì(*
-1*Ê
+þ þ(*
+1*Ç
 1
-ì
- ì(!\
+þ
+ þ(\
 Z
 
-ì
- ì(
+þ
+ þ(
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStyleV
-T
+styleShapes.DrawStyleS
+Q
 
-ì
- ì(!,
+þ
+ þ()
 
-%0Shapes.DrawStyle"
-	thicknessfloat"__id*
+%0Shapes.DrawStyle"
+radiusfloat"__id*
 
 valuefloat*
 2*2
 2
-ì" ì(""!
+þ þ("!
 
-ì! ì("
+þ þ(
 implicit return:
 valuefloatB"
 Shapes.Draw

@@ -1,55 +1,35 @@
 
-Shapes.ListPool<T>.Alloc()
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs ("0*
-0 (*
-1*∏
-1# (2†
-ù
-# (-	
-%0int"3System.Collections.Generic.ICollection<T>.Count.get*Q
-# ('E*C
-Shapes.ListPool<T>"+
-pool#System.Collections.Generic.Stack<T>*
-2
-3*˛
-25 (BZX
-5 (B(
-%1"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ö
-ó
-5 (B(
-%2"System.Collections.Generic.List<T>")System.Collections.Generic.List<T>.List()*6
-5 (B*
-(
-%1"System.Collections.Generic.List<T>q
-o
-5 (B/
-	%capture0"System.Collections.Generic.List<T>"__id*,*
-(
-%1"System.Collections.Generic.List<T>*
-4*√
-3E (Oª
-∏
-E (O(
-%3"System.Collections.Generic.List<T>"/System.Collections.Generic.ICollection<T>.Pop()*Q
-E (IE*C
-Shapes.ListPool<T>"+
-pool#System.Collections.Generic.Stack<T>q
-o
-E (O/
-	%capture0"System.Collections.Generic.List<T>"__id*,*
-(
-%3"System.Collections.Generic.List<T>*
-4*ë
-4# (O}
-{
-# (O*
-%ret"System.Collections.Generic.List<T>"__id*=
-# (O1
-/
-	%capture0"System.Collections.Generic.List<T>*
-5*G
-5P (P"8
-O (P,
-*
-%ret"System.Collections.Generic.List<T>B"
-Shapes.ListPool<T>
+"Shapes.Draw.LineThicknessSpace.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¡ ¡("0*
+0
+¡ ¡(*
+1*¸
+1
+¡
+ ¡(\
+Z
+
+¡
+ ¡(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleá
+Ñ
+
+¡
+ ¡(
+%retShapes.ThicknessSpace"__id*Q
+
+¡
+ ¡(C*A
+
+%0Shapes.DrawStyle"'
+thicknessSpaceShapes.ThicknessSpace*
+2*>
+2
+¡ ¡("-
+
+¡ ¡(
+
+%retShapes.ThicknessSpaceB"
+Shapes.Draw

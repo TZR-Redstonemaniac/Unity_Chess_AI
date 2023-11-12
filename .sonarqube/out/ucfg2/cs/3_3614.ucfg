@@ -1,15 +1,22 @@
 
-%Managers.MovementManager.PickedUp.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Managers\MovementManager.csf, f(/"0*¢
-0f0 f(0U
-S
-f$ f(0.
-Managers.MovementManager"
-PickedUpbool"__id*
+8SerializableDictionaryExample.StringStringDictionary.set—
+ŒC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\Example\SerializableDictionaryExample.cs ("0*
+0 (*
+1*Ê
+1 (2µ
+²
+ (1
 
-valuebool"<
-f$ f(00*.
-Managers.MovementManager"
-PickedUpbool:
-valueboolB
-Managers.MovementManager
+%0void"hSystem.Collections.Generic.ICollection<T>.CopyFrom(System.Collections.Generic.IDictionary<TKey, TValue>)*c
+ ( W*U
+SerializableDictionaryExample"2
+m_stringStringDictionaryStringStringDictionary*K
++ (0?
+=
+value4System.Collections.Generic.IDictionary<TKey, TValue>*
+2*.
+24 (4"
+3 (4
+implicit return:?=
+value4System.Collections.Generic.IDictionary<TKey, TValue>B!
+SerializableDictionaryExample

@@ -1,42 +1,37 @@
 
-Shapes.Triangle.ColorA.set~
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs£ £("0*
+Shapes.Draw.DashType.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csˆ ˆ("0*
 0
-£ £(*
-1*ù
+ˆ ˆ(*
+1*Ä
 1
-£
- £(Ee
+ˆ! ˆ(=\
+Z
+
+ˆ! ˆ(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+ˆ! ˆ(0
+%1Shapes.DashStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStylee
 c
 
-£6 £(C/
-Shapes.Triangle"
-colorUnityEngine.Color"__id*
-
-valueUnityEngine.Colorû
-ø
-
-£
- £(E
-
-%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*!
-
-£
- £(
-Shapes.Triangle*@
-
-£ £(42*0
-Shapes.ShapesMaterialUtils"
-	propColorint*?
-
-£6 £(C1*/
-Shapes.Triangle"
-colorUnityEngine.Color*
+ˆ! ˆ(=1
+
+%1Shapes.DashStyle"
+typeShapes.DashType"__id*
+
+valueShapes.DashType*
 2*2
 2
-£F £(F"!
+ˆ> ˆ(>"!
 
-£E £(F
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Triangle
+ˆ= ˆ(>
+implicit return:
+valueShapes.DashTypeB"
+Shapes.Draw

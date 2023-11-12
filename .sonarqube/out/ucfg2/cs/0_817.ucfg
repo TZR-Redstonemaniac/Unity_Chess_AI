@@ -1,21 +1,30 @@
 
-"Shapes.Polyline.ThicknessSpace.get|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.csI I("0*
-0I I(*
-1*‘
-1I
- I(}
-{
-I
- I(
-%retShapes.ThicknessSpace"__id*J
-I
- I(>*<
-Shapes.Polyline"'
-thicknessSpaceShapes.ThicknessSpace*
-2*:
-2I I("+
-I I(
+Shapes.Draw.PolylineJoins.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÕ Õ("0*
+0
+Õ Õ(*
+1*ì
+1
+Õ! Õ(<\
+Z
+
+Õ! Õ(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylex
+v
+
+Õ! Õ(<?
+
+%0Shapes.DrawStyle"%
+polylineJoinsShapes.PolylineJoins"__id*!
 
-%retShapes.ThicknessSpaceB
-Shapes.Polyline
+valueShapes.PolylineJoins*
+2*2
+2
+Õ= Õ(="!
+
+Õ< Õ(=
+implicit return:
+valueShapes.PolylineJoinsB"
+Shapes.Draw

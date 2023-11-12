@@ -1,19 +1,15 @@
 
--Shapes.ShapeRendererFillable.FillColorEnd.set‰
-C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRendererFillable.cs8 8("0*
-08 8(*
-1*_
-18
- 8(K
-I
-8
- 8(
-%0UnityEngine.Color"__id*
-
-valueUnityEngine.Color*
-2*.
-28 8("
-8 8(
-implicit return:
-valueUnityEngine.ColorB 
-Shapes.ShapeRendererFillable
+8Shapes.MpbDisc.Shapes.IDashableMpb.dashShapeModifier.set…
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs4/ 4(2"0*¤
+043 4(3¥
+¢
+4/ 4(3_
+Shapes.MpbDisc"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"m
+4/ 4(3a*_
+Shapes.MpbDisc"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbDisc

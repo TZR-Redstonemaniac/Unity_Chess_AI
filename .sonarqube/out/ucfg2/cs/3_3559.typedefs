@@ -1,7 +1,6 @@
-ß
-NeuralNetworkobjectH
-NeuralNetwork(params int[]))NeuralNetwork.NeuralNetwork(params int[])F
-CalculateOutputs(double[])(NeuralNetwork.CalculateOutputs(double[])D
-Classify(params double[])'NeuralNetwork.Classify(params double[])D
-IndexOfMaxValue(double[])'NeuralNetwork.IndexOfMaxValue(double[])(
-GetLayers()NeuralNetwork.GetLayers()
+È
+SerializableDictionaryExampleUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject0
+Reset()%SerializableDictionaryExample.Reset()`
+SerializableDictionaryExample()=SerializableDictionaryExample.SerializableDictionaryExample()V
+StringStringDictionary.get8SerializableDictionaryExample.StringStringDictionary.getV
+StringStringDictionary.set8SerializableDictionaryExample.StringStringDictionary.set

@@ -1,48 +1,64 @@
 
-Shapes.Line.Color.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs1 1("0*
-01 1(*
-1*¶
-12 3(F_
-]
-2- 2(:+
-Shapes.Line"
-colorUnityEngine.Color"__id*
-
-valueUnityEngine.Colorè
-å
-2 2(<
+ Shapes.Rectangle.DashSpacing.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csì ì("0*
+0
+ì ì(*
+1*
+1
+ì
+ ì( *
+2
+3*Ò
+2
+ì# ì(1e
+c
 
-%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
-2 2(
-Shapes.Line*>
-2 2(+2*0
-Shapes.ShapesMaterialUtils"
-	propColorint*9
-2- 2(:-*+
-Shapes.Line"
-colorUnityEngine.Colorb
-`
-33 3(C.
-Shapes.Line"
-colorEndUnityEngine.Color"__id*
-
-valueUnityEngine.Colorñ
-î
-3 3(E
+ì# ì(,
+%0Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStyleU
+S
 
-%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
-3 3(
-Shapes.Line*A
-3 3(15*3
-Shapes.ShapesMaterialUtils"
-propColorEndint*<
-33 3(C0*.
-Shapes.Line"
-colorEndUnityEngine.Color*
-2*.
-24 4("
-4 4(
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Line
+ì# ì(1
+	%capture0float"__id*+)*'
+
+%0Shapes.DashStyle"
+sizefloat*
+4*Õ
+3
+ì4 ì(Ee
+c
+
+ì4 ì(=
+%1Shapes.DashStyle"__id*75*3
+Shapes.Rectangle"
+	dashStyleShapes.DashStyleX
+V
+
+ì4 ì(E
+	%capture0float"__id*.,**
+
+%1Shapes.DashStyle"
+spacingfloat*
+4*]
+4
+ì
+ ì(EG
+E
+
+ì
+ ì(E
+%retfloat"__id*"
+
+ì
+ ì(E
+
+	%capture0float*
+5*.
+5
+ìF ì(F"
+
+ìE ì(F
+
+%retfloatB
+Shapes.Rectangle

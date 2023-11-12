@@ -1,30 +1,27 @@
 
-&Shapes.Draw.RegularPolygonGeometry.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csç ç("0*
-0
-ç ç(*
-1*‰
-1
-ç! ç(E\
-Z
+EShapes.StateStack.StateStack(Shapes.DrawStyle, UnityEngine.Matrix4x4)‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\StateStack.cs ("1*
+1N (N*
+0*Þ
+0; (K´
+±
+; (M
 
-ç! ç(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle”
-‘
+%0void"?Shapes.StateStack.Push(Shapes.DrawStyle, UnityEngine.Matrix4x4)*"
+Shapes.StateStack*
+
+styleShapes.DrawStyle* 
+
+mtxUnityEngine.Matrix4x4"
+; (M
 
-ç! ç(EQ
-
-%0Shapes.DrawStyle"7
-regularPolygonGeometryShapes.RegularPolygonGeometry"__id**(
-&
-valueShapes.RegularPolygonGeometry*
-2*2
-2
-çF ç(F"!
 
-çE ç(F
-implicit return:(&
-valueShapes.RegularPolygonGeometryB"
-Shapes.Draw
+%0void*.
+2N (N"
+M (N
+implicit return:%
+ (&
+styleShapes.DrawStyle:(
+( (5
+mtxUnityEngine.Matrix4x4B
+Shapes.StateStack

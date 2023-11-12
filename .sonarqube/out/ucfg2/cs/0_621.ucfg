@@ -1,40 +1,37 @@
 
-Shapes.Line.DashOffset.set–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csk k("0*
-0k k(*
-1*ª
-1k
- k(U^
-\
-k; k(D
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStyleQ
-O
-k; k(S)
-
-%0Shapes.DashStyle"
-offsetfloat"__id*
-
-valuefloatâ
-ß
-k
- k(U
+%Shapes.Draw.GradientFillLinearEnd.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csæ æ("0*
+0
+æ æ(*
+1*Ý
+1
+æ! æ(E\
+Z
 
-%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-k
- k(
-Shapes.Line*C
-k k(97*5
-Shapes.ShapesMaterialUtils"
-propDashOffsetint*7
-k; k(S+*)
+æ! æ(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyler
+p
+
+æ! æ(3
+%1Shapes.GradientFill"__id*A?*=
 
-%0Shapes.DashStyle"
-offsetfloat*
-2*.
-2kV k(V"
-kU k(V
-implicit return:
-valuefloatB
-Shapes.Line
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFillu
+s
+
+æ! æ(E=
+
+%1Shapes.GradientFill" 
+	linearEndUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3*
+2*2
+2
+æF æ(F"!
+
+æE æ(F
+implicit return:
+valueUnityEngine.Vector3B"
+Shapes.Draw

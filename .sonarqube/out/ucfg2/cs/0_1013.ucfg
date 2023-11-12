@@ -1,62 +1,27 @@
 
-dShapes.GradientFill.SetWorldPos(UnityEngine.Transform, ref UnityEngine.Vector3, UnityEngine.Vector3)€
-vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.csf f("0*
-0f f(*
-1*Ð
-1g g(V
-T
-g g( 
-	%capture0UnityEngine.Vector3"__id* 
-
-fieldUnityEngine.Vector3a
-_
-g g(
+)Shapes.DashStyle.DefaultDashStyleRing.get
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.cs‰ ‰("0*
+0
+‰ ‰(*
+1*”
+1
+‰
+ ‰(~
+|
 
-%0bool""Shapes.GradientFill.WorldSpace.get*#
-g g(
-Shapes.GradientFill*
-2
-3*o
-2g g("[
-Y
-g g(" 
-	%capture1UnityEngine.Vector3"__id*%#
-!
+‰
+ ‰(
+%retShapes.DashStyle"__id*N
 
-worldValueUnityEngine.Vector3*
-4*°
-3g% g(KÆ
-Ã
-g% g(K
-%1UnityEngine.Vector3"@UnityEngine.Transform.InverseTransformPoint(UnityEngine.Vector3)*)
-g% g('
-
-tfUnityEngine.Transform*/
-g? g(I#
-!
+‰
+ ‰(@*>
+Shapes.DashStyle"(
+defaultDashStyleRingShapes.DashStyle*
+2*9
+2
+‰ ‰("(
 
-worldValueUnityEngine.Vector3S
-Q
-g% g(K 
-	%capture1UnityEngine.Vector3"__id*
-
-%1UnityEngine.Vector3*
-4*j
-4g g(LV
-T
-g g(K
-fieldUnityEngine.Vector3"__id*$"
- 
-	%capture1UnityEngine.Vector3*
-5*.
-5h h("
-h h(
-implicit return:'
-f f( 
-tfUnityEngine.Transform:*
-f" f(3
-fieldUnityEngine.Vector3:-
-f5 f(G!
-
-worldValueUnityEngine.Vector3B
-Shapes.GradientFill
+‰ ‰(
+
+%retShapes.DashStyleB"
+Shapes.DashStyle

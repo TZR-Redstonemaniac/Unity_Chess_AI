@@ -1,16 +1,18 @@
 
-/Shapes.MpbRect.Shapes.IDashableMpb.dashSize.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÍ& Í()"0*ç
+9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSize.set‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csô& ô()"0*¬
 0
-Í* Í(*›
-˜
+ô* ô(*¨
+¥
 
-Í& Í(*(
-%0"System.Collections.Generic.List<T>"__id*ZX*V
-Shapes.MpbRect"B
-Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>"8
+ô& ô(*`
+Shapes.MpbRegularPolygon"B
+Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"p
 
-Í& Í(**
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbRect
+ô& ô(*b*`
+Shapes.MpbRegularPolygon"B
+Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

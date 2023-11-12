@@ -1,35 +1,31 @@
 
-$Shapes.Rectangle.FillLinearStart.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csµ µ("0*
+Shapes.Draw.Thickness.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs™ ™("0*
 0
-µ µ(*
-1*‚
+™ ™(*
+1*Õ
 1
-µ
- µ(f
-d
+™! ™(0\
+Z
 
-µ
- µ(
-%0Shapes.GradientFill"__id*53*1
-Shapes.Rectangle"
-fillShapes.GradientFillƒ
-€
+™! ™(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylea
+_
 
-µ
- µ(
-%retUnityEngine.Vector3"__id*O
+™! ™(0
+%retfloat"__id*<
 
-µ
- µ(A*?
-
-%0Shapes.GradientFill""
-linearStartUnityEngine.Vector3*
-2*<
+™! ™(0.*,
+
+%0Shapes.DrawStyle"
+	thicknessfloat*
+2*.
 2
-µ µ("+
+™1 ™(1"
 
-µ µ(
-
-%retUnityEngine.Vector3B
-Shapes.Rectangle
+™0 ™(1
+
+%retfloatB"
+Shapes.Draw

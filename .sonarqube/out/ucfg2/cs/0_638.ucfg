@@ -1,62 +1,38 @@
 
-Shapes.Line.DashSpace.set–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cso o("0*
-0o o(*
-1*õ
-1p q(g^
-\
-p6 p(?
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStylef
-d
-p6 p(M3
+(Shapes.Draw.GradientFillRadialRadius.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csñ ñ("0*
+0
+ñ ñ(*
+1*Ï
+1
+ñ! ñ(@\
+Z
+
+ñ! ñ(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyler
+p
+
+ñ! ñ(3
+%1Shapes.GradientFill"__id*A?*=
 
-%0Shapes.DashStyle"
-spaceShapes.DashSpace"__id*
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFillg
+e
+
+ñ! ñ(@
+%retfloat"__id*B
+
+ñ! ñ(@4*2
 
-valueShapes.DashSpaceä
-á
-p p(Q
-
-%1void"%Shapes.ShapeRenderer.SetInt(int, int)*
-p p(
-
-Shapes.Line*B
-p p(-6*4
-Shapes.ShapesMaterialUtils"
-propDashSpaceint*A
-p/ p(O5*3
-
-%0Shapes.DashStyle"
-spaceShapes.DashSpaceì
-é
-q3 q(d
-%2float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*<
-q3 q(<0*.
-Shapes.Line"
-	dashStyleShapes.DashStyle*-
-qQ q(W!*
-Shapes.Line"
-dashedbool*1
-qY q(b%*#
-Shapes.Line"
-	thicknessfloatÂ
-¿
-q q(f
-
-%3void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-q q(
-Shapes.Line*A
-q q(15*3
-Shapes.ShapesMaterialUtils"
-propDashSizeint*
-q3 q(d
-
-%2float*
+%1Shapes.GradientFill"
+radialRadiusfloat*
 2*.
-2r r("
-r r(
-implicit return:
-valueShapes.DashSpaceB
-Shapes.Line
+2
+ñA ñ(A"
+
+ñ@ ñ(A
+
+%retfloatB"
+Shapes.Draw

@@ -1,21 +1,51 @@
 
-Shapes.Disc.ColorEnd.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csq q("0*
-0q q(*
-1*Ñ
-1q
- q(p
-n
-q
- q(
-%retUnityEngine.Color"__id*A
-q
- q(5*3
-Shapes.Disc""
-colorInnerEndUnityEngine.Color*
-2*6
-2q q("'
-q q(
-
-%retUnityEngine.ColorB
-Shapes.Disc
+Shapes.ArrayPool<T>.Alloc(int)
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs	 	("0*
+0	 	(*
+1*π
+1	- 	(<°
+û
+	- 	(7	
+%0int"3System.Collections.Generic.ICollection<T>.Count.get*R
+	- 	(1F*D
+Shapes.ArrayPool<T>"+
+pool#System.Collections.Generic.Stack<T>*
+2
+3*e
+2	? 	(N
+	? 	(N	
+%1T[]"T[]3
+1
+	? 	(N
+	%capture0T[]"__id*
+	
+%1T[]*
+4*Á
+3	Q 	([ù
+ö
+	Q 	([	
+%2T[]"/System.Collections.Generic.ICollection<T>.Pop()*R
+	Q 	(UF*D
+Shapes.ArrayPool<T>"+
+pool#System.Collections.Generic.Stack<T>3
+1
+	Q 	([
+	%capture0T[]"__id*
+	
+%2T[]*
+4*S
+4	- 	([?
+=
+	- 	([
+%retT[]"__id*
+	- 	([
+
+	%capture0T[]*
+5*(
+5	\ 	(\"
+	[ 	(\
+
+%retT[]:
+	 	('
+maxCountintB"
+Shapes.ArrayPool<T>

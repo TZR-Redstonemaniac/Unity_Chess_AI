@@ -1,13 +1,5 @@
-Á
-Shapes.DashStyleSystem.ValueTypeobject=
-GetNet(float, float)%Shapes.DashStyle.GetNet(float, float)S
-GetNetAbsoluteSize(bool, float)0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)Y
-"GetNetAbsoluteSpacing(bool, float)3Shapes.DashStyle.GetNetAbsoluteSpacing(bool, float)5
-DashStyle(float)!Shapes.DashStyle.DashStyle(float)W
-!DashStyle(float, Shapes.DashType)2Shapes.DashStyle.DashStyle(float, Shapes.DashType)e
-(DashStyle(float, float, Shapes.DashType)9Shapes.DashStyle.DashStyle(float, float, Shapes.DashType)C
-DashStyle(float, float)(Shapes.DashStyle.DashStyle(float, float)Q
-DashStyle(float, float, float)/Shapes.DashStyle.DashStyle(float, float, float)+
-DashStyle()Shapes.DashStyle.DashStyle()3
-UniformSize.get Shapes.DashStyle.UniformSize.get3
-UniformSize.set Shapes.DashStyle.UniformSize.set
+Ç
+Shapes.ShapesMaterialsobjectk
+(ShapesMaterials(string, params string[])?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])[
+ this[Shapes.ShapesBlendMode].get7Shapes.ShapesMaterials.this[Shapes.ShapesBlendMode].get[
+ this[Shapes.ShapesBlendMode].set7Shapes.ShapesMaterials.this[Shapes.ShapesBlendMode].set

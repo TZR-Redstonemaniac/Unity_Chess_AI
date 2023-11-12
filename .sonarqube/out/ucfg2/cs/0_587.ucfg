@@ -1,28 +1,55 @@
 
-Shapes.Line.DashSize.getñ
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csY Y("0*
-0Y Y(*
-1*Ã
-1Y
- Y(^
-\
-Y
- Y(
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStyleX
-V
-Y
- Y(
-%retfloat"__id*5
-Y
- Y()*'
-
-%0Shapes.DashStyle"
-sizefloat*
-2**
-2Y Y("
-Y Y(
-
-%retfloatB
-Shapes.Line
+Shapes.ListPool<T>.Alloc()
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs ("0*
+0 (*
+1*∏
+1# (2†
+ù
+# (-	
+%0int"3System.Collections.Generic.ICollection<T>.Count.get*Q
+# ('E*C
+Shapes.ListPool<T>"+
+pool#System.Collections.Generic.Stack<T>*
+2
+3*˛
+25 (BZX
+5 (B(
+%1"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ö
+ó
+5 (B(
+%2"System.Collections.Generic.List<T>")System.Collections.Generic.List<T>.List()*6
+5 (B*
+(
+%1"System.Collections.Generic.List<T>q
+o
+5 (B/
+	%capture0"System.Collections.Generic.List<T>"__id*,*
+(
+%1"System.Collections.Generic.List<T>*
+4*√
+3E (Oª
+∏
+E (O(
+%3"System.Collections.Generic.List<T>"/System.Collections.Generic.ICollection<T>.Pop()*Q
+E (IE*C
+Shapes.ListPool<T>"+
+pool#System.Collections.Generic.Stack<T>q
+o
+E (O/
+	%capture0"System.Collections.Generic.List<T>"__id*,*
+(
+%3"System.Collections.Generic.List<T>*
+4*ë
+4# (O}
+{
+# (O*
+%ret"System.Collections.Generic.List<T>"__id*=
+# (O1
+/
+	%capture0"System.Collections.Generic.List<T>*
+5*G
+5P (P"8
+O (P,
+*
+%ret"System.Collections.Generic.List<T>B"
+Shapes.ListPool<T>

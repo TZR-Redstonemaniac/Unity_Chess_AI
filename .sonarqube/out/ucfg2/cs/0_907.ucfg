@@ -1,16 +1,18 @@
 
-2Shapes.MpbRect.Shapes.IDashableMpb.dashSpacing.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÐ) Ð(,"0*ê
+:Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSpace.set‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csö' ö(*"0*®
 0
-Ð- Ð(-ž
-›
+ö+ ö(+©
+¦
 
-Ð) Ð(-(
-%0"System.Collections.Generic.List<T>"__id*][*Y
-Shapes.MpbRect"E
-Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>"8
+ö' ö(+a
+Shapes.MpbRegularPolygon"C
+Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"q
 
-Ð) Ð(-*
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbRect
+ö' ö(+c*a
+Shapes.MpbRegularPolygon"C
+Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

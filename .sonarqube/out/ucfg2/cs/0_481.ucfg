@@ -1,30 +1,35 @@
 
-Shapes.Draw.BlendMode.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csˆ ˆ("0*
+"Shapes.RegularPolygon.FillType.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¢ ¢("0*
 0
-ˆ ˆ(*
-1*ì
+¢ ¢(*
+1*ö
 1
-ˆ! ˆ(8\
-Z
+¢
+ ¢(k
+i
 
-ˆ! ˆ(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylex
-v
+¢
+ ¢(
+%0Shapes.GradientFill"__id*:8*6
+Shapes.RegularPolygon"
+fillShapes.GradientFills
+q
 
-ˆ! ˆ(8=
-
-%0Shapes.DrawStyle"#
-	blendModeShapes.ShapesBlendMode"__id*#!
-
-valueShapes.ShapesBlendMode*
-2*2
+¢
+ ¢(
+%retShapes.FillType"__id*D
+
+¢
+ ¢(6*4
+
+%0Shapes.GradientFill"
+typeShapes.FillType*
+2*8
 2
-ˆ9 ˆ(9"!
+¢ ¢("'
 
-ˆ8 ˆ(9
-implicit return:!
-valueShapes.ShapesBlendModeB"
-Shapes.Draw
+¢ ¢(
+
+%retShapes.FillTypeB
+Shapes.RegularPolygon

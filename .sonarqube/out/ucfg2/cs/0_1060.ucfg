@@ -1,33 +1,11 @@
 
-"Shapes.Draw.RingThicknessSpace.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csò ò("0*
-0
-ò ò(*
-1*ï
-1
-ò
- ò(&\
-Z
-
-ò
- ò(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle{
-y
-
-ò
- ò(&A
-
-%0Shapes.DrawStyle"'
-thicknessSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpace*
-2*2
-2
-ò' ò('"!
-
-ò& ò('
-implicit return: 
-valueShapes.ThicknessSpaceB"
-Shapes.Draw
++Shapes.ImmediateModeShapeDrawer.OnDisable()‘
+†C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\ImmediateModeShapeDrawer.cs. .("0*
+0. .(*
+1*
+1.% .(L*
+2*.
+2.M .(M"
+.L .(M
+implicit returnB#!
+Shapes.ImmediateModeShapeDrawer

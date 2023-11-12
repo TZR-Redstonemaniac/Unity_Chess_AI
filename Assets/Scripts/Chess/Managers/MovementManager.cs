@@ -1,11 +1,16 @@
 ﻿using System.Collections.Generic;
 using Core;
+using Renderers;
 using UnityEngine;
+// ReSharper disable InvertIf
 
 namespace Managers {
     public class MovementManager : MonoBehaviour {
 
-        [Header("Config")] [SerializeField] private Camera cam;
+        [Header("Config")] 
+        [SerializeField] private Camera cam;
+        [SerializeField] private RenderBoard boardRenderer;
+        [SerializeField] private AudioManager audioManager;
 
         private int screenWidth;
         private int screenHeight;
@@ -13,7 +18,8 @@ namespace Managers {
         private readonly List<float> cameraXCoordinates = new();
         private readonly List<float> cameraYCoordinates = new();
 
-        private int pickedUpIndex;
+        public bool PickedUp { get; private set; }
+        private static int PickedUpIndex { get; set; }
 
         private void Start() {
             screenWidth = Screen.width;
@@ -43,17 +49,20 @@ namespace Managers {
             Vector3 mousePos = Input.mousePosition;
             mousePos.z = 100;
 
-            int x = FindIndices(cameraXCoordinates.ToArray(), mousePos.x / screenWidth);
-            int y = FindIndices(cameraYCoordinates.ToArray(), mousePos.y / screenHeight);
+            mousePos.x /= Screen.width;
+            mousePos.y /= Screen.height;
+
+            int x = FindIndices(cameraXCoordinates.ToArray(), mousePos.x);
+            int y = FindIndices(cameraYCoordinates.ToArray(), mousePos.y);
 
             int index = x + 8 * y;
 
             if (x == -1 || y == -1) index = -1;
 
-            if (Input.GetButtonDown("Fire1")) PickupObject(index);
-            if (Input.GetButtonUp("Fire1")) DropObject(index);
+            if (Input.GetButtonDown("Fire1")) PickupObject(index, mousePos);
+            if (Input.GetButtonUp("Fire1")) DropObject(index, mousePos);
 
-            if (PickedUp) MoveObject(cam.ScreenToWorldPoint(mousePos));
+            if (PickedUp) MoveObject(cam.ScreenToWorldPoint(Input.mousePosition));
         }
 
         private int FindIndices(float[] sortedArray, float x) {
@@ -62,43 +71,49 @@ namespace Managers {
             int left = -1;
 
             for (int i = 0; i < sortedArray.Length; i++) {
-                if (sortedArray[i] >= x) left = i - 1;
+                if (sortedArray[i] >= x) {
+                    left = i - 1;
+                    break;
+                }
             }
 
             return left;
         }
 
-        private void PickupObject(int index) {
+        private void PickupObject(int index, Vector3 mousePos) {
             PickedUp = true;
+            PickedUpIndex = index;
 
-            pickedUpIndex = index;
+            boardRenderer.RenderPickupColor(mousePos);
+            audioManager.PlayPickupSound();
         }
 
-        private void DropObject(int index) {
+        private void DropObject(int index, Vector3 mousePos) {
             PickedUp = false;
 
-            if (pickedUpIndex == index || index == -1) return;
+            if (PickedUpIndex == index || index == -1) return;
 
             if (Board.Square[index] != 0) Destroy(Board.Pieces[index]);
 
-            Board.Pieces[index] = Board.Pieces[pickedUpIndex];
+            Board.Pieces[index] = Board.Pieces[PickedUpIndex];
             Board.Pieces[index].transform.position =
                 new Vector3(Board.Pieces[index].transform.position.x, Board.Pieces[index].transform.position.y, 0);
             Board.Pieces[index].GetComponent<SpriteRenderer>().sortingOrder = 0;
-            Board.Pieces[pickedUpIndex] = null;
+            Board.Pieces[PickedUpIndex] = null;
 
-            Board.Square[index] = Board.Square[pickedUpIndex];
-            Board.Square[pickedUpIndex] = 0;
+            Board.Square[index] = Board.Square[PickedUpIndex];
+            Board.Square[PickedUpIndex] = 0;
 
-            pickedUpIndex = -1;
+            PickedUpIndex = -1;
+            
+            boardRenderer.RenderDropColor(mousePos);
+            audioManager.PlayDropSound();
         }
 
         private void MoveObject(Vector3 mousePos) {
             mousePos.z = 50;
-            Board.Pieces[pickedUpIndex].transform.position = mousePos;
-            Board.Pieces[pickedUpIndex].GetComponent<SpriteRenderer>().sortingOrder = 100;
+            Board.Pieces[PickedUpIndex].transform.position = mousePos;
+            Board.Pieces[PickedUpIndex].GetComponent<SpriteRenderer>().sortingOrder = 100;
         }
-
-        public bool PickedUp { get; private set; }
     }
 }

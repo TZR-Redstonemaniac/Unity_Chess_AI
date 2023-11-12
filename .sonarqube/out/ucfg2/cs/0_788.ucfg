@@ -1,35 +1,13 @@
 
-*Shapes.MpbCuboid.TransferShapeProperties()…
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs (1"0*
-0 (*
-1*Ð
-1 (<ž
-›
- (1
-
-%0void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)* 
- (
-Shapes.MpbCuboid*=
- ()1*/
-Shapes.ShapesMaterialUtils"
-propSizeint*N
-+ (/B*@
-Shapes.MpbCuboid"*
-size"System.Collections.Generic.List<T>š
-—
- (;
-
-%1void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)* 
- (
-Shapes.MpbCuboid*B
- (.6*4
-Shapes.ShapesMaterialUtils"
-propSizeSpaceint*S
-0 (9G*E
-Shapes.MpbCuboid"/
-	sizeSpace"System.Collections.Generic.List<T>*
-2*.
-2 ("
- (
-implicit returnB
-Shapes.MpbCuboid
+1Shapes.MpbLine2D.Shapes.IDashableMpb.dashType.get…
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs]& ]()"0*ã
+0]* ](*›
+˜
+]& ](*(
+%0"System.Collections.Generic.List<T>"__id*\Z*X
+Shapes.MpbLine2D"B
+Shapes.IDashableMpb.dashType"System.Collections.Generic.List<T>"6
+]& ](**
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbLine2D

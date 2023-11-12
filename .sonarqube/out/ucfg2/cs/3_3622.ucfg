@@ -1,28 +1,20 @@
 
-Core.Piece.FileIndex(int)j
-`C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Core\Piece.cs; ;(#"0*
-0; ;(*
-1*À
-1< <()r
-p
-< <()	
-%0int"%!binary_implicit_operator_passthrough* 
-< <(
-
-squareIndexint*
-<! <()28
-6
-< <()
-%retint"__id*
-< <()
-	
-%0int*
-2*(
-2=	 =(	"
-= =(	
-
-%retint:
-;$ ;(3
-squareIndexintB"
+qSerializableDictionary<TKey, TValue>.SerializableDictionary(System.Collections.Generic.IDictionary<TKey, TValue>)‡
+}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.csO O("1*
+1Q Q(*
+0*º
+0O? O(J¥
+¢
+O? O(K
 
-Core.Piece
+%0void"ˆSerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase(System.Collections.Generic.IDictionary<TKey, TValue>)*=;9
+7SerializableDictionaryBase<TKey, TValue, TValueStorage>*@>
+<
+dict4System.Collections.Generic.IDictionary<TKey, TValue>*
+2*.
+2Q Q("
+Q Q(
+implicit return:H
+O O(=<
+dict4System.Collections.Generic.IDictionary<TKey, TValue>B(&
+$SerializableDictionary<TKey, TValue>

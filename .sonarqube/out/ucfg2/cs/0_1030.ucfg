@@ -1,33 +1,16 @@
 
-Shapes.Draw.RingDashStyle.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÔ Ô("0*
+<Shapes.MpbTriangle.Shapes.IDashableMpb.dashShapeModifier.get‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csº/ º(2"0*ô
 0
-Ô Ô(*
-1*à
-1
-Ô
- Ô(!\
-Z
+º3 º(3¨
+¥
 
-Ô
- Ô(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylel
-j
+º/ º(3(
+%0"System.Collections.Generic.List<T>"__id*ge*c
+Shapes.MpbTriangle"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"8
 
-Ô
- Ô(!7
-
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStyle"__id*
-
-valueShapes.DashStyle*
-2*2
-2
-Ô" Ô(""!
-
-Ô! Ô("
-implicit return:
-valueShapes.DashStyleB"
-Shapes.Draw
+º/ º(3*
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbTriangle

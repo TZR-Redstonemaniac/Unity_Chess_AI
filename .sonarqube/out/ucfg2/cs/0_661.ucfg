@@ -1,27 +1,19 @@
 
-Shapes.Triangle.Roundness.get~
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs“ “("0*
-0
-“ “(*
-1*r
-1
-“
- “(\
-Z
-
-“
- “(
-%retfloat"__id*7
-
-“
- “()*'
-Shapes.Triangle"
-	roundnessfloat*
+.Shapes.ShapeRendererFillable.FillLinearEnd.set‰
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRendererFillable.cs0 0("0*
+00 0(*
+1*c
+10
+ 0(O
+M
+0
+ 0(
+%0UnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3*
 2*.
-2
-“ “("
-
-“ “(
-
-%retfloatB
-Shapes.Triangle
+20 0("
+0 0(
+implicit return:
+valueUnityEngine.Vector3B 
+Shapes.ShapeRendererFillable

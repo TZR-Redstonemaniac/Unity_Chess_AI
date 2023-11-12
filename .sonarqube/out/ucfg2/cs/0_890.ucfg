@@ -1,18 +1,38 @@
 
-0Shapes.MpbRect.Shapes.IFillableMpb.fillStart.setá
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs«) «(,"0*ö
+$Shapes.Draw.TextCharacterSpacing.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csç ç("0*
 0
-«- «(-ü
-ú
+ç ç(*
+1*«
+1
+ç! ç(A\
+Z
 
-«) «(-W
-Shapes.MpbRect"C
-Shapes.IFillableMpb.fillStart"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"g
+ç! ç(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-«) «(-Y*W
-Shapes.MpbRect"C
-Shapes.IFillableMpb.fillStart"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRect
+ç! ç(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyleh
+f
+
+ç! ç(A
+%retfloat"__id*C
+
+ç! ç(A5*3
+
+%1Shapes.TextStyle"
+characterSpacingfloat*
+2*.
+2
+çB ç(B"
+
+çA ç(B
+
+%retfloatB"
+Shapes.Draw

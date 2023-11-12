@@ -1,13 +1,24 @@
 
-TSerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase()á
-}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.cs (""1*°
-1 (å
-â
+±SerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)á
+}C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\SerializableDictionary\SerializableDictionary.cs (%"1*
+1n (n*
+0*É
+0X (kÓ
+Î
+X (l
 
-%0void"@System.Collections.Generic.Dictionary<TKey, TValue>.Dictionary()*975
-3System.Collections.Generic.Dictionary<TKey, TValue>*
-0*.
-0 ("
- (
-implicit returnB;9
+%0void"ùSystem.Collections.Generic.Dictionary<TKey, TValue>.Dictionary(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)*975
+3System.Collections.Generic.Dictionary<TKey, TValue>*:8
+6
+info.System.Runtime.Serialization.SerializationInfo*<:
+8
+context-System.Runtime.Serialization.StreamingContext*
+2*.
+2n (n"
+m (n
+implicit return:B
+& (<6
+info.System.Runtime.Serialization.SerializationInfo:D
+> (V8
+context-System.Runtime.Serialization.StreamingContextB;9
 7SerializableDictionaryBase<TKey, TValue, TValueStorage>

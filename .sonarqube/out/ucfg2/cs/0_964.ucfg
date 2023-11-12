@@ -1,38 +1,31 @@
 
-$Shapes.Draw.TextCharacterSpacing.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs ("0*
-0
- (*
-1*Ç
-1
-! (A\
-Z
-
-! (&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
-
-! (0
-%1Shapes.TextStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	textStyleShapes.TextStyleh
-f
-
-! (A
-%retfloat"__id*C
-
-! (A5*3
-
-%1Shapes.TextStyle"
-characterSpacingfloat*
-2*.
-2
-B (B"
-
-A (B
-
-%retfloatB"
-Shapes.Draw
+?Shapes.GradientFill.GetRadialOriginWorld(UnityEngine.Transform)€
+vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.cs^ ^(%"0*
+0^ ^(*
+1*€
+1^9 ^(X‘
+Ž
+^9 ^(X
+%0UnityEngine.Vector3"KShapes.GradientFill.GetWorldPos(UnityEngine.Transform, UnityEngine.Vector3)*#
+^9 ^(D
+Shapes.GradientFill*)
+^F ^(H
+
+tfUnityEngine.Transform*J
+^J ^(V>*<
+Shapes.GradientFill"#
+radialOriginUnityEngine.Vector3X
+V
+^9 ^(X
+%retUnityEngine.Vector3"__id*'
+^9 ^(X
+
+%0UnityEngine.Vector3*
+2*8
+2^Y ^(Y")
+^X ^(Y
+
+%retUnityEngine.Vector3:'
+^' ^(3
+tfUnityEngine.TransformB
+Shapes.GradientFill

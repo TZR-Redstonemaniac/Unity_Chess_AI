@@ -1,50 +1,35 @@
 
-%Shapes.Triangle.DashShapeModifier.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs“ “("0*
+"Shapes.RegularPolygon.DashType.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csˆ ˆ("0*
 0
-“ “(*
-1*Õ
+ˆ ˆ(*
+1*ò
 1
-“
- “(cd
-b
+ˆ
+ ˆ(j
+h
 
-“B “(K
-%0Shapes.DashStyle"__id*64*2
-Shapes.Triangle"
-	dashStyleShapes.DashStyleZ
-X
+ˆ
+ ˆ(
+%0Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStylep
+n
 
-“B “(a0
+ˆ
+ ˆ(
+%retShapes.DashType"__id*A
+
+ˆ
+ ˆ(3*1
 
-%0Shapes.DashStyle"
-shapeModifierfloat"__id*
-
-valuefloatü
-ù
-
-“
- “(c
-
-%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*!
-
-“
- “(
-Shapes.Triangle*L
-
-“ “(@>*<
-Shapes.ShapesMaterialUtils"
-propDashShapeModifierint*@
-
-“B “(a2*0
-
-%0Shapes.DashStyle"
-shapeModifierfloat*
-2*2
+%0Shapes.DashStyle"
+typeShapes.DashType*
+2*8
 2
-“d “(d"!
+ˆ ˆ("'
 
-“c “(d
-implicit return:
-valuefloatB
-Shapes.Triangle
+ˆ ˆ(
+
+%retShapes.DashTypeB
+Shapes.RegularPolygon

@@ -1,15 +1,31 @@
 
-0Shapes.MpbDisc.Shapes.IDashableMpb.dashSpace.setÖ
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs7' 7(*"0*î
-07+ 7(+ù
-ö
-7' 7(+W
-Shapes.MpbDisc"C
-Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"e
-7' 7(+Y*W
-Shapes.MpbDisc"C
-Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbDisc
+Shapes.Draw.TextStyle.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÔ Ô("0*
+0
+Ô Ô(*
+1*Î
+1
+Ô! Ô(0\
+Z
+
+Ô! Ô(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylew
+u
+
+Ô! Ô(0
+%retShapes.TextStyle"__id*G
+
+Ô! Ô(09*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyle*
+2*9
+2
+Ô1 Ô(1"(
+
+Ô0 Ô(1
+
+%retShapes.TextStyleB"
+Shapes.Draw

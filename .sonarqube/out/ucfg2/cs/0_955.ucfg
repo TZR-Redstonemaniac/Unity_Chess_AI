@@ -1,37 +1,64 @@
 
-Shapes.Draw.TextAlign.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csˆ ˆ("0*
-0
-ˆ ˆ(*
-1*Ë
-1
-ˆ! ˆ(B\
-Z
-
-ˆ! ˆ(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
-
-ˆ! ˆ(0
-%1Shapes.TextStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	textStyleShapes.TextStylel
-j
-
-ˆ! ˆ(B7
-
-%1Shapes.TextStyle"
-	alignmentShapes.TextAlign"__id*
+3Shapes.ShapesExtensions.ToVector4(UnityEngine.Rect)
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesExtensions.cs (!"0*
+0 (*
+1*Œ
+14 (^V
+T
+A (D
+%0float"UnityEngine.Rect.x.get*#
+A (B
+
+rUnityEngine.RectV
+T
+F (I
+%1float"UnityEngine.Rect.y.get*#
+F (G
+
+rUnityEngine.RectZ
+X
+K (R
+%2float"UnityEngine.Rect.width.get*#
+K (L
+
+rUnityEngine.Rect[
+Y
+T (\
+%3float"UnityEngine.Rect.height.get*#
+T (U
+
+rUnityEngine.Rect<:
+4 (^
+%4UnityEngine.Vector4"UnityEngine.Vector4ö
+ó
+4 (^
+%5UnityEngine.Vector4"7UnityEngine.Vector4.Vector4(float, float, float, float)*'
+4 (^
 
-valueShapes.TextAlign*
-2*2
-2
-ˆC ˆ(C"!
-
-ˆB ˆ(C
-implicit return:
-valueShapes.TextAlignB"
-Shapes.Draw
+%4UnityEngine.Vector4*
+A (D
+
+%0float*
+F (I
+
+%1float*
+K (R
+
+%2float*
+T (\
+
+%3floatX
+V
+4 (^
+%retUnityEngine.Vector4"__id*'
+4 (^
+
+%4UnityEngine.Vector4*
+2*8
+2_ (_")
+^ (_
+
+%retUnityEngine.Vector4:!
+# (.
+rUnityEngine.RectB"
+Shapes.ShapesExtensions

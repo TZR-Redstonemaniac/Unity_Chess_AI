@@ -1,16 +1,112 @@
 
-9Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSnap.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csõ& õ()"0*ñ
+Shapes.Quad.Color.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs² ²("0*
 0
-õ* õ(*¥
-¢
+² ²(*
+1*ø
 
-õ& õ(*(
-%0"System.Collections.Generic.List<T>"__id*db*`
-Shapes.MpbRegularPolygon"B
-Shapes.IDashableMpb.dashSnap"System.Collections.Generic.List<T>"8
+1
+³ ¶(Ba
+_
 
-õ& õ(**
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+³- ³(:+
+Shapes.Quad"
+colorUnityEngine.Color"__id*
+
+valueUnityEngine.Colorð
+í
+
+³ ³(<
+
+%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+³ ³(
+Shapes.Quad*@
+
+³ ³(+2*0
+Shapes.ShapesMaterialUtils"
+	propColorint*;
+
+³- ³(:-*+
+Shapes.Quad"
+colorUnityEngine.Colorb
+`
+
+´. ´(<,
+Shapes.Quad"
+colorBUnityEngine.Color"__id*
+
+valueUnityEngine.Colorò
+ï
+
+´ ´(>
+
+%1void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+´ ´(
+Shapes.Quad*A
+
+´ ´(,3*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*<
+
+´. ´(<.*,
+Shapes.Quad"
+colorBUnityEngine.Colorb
+`
+
+µ. µ(<,
+Shapes.Quad"
+colorCUnityEngine.Color"__id*
+
+valueUnityEngine.Colorò
+ï
+
+µ µ(>
+
+%2void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+
+µ µ(
+Shapes.Quad*A
+
+µ µ(,3*1
+Shapes.ShapesMaterialUtils"
+
+propColorCint*<
+
+µ. µ(<.*,
+Shapes.Quad"
+colorCUnityEngine.Colorb
+`
+
+¶1 ¶(?,
+Shapes.Quad"
+colorDUnityEngine.Color"__id*
+
+valueUnityEngine.Colorõ
+ò
+
+¶ ¶(A
+
+%3void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+
+¶ ¶(
+Shapes.Quad*A
+
+¶ ¶(/3*1
+Shapes.ShapesMaterialUtils"
+
+propColorDint*<
+
+¶1 ¶(?.*,
+Shapes.Quad"
+colorDUnityEngine.Color*
+2*2
+2
+· ·("!
+
+· ·(
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Quad

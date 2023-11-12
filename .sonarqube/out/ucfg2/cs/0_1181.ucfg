@@ -1,27 +1,39 @@
 
-Shapes.Quad.ColorC.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csè è("0*
+DShapes.ShapesMaterialUtils.GetPolylineJoinsMat(Shapes.PolylineJoins)„
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesMaterialUtils.cs¦  ¦(3"0*
 0
-è è(*
-1*ƒ
+¦ ¦(*
+1*í
 1
-è
- è(m
-k
+¦M ¦(hò
+ï
 
-è
- è(
-%retUnityEngine.Color"__id*<
+¦M ¦(h
+%0Shapes.ShapesMaterials"7System.Collections.Generic.ICollection<T>.this[int].get*\
 
-è
- è(.*,
-Shapes.Quad"
-colorCUnityEngine.Color*
-2*:
+¦M ¦(]N*L
+Shapes.ShapesMaterialUtils",
+matsPolylineJoinShapes.ShapesMaterials[]*,
+
+¦^ ¦(g
+
+joinShapes.PolylineJoinsb
+`
+
+¦M ¦(h
+%retShapes.ShapesMaterials"__id*,
+
+¦M ¦(h
+
+%0Shapes.ShapesMaterials*
+2*?
 2
-è è(")
+¦i ¦(i".
 
-è è(
-
-%retUnityEngine.ColorB
-Shapes.Quad
+¦h ¦(i 
+
+%retShapes.ShapesMaterials:*
+
+¦5 ¦(G
+joinShapes.PolylineJoinsB"
+Shapes.ShapesMaterialUtils

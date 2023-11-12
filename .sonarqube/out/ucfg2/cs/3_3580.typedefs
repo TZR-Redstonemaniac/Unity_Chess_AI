@@ -1,3 +1,7 @@
-Å
-StringStringDictionary$SerializableDictionary<TKey, TValue>7SerializableDictionaryBase<TKey, TValue, TValueStorage>3System.Collections.Generic.Dictionary<TKey, TValue>objectK
-StringStringDictionary()/StringStringDictionary.StringStringDictionary()
+‘
+Renderers.RenderBoardUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject(
+Awake()Renderers.RenderBoard.Awake()*
+Update()Renderers.RenderBoard.Update()f
+&RenderPickupColor(UnityEngine.Vector3)<Renderers.RenderBoard.RenderPickupColor(UnityEngine.Vector3)b
+$RenderDropColor(UnityEngine.Vector3):Renderers.RenderBoard.RenderDropColor(UnityEngine.Vector3)4
+RenderBoard()#Renderers.RenderBoard.RenderBoard()

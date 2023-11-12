@@ -1,49 +1,31 @@
 
-(Shapes.MpbCone.TransferShapeProperties()…
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs (1"0*
-0 (*
-1*Ñ
-1 (<
-
- (5
+Shapes.Draw.LineGeometry.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÂ Â("0*
+0
+Â Â(*
+1*õ
+1
+Â! Â(3\
+Z
 
-%0void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
- (
-Shapes.MpbCone*?
- (+3*1
-Shapes.ShapesMaterialUtils"
+Â! Â(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyle€
+~
 
-propLengthint*N
-- (3B*@
-Shapes.MpbCone",
-length"System.Collections.Generic.List<T>
-
- (5
+Â! Â(3
+%retShapes.LineGeometry"__id*M
 
-%1void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
- (
-Shapes.MpbCone*?
- (+3*1
-Shapes.ShapesMaterialUtils"
+Â! Â(3?*=
+
+%0Shapes.DrawStyle"#
+lineGeometryShapes.LineGeometry*
+2*<
+2
+Â4 Â(4"+
 
-propRadiusint*N
-- (3B*@
-Shapes.MpbCone",
-radius"System.Collections.Generic.List<T>–
-“
- (;
-
-%2void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*
- (
-Shapes.MpbCone*B
- (.6*4
-Shapes.ShapesMaterialUtils"
-propSizeSpaceint*Q
-0 (9E*C
-Shapes.MpbCone"/
-	sizeSpace"System.Collections.Generic.List<T>*
-2*.
-2 ("
- (
-implicit returnB
-Shapes.MpbCone
+Â3 Â(4
+
+%retShapes.LineGeometryB"
+Shapes.Draw

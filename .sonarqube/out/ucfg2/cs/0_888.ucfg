@@ -1,30 +1,16 @@
 
-'Shapes.Draw.RegularPolygonSideCount.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csá á("0*
+/Shapes.MpbRect.Shapes.IDashableMpb.dashType.get‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÑ& Ñ()"0*ç
 0
-á á(*
-1*Ô
-1
-á! á(F\
-Z
+Ñ* Ñ(*›
+˜
 
-á! á(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle`
-^
+Ñ& Ñ(*(
+%0"System.Collections.Generic.List<T>"__id*ZX*V
+Shapes.MpbRect"B
+Shapes.IDashableMpb.dashType"System.Collections.Generic.List<T>"8
 
-á! á(F8
-
-%0Shapes.DrawStyle"
-regularPolygonSideCountint"__id*
-
-valueint*
-2*2
-2
-áG á(G"!
-
-áF á(G
-implicit return:
-valueintB"
-Shapes.Draw
+Ñ& Ñ(**
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbRect

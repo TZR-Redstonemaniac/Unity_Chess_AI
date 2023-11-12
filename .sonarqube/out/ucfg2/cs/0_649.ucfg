@@ -1,21 +1,28 @@
 
-Shapes.Sphere.Radius.getz
-pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Sphere.cs ("0*
-0 (*
-1*g
-1
- (S
-Q
-
- (
-%retfloat"__id*0
-
- ($*"
-Shapes.Sphere"
-radiusfloat*
+Shapes.Line.DashSize.get–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csY Y("0*
+0Y Y(*
+1*Ì
+1Y
+ Y(^
+\
+Y
+ Y(
+%0Shapes.DashStyle"__id*20*.
+Shapes.Line"
+	dashStyleShapes.DashStyleX
+V
+Y
+ Y(
+%retfloat"__id*5
+Y
+ Y()*'
+
+%0Shapes.DashStyle"
+sizefloat*
 2**
-2 ("
- (
+2Y Y("
+Y Y(
 
-%retfloatB
-Shapes.Sphere
+%retfloatB
+Shapes.Line

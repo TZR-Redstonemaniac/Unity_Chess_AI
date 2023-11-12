@@ -1,21 +1,16 @@
 
-Shapes.Rectangle.Thickness.get}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.cs ("0*
-0 (*
-1*m
-1
- (Y
-W
-
- (
-%retfloat"__id*6
-
- (**(
-Shapes.Rectangle"
-	thicknessfloat*
-2**
-2 ("
- (
+8Shapes.MpbRect.Shapes.IDashableMpb.dashShapeModifier.get‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÌ/ Ì(2"0*ð
+0
+Ì3 Ì(3¤
+¡
 
-%retfloatB
-Shapes.Rectangle
+Ì/ Ì(3(
+%0"System.Collections.Generic.List<T>"__id*ca*_
+Shapes.MpbRect"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"8
+
+Ì/ Ì(3*
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbRect

@@ -1,47 +1,13 @@
 
-Shapes.Line.GetNetDashSpacing()ò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÅ Å("0*
-0
-Å Å(*
-1*»
-1
-Å Å(hÔ
-Ï
-
-Å Å(h
-%0float"KShapes.ShapeRenderer.GetNetDashSpacing(Shapes.DashStyle, bool, bool, float)*
-
-Å Å(0
-Shapes.Line*>
-
-Å2 Å(;0*.
-Shapes.Line"
-	dashStyleShapes.DashStyle*/
-
-Å= Å(C!*
-Shapes.Line"
-dashedbool*?
-
-ÅE Å([1*/
-Shapes.Line"
-matchDashSpacingToSizebool*3
-
-Å] Å(f%*#
-Shapes.Line"
-	thicknessfloat@
->
-
-Å Å(h
-%retfloat"__id*
-
-Å Å(h
-
-%0float*
-2*.
-2
-Åi Å(i"
-
-Åh Å(i
-
-%retfloatB
-Shapes.Line
+1Shapes.MpbLine3D.Shapes.IDashableMpb.dashSize.getÖ
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csw& w()"0*„
+0w* w(*õ
+ò
+w& w(*(
+%0"System.Collections.Generic.List<T>"__id*\Z*X
+Shapes.MpbLine3D"B
+Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>"6
+w& w(**
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbLine3D

@@ -1,30 +1,13 @@
 
-Shapes.Rectangle.Type.set}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.csO O("0*
-0O O(*
-1*Ø
-1P R(}
-{
-P P(<
-Shapes.Rectangle"&
-typeShapes.Rectangle.RectangleType"__id*+)
-'
-valueShapes.Rectangle.RectangleTypea
-_
-Q Q(
-
-%0void"%Shapes.ShapeRenderer.UpdateMaterial()* 
-Q Q(
-Shapes.Rectangleb
-`
-R R(
-
-%1void"&Shapes.ShapeRenderer.ApplyProperties()* 
-R R(
-Shapes.Rectangle*
-2*.
-2S S("
-S S(
-implicit return:)'
-valueShapes.Rectangle.RectangleTypeB
-Shapes.Rectangle
+1Shapes.MpbLine2D.Shapes.IDashableMpb.dashSize.get…
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csY& Y()"0*ã
+0Y* Y(*›
+˜
+Y& Y(*(
+%0"System.Collections.Generic.List<T>"__id*\Z*X
+Shapes.MpbLine2D"B
+Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>"6
+Y& Y(**
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbLine2D

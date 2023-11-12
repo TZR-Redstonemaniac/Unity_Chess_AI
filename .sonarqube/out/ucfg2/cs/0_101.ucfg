@@ -1,84 +1,0 @@
-
-"Shapes.ShapesAssets.ShapesAssets(){
-qC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesAssets.cs ("0*ˆ
-0# #(:8
-0 (;
-%0UnityEngine.Mesh[]"UnityEngine.Mesh[]i
-g
-% (;7
-Shapes.ShapesAssets"
-meshQuadUnityEngine.Mesh[]"__id*
-
-%0UnityEngine.Mesh[]:8
- (*
-%1UnityEngine.Mesh[]"UnityEngine.Mesh[]m
-k
- (*;
-Shapes.ShapesAssets""
-meshTriangleUnityEngine.Mesh[]"__id*
-
-%1UnityEngine.Mesh[]:8
- (&
-%2UnityEngine.Mesh[]"UnityEngine.Mesh[]i
-g
- (&7
-Shapes.ShapesAssets"
-meshCubeUnityEngine.Mesh[]"__id*
-
-%2UnityEngine.Mesh[]:8
- ((
-%3UnityEngine.Mesh[]"UnityEngine.Mesh[]k
-i
- ((9
-Shapes.ShapesAssets" 
-
-meshSphereUnityEngine.Mesh[]"__id*
-
-%3UnityEngine.Mesh[]:8
- ('
-%4UnityEngine.Mesh[]"UnityEngine.Mesh[]j
-h
- ('8
-Shapes.ShapesAssets"
-	meshTorusUnityEngine.Mesh[]"__id*
-
-%4UnityEngine.Mesh[]:8
- ()
-%5UnityEngine.Mesh[]"UnityEngine.Mesh[]l
-j
- ():
-Shapes.ShapesAssets"!
-meshCapsuleUnityEngine.Mesh[]"__id*
-
-%5UnityEngine.Mesh[]:8
- (*
-%6UnityEngine.Mesh[]"UnityEngine.Mesh[]m
-k
- (*;
-Shapes.ShapesAssets""
-meshCylinderUnityEngine.Mesh[]"__id*
-
-%6UnityEngine.Mesh[]:8
- (&
-%7UnityEngine.Mesh[]"UnityEngine.Mesh[]i
-g
- (&7
-Shapes.ShapesAssets"
-meshConeUnityEngine.Mesh[]"__id*
-
-%7UnityEngine.Mesh[]:8
-# (.
-%8UnityEngine.Mesh[]"UnityEngine.Mesh[]q
-o
- (.?
-Shapes.ShapesAssets"&
-meshConeUncappedUnityEngine.Mesh[]"__id*
-
-%8UnityEngine.Mesh[]c
-a
-
-%9void"/UnityEngine.ScriptableObject.ScriptableObject()*" 
-UnityEngine.ScriptableObject"
- #(
-implicit returnB
-Shapes.ShapesAssets

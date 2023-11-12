@@ -1,35 +1,26 @@
 
-"Shapes.Draw.LineThicknessSpace.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÁ Á("0*
-0
-Á Á(*
-1*ü
-1
-Á
- Á(\
-Z
+!Shapes.RenderState.Equals(object)
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\RenderState.cs_ _("0*Y
+0_/ _(GB
+@
+_/ _(G
+otherShapes.RenderState"__id*
 
-Á
- Á(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle‡
-„
+objobject*
+1
+2*˜
+1_K _(Xƒ
+€
+_K _(Z
 
-Á
- Á(
-%retShapes.ThicknessSpace"__id*Q
-
-Á
- Á(C*A
-
-%0Shapes.DrawStyle"'
-thicknessSpaceShapes.ThicknessSpace*
-2*>
-2
-Á Á("-
-
-Á Á(
-
-%retShapes.ThicknessSpaceB"
-Shapes.Draw
+%0bool"-Shapes.RenderState.Equals(Shapes.RenderState)*
+Shapes.RenderState*
+
+otherShapes.RenderState*
+2*.
+2_[ _(["
+_Z _([
+implicit return:
+_ _()
+objobjectB
+Shapes.RenderState

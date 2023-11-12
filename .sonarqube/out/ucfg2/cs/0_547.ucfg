@@ -1,52 +1,31 @@
 
-#Shapes.Rectangle.FillColorStart.setò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¡ ¡("0*
+Shapes.Draw.SizeSpace.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs± ±("0*
 0
-¡ ¡(*
-1*¸
+± ±(*
+1*ˆ
 1
-¡
- ¡(Of
-d
+±! ±(0\
+Z
 
-¡6 ¡(:
-%0Shapes.GradientFill"__id*53*1
-Shapes.Rectangle"
-fillShapes.GradientFillr
-p
+±! ±(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleÅ
+
 
-¡6 ¡(M<
-
-%0Shapes.GradientFill"
+±! ±(0
+%retShapes.ThicknessSpace"__id*L
 
-colorStartUnityEngine.Color"__id*
-
-valueUnityEngine.Colorâ
-Ü
-
-¡
- ¡(O
-
-%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*"
-
-¡
- ¡(
-Shapes.Rectangle*@
-
-¡ ¡(42*0
-Shapes.ShapesMaterialUtils"
-	propColorint*L
-
-¡6 ¡(M>*<
-
-%0Shapes.GradientFill"
-
-colorStartUnityEngine.Color*
-2*2
+±! ±(0>*<
+
+%0Shapes.DrawStyle""
+	sizeSpaceShapes.ThicknessSpace*
+2*>
 2
-¡P ¡(P"!
+±1 ±(1"-
 
-¡O ¡(P
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Rectangle
+±0 ±(1
+
+%retShapes.ThicknessSpaceB"
+Shapes.Draw

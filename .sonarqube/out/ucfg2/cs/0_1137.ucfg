@@ -1,63 +1,33 @@
 
-Shapes.Quad.ColorBottom.setz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csÔ Ô("0*
-0
-Ô Ô(*
-1*Æ
-1
-Õ Ö(@b
-`
+"Shapes.ShapeRenderer.ScaleMode.set
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs> >("0*
+0> >(*
+1*õ
+1>
+ >(Tj
+h
+>? >(P7
+Shapes.ShapeRenderer"
+	scaleModeShapes.ScaleMode"__id*
+
+valueShapes.ScaleModeô
+ñ
+>
+ >(T
 
-Õ. Õ(<,
-Shapes.Quad"
-colorDUnityEngine.Color"__id*
-
-valueUnityEngine.Colorò
-ï
-
-Õ Õ(>
-
-%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
-
-Õ Õ(
-Shapes.Quad*A
-
-Õ Õ(,3*1
-Shapes.ShapesMaterialUtils"
-
-propColorDint*<
-
-Õ. Õ(<.*,
-Shapes.Quad"
-colorDUnityEngine.Colora
-_
-
-Ö0 Ö(=+
-Shapes.Quad"
-colorUnityEngine.Color"__id*
-
-valueUnityEngine.Coloró
-ð
-
-Ö Ö(?
-
-%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
-
-Ö Ö(
-Shapes.Quad*@
-
-Ö Ö(.2*0
-Shapes.ShapesMaterialUtils"
-	propColorint*;
-
-Ö0 Ö(=-*+
-Shapes.Quad"
-colorUnityEngine.Color*
-2*2
-2
-× ×("!
-
-× ×(
-implicit return:
-valueUnityEngine.ColorB
-Shapes.Quad
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*$
+>
+ >(
+Shapes.ShapeRenderer*B
+> >(66*4
+Shapes.ShapesMaterialUtils"
+propScaleModeint*E
+>8 >(R9*7
+Shapes.ShapeRenderer"
+	scaleModeShapes.ScaleMode*
+2*.
+2>U >(U"
+>T >(U
+implicit return:
+valueShapes.ScaleModeB
+Shapes.ShapeRenderer

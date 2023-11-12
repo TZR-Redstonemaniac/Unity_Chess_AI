@@ -1,27 +1,35 @@
 
-Shapes.Disc.ColorStart.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csi i("0*
-0i i(*
-1*à
-1i
- i(vt
-i
- i(
-%0UnityEngine.Color"Shapes.ShapeRenderer.Color.get*$
-i
- i(
-Shapes.ShapeRenderer2	Color.getT
-R
-i
- i(
-%retUnityEngine.Color"__id*%
-i
- i(
-
-%0UnityEngine.Color*
-2*6
-2i i("'
-i i(
+&Shapes.RegularPolygon.FillColorEnd.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÊ Ê("0*
+0
+Ê Ê(*
+1*þ
+1
+Ê
+ Ê(k
+i
+
+Ê
+ Ê(
+%0Shapes.GradientFill"__id*:8*6
+Shapes.RegularPolygon"
+fillShapes.GradientFill{
+y
+
+Ê
+ Ê(
+%retUnityEngine.Color"__id*J
+
+Ê
+ Ê(<*:
 
-%retUnityEngine.ColorB
-Shapes.Disc
+%0Shapes.GradientFill"
+colorEndUnityEngine.Color*
+2*:
+2
+Ê Ê(")
+
+Ê Ê(
+
+%retUnityEngine.ColorB
+Shapes.RegularPolygon

@@ -1,71 +1,16 @@
 
-DShapes.PolylinePath.AddPoint(float, float, float, UnityEngine.Color)Ñ
-zC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PolylinePath.cs.% .(-"0*
-0. .(*
-1*˜
-1	.[ .(ô=;
-	.x .(é
-%0UnityEngine.Vector3"UnityEngine.Vector3Ÿ
-÷
-	.x .(é
-%1UnityEngine.Vector3"0UnityEngine.Vector3.Vector3(float, float, float)*(
-	.x .(é
-
-%0UnityEngine.Vector3*
+3Shapes.MpbTriangle.Shapes.IDashableMpb.dashType.getá
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csø& ø()"0*Î
+0
+ø* ø(*ü
+ú
 
-.Ö .(Ü
+ø& ø(*(
+%0"System.Collections.Generic.List<T>"__id*^\*Z
+Shapes.MpbTriangle"B
+Shapes.IDashableMpb.dashType"System.Collections.Generic.List<T>"8
 
-
-xfloat*
-
-.à .(â
-
-
-yfloat*
-
-.ã .(å
-
-
-zfloat?=
-	.e .(ó
-%2Shapes.PolylinePoint"Shapes.PolylinePoint˜
-Ù
-	.e .(ó
-%3Shapes.PolylinePoint"JShapes.PolylinePoint.PolylinePoint(UnityEngine.Vector3, UnityEngine.Color)*)
-	.e .(ó
-
-%2Shapes.PolylinePoint*(
-	.x .(é
-
-%0UnityEngine.Vector3**
-
-.ê .(ï
-
-colorUnityEngine.Colorã
-à
-	.[ .(ô
-
-%4void"Shapes.PointPath<T>.AddPoint(T)*#
-.[ .(c
-Shapes.PolylinePath*)
-	.e .(ó
-
-%2Shapes.PolylinePoint*
-2*2
-2
-.ö .(ö"!
-
-.ô .(ö
-implicit return:
-./ .(6
-
-xfloat:
-.8 .(?
-
-yfloat:
-.A .(H
-
-zfloat:&
-.J .(U
-colorUnityEngine.ColorB
-Shapes.PolylinePath
+ø& ø(**
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbTriangle

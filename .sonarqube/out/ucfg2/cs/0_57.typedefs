@@ -1,15 +1,3 @@
-Ü
-Shapes.ShapesTextPoolUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject0
-ClearData()!Shapes.ShapesTextPool.ClearData().
-
-OnEnable() Shapes.ShapesTextPool.OnEnable()0
-OnDisable()!Shapes.ShapesTextPool.OnDisable()8
-GetElement(int)%Shapes.ShapesTextPool.GetElement(int)B
-AllocateElement(int)*Shapes.ShapesTextPool.AllocateElement(int)@
-ReleaseElement(int))Shapes.ShapesTextPool.ReleaseElement(int)>
-CreateElement(int)(Shapes.ShapesTextPool.CreateElement(int):
-ShapesTextPool()&Shapes.ShapesTextPool.ShapesTextPool():
-ElementCount.get&Shapes.ShapesTextPool.ElementCount.get:
-ElementCount.set&Shapes.ShapesTextPool.ElementCount.setJ
-ImmediateModeElement.get.Shapes.ShapesTextPool.ImmediateModeElement.getJ
-ImmediateModeElement.set.Shapes.ShapesTextPool.ImmediateModeElement.set
+Š
+ Shapes.ShapesMeshGen.ReflexStateSystem.EnumSystem.ValueTypeobject?
+ReflexState().Shapes.ShapesMeshGen.ReflexState.ReflexState()

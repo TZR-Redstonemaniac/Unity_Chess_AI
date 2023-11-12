@@ -1,30 +1,50 @@
 
-Shapes.Draw.SizeSpace.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs² ²("0*
+"Shapes.Rectangle.FillLinearEnd.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs½ ½("0*
 0
-² ²(*
-1*ê
+½ ½(*
+1*†
 1
-²! ²(8\
-Z
+½
+ ½(Rf
+d
 
-²! ²(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylev
-t
+½: ½(>
+%0Shapes.GradientFill"__id*53*1
+Shapes.Rectangle"
+fillShapes.GradientFillu
+s
 
-²! ²(8<
-
-%0Shapes.DrawStyle""
-	sizeSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpace*
+½: ½(P=
+
+%0Shapes.GradientFill" 
+	linearEndUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3
+
+
+½
+ ½(R
+
+%1void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*"
+
+½
+ ½(
+Shapes.Rectangle*B
+
+½ ½(84*2
+Shapes.ShapesMaterialUtils"
+propFillEndint*M
+
+½: ½(P?*=
+
+%0Shapes.GradientFill" 
+	linearEndUnityEngine.Vector3*
 2*2
 2
-²9 ²(9"!
+½S ½(S"!
 
-²8 ²(9
-implicit return: 
-valueShapes.ThicknessSpaceB"
-Shapes.Draw
+½R ½(S
+implicit return:
+valueUnityEngine.Vector3B
+Shapes.Rectangle

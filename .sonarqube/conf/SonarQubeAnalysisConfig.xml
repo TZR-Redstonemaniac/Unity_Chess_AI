@@ -6,7 +6,7 @@
   <SonarScannerWorkingDirectory>C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA</SonarScannerWorkingDirectory>
   <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
   <SonarQubeHostUrl>https://sonarcloud.io</SonarQubeHostUrl>
-  <SonarQubeVersion>8.0.0.49942</SonarQubeVersion>
+  <SonarQubeVersion>8.0.0.50118</SonarQubeVersion>
   <SonarProjectKey>TZR-Redstonemaniac_Unity_Chess_AI</SonarProjectKey>
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />
@@ -78,6 +78,7 @@
     <Property Name="sonar.plsql.file.suffixes">sql,tab,pkb</Property>
     <Property Name="sonaranalyzer.security.cs.ruleNamespace">SonarAnalyzer.Security</Property>
     <Property Name="sonar.cobol.tab.width">8</Property>
+    <Property Name="sonar.text.inclusions.activate">false</Property>
     <Property Name="sonaranalyzer-vbnet.staticResourceName">SonarAnalyzer-9.13.0.79967.zip</Property>
     <Property Name="sonar.java.file.suffixes">.java,.jav</Property>
     <Property Name="sonar.kotlin.file.suffixes">.kt,.kts</Property>
@@ -86,6 +87,7 @@
     <Property Name="sonar.dbcleaner.weeksBeforeDeletingAllSnapshots">260</Property>
     <Property Name="sonar.python.coverage.reportPaths">coverage-reports/*coverage-*.xml</Property>
     <Property Name="sonar.sensor.cache.enable">true</Property>
+    <Property Name="sonar.text.activate">true</Property>
     <Property Name="sonaranalyzer-vbnet.nuget.packageVersion">9.13.0.79967</Property>
     <Property Name="sonar.go.file.suffixes">.go</Property>
     <Property Name="sonar.cpd.cobol.minimumLines">30</Property>
@@ -124,6 +126,7 @@
     <Property Name="sonar.branch.longLivedBranches.regex">(branch|release)-.*</Property>
     <Property Name="sonar.objc.file.suffixes">.m</Property>
     <Property Name="sonar.autoscan.enabled">false</Property>
+    <Property Name="sonar.text.inclusions">**/*.sh,**/*.bash,**/*.zsh,**/*.ksh,**/*.ps1,**/*.properties,**/*.conf,**/*.pem,**/*.config,.env,.aws/config</Property>
     <Property Name="sonar.ruby.coverage.reportPaths">coverage/.resultset.json</Property>
     <Property Name="sonar.qualityProfiles.allowDisableInheritedRules">true</Property>
     <Property Name="sonaranalyzer-cs.staticResourceName">SonarAnalyzer-9.13.0.79967.zip</Property>
@@ -155,7 +158,7 @@
 Automatic Analysis will not be available between 07:00 CET and 09:00 CET</Property>
     <Property Name="sonar.maintenance_mode.link">https://community.sonarsource.com/t/sonarcloud-autoscan-maintenance-september-28th-07-00-and-09-00-cet/101442</Property>
     <Property Name="sonar.maintenance_mode.start_date">2023-09-28T09:10:00:00.000+01:00</Property>
-    <Property Name="sonar.core.startTime">11/6/2023 5:59:13 PM</Property>
+    <Property Name="sonar.core.startTime">11/8/2023 12:08:52 PM</Property>
     <Property Name="sonar.inclusions">Assets/Scripts</Property>
   </ServerSettings>
   <LocalSettings>

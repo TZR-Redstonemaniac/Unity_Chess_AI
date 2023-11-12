@@ -1,37 +1,37 @@
 
-Shapes.Draw.DashSnap.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs” ”("0*
+(Shapes.Draw.GradientFillRadialRadius.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csò ò("0*
 0
-” ”(*
-1*Ì
+ò ò(*
+1*Ä
 1
-”! ”(=\
+ò! ò(H\
 Z
 
-”! ”(&
+ò! ò(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStylei
-g
+styleShapes.DrawStyler
+p
 
-”! ”(0
-%1Shapes.DashStyle"__id*;9*7
+ò! ò(3
+%1Shapes.GradientFill"__id*A?*=
 
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStylem
-k
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFill\
+Z
 
-”! ”(=5
-
-%1Shapes.DashStyle"
-snapShapes.DashSnapping"__id* 
-
-valueShapes.DashSnapping*
+ò! ò(H2
+
+%1Shapes.GradientFill"
+radialRadiusfloat"__id*
+
+valuefloat*
 2*2
 2
-”> ”(>"!
+òI ò(I"!
 
-”= ”(>
-implicit return:
-valueShapes.DashSnappingB"
+òH ò(I
+implicit return:
+valuefloatB"
 Shapes.Draw

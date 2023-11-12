@@ -1,35 +1,21 @@
 
-Shapes.Triangle.DashOffset.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÿ ÿ("0*
-0
-ÿ ÿ(*
-1*Ú
-1
-ÿ
- ÿ(d
-b
-
-ÿ
- ÿ(
-%0Shapes.DashStyle"__id*64*2
-Shapes.Triangle"
-	dashStyleShapes.DashStyle^
-\
-
-ÿ
- ÿ(
-%retfloat"__id*9
-
-ÿ
- ÿ(+*)
-
-%0Shapes.DashStyle"
-offsetfloat*
-2*.
-2
-ÿ ÿ("
-
-ÿ ÿ(
-
-%retfloatB
-Shapes.Triangle
+Shapes.Line.Start.getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.csD D("0*
+0D D(*
+1*€
+1D
+ D(l
+j
+D
+ D(
+%retUnityEngine.Vector3"__id*;
+D
+ D(/*-
+Shapes.Line"
+startUnityEngine.Vector3*
+2*8
+2D D(")
+D D(
+
+%retUnityEngine.Vector3B
+Shapes.Line

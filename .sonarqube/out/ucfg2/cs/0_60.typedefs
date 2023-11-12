@@ -1,4 +1,6 @@
-´
-Shapes.MpbPolyline2DShapes.MetaMpbobjectK
-TransferShapeProperties().Shapes.MpbPolyline2D.TransferShapeProperties()7
-MpbPolyline2D()$Shapes.MpbPolyline2D.MpbPolyline2D()
+ù
+!Shapes.ShapesMeshGen.EarClipPointobjectr
+&EarClipPoint(int, UnityEngine.Vector2)HShapes.ShapesMeshGen.EarClipPoint.EarClipPoint(int, UnityEngine.Vector2)L
+MarkReflexUnknown()5Shapes.ShapesMeshGen.EarClipPoint.MarkReflexUnknown()D
+ReflexState.get1Shapes.ShapesMeshGen.EarClipPoint.ReflexState.getD
+ReflexState.set1Shapes.ShapesMeshGen.EarClipPoint.ReflexState.set

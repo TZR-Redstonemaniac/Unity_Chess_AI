@@ -1,28 +1,20 @@
 
-!Shapes.Line.DashShapeModifier.get–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs} }("0*
-0} }(*
-1*Õ
-1}
- }(!^
-\
-}
- }(
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStylea
-_
-}
- }(!
-%retfloat"__id*>
-}
- }(!2*0
-
-%0Shapes.DashStyle"
-shapeModifierfloat*
-2**
-2}" }(""
-}! }("
-
-%retfloatB
-Shapes.Line
+%Shapes.Rectangle.CornerRadiusMode.set}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Rectangle.cs[ [("0*
+0[ [(*
+1*·
+1[
+ [("¢
+Ÿ
+[
+ [("T
+Shapes.Rectangle">
+cornerRadiusMode*Shapes.Rectangle.RectangleCornerRadiusMode"__id*75
+3
+value*Shapes.Rectangle.RectangleCornerRadiusMode*
+2*.
+2[# [(#"
+[" [(#
+implicit return:53
+value*Shapes.Rectangle.RectangleCornerRadiusModeB
+Shapes.Rectangle

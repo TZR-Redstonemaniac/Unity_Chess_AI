@@ -1,30 +1,35 @@
 
-Shapes.Draw.ZTest.get†
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csE E("0*
-0E E(*
-1*ü
-1E! E(8Z
-X
-E! E(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylem
-k
-E! E(2
-%1Shapes.RenderState"__id*?=*;
+#Shapes.RegularPolygon.DashSpace.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csý ý("0*
+0
+ý ý(*
+1*õ
+1
+ý
+ ý(j
+h
+
+ý
+ ý(
+%0Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStyles
+q
+
+ý
+ ý(
+%retShapes.DashSpace"__id*C
+
+ý
+ ý(5*3
 
-%0Shapes.DrawStyle"!
-renderStateShapes.RenderStateœ
-™
-E! E(8-
-%ret%UnityEngine.Rendering.CompareFunction"__id*X
-E! E(8L*J
+%0Shapes.DashStyle"
+spaceShapes.DashSpace*
+2*9
+2
+ý ý("(
+
+ý ý(
 
-%1Shapes.RenderState".
-zTest%UnityEngine.Rendering.CompareFunction*
-2*J
-2E9 E(9";
-E8 E(9/
--
-%ret%UnityEngine.Rendering.CompareFunctionB"
-Shapes.Draw
+%retShapes.DashSpaceB
+Shapes.RegularPolygon

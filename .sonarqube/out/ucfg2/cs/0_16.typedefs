@@ -1,8 +1,3 @@
-¨
-Shapes.ImmediateModeShapeDrawerUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject`
-DrawShapes(UnityEngine.Camera)>Shapes.ImmediateModeShapeDrawer.DrawShapes(UnityEngine.Camera)n
-%OnCameraPreRender(UnityEngine.Camera)EShapes.ImmediateModeShapeDrawer.OnCameraPreRender(UnityEngine.Camera)8
-
-OnEnable()*Shapes.ImmediateModeShapeDrawer.OnEnable():
-OnDisable()+Shapes.ImmediateModeShapeDrawer.OnDisable()X
-ImmediateModeShapeDrawer():Shapes.ImmediateModeShapeDrawer.ImmediateModeShapeDrawer()
+m
+Shapes.OvldDefaultSystem.Attributeobject=
+OvldDefault(string)&Shapes.OvldDefault.OvldDefault(string)

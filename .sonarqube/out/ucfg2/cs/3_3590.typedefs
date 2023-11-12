@@ -1,8 +1,0 @@
-…	
-7SerializableDictionaryBase<TKey, TValue, TValueStorage>3System.Collections.Generic.Dictionary<TKey, TValue>object*UnityEngine.ISerializationCallbackReceivert
-SerializableDictionaryBase()TSerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase()Ý
-PSerializableDictionaryBase(System.Collections.Generic.IDictionary<TKey, TValue>)ˆSerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase(System.Collections.Generic.IDictionary<TKey, TValue>)¯
-ySerializableDictionaryBase(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)±SerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)ª
->CopyFrom(System.Collections.Generic.IDictionary<TKey, TValue>)hSystem.Collections.Generic.ICollection<T>.CopyFrom(System.Collections.Generic.IDictionary<TKey, TValue>)V
-OnAfterDeserialize()>System.Collections.Generic.ICollection<T>.OnAfterDeserialize()T
-OnBeforeSerialize()=System.Collections.Generic.ICollection<T>.OnBeforeSerialize()

@@ -1,21 +1,30 @@
 
-Shapes.Disc.Type.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs$ $("0*
-0$ $(*
-1*w
-1$
- $(c
-a
-$
- $(
-%retShapes.DiscType"__id*6
-$
- $(**(
-Shapes.Disc"
-typeShapes.DiscType*
-2*4
-2$ $("%
-$ $(
-
-%retShapes.DiscTypeB
-Shapes.Disc
+Shapes.Draw.StencilRefID.set†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csd d("0*
+0d d(*
+1*¶
+1d! d(GZ
+X
+d! d(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
+k
+d! d(2
+%1Shapes.RenderState"__id*?=*;
+
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderStateW
+U
+d! d(G0
+
+%1Shapes.RenderState"
+stencilRefIDbyte"__id*
+
+valuebyte*
+2*.
+2dH d(H"
+dG d(H
+implicit return:
+valuebyteB"
+Shapes.Draw

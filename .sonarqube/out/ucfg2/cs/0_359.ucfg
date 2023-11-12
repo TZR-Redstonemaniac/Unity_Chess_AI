@@ -1,99 +1,64 @@
 
-Shapes.Rectangle.DashSize.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csã ã("0*
+%Shapes.RegularPolygon.DashSpacing.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csò ò("0*
 0
-ã ã(*
-1*”
+ò ò(*
+1*
 1
-ä æ(e
-c
+ò
+ ò( *
+2
+3*×
+2
+ò# ò(1j
+h
 
-ä ä(
-%0Shapes.DashStyle"__id*75*3
-Shapes.Rectangle"
-	dashStyleShapes.DashStyleQ
-O
+ò# ò(,
+%0Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStyleU
+S
 
-ä ä('
+ò# ò(1
+	%capture0float"__id*+)*'
 
 %0Shapes.DashStyle"
-sizefloat"__id*
-
-valuefloatƒ
-€
-
-å å(I
-%1float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*C
-
-å å(!5*3
-Shapes.Rectangle"
-	dashStyleShapes.DashStyle*4
-
-å6 å(<&*$
-Shapes.Rectangle"
-dashedbool*8
-
-å> å(G**(
-Shapes.Rectangle"
-	thicknessfloat;
-9
-
-å
- å(I
-netDashSizefloat"__id*
-
-%1float*
-2
-3*Í
-2
-ç ç(Je
-c
-
-ç4 ç(G
-%2float"$Shapes.Rectangle.GetNetDashSpacing()*"
-
-ç4 ç(E
-Shapes.RectangleÏ
-Ì
-
-ç ç(I
-
-%3void")Shapes.ShapeRenderer.SetFloat(int, float)*"
-
-ç ç(
-Shapes.Rectangle*F
-
-ç ç(28*6
-Shapes.ShapesMaterialUtils"
-propDashSpacingint*
-
-ç4 ç(G
-
-%2float*
-3*ï
+sizefloat*
+4*Ú
 3
-è è(AØ
-Õ
+ò4 ò(Ej
+h
 
-è è(@
+ò4 ò(=
+%1Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStyleX
+V
 
-%4void",Shapes.ShapeRenderer.SetFloatNow(int, float)*"
-
-è è(
-Shapes.Rectangle*C
-
-è è(15*3
-Shapes.ShapesMaterialUtils"
-propDashSizeint*$
-
-è3 è(>
-
-netDashSizefloat*
-4*2
+ò4 ò(E
+	%capture0float"__id*.,**
+
+%1Shapes.DashStyle"
+spacingfloat*
+4*]
 4
-é é("!
+ò
+ ò(EG
+E
 
-é é(
-implicit return:
-valuefloatB
-Shapes.Rectangle
+ò
+ ò(E
+%retfloat"__id*"
+
+ò
+ ò(E
+
+	%capture0float*
+5*.
+5
+òF ò(F"
+
+òE ò(F
+
+%retfloatB
+Shapes.RegularPolygon

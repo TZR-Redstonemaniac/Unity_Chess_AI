@@ -1,4 +1,7 @@
-ñ
-Shapes.CompassUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectS
- DrawCompass(UnityEngine.Vector3)/Shapes.Compass.DrawCompass(UnityEngine.Vector3)%
-	Compass()Shapes.Compass.Compass()
+è
+Shapes.CrosshairUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject!
+Fire()Shapes.Crosshair.Fire()'
+	FireHit()Shapes.Crosshair.FireHit()A
+UpdateCrosshairDecay()'Shapes.Crosshair.UpdateCrosshairDecay()3
+DrawCrosshair() Shapes.Crosshair.DrawCrosshair()+
+Crosshair()Shapes.Crosshair.Crosshair()

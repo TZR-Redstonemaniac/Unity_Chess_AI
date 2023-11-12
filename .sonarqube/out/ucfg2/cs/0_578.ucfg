@@ -1,80 +1,48 @@
 
-8Shapes.Triangle.SetTriangleColor(int, UnityEngine.Color)|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csM M("0*
-0M M(*
-1*M
-1N O(
-6
-4
-N N(
-	%capture0int"__id*
-
-indexint*
-2
-3*ñ
-2P P(Å
-
-P P(
-%0UnityEngine.Color"Shapes.Triangle.Color.set*
-P P(
-
-Shapes.Triangle*
+Shapes.Disc.ColorStart.setx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csj j("0*
+0j j(*
+1*À
+1k l(T_
+]
+k- k(:+
+Shapes.Disc"
+colorUnityEngine.Color"__id*
 
-colorUnityEngine.Color*
-8*
-3R	 R(
-*
-4
-5*ò
-4S S(É
-Ä
-S S(
-%1UnityEngine.Color"Shapes.Triangle.ColorB.set*
-S S(
-Shapes.Triangle*
+valueUnityEngine.ColorË
+Â
+k k(<
+
+%0void"5Shapes.ShapeRenderer.SetColor(int, UnityEngine.Color)*
+k k(
+Shapes.Disc*>
+k k(+2*0
+Shapes.ShapesMaterialUtils"
+	propColorint*9
+k- k(:-*+
+Shapes.Disc"
+colorUnityEngine.Colori
+g
+l: l(Q5
+Shapes.Disc"$
+colorOuterStartUnityEngine.Color"__id*
 
-colorUnityEngine.Color*
-8*
-5U	 U(
-*
-6
-7*ò
-6V V(É
-Ä
-V V(
-%2UnityEngine.Color"Shapes.Triangle.ColorC.set*
-V V(
-Shapes.Triangle*
-
-colorUnityEngine.Color*
-8*Ê
-7Y Y(wï
-í
-Y) Y(u
-%3string"__concat*R
-Y+ Y(mFD
-BTriangle only has four vertices, 0 to 3, you tried to set element *
-Ym Y(t
-
-indexintTR
-Y Y(w%
-%4System.IndexOutOfRangeException"System.IndexOutOfRangeException«
-ƒ
-Y Y(w%
-%5System.IndexOutOfRangeException"@System.IndexOutOfRangeException.IndexOutOfRangeException(string)*3
-Y Y(w'
-%
-%4System.IndexOutOfRangeException*
-Y) Y(u
-
-%3string"
-[ [(
-implicit return*.
-8[ [("
-[ [(
-implicit return:
-M  M()
-indexint:&
-M+ M(6
-colorUnityEngine.ColorB
-Shapes.Triangle
+valueUnityEngine.Colorˇ
+¸
+l l(S
+
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+l l(
+Shapes.Disc*H
+l l(8<*:
+Shapes.ShapesMaterialUtils"
+propColorOuterStartint*C
+l: l(Q7*5
+Shapes.Disc"$
+colorOuterStartUnityEngine.Color*
+2*.
+2m m("
+m m(
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Disc

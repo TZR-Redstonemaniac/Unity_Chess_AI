@@ -1,50 +1,42 @@
 
-Shapes.Polygon.FillSpace.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csž ž("0*
-0
-ž ž(*
-1*ß
-1
-ž
- ž(Ud
-b
-
-ž? ž(C
-%0Shapes.GradientFill"__id*31*/
-Shapes.Polygon"
-fillShapes.GradientFillk
-i
-
-ž? ž(Q6
+?Shapes.DiscColors.Angular(UnityEngine.Color, UnityEngine.Color)‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DiscColors.cs+ +(""0*
+0+ +(*
+1*€
+1+@ +(h86
++@ +(h
+%0Shapes.DiscColors"Shapes.DiscColorsÛ
+Ø
++@ +(h
+%1Shapes.DiscColors"hShapes.DiscColors.DiscColors(UnityEngine.Color, UnityEngine.Color, UnityEngine.Color, UnityEngine.Color)*%
++@ +(h
+
+%0Shapes.DiscColors*(
++P +(U
+
+startUnityEngine.Color*(
++W +(\
+
+startUnityEngine.Color*&
++^ +(a
+
+endUnityEngine.Color*&
++c +(f
+
+endUnityEngine.ColorT
+R
++@ +(h
+%retShapes.DiscColors"__id*%
++@ +(h
+
+%0Shapes.DiscColors*
+2*6
+2+i +(i"'
++h +(i
 
-%0Shapes.GradientFill"
-spaceShapes.FillSpace"__id*
-
-valueShapes.FillSpaceõ
-ò
-
-ž
- ž(U
-
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)* 
-
-ž
- ž(
-Shapes.Polygon*D
-
-ž ž(66*4
-Shapes.ShapesMaterialUtils"
-propFillSpaceint*F
-
-ž8 ž(S8*6
-
-%0Shapes.GradientFill"
-spaceShapes.FillSpace*
-2*2
-2
-žV ž(V"!
-
-žU ž(V
-implicit return:
-valueShapes.FillSpaceB
-Shapes.Polygon
+%retShapes.DiscColors:&
++$ +(/
+startUnityEngine.Color:$
++1 +(:
+endUnityEngine.ColorB"
+Shapes.DiscColors

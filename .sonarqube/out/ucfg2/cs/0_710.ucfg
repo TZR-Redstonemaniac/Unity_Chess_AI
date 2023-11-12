@@ -1,21 +1,21 @@
 
-#Shapes.RegularPolygon.Thickness.get‚
-xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.csG G("0*
-0G G(*
-1*r
-1G
- G(^
-\
-G
- G(
-%retfloat"__id*;
-G
- G(/*-
-Shapes.RegularPolygon"
-	thicknessfloat*
-2**
-2G G("
-G G(
-
-%retfloatB
-Shapes.RegularPolygon
+Shapes.Polyline.Closed.get|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.cs8 8("0*
+08 8(*
+1*g
+18
+ 8(S
+Q
+8
+ 8(
+%retbool"__id*1
+8
+ 8(%*#
+Shapes.Polyline"
+closedbool*
+2*)
+28 8("
+8 8(
+
+%retboolB
+Shapes.Polyline

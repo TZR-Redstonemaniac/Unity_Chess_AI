@@ -1,36 +1,27 @@
 
-Shapes.Disc.RadiusInner.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs   ("0*
+Shapes.Disc.RadiusSpace.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs™ ™("0*
 0
-   (*
-1*­
+™ ™(*
+1*
 1
- 
-  (U
-S
+™
+ ™(z
+x
 
- 
-  (
-%0float"Shapes.Disc.Thickness.get*
+™
+ ™(
+%retShapes.ThicknessSpace"__id*E
 
- 
-  (
-Shapes.Disc@
->
-
- 
-  (
-%retfloat"__id*
-
- 
-  (
-
-%0float*
-2*.
+™
+ ™(7*5
+Shapes.Disc"$
+radiusSpaceShapes.ThicknessSpace*
+2*>
 2
-   ("
+™ ™("-
 
-   (
-
-%retfloatB
+™ ™(
+
+%retShapes.ThicknessSpaceB
 Shapes.Disc

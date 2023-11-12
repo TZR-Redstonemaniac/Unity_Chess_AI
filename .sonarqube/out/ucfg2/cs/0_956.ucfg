@@ -1,37 +1,33 @@
 
-$Shapes.Draw.TextCharacterSpacing.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csŽ Ž("0*
+"Shapes.Draw.LineThicknessSpace.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÂ Â("0*
 0
-Ž Ž(*
-1*¼
+Â Â(*
+1*ï
 1
-Ž! Ž(I\
+Â
+ Â(&\
 Z
 
-Ž! Ž(&
+Â
+ Â(
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStylei
-g
+styleShapes.DrawStyle{
+y
 
-Ž! Ž(0
-%1Shapes.TextStyle"__id*;9*7
+Â
+ Â(&A
 
-%0Shapes.DrawStyle"
-	textStyleShapes.TextStyle]
-[
-
-Ž! Ž(I3
-
-%1Shapes.TextStyle"
-characterSpacingfloat"__id*
-
-valuefloat*
+%0Shapes.DrawStyle"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpace*
 2*2
 2
-ŽJ Ž(J"!
+Â' Â('"!
 
-ŽI Ž(J
-implicit return:
-valuefloatB"
+Â& Â('
+implicit return: 
+valueShapes.ThicknessSpaceB"
 Shapes.Draw

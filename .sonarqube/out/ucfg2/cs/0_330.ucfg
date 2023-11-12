@@ -1,31 +1,31 @@
 
-JShapes.PolylinePoint.PolylinePoint(UnityEngine.Vector2, UnityEngine.Color)Å
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\PolylinePoint.cs;	 ;("1*
-1? ?(*
+JShapes.PolylinePoint.PolylinePoint(UnityEngine.Vector3, UnityEngine.Color)Å
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\PolylinePoint.cs2	 2("1*
+16 6(*
 0*¥
-0< >(l
+03 5(l
 j
-< <(6
+3 3(6
 Shapes.PolylinePoint"
 pointUnityEngine.Vector3"__id* 
 
-pointUnityEngine.Vector2h
+pointUnityEngine.Vector3h
 f
-= =(4
+4 4(4
 Shapes.PolylinePoint"
 colorUnityEngine.Color"__id*
 
 colorUnityEngine.ColorH
 F
-> >(,
+5 5(,
 Shapes.PolylinePoint"
 	thicknessfloat"__id*2*
 2*.
-2? ?("
-? ?(
+26 6("
+6 6(
 implicit return:(
-; ;(%
-pointUnityEngine.Vector2:&
-;' ;(2
+2 2(%
+pointUnityEngine.Vector3:&
+2' 2(2
 colorUnityEngine.ColorB
 Shapes.PolylinePoint

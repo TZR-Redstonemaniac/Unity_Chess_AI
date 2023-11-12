@@ -1,36 +1,33 @@
 
-(Shapes.Sphere.SetAllMaterialProperties()z
-pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Sphere.cs" (:"0*
-0 (*
-1*Ú
-1 (CÖ
-Ó
- (5
+Shapes.RegularPolygon.Angle.set‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\RegularPolygon.cs) )("0*
+0) )(*
+1*Í
+1)
+ )(CQ
+O
+)4 )(A)
+Shapes.RegularPolygon"
+anglefloat"__id*
+
+valuefloatå
+â
+)
+ )(C
 
-%0void")Shapes.ShapeRenderer.SetFloat(int, float)*
- (
-Shapes.Sphere*?
- (+3*1
-Shapes.ShapesMaterialUtils"
-
-propRadiusint*0
-- (3$*"
-Shapes.Sphere"
-radiusfloatì
-é
- (B
-
-%1void"%Shapes.ShapeRenderer.SetInt(int, int)*
- (	
-Shapes.Sphere*D
- (.8*6
-Shapes.ShapesMaterialUtils"
-propRadiusSpaceint*E
-0 (@9*7
-Shapes.Sphere"$
-radiusSpaceShapes.ThicknessSpace*
+%0void",Shapes.ShapeRenderer.SetFloatNow(int, float)*%
+)
+ )(
+Shapes.RegularPolygon*<
+) )(20*.
+Shapes.ShapesMaterialUtils"
+propAngint*7
+)4 )(A+*)
+Shapes.RegularPolygon"
+anglefloat*
 2*.
-2 ("
- (
-implicit returnB
-Shapes.Sphere
+2)D )(D"
+)C )(D
+implicit return:
+valuefloatB
+Shapes.RegularPolygon

@@ -1,31 +1,28 @@
 
->Shapes.GradientFill.GetLinearStartWorld(UnityEngine.Transform)€
-vC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\GradientFill.cs` `($"0*
-0` `(*
-1*ÿ
-1`8 `(V
-
-`8 `(V
-%0UnityEngine.Vector3"KShapes.GradientFill.GetWorldPos(UnityEngine.Transform, UnityEngine.Vector3)*#
-`8 `(C
-Shapes.GradientFill*)
-`E `(G
-
-tfUnityEngine.Transform*I
-`I `(T=*;
-Shapes.GradientFill""
-linearStartUnityEngine.Vector3X
+&Shapes.Triangle.GetTriangleVertex(int)|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs7 7(""0*
+07 7(*
+1*ó
+173 7(>„
+
+73 7(>
+%0UnityEngine.Vector3"Shapes.Triangle.this[int].get*
+73 7(7
+Shapes.Triangle*
+78 7(=
+
+indexintX
 V
-`8 `(V
+73 7(>
 %retUnityEngine.Vector3"__id*'
-`8 `(V
+73 7(>
 
 %0UnityEngine.Vector3*
 2*8
-2`W `(W")
-`V `(W
+27? 7(?")
+7> 7(?
 
-%retUnityEngine.Vector3:'
-`& `(2
-tfUnityEngine.TransformB
-Shapes.GradientFill
+%retUnityEngine.Vector3:
+7$ 7(-
+indexintB
+Shapes.Triangle

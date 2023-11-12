@@ -1,30 +1,21 @@
 
-Shapes.Draw.StencilRefID.get†
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csc c("0*
-0c c(*
-1*¿
-1c! c(?Z
-X
-c! c(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylem
-k
-c! c(2
-%1Shapes.RenderState"__id*?=*;
-
-%0Shapes.DrawStyle"!
-renderStateShapes.RenderState`
-^
-c! c(?
-%retbyte"__id*>
-c! c(?2*0
-
-%1Shapes.RenderState"
-stencilRefIDbyte*
-2*)
-2c@ c(@"
-c? c(@
-
-%retbyteB"
-Shapes.Draw
+Shapes.Line.EndCaps.getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs` `("0*
+0` `(*
+1*~
+1`
+ `(j
+h
+`
+ `(
+%retShapes.LineEndCap"__id*;
+`
+ `(/*-
+Shapes.Line"
+endCapsShapes.LineEndCap*
+2*6
+2` `("'
+` `(
+
+%retShapes.LineEndCapB
+Shapes.Line

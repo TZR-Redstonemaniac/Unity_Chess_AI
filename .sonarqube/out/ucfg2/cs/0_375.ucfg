@@ -1,21 +1,28 @@
 
-Shapes.Line.Start.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.csD D("0*
-0D D(*
-1*€
-1D
- D(l
-j
-D
- D(
-%retUnityEngine.Vector3"__id*;
-D
- D(/*-
-Shapes.Line"
-startUnityEngine.Vector3*
-2*8
-2D D(")
-D D(
-
-%retUnityEngine.Vector3B
-Shapes.Line
+Shapes.Disc.DashSpace.get–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs0 0("0*
+00 0(*
+1*ã
+10
+ 0(^
+\
+0
+ 0(
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStyleo
+m
+0
+ 0(
+%retShapes.DashSpace"__id*A
+0
+ 0(5*3
+
+%0Shapes.DashStyle"
+spaceShapes.DashSpace*
+2*5
+20 0("&
+0 0(
+
+%retShapes.DashSpaceB
+Shapes.Disc

@@ -1,42 +1,37 @@
 
-Shapes.Disc.ThicknessSpace.setz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs° °("0*
+Shapes.Draw.DashSnap.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs” ”("0*
 0
-° °(*
-1*„
+” ”(*
+1*Ì
 1
-°
- °(^r
-p
+”! ”(=\
+Z
 
-°D °(Z8
-Shapes.Disc"'
-thicknessSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpaceù
-ö
+”! ”(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-°
- °(^
+”! ”(0
+%1Shapes.DashStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStylem
+k
 
-%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
-
-°
- °(
-Shapes.Disc*I
-
-° °(;;*9
-Shapes.ShapesMaterialUtils"
-propThicknessSpaceint*H
-
-°= °(\:*8
-Shapes.Disc"'
-thicknessSpaceShapes.ThicknessSpace*
+”! ”(=5
+
+%1Shapes.DashStyle"
+snapShapes.DashSnapping"__id* 
+
+valueShapes.DashSnapping*
 2*2
 2
-°_ °(_"!
+”> ”(>"!
 
-°^ °(_
-implicit return: 
-valueShapes.ThicknessSpaceB
-Shapes.Disc
+”= ”(>
+implicit return:
+valueShapes.DashSnappingB"
+Shapes.Draw

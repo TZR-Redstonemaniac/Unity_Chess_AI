@@ -1,45 +1,24 @@
 
-Shapes.MpbTexture.MpbTexture()Ü
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbTexture.cs ("0* 
-0 (j
-h
-
-- 
-(@(
-%0"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbà
-Ö
-
-" 
-(@E
-Shapes.MpbTexture".
-textures"System.Collections.Generic.List<T>"__id*,*
-(
-%0"System.Collections.Generic.List<T>j
-h
-) (<(
-%1"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbÑ
-Å
-" (<A
-Shapes.MpbTexture"*
-rect"System.Collections.Generic.List<T>"__id*,*
-(
-%1"System.Collections.Generic.List<T>j
-h
-( (;(
-%2"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbÉ
-Ä
-" (;@
-Shapes.MpbTexture")
-uvs"System.Collections.Generic.List<T>"__id*,*
-(
-%2"System.Collections.Generic.List<T>>
-<
+3Shapes.GradientFillStack.GradientFillStack()!staticâ
+C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\GradientFillStack.cs
+ 
+()"0*ó
+0 (\Z
+: ([)
+%0#System.Collections.Generic.Stack<T>"#System.Collections.Generic.Stack<T>t
+r
+> (Y
 
-%3void"Shapes.MetaMpb.MetaMpb()*
-Shapes.MetaMpb"
- (
-implicit returnB
-Shapes.MpbTexture
+%1void"+System.Collections.Generic.Stack<T>.Stack()*-+
+)
+%0#System.Collections.Generic.Stack<T>í
+è
+. ([N
+Shapes.GradientFillStack"0
+	gradients#System.Collections.Generic.Stack<T>"__id*-+
+)
+%0#System.Collections.Generic.Stack<T>"
+
+ (
+implicit returnB"
+Shapes.GradientFillStack

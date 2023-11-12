@@ -1,18 +1,37 @@
 
-3Shapes.MpbTriangle.Shapes.IDashableMpb.dashSize.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs»& »()"0* 
+$Shapes.Draw.TextParagraphSpacing.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs   ("0*
 0
-»* »(*¢
-Ÿ
+   (*
+1*¼
+1
+ !  (I\
+Z
 
-»& »(*Z
-Shapes.MpbTriangle"B
-Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"j
+ !  (&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-»& »(*\*Z
-Shapes.MpbTriangle"B
-Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbTriangle
+ !  (0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyle]
+[
+
+ !  (I3
+
+%1Shapes.TextStyle"
+paragraphSpacingfloat"__id*
+
+valuefloat*
+2*2
+2
+ J  (J"!
+
+ I  (J
+implicit return:
+valuefloatB"
+Shapes.Draw

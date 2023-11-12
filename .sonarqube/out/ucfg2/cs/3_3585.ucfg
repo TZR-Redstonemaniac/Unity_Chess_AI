@@ -1,11 +1,14 @@
 
-#Renderers.RenderBoard.RenderBoard()u
-kC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Renderers\RenderBoard.cs ("0*Š
-0" "(Z
+(Managers.GeneralManager.GeneralManager()w
+mC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Managers\GeneralManager.cs ("0*Š
+0
+ 
+(Z
 X
 
 %0void")UnityEngine.MonoBehaviour.MonoBehaviour()*
 UnityEngine.MonoBehaviour"
- "(
-implicit returnB
-Renderers.RenderBoard
+ 
+(
+implicit returnB
+Managers.GeneralManager

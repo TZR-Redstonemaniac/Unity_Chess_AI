@@ -1,19 +1,15 @@
 
-1Shapes.ShapeRendererFillable.FillRadialRadius.setâ
-C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRendererFillable.cs( (("0*
-0( ((*
-1*G
-1(
- ((3
-1
-(
- ((
-%0float"__id*
-
-valuefloat*
-2*.
-2( (("
-( ((
-implicit return:
-valuefloatB 
-Shapes.ShapeRendererFillable
+3Shapes.MpbLine3D.Shapes.IDashableMpb.dashOffset.setÖ
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csu( u(+"0*ö
+0u, u(,†
+ù
+u( u(,Z
+Shapes.MpbLine3D"D
+Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"h
+u( u(,\*Z
+Shapes.MpbLine3D"D
+Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbLine3D

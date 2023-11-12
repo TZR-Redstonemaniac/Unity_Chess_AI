@@ -1,37 +1,42 @@
 
-Shapes.Draw.DashSize.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csš š("0*
+Shapes.Disc.RadiusSpace.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.csš š("0*
 0
-š š(*
-1*°
+š š(*
+1*û
 1
-š! š(=\
-Z
+š
+ š(Xo
+m
 
-š! š(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
+šA š(T5
+Shapes.Disc"$
+radiusSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpaceó
+ð
 
-š! š(0
-%1Shapes.DashStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStyleQ
-O
+š
+ š(X
 
-š! š(='
-
-%1Shapes.DashStyle"
-sizefloat"__id*
-
-valuefloat*
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+
+š
+ š(
+Shapes.Disc*F
+
+š š(88*6
+Shapes.ShapesMaterialUtils"
+propRadiusSpaceint*E
+
+š: š(V7*5
+Shapes.Disc"$
+radiusSpaceShapes.ThicknessSpace*
 2*2
 2
-š> š(>"!
+šY š(Y"!
 
-š= š(>
-implicit return:
-valuefloatB"
-Shapes.Draw
+šX š(Y
+implicit return: 
+valueShapes.ThicknessSpaceB
+Shapes.Disc

@@ -1,21 +1,43 @@
 
-Shapes.Torus.Radius.gety
-oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Torus.cs ("0*
-0 (*
-1*f
-1
- (R
-P
-
- (
-%retfloat"__id*/
-
- (#*!
-Shapes.Torus"
-radiusfloat*
-2**
-2 ("
- (
+Shapes.Quad.ColorC.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csé é("0*
+0
+é é(*
+1*ð
+1
+é
+ é(Gb
+`
 
-%retfloatB
-Shapes.Torus
+é7 é(E,
+Shapes.Quad"
+colorCUnityEngine.Color"__id*
+
+valueUnityEngine.Colorõ
+ò
+
+é
+ é(G
+
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
+
+é
+ é(
+Shapes.Quad*A
+
+é é(53*1
+Shapes.ShapesMaterialUtils"
+
+propColorCint*<
+
+é7 é(E.*,
+Shapes.Quad"
+colorCUnityEngine.Color*
+2*2
+2
+éH é(H"!
+
+éG é(H
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Quad

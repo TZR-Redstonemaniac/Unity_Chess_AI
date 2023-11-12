@@ -1,42 +1,43 @@
 
-"Shapes.ShapeRenderer.ColorMask.setƒ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.csŒ Œ("0*
+Shapes.Quad.ColorD.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csï ï("0*
 0
-Œ Œ(*
-1*Ó
+ï ï(*
+1*ð
 1
-Œ
- Œ(h•
-’
+ï
+ ï(Gb
+`
 
-ŒS Œ(dK
-Shapes.ShapeRenderer"1
-	colorMask$UnityEngine.Rendering.ColorWriteMask"__id*1/
--
-value$UnityEngine.Rendering.ColorWriteMask¤
-¡
+ï7 ï(E,
+Shapes.Quad"
+colorDUnityEngine.Color"__id*
+
+valueUnityEngine.Colorõ
+ò
 
-Œ
- Œ(h
+ï
+ ï(G
 
-%0void"<Shapes.ShapeRenderer.SetIntOnAllInstancedMaterials(int, int)*&
+%0void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)*
 
-Œ
- Œ('
-Shapes.ShapeRenderer*D
+ï
+ ï(
+Shapes.Quad*A
 
-Œ) Œ(J6*4
-Shapes.ShapesMaterialUtils"
-propColorMaskint*[
+ï ï(53*1
+Shapes.ShapesMaterialUtils"
 
-ŒL Œ(fM*K
-Shapes.ShapeRenderer"1
-	colorMask$UnityEngine.Rendering.ColorWriteMask*
+propColorDint*<
+
+ï7 ï(E.*,
+Shapes.Quad"
+colorDUnityEngine.Color*
 2*2
 2
-Œi Œ(i"!
+ïH ï(H"!
 
-Œh Œ(i
-implicit return:/-
-value$UnityEngine.Rendering.ColorWriteMaskB
-Shapes.ShapeRenderer
+ïG ï(H
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Quad

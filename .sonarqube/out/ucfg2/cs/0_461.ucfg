@@ -1,31 +1,30 @@
 
-Shapes.Rectangle.Fill.setò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csè è("0*
-0
-è è(*
-1*Â
-1
-ê ë(i
-g
+Shapes.Draw.StencilReadMask.setÜ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csi i("0*
+0i i(*
+1*π
+1i! i(JZ
+X
+i! i(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
+k
+i! i(2
+%1Shapes.RenderState"__id*?=*;
+
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderStateZ
+X
+i! i(J3
+
+%1Shapes.RenderState"
+stencilReadMaskbyte"__id*
 
-ê ê(1
-Shapes.Rectangle"
-fillShapes.GradientFill"__id* 
-
-valueShapes.GradientFilld
-b
-
-ë ë(
-
-%0void"$Shapes.Rectangle.SetFillProperties()*"
-
-ë ë(
-Shapes.Rectangle*
-2*2
-2
-í í("!
-
-í í(
-implicit return:
-valueShapes.GradientFillB
-Shapes.Rectangle
+valuebyte*
+2*.
+2iK i(K"
+iJ i(K
+implicit return:
+valuebyteB"
+Shapes.Draw

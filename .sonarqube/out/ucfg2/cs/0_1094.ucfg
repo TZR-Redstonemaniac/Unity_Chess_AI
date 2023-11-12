@@ -1,43 +1,29 @@
 
-%Shapes.ShapeRenderer.SortingOrder.getÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs( (("0*
-0( ((*
-1*µ
-1(
- ((@¯
-ı
-(
- ((3
-%1UnityEngine.MeshRenderer"@Shapes.ShapeRenderer.MakeSureComponentExists<T>(ref T, out bool)*$
-(
- ((!
-Shapes.ShapeRenderer*G
-(# ((*;*9
-Shapes.ShapeRenderer"
-rndUnityEngine.MeshRenderer*
-(, ((1
-
-
-%0booll
+Shapes.Triangle.Hollow.set~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.csÇ Ç("0*
+0
+Ç Ç(*
+1*Ç
+1
+Ç
+ Ç(l
 j
-(
- ((@	
-%2int"%UnityEngine.Renderer.sortingOrder.get*,
-(
- ((3 
-
-%1UnityEngine.MeshRenderer8
-6
-(
- ((@
-%retint"__id*
-(
- ((@
-	
-%2int*
-2*(
-2(A ((A"
-(@ ((A
-
-%retintB
-Shapes.ShapeRenderer
+
+Ç
+ Ç(
+
+%0bool"Shapes.Triangle.Border.set*!
+
+Ç
+ Ç(
+Shapes.Triangle*
+
+valuebool*
+2*2
+2
+Ç Ç("!
+
+Ç Ç(
+implicit return:
+valueboolB
+Shapes.Triangle

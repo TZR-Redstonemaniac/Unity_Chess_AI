@@ -1,35 +1,27 @@
 
-Shapes.Rectangle.DashSize.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csâ â("0*
-0
-â â(*
-1*Ù
-1
-â
- â(e
-c
-
-â
- â(
-%0Shapes.DashStyle"__id*75*3
-Shapes.Rectangle"
-	dashStyleShapes.DashStyle\
-Z
-
-â
- â(
-%retfloat"__id*7
-
-â
- â()*'
-
-%0Shapes.DashStyle"
-sizefloat*
-2*.
-2
-â â("
-
-â â(
-
-%retfloatB
-Shapes.Rectangle
+0Shapes.DashExtensions.GetIndex(Shapes.DashSpace)}
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashSpace.cs ("0*
+0 (*
+1*Æ
+17 (Dx
+v
+7 (D	
+%0int"%!binary_implicit_operator_passthrough*&
+7 (@
+
+nootShapes.DashSpace*
+C (D28
+6
+7 (D
+%retint"__id*
+7 (D
+	
+%0int*
+2*(
+2E (E"
+D (E
+
+%retint:$
+ (1
+nootShapes.DashSpaceB"
+Shapes.DashExtensions

@@ -1,51 +1,37 @@
 
-Shapes.ArrayPool<T>.Alloc(int)
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\ObjectPools.cs	 	("0*
-0	 	(*
-1*π
-1	- 	(<°
-û
-	- 	(7	
-%0int"3System.Collections.Generic.ICollection<T>.Count.get*R
-	- 	(1F*D
-Shapes.ArrayPool<T>"+
-pool#System.Collections.Generic.Stack<T>*
-2
-3*e
-2	? 	(N
-	? 	(N	
-%1T[]"T[]3
-1
-	? 	(N
-	%capture0T[]"__id*
-	
-%1T[]*
-4*Á
-3	Q 	([ù
-ö
-	Q 	([	
-%2T[]"/System.Collections.Generic.ICollection<T>.Pop()*R
-	Q 	(UF*D
-Shapes.ArrayPool<T>"+
-pool#System.Collections.Generic.Stack<T>3
-1
-	Q 	([
-	%capture0T[]"__id*
-	
-%2T[]*
-4*S
-4	- 	([?
-=
-	- 	([
-%retT[]"__id*
-	- 	([
-
-	%capture0T[]*
-5*(
-5	\ 	(\"
-	[ 	(\
-
-%retT[]:
-	 	('
-maxCountintB"
-Shapes.ArrayPool<T>
+Shapes.Draw.DashSpace.setà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csé é("0*
+0
+é é(*
+1*«
+1
+é! é(>\
+Z
+
+é! é(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
+
+é! é(0
+%1Shapes.DashStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	dashStyleShapes.DashStyleh
+f
+
+é! é(>3
+
+%1Shapes.DashStyle"
+spaceShapes.DashSpace"__id*
+
+valueShapes.DashSpace*
+2*2
+2
+é? é(?"!
+
+é> é(?
+implicit return:
+valueShapes.DashSpaceB"
+Shapes.Draw

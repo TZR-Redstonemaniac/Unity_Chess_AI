@@ -1,27 +1,21 @@
 
-Shapes.Quad.ColorLeft.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs» »("0*
-0
-» »(*
-1*‚
-1
-»
- »(l
-j
-
-»
- »(
-%retUnityEngine.Color"__id*;
-
-»
- »(-*+
-Shapes.Quad"
-colorUnityEngine.Color*
-2*:
-2
-» »(")
-
-» »(
-
-%retUnityEngine.ColorB
-Shapes.Quad
+Shapes.Triangle.Border.get|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs| |("0*
+0| |(*
+1*g
+1|
+ |(S
+Q
+|
+ |(
+%retbool"__id*1
+|
+ |(%*#
+Shapes.Triangle"
+borderbool*
+2*)
+2| |("
+| |(
+
+%retboolB
+Shapes.Triangle

@@ -86,9 +86,6 @@ namespace Renderers {
                         case "Knook":
                             CreatePiece(WHITE_KNOOK, i);
                             break;
-                        default:
-                            Debug.Log("Error when creating piece " + piece);
-                            break;
                     }
                 }
                 else {
@@ -113,9 +110,6 @@ namespace Renderers {
                             break;
                         case "Knook":
                             CreatePiece(BLACK_KNOOK, i);
-                            break;
-                        default:
-                            Debug.Log("Error when creating piece " + piece);
                             break;
                     }
                 }

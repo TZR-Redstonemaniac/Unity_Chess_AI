@@ -1,29 +1,0 @@
-
-7Shapes.ShapesMaterials.this[Shapes.ShapesBlendMode].get~
-tC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesMaterials.cs ("0*
-0 (*
-1*Ð
-12 (Fß
-Ü
-2 (F
-%0UnityEngine.Material"7System.Collections.Generic.ICollection<T>.this[int].get*M
-2 (;A*?
-Shapes.ShapesMaterials"#
-	materialsUnityEngine.Material[]*,
-< (E 
-
-typeShapes.ShapesBlendModeZ
-X
-2 (F
-%retUnityEngine.Material"__id*(
-2 (F
-
-%0UnityEngine.Material*
-2*9
-2G (G"*
-F (G
-
-%retUnityEngine.Material:*
- (,
-typeShapes.ShapesBlendModeB
-Shapes.ShapesMaterials

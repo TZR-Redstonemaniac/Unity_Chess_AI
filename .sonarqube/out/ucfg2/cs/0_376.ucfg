@@ -1,28 +1,21 @@
 
-Shapes.Disc.DashSpace.getñ
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs0 0("0*
-00 0(*
-1*„
-10
- 0(^
-\
-0
- 0(
-%0Shapes.DashStyle"__id*20*.
-Shapes.Disc"
-	dashStyleShapes.DashStyleo
-m
-0
- 0(
-%retShapes.DashSpace"__id*A
-0
- 0(5*3
-
-%0Shapes.DashStyle"
-spaceShapes.DashSpace*
-2*5
-20 0("&
-0 0(
-
-%retShapes.DashSpaceB
-Shapes.Disc
+ Shapes.Polygon.Triangulation.get{
+qC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polygon.cs% %("0*
+0% %(*
+1*ù
+1%
+ %(à
+Ö
+%
+ %(#
+%retShapes.PolygonTriangulation"__id*N
+%
+ %(B*@
+Shapes.Polygon",
+triangulationShapes.PolygonTriangulation*
+2*@
+2% %("1
+% %(%
+#
+%retShapes.PolygonTriangulationB
+Shapes.Polygon

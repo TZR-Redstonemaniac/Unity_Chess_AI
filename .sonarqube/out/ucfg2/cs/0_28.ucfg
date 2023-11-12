@@ -1,98 +1,45 @@
 
-Shapes.MpbTorus.MpbTorus()á
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csï ï("0*Ã
-0
-© ©(l
-j
-
-ó+ ó(<(
+Shapes.MpbTexture.MpbTexture()Ü
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbTexture.cs ("0* 
+0 (j
+h
+
+- 
+(@(
 %0"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
 Shapes.MetaMpbà
 Ö
-
-ó  ó(<C
-Shapes.MpbTorus".
-angleEnd"System.Collections.Generic.List<T>"__id*,*
+
+" 
+(@E
+Shapes.MpbTexture".
+textures"System.Collections.Generic.List<T>"__id*,*
 (
-%0"System.Collections.Generic.List<T>l
-j
-
-ò- ò(>(
+%0"System.Collections.Generic.List<T>j
+h
+) (<(
 %1"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbä
-á
-
-ò  ò(>E
-Shapes.MpbTorus"0
-
-angleStart"System.Collections.Generic.List<T>"__id*,*
+Shapes.MetaMpbÑ
+Å
+" (<A
+Shapes.MpbTexture"*
+rect"System.Collections.Generic.List<T>"__id*,*
 (
-%1"System.Collections.Generic.List<T>l
-j
-
-ô) ô(:(
+%1"System.Collections.Generic.List<T>j
+h
+( (;(
 %2"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbÜ
-É
-
-ô  ô(:A
-Shapes.MpbTorus",
-radius"System.Collections.Generic.List<T>"__id*,*
+Shapes.MetaMpbÉ
+Ä
+" (;@
+Shapes.MpbTexture")
+uvs"System.Collections.Generic.List<T>"__id*,*
 (
-%2"System.Collections.Generic.List<T>l
-j
-
-ö. ö(?(
-%3"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbã
-à
-
-ö  ö(?F
-Shapes.MpbTorus"1
-radiusSpace"System.Collections.Generic.List<T>"__id*,*
-(
-%3"System.Collections.Generic.List<T>l
-j
-
-õ, õ(=(
-%4"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbâ
-Ü
-
-õ  õ(=D
-Shapes.MpbTorus"/
-	scaleMode"System.Collections.Generic.List<T>"__id*,*
-(
-%4"System.Collections.Generic.List<T>l
-j
-
-ú, ú(=(
-%5"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbâ
-Ü
-
-ú  ú(=D
-Shapes.MpbTorus"/
-	thickness"System.Collections.Generic.List<T>"__id*,*
-(
-%5"System.Collections.Generic.List<T>l
-j
-
-ù1 ù(B(
-%6"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
-Shapes.MetaMpbé
-ã
-
-ù  ù(BI
-Shapes.MpbTorus"4
-thicknessSpace"System.Collections.Generic.List<T>"__id*,*
-(
-%6"System.Collections.Generic.List<T>>
+%2"System.Collections.Generic.List<T>>
 <
 
-%7void"Shapes.MetaMpb.MetaMpb()*
-Shapes.MetaMpb"!
-
-ï ©(
-implicit returnB
-Shapes.MpbTorus
+%3void"Shapes.MetaMpb.MetaMpb()*
+Shapes.MetaMpb"
+ (
+implicit returnB
+Shapes.MpbTexture

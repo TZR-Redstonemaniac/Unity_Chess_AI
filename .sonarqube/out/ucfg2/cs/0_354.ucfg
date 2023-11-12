@@ -1,41 +1,64 @@
 
-Shapes.Disc.DashSpacing.set–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs& &("0*
-0& &(*
-1*ç
-1' ((L^
-\
-' '(
-%0Shapes.DashStyle"__id*20*.
-Shapes.Disc"
-	dashStyleShapes.DashStyleR
-P
-' '(*
-
-%0Shapes.DashStyle"
-spacingfloat"__id*
-
-valuefloatW
-U
-(6 ((I
-%1float"Shapes.Disc.GetNetDashSpacing()*
-(6 ((G
-Shapes.DiscÅ
-Â
-( ((K
+Shapes.Triangle.DashSpacing.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csø ø("0*
+0
+ø ø(*
+1*
+1
+ø
+ ø( *
+2
+3*Ñ
+2
+ø# ø(1d
+b
 
-%2void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
-( ((
-Shapes.Disc*D
-( ((48*6
-Shapes.ShapesMaterialUtils"
-propDashSpacingint*
-(6 ((I
-
-%1float*
-2*.
-2) )("
-) )(
-implicit return:
-valuefloatB
-Shapes.Disc
+ø# ø(,
+%0Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyleU
+S
+
+ø# ø(1
+	%capture0float"__id*+)*'
+
+%0Shapes.DashStyle"
+sizefloat*
+4*Ô
+3
+ø4 ø(Ed
+b
+
+ø4 ø(=
+%1Shapes.DashStyle"__id*64*2
+Shapes.Triangle"
+	dashStyleShapes.DashStyleX
+V
+
+ø4 ø(E
+	%capture0float"__id*.,**
+
+%1Shapes.DashStyle"
+spacingfloat*
+4*]
+4
+ø
+ ø(EG
+E
+
+ø
+ ø(E
+%retfloat"__id*"
+
+ø
+ ø(E
+
+	%capture0float*
+5*.
+5
+øF ø(F"
+
+øE ø(F
+
+%retfloatB
+Shapes.Triangle

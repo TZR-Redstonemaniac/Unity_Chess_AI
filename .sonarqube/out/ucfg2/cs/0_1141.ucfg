@@ -1,16 +1,27 @@
 
-=Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillColorEnd.getá
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÎ, Î(/"0*ı
+Shapes.Quad.IsUsingAutoD.getz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csù ù("0*
 0
-Î0 Î(0©
-¶
+ù ù(*
+1*k
+1
+ù
+ ù(U
+S
 
-Î, Î(0(
-%0"System.Collections.Generic.List<T>"__id*hf*d
-Shapes.MpbRegularPolygon"F
- Shapes.IFillableMpb.fillColorEnd"System.Collections.Generic.List<T>"8
+ù
+ ù(
+%retbool"__id*1
 
-Î, Î(0*
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+ù
+ ù(#*!
+Shapes.Quad"
+autoSetDbool*
+2*-
+2
+ù ù("
+
+ù ù(
+
+%retboolB
+Shapes.Quad

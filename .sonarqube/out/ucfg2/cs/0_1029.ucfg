@@ -1,24 +1,30 @@
 
-)Shapes.DashStyle.DefaultDashStyleRing.set
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.csŠ Š("0*
-0
-Š Š(*
-1*a
-1
-Š
- Š(K
-I
+EShapes.ShapesExtensions.SetInt_Shapes(UnityEngine.Material, int, int)
+uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesExtensions.csJ (W"0*
+0 (*
+1*³
+1" "(ž
+›
+" "(
 
-Š
- Š(
-%0Shapes.DashStyle"__id*
+%0void"%UnityEngine.Material.SetInt(int, int)*'
+" "(
 
-valueShapes.DashStyle*
-2*2
-2
-Š Š("!
-
-Š Š(
-implicit return:
-valueShapes.DashStyleB"
-Shapes.DashStyle
+mUnityEngine.Material*
+" "(
+	
+idint*
+" "(
+
+valueint*
+2*.
+2$ $("
+$ $(
+implicit return:%
+Y (h
+mUnityEngine.Material:
+j (p	
+idint:
+r ({
+valueintB"
+Shapes.ShapesExtensions

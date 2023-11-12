@@ -1,30 +1,35 @@
 
-Shapes.Draw.StencilRefID.set†
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csd d("0*
-0d d(*
-1*¶
-1d! d(GZ
-X
-d! d(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylem
-k
-d! d(2
-%1Shapes.RenderState"__id*?=*;
-
-%0Shapes.DrawStyle"!
-renderStateShapes.RenderStateW
-U
-d! d(G0
-
-%1Shapes.RenderState"
-stencilRefIDbyte"__id*
++Shapes.RegularPolygon.DashShapeModifier.get˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csŒ Œ("0*
+0
+Œ Œ(*
+1*ç
+1
+Œ
+ Œ(!j
+h
 
-valuebyte*
+Œ
+ Œ(
+%0Shapes.DashStyle"__id*<:*8
+Shapes.RegularPolygon"
+	dashStyleShapes.DashStylee
+c
+
+Œ
+ Œ(!
+%retfloat"__id*@
+
+Œ
+ Œ(!2*0
+
+%0Shapes.DashStyle"
+shapeModifierfloat*
 2*.
-2dH d(H"
-dG d(H
-implicit return:
-valuebyteB"
-Shapes.Draw
+2
+Œ" Œ(""
+
+Œ! Œ("
+
+%retfloatB
+Shapes.RegularPolygon

@@ -1,21 +1,33 @@
 
-Shapes.Torus.RadiusSpace.gety
-oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Torus.cs! !("0*
-0! !(*
-1*‹
-1!
- !(w
-u
-!
- !(
-%retShapes.ThicknessSpace"__id*D
-!
- !(8*6
-Shapes.Torus"$
-radiusSpaceShapes.ThicknessSpace*
-2*:
-2! !("+
-! !(
-
-%retShapes.ThicknessSpaceB
+Shapes.Torus.ThicknessSpace.sety
+oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Torus.cs ("0*
+0 (*
+1*û
+1
+ (^q
+o
+D (Z9
+Shapes.Torus"'
+thicknessSpaceShapes.ThicknessSpace"__id*" 
+
+valueShapes.ThicknessSpaceó
+ð
+
+ (^
+
+%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+
+ (
+Shapes.Torus*G
+ (;;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*G
+= (\;*9
+Shapes.Torus"'
+thicknessSpaceShapes.ThicknessSpace*
+2*.
+2_ (_"
+^ (_
+implicit return: 
+valueShapes.ThicknessSpaceB
 Shapes.Torus

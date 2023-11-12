@@ -1,48 +1,38 @@
 
-*Shapes.MpbSphere.TransferShapeProperties()á
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csé é(1"0*
+Shapes.Draw.TextAlign.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csá á("0*
 0
-é é(*
-1*‹
+á á(*
+1*÷
 1
-è ê(@ú
-ô
+á! á(:\
+Z
 
-è è(5
+á! á(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-%0void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*"
+á! á(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStylew
+u
 
-è è(
-Shapes.MpbSphere*A
+á! á(:
+%retShapes.TextAlign"__id*G
 
-è è(+3*1
-Shapes.ShapesMaterialUtils"
-
-propRadiusint*R
-
-è- è(3D*B
-Shapes.MpbSphere",
-radius"System.Collections.Generic.List<T>¶
-£
-
-ê ê(?
-
-%1void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*"
-
-ê ê(
-Shapes.MpbSphere*F
-
-ê ê(08*6
-Shapes.ShapesMaterialUtils"
-propRadiusSpaceint*W
-
-ê2 ê(=I*G
-Shapes.MpbSphere"1
-radiusSpace"System.Collections.Generic.List<T>*
-2*2
+á! á(:9*7
+
+%1Shapes.TextStyle"
+	alignmentShapes.TextAlign*
+2*9
 2
-ë ë("!
+á; á(;"(
 
-ë ë(
-implicit returnB
-Shapes.MpbSphere
+á: á(;
+
+%retShapes.TextAlignB"
+Shapes.Draw

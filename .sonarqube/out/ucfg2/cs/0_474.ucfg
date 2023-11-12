@@ -1,21 +1,51 @@
 
-Shapes.Disc.Color.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Disc.cs7 7("0*
-07 7(*
-1*|
-17
- 7(h
-f
-7
- 7(
-%retUnityEngine.Color"__id*9
-7
- 7(-*+
-Shapes.Disc"
-colorUnityEngine.Color*
-2*6
-27 7("'
-7 7(
-
-%retUnityEngine.ColorB
-Shapes.Disc
+!Shapes.RegularPolygon.UseFill.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csú ú("0*
+0
+ú ú(*
+1*ã
+1
+ù û(XS
+Q
+
+ù ù(*
+Shapes.RegularPolygon"
+useFillbool"__id*
+
+valueboolŒ
+À
+
+û1 û(U	
+%0int".Shapes.GradientFill.GetShaderFillTypeInt(bool)*F
+
+û1 û(58*6
+Shapes.RegularPolygon"
+fillShapes.GradientFill*:
+
+ûL û(S,**
+Shapes.RegularPolygon"
+useFillboolŒ
+À
+
+û û(W
+
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*'
+
+û û(
+Shapes.RegularPolygon*C
+
+û û(/5*3
+Shapes.ShapesMaterialUtils"
+propFillTypeint*
+
+û1 û(U
+	
+%0int*
+2*2
+2
+ü ü("!
+
+ü ü(
+implicit return:
+valueboolB
+Shapes.RegularPolygon

@@ -1,0 +1,51 @@
+Ì
+Shapes.PolygonShapes.ShapeRendererUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectShapes.IFillable9
+SetFillProperties()"Shapes.Polygon.SetFillProperties()g
+*SetPointPosition(int, UnityEngine.Vector2)9Shapes.Polygon.SetPointPosition(int, UnityEngine.Vector2)Ÿ
+FSetPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>)UShapes.Polygon.SetPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>)Ÿ
+FAddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>)UShapes.Polygon.AddPoints(System.Collections.Generic.IEnumerable<UnityEngine.Vector2>)M
+AddPoint(UnityEngine.Vector2),Shapes.Polygon.AddPoint(UnityEngine.Vector2)/
+CamOnPreCull()Shapes.Polygon.CamOnPreCull()1
+ReversePoints()Shapes.Polygon.ReversePoints()/
+ShiftForward()Shapes.Polygon.ShiftForward()G
+SetAllMaterialProperties())Shapes.Polygon.SetAllMaterialProperties()/
+GetMaterials()Shapes.Polygon.GetMaterials()/
+GenerateMesh()Shapes.Polygon.GenerateMesh();
+GetBounds_Internal()#Shapes.Polygon.GetBounds_Internal()%
+	Polygon()Shapes.Polygon.Polygon()#
+Fill.getShapes.Polygon.Fill.get#
+Fill.setShapes.Polygon.Fill.set)
+UseFill.getShapes.Polygon.UseFill.get)
+UseFill.setShapes.Polygon.UseFill.set+
+FillType.getShapes.Polygon.FillType.get+
+FillType.setShapes.Polygon.FillType.set-
+FillSpace.getShapes.Polygon.FillSpace.get-
+FillSpace.setShapes.Polygon.FillSpace.set;
+FillRadialOrigin.get#Shapes.Polygon.FillRadialOrigin.get;
+FillRadialOrigin.set#Shapes.Polygon.FillRadialOrigin.set;
+FillRadialRadius.get#Shapes.Polygon.FillRadialRadius.get;
+FillRadialRadius.set#Shapes.Polygon.FillRadialRadius.set9
+FillLinearStart.get"Shapes.Polygon.FillLinearStart.get9
+FillLinearStart.set"Shapes.Polygon.FillLinearStart.set5
+FillLinearEnd.get Shapes.Polygon.FillLinearEnd.get5
+FillLinearEnd.set Shapes.Polygon.FillLinearEnd.set7
+FillColorStart.get!Shapes.Polygon.FillColorStart.get7
+FillColorStart.set!Shapes.Polygon.FillColorStart.set3
+FillColorEnd.getShapes.Polygon.FillColorEnd.get3
+FillColorEnd.setShapes.Polygon.FillColorEnd.set/
+PolyPoints.getShapes.Polygon.PolyPoints.get/
+PolyPoints.setShapes.Polygon.PolyPoints.set5
+Triangulation.get Shapes.Polygon.Triangulation.get5
+Triangulation.set Shapes.Polygon.Triangulation.set%
+	Count.getShapes.Polygon.Count.get%
+	Count.setShapes.Polygon.Count.set-
+this[int].getShapes.Polygon.this[int].get-
+this[int].setShapes.Polygon.this[int].set9
+UseCamOnPreCull.get"Shapes.Polygon.UseCamOnPreCull.get9
+UseCamOnPreCull.set"Shapes.Polygon.UseCamOnPreCull.set5
+HasScaleModes.get Shapes.Polygon.HasScaleModes.get5
+HasScaleModes.set Shapes.Polygon.HasScaleModes.set9
+HasDetailLevels.get"Shapes.Polygon.HasDetailLevels.get9
+HasDetailLevels.set"Shapes.Polygon.HasDetailLevels.set7
+MeshUpdateMode.get!Shapes.Polygon.MeshUpdateMode.get7
+MeshUpdateMode.set!Shapes.Polygon.MeshUpdateMode.set

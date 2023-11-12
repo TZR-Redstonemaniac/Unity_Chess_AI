@@ -1,30 +1,30 @@
 
- Shapes.Draw.StencilWriteMask.get†
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csm m("0*
-0m m(*
-1*Ã
-1m! m(CZ
+Shapes.Draw.StencilRefID.get†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csc c("0*
+0c c(*
+1*¿
+1c! c(?Z
 X
-m! m(&
+c! c(&
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
 styleShapes.DrawStylem
 k
-m! m(2
+c! c(2
 %1Shapes.RenderState"__id*?=*;
 
 %0Shapes.DrawStyle"!
-renderStateShapes.RenderStated
-b
-m! m(C
-%retbyte"__id*B
-m! m(C6*4
+renderStateShapes.RenderState`
+^
+c! c(?
+%retbyte"__id*>
+c! c(?2*0
 
-%1Shapes.RenderState"
-stencilWriteMaskbyte*
+%1Shapes.RenderState"
+stencilRefIDbyte*
 2*)
-2mD m(D"
-mC m(D
+2c@ c(@"
+c? c(@
 
 %retbyteB"
 Shapes.Draw

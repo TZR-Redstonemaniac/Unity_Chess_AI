@@ -1,80 +1,40 @@
 
-Shapes.Rectangle.DashSpace.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csø ø("0*
-0
-ø ø(*
-1*±
-1
-ù ú(ge
-c
-
-ù6 ù(?
-%0Shapes.DashStyle"__id*75*3
-Shapes.Rectangle"
-	dashStyleShapes.DashStyleh
-f
-
-ù6 ù(M3
+Shapes.Disc.DashSnap.set–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs8 8("0*
+08 8(*
+1*Ê
+18
+ 8(X^
+\
+8> 8(G
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStylek
+i
+8> 8(T5
 
-%0Shapes.DashStyle"
-spaceShapes.DashSpace"__id*
-
-valueShapes.DashSpaceñ
-î
+%0Shapes.DashStyle"
+snapShapes.DashSnapping"__id* 
+
+valueShapes.DashSnappingè
+å
+8
+ 8(X
 
-ù ù(Q
-
-%1void"%Shapes.ShapeRenderer.SetInt(int, int)*"
-
-ù ù(
-
-Shapes.Rectangle*D
-
-ù ù(-6*4
-Shapes.ShapesMaterialUtils"
-propDashSpaceint*C
-
-ù/ ù(O5*3
-
-%0Shapes.DashStyle"
-spaceShapes.DashSpaceƒ
-€
-
-ú3 ú(d
-%2float"0Shapes.DashStyle.GetNetAbsoluteSize(bool, float)*C
-
-ú3 ú(<5*3
-Shapes.Rectangle"
-	dashStyleShapes.DashStyle*4
-
-úQ ú(W&*$
-Shapes.Rectangle"
-dashedbool*8
-
-úY ú(b**(
-Shapes.Rectangle"
-	thicknessfloatÏ
-Ì
-
-ú ú(f
-
-%3void",Shapes.ShapeRenderer.SetFloatNow(int, float)*"
-
-ú ú(
-Shapes.Rectangle*C
-
-ú ú(15*3
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
+8
+ 8(
+Shapes.Disc*A
+8 8(55*3
 Shapes.ShapesMaterialUtils"
-propDashSizeint*
-
-ú3 ú(d
-
-%2float*
-2*2
-2
-û û("!
-
-û û(
-implicit return:
-valueShapes.DashSpaceB
-Shapes.Rectangle
+propDashSnapint*C
+87 8(V7*5
+
+%0Shapes.DashStyle"
+snapShapes.DashSnapping*
+2*.
+28Y 8(Y"
+8X 8(Y
+implicit return:
+valueShapes.DashSnappingB
+Shapes.Disc

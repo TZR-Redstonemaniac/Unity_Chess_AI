@@ -1,47 +1,24 @@
 
-Shapes.Quad.B.setz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csÅ Å("0*
+)Shapes.DashStyle.DefaultDashStyleLine.set
+sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.csè è("0*
 0
-Å Å(*
-1*√
+è è(*
+1*a
 1
-Ç É(a
-_
+è
+ è(K
+I
 
-Ç. Ç(7)
-Shapes.Quad"
-bUnityEngine.Vector3"__id* 
-
-valueUnityEngine.Vector3Ò
-Ó
-
-Ç Ç(9
-
-%0void"<Shapes.ShapeRenderer.SetVector3Now(int, UnityEngine.Vector3)*
-
-Ç Ç(
-Shapes.Quad*<
-
-Ç Ç(,.*,
-Shapes.ShapesMaterialUtils"
-propBint*9
-
-Ç. Ç(7+*)
-Shapes.Quad"
-bUnityEngine.Vector3V
-T
-
-É É(
-
-%1void"Shapes.Quad.CheckAutoSetD()*
-
-É É(
-Shapes.Quad*
+è
+ è(
+%0Shapes.DashStyle"__id*
+
+valueShapes.DashStyle*
 2*2
 2
-Ñ Ñ("!
+è è("!
 
-Ñ Ñ(
-implicit return:
-valueUnityEngine.Vector3B
-Shapes.Quad
+è è(
+implicit return:
+valueShapes.DashStyleB"
+Shapes.DashStyle

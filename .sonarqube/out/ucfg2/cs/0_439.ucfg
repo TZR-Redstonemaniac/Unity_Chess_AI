@@ -1,50 +1,30 @@
 
-&Shapes.Rectangle.DashShapeModifier.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs‡ ‡("0*
-0
-‡ ‡(*
-1*×
-1
-‡
- ‡(ce
-c
-
-‡B ‡(K
-%0Shapes.DashStyle"__id*75*3
-Shapes.Rectangle"
-	dashStyleShapes.DashStyleZ
+Shapes.Draw.StencilOpPass.get†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs^ ^("0*
+0^ ^(*
+1*ø
+1^! ^(@Z
 X
-
-‡B ‡(a0
+^! ^(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
+k
+^! ^(2
+%1Shapes.RenderState"__id*?=*;
 
-%0Shapes.DashStyle"
-shapeModifierfloat"__id*
-
-valuefloatý
-ú
-
-‡
- ‡(c
-
-%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*"
-
-‡
- ‡(
-Shapes.Rectangle*L
-
-‡ ‡(@>*<
-Shapes.ShapesMaterialUtils"
-propDashShapeModifierint*@
-
-‡B ‡(a2*0
-
-%0Shapes.DashStyle"
-shapeModifierfloat*
-2*2
-2
-‡d ‡(d"!
-
-‡c ‡(d
-implicit return:
-valuefloatB
-Shapes.Rectangle
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderState˜
+•
+^! ^(@'
+%retUnityEngine.Rendering.StencilOp"__id*Z
+^! ^(@N*L
+
+%1Shapes.RenderState"0
+stencilOpPassUnityEngine.Rendering.StencilOp*
+2*D
+2^A ^(A"5
+^@ ^(A)
+'
+%retUnityEngine.Rendering.StencilOpB"
+Shapes.Draw

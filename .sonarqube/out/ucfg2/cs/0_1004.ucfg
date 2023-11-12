@@ -1,92 +1,91 @@
 
-aShapes.DashStyle.FixedDashCount(Shapes.DashType, float, float, Shapes.DashSnapping, float, float)}
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.csc c(("0*
-0c c(*
-1*ž
-1d k(!64
-d l(
-%0Shapes.DashStyle"Shapes.DashStyleh
-f
-d l(
-%1Shapes.DashStyle"Shapes.DashStyle.DashStyle()*$
-d l(
-
-%0Shapes.DashStyleM
-K
-d l(
-	%capture0Shapes.DashStyle"__id*
-
-%0Shapes.DashStyle_
-]
-e e( :
-
-	%capture0Shapes.DashStyle"
-spaceShapes.DashSpace"__id*2þÿÿÿÿÿÿÿÿi
-g
-f f(8
-
-	%capture0Shapes.DashStyle"
-typeShapes.DashType"__id*
+%Shapes.Triangle.GetTriangleColor(int)|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs@ @("0*
+0@ @(*
+1*M
+1A B(
+6
+4
+A A(
+	%capture0int"__id*
+
+indexint*
+2
+3*Ë
+2B B(a
+_
+B B(
+%0UnityEngine.Color"Shapes.Triangle.Color.get*
+B B(
+Shapes.TriangleT
+R
+B B(
+%retUnityEngine.Color"__id*%
+B B(
 
-typeShapes.DashTypeV
-T
-g g(.
-
-	%capture0Shapes.DashStyle"
-sizefloat"__id*
-
-countfloatc
-a
-h h(1
-
-	%capture0Shapes.DashStyle"
-spacingfloat"__id*
-
-spacingFractionfloatq
-o
-i i(<
-
-	%capture0Shapes.DashStyle"
-snapShapes.DashSnapping"__id*
-
-snapShapes.DashSnappingY
-W
-j j(0
-
-	%capture0Shapes.DashStyle"
-offsetfloat"__id*
-
-offsetfloatg
-e
-k k(!7
-
-	%capture0Shapes.DashStyle"
-shapeModifierfloat"__id*
-
-shapeModifierfloatY
-W
-d l(
-%retShapes.DashStyle"__id*+
-d l(
-
-	%capture0Shapes.DashStyle*
-2*5
-2l l("&
-l l(
-
-%retShapes.DashStyle:#
-c* c(7
-typeShapes.DashType:
-c9 c(D
-countfloat:$
-cF c(b
-spacingFractionfloat:(
-	cd c(ˆ
-snapShapes.DashSnapping:
-
-cŠ c(›
-offsetfloat:$
-
-c c(µ
-shapeModifierfloatB"
-Shapes.DashStyle
+%0UnityEngine.Color*
+8*
+3C	 C(
+*
+4
+5*Ì
+4C C(b
+`
+C C(
+%1UnityEngine.Color"Shapes.Triangle.ColorB.get*
+C C(
+Shapes.TriangleT
+R
+C C(
+%retUnityEngine.Color"__id*%
+C C(
+
+%1UnityEngine.Color*
+8*
+5D	 D(
+*
+6
+7*Ì
+6D D(b
+`
+D D(
+%2UnityEngine.Color"Shapes.Triangle.ColorC.get*
+D D(
+Shapes.TriangleT
+R
+D D(
+%retUnityEngine.Color"__id*%
+D D(
+
+%2UnityEngine.Color*
+8*ñ
+7F F(z˜
+•
+F) F(x
+%3string"__concat*U
+F+ F(pIG
+ETriangle only has four vertices, 0 to 2, you tried to access element *
+Fp F(w
+
+indexintTR
+F F(z%
+%4System.IndexOutOfRangeException"System.IndexOutOfRangeExceptionÇ
+Ä
+F F(z%
+%5System.IndexOutOfRangeException"@System.IndexOutOfRangeException.IndexOutOfRangeException(string)*3
+F F(z'
+%
+%4System.IndexOutOfRangeException*
+F) F(x
+
+%3string"'
+H H(
+
+%retUnityEngine.Color*6
+8H H("'
+H H(
+
+%retUnityEngine.Color:
+@! @(*
+indexintB
+Shapes.Triangle

@@ -1,38 +1,33 @@
 
-Shapes.Draw.TextAlign.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs‡ ‡("0*
+Shapes.Draw.LineThickness.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¼ ¼("0*
 0
-‡ ‡(*
-1*Ö
+¼ ¼(*
+1*Ê
 1
-‡! ‡(:\
+¼
+ ¼(!\
 Z
 
-‡! ‡(&
+¼
+ ¼(
 %0Shapes.DrawStyle"__id*.,**
 Shapes.Draw"
-styleShapes.DrawStylei
-g
+styleShapes.DrawStyleV
+T
 
-‡! ‡(0
-%1Shapes.TextStyle"__id*;9*7
+¼
+ ¼(!,
 
-%0Shapes.DrawStyle"
-	textStyleShapes.TextStylew
-u
-
-‡! ‡(:
-%retShapes.TextAlign"__id*G
-
-‡! ‡(:9*7
-
-%1Shapes.TextStyle"
-	alignmentShapes.TextAlign*
-2*9
+%0Shapes.DrawStyle"
+	thicknessfloat"__id*
+
+valuefloat*
+2*2
 2
-‡; ‡(;"(
+¼" ¼(""!
 
-‡: ‡(;
-
-%retShapes.TextAlignB"
+¼! ¼("
+implicit return:
+valuefloatB"
 Shapes.Draw

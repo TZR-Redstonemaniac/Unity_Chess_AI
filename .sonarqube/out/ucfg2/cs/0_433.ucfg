@@ -1,21 +1,40 @@
 
-Shapes.Line.EndCaps.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs` `("0*
-0` `(*
-1*~
-1`
- `(j
-h
-`
- `(
-%retShapes.LineEndCap"__id*;
-`
- `(/*-
-Shapes.Line"
-endCapsShapes.LineEndCap*
-2*6
-2` `("'
-` `(
-
-%retShapes.LineEndCapB
-Shapes.Line
+!Shapes.Disc.DashShapeModifier.set–
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs@ @("0*
+0@ @(*
+1*¿
+1@
+ @(c^
+\
+@B @(K
+%0Shapes.DashStyle"__id*20*.
+Shapes.Disc"
+	dashStyleShapes.DashStyleX
+V
+@B @(a0
+
+%0Shapes.DashStyle"
+shapeModifierfloat"__id*
+
+valuefloatð
+í
+@
+ @(c
+
+%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*
+@
+ @(
+Shapes.Disc*J
+@ @(@>*<
+Shapes.ShapesMaterialUtils"
+propDashShapeModifierint*>
+@B @(a2*0
+
+%0Shapes.DashStyle"
+shapeModifierfloat*
+2*.
+2@d @(d"
+@c @(d
+implicit return:
+valuefloatB
+Shapes.Disc

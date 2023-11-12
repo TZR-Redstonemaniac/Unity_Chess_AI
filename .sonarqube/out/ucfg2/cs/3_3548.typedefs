@@ -1,4 +1,5 @@
-è
-Managers.GeneralManagerUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject*
-Awake()Managers.GeneralManager.Awake()<
-GeneralManager()(Managers.GeneralManager.GeneralManager()
+ú
+PointGeneratorUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject!
+Start()PointGenerator.Start()+
+DrawPoints()PointGenerator.DrawPoints()3
+PointGenerator()PointGenerator.PointGenerator()

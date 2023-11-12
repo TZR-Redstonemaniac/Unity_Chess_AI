@@ -1,0 +1,1286 @@
+
+7Shapes.ShapesMaterialUtils.ShapesMaterialUtils()!staticÇ
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesMaterialUtils.cs	 	(*"0*Úπ
+0
+µ µ(h
+f
+) (H	
+%0int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_ZTestS
+Q
+ (H0
+Shapes.ShapesMaterialUtils"
+	propZTestint"__id*
+	
+%0intt
+r
+, (W	
+%1int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+unity_GUIZTestModeV
+T
+ (W3
+Shapes.ShapesMaterialUtils"
+propZTestTMPint"__id*
+	
+%1intp
+n
+1 (X	
+%2int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_ZOffsetFactor[
+Y
+ (X8
+Shapes.ShapesMaterialUtils"
+propZOffsetFactorint"__id*
+	
+%2into
+m
+0 (V	
+%3int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_ZOffsetUnitsZ
+X
+ (V7
+Shapes.ShapesMaterialUtils"
+propZOffsetUnitsint"__id*
+	
+%3intl
+j
+- (P	
+%4int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_ColorMaskW
+U
+ (P4
+Shapes.ShapesMaterialUtils"
+propColorMaskint"__id*
+	
+%4intn
+l
+/ (T	
+%5int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_StencilCompY
+W
+ (T6
+Shapes.ShapesMaterialUtils"
+propStencilCompint"__id*
+	
+%5intp
+n
+1 (X	
+%6int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_StencilOpPass[
+Y
+ (X8
+Shapes.ShapesMaterialUtils"
+propStencilOpPassint"__id*
+	
+%6intl
+j
+- (P	
+%7int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_StencilIDW
+U
+ (P4
+Shapes.ShapesMaterialUtils"
+propStencilIDint"__id*
+	
+%7intj
+h
+0 (Q	
+%8int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_StencilZ
+X
+ (Q7
+Shapes.ShapesMaterialUtils"
+propStencilIDTMPint"__id*
+	
+%8intr
+p
+3 (\	
+%9int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_StencilReadMask]
+[
+ (\:
+Shapes.ShapesMaterialUtils"
+propStencilReadMaskint"__id*
+	
+%9intt
+r
+4 (^
+
+%10int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_StencilWriteMask_
+]
+ (^;
+Shapes.ShapesMaterialUtils"
+propStencilWriteMaskint"__id*
+
+
+%10intm
+k
+- (P
+
+%11int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_BaseColorX
+V
+ (P4
+Shapes.ShapesMaterialUtils"
+propBaseColorint"__id*
+
+
+%11inti
+g
+) (H
+
+%12int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_ColorT
+R
+ (H0
+Shapes.ShapesMaterialUtils"
+	propColorint"__id*
+
+
+%12intm
+k
+- (P
+
+%13int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_ScaleModeX
+V
+ (P4
+Shapes.ShapesMaterialUtils"
+propScaleModeint"__id*
+
+
+%13intl
+j
+, (N
+
+%14int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+	_ColorEndW
+U
+ (N3
+Shapes.ShapesMaterialUtils"
+propColorEndint"__id*
+
+
+%14ints
+q
+3 (\
+
+%15int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_ColorOuterStart^
+\
+ (\:
+Shapes.ShapesMaterialUtils"
+propColorOuterStartint"__id*
+
+
+%15intq
+o
+1 (X
+
+%16int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_ColorInnerEnd\
+Z
+ (X8
+Shapes.ShapesMaterialUtils"
+propColorInnerEndint"__id*
+
+
+%16intq
+o
+1 (X
+
+%17int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_ColorOuterEnd\
+Z
+ (X8
+Shapes.ShapesMaterialUtils"
+propColorOuterEndint"__id*
+
+
+%17intj
+h
+* (J
+
+%18int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*	
+_ColorBU
+S
+ (J1
+Shapes.ShapesMaterialUtils"
+
+propColorBint"__id*
+
+
+%18intj
+h
+* (J
+
+%19int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*	
+_ColorCU
+S
+ (J1
+Shapes.ShapesMaterialUtils"
+
+propColorCint"__id*
+
+
+%19intj
+h
+ *  (J
+
+%20int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*	
+_ColorDU
+S
+   (J1
+Shapes.ShapesMaterialUtils"
+
+propColorDint"__id*
+
+
+%20intn
+l
+!. !(R
+
+%21int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_PointStartY
+W
+! !(R5
+Shapes.ShapesMaterialUtils"
+propPointStartint"__id*
+
+
+%21intl
+j
+", "(N
+
+%22int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+	_PointEndW
+U
+" "(N3
+Shapes.ShapesMaterialUtils"
+propPointEndint"__id*
+
+
+%22inte
+c
+#% #(@
+
+%23int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_AP
+N
+# #(@,
+Shapes.ShapesMaterialUtils"
+propAint"__id*
+
+
+%23inte
+c
+$% $(@
+
+%24int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_BP
+N
+$ $(@,
+Shapes.ShapesMaterialUtils"
+propBint"__id*
+
+
+%24inte
+c
+%% %(@
+
+%25int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_CP
+N
+% %(@,
+Shapes.ShapesMaterialUtils"
+propCint"__id*
+
+
+%25inte
+c
+&% &(@
+
+%26int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_DP
+N
+& &(@,
+Shapes.ShapesMaterialUtils"
+propDint"__id*
+
+
+%26inth
+f
+'( '(F
+
+%27int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*	
+_RectS
+Q
+' '(F/
+Shapes.ShapesMaterialUtils"
+propRectint"__id*
+
+
+%27intj
+h
+(* ((J
+
+%28int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*	
+_RadiusU
+S
+( ((J1
+Shapes.ShapesMaterialUtils"
+
+propRadiusint"__id*
+
+
+%28into
+m
+)/ )(T
+
+%29int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_CornerRadiiZ
+X
+) )(T6
+Shapes.ShapesMaterialUtils"
+propCornerRadiiint"__id*
+
+
+%29intj
+h
+** *(J
+
+%30int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*	
+_LengthU
+S
+* *(J1
+Shapes.ShapesMaterialUtils"
+
+propLengthint"__id*
+
+
+%30intj
+h
++* +(J
+
+%31int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*	
+_HollowU
+S
++ +(J1
+Shapes.ShapesMaterialUtils"
+
+propBorderint"__id*
+
+
+%31inti
+g
+,) ,(H
+
+%32int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_SidesT
+R
+, ,(H0
+Shapes.ShapesMaterialUtils"
+	propSidesint"__id*
+
+
+%32inti
+g
+-' -(F
+
+%33int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_AngleR
+P
+- -(F.
+Shapes.ShapesMaterialUtils"
+propAngint"__id*
+
+
+%33intm
+k
+.- .(P
+
+%34int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_RoundnessX
+V
+. .(P4
+Shapes.ShapesMaterialUtils"
+propRoundnessint"__id*
+
+
+%34intn
+l
+/, /(P
+
+%35int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_AngleStartW
+U
+/ /(P3
+Shapes.ShapesMaterialUtils"
+propAngStartint"__id*
+
+
+%35intl
+j
+0* 0(L
+
+%36int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+	_AngleEndU
+S
+0 0(L1
+Shapes.ShapesMaterialUtils"
+
+propAngEndint"__id*
+
+
+%36intm
+k
+1- 1(P
+
+%37int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_RoundCapsX
+V
+1 1(P4
+Shapes.ShapesMaterialUtils"
+propRoundCapsint"__id*
+
+
+%37intm
+k
+2- 2(P
+
+%38int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_ThicknessX
+V
+2 2(P4
+Shapes.ShapesMaterialUtils"
+propThicknessint"__id*
+
+
+%38intr
+p
+32 3(Z
+
+%39int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_ThicknessSpace]
+[
+3 3(Z9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint"__id*
+
+
+%39into
+m
+4/ 4(T
+
+%40int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_RadiusSpaceZ
+X
+4 4(T6
+Shapes.ShapesMaterialUtils"
+propRadiusSpaceint"__id*
+
+
+%40intl
+j
+5, 5(N
+
+%41int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+	_DashSizeW
+U
+5 5(N3
+Shapes.ShapesMaterialUtils"
+propDashSizeint"__id*
+
+
+%41intn
+l
+6. 6(R
+
+%42int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_DashOffsetY
+W
+6 6(R5
+Shapes.ShapesMaterialUtils"
+propDashOffsetint"__id*
+
+
+%42into
+m
+7/ 7(T
+
+%43int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_DashSpacingZ
+X
+7 7(T6
+Shapes.ShapesMaterialUtils"
+propDashSpacingint"__id*
+
+
+%43intl
+j
+8, 8(N
+
+%44int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+	_DashTypeW
+U
+8 8(N3
+Shapes.ShapesMaterialUtils"
+propDashTypeint"__id*
+
+
+%44intm
+k
+9- 9(P
+
+%45int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_DashSpaceX
+V
+9 9(P4
+Shapes.ShapesMaterialUtils"
+propDashSpaceint"__id*
+
+
+%45intl
+j
+:, :(N
+
+%46int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+	_DashSnapW
+U
+: :(N3
+Shapes.ShapesMaterialUtils"
+propDashSnapint"__id*
+
+
+%46intu
+s
+;5 ;(`
+
+%47int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_DashShapeModifier`
+^
+; ;(`<
+Shapes.ShapesMaterialUtils"
+propDashShapeModifierint"__id*
+
+
+%47inth
+f
+<( <(F
+
+%48int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*	
+_SizeS
+Q
+< <(F/
+Shapes.ShapesMaterialUtils"
+propSizeint"__id*
+
+
+%48intm
+k
+=- =(P
+
+%49int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_SizeSpaceX
+V
+= =(P4
+Shapes.ShapesMaterialUtils"
+propSizeSpaceint"__id*
+
+
+%49intm
+k
+>- >(P
+
+%50int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_AlignmentX
+V
+> >(P4
+Shapes.ShapesMaterialUtils"
+propAlignmentint"__id*
+
+
+%50intl
+j
+@, @(N
+
+%51int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+	_FillTypeW
+U
+@ @(N3
+Shapes.ShapesMaterialUtils"
+propFillTypeint"__id*
+
+
+%51intm
+k
+A- A(P
+
+%52int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_FillStartX
+V
+A A(P4
+Shapes.ShapesMaterialUtils"
+propFillStartint"__id*
+
+
+%52intk
+i
+B+ B(L
+
+%53int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_FillEndV
+T
+B B(L2
+Shapes.ShapesMaterialUtils"
+propFillEndint"__id*
+
+
+%53intm
+k
+C- C(P
+
+%54int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_FillSpaceX
+V
+C C(P4
+Shapes.ShapesMaterialUtils"
+propFillSpaceint"__id*
+
+
+%54intk
+i
+E+ E(L
+
+%55int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_MainTexV
+T
+E E(L2
+Shapes.ShapesMaterialUtils"
+propMainTexint"__id*
+
+
+%55intg
+e
+F' F(D
+
+%56int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_UvsR
+P
+F F(D.
+Shapes.ShapesMaterialUtils"
+propUvsint"__id*
+
+
+%56intCA
+I, I(I
+%57Shapes.ShapesMaterials"Shapes.ShapesMaterialsê
+ç
+I0 I(?
+%58void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%57Shapes.ShapesMaterials*
+
+Disc* x
+v
+I" I(IA
+Shapes.ShapesMaterialUtils"!
+matDiscShapes.ShapesMaterials"__id*!
+
+%57Shapes.ShapesMaterialsCA
+J4 J([
+%59Shapes.ShapesMaterials"Shapes.ShapesMaterialsò
+ï
+J8 J(G
+%60void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%59Shapes.ShapesMaterials*
+
+Disc*
+
+SECTORÄ
+~
+J" J([I
+Shapes.ShapesMaterialUtils")
+matCircleSectorShapes.ShapesMaterials"__id*!
+
+%59Shapes.ShapesMaterialsCA
+K, K(Y
+%61Shapes.ShapesMaterials"Shapes.ShapesMaterialsû
+õ
+K0 K(?
+%62void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%61Shapes.ShapesMaterials*
+
+Disc*
+INNER_RADIUSx
+v
+K" K(YA
+Shapes.ShapesMaterialUtils"!
+matRingShapes.ShapesMaterials"__id*!
+
+%61Shapes.ShapesMaterialsCA
+L2 L(i
+%63Shapes.ShapesMaterials"Shapes.ShapesMaterials¨
+©
+L6 L(E
+%64void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%63Shapes.ShapesMaterials*
+
+Disc*
+INNER_RADIUS*
+
+SECTOR~
+|
+L" L(iG
+Shapes.ShapesMaterialUtils"'
+matRingSectorShapes.ShapesMaterials"__id*!
+
+%63Shapes.ShapesMaterialsCA
+M2 M(O
+%65Shapes.ShapesMaterials"Shapes.ShapesMaterialsê
+ç
+M6 M(E
+%66void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%65Shapes.ShapesMaterials*
+
+Rect* ~
+|
+M" M(OG
+Shapes.ShapesMaterialUtils"'
+matRectSimpleShapes.ShapesMaterials"__id*!
+
+%65Shapes.ShapesMaterialsCA
+N3 N(a
+%67Shapes.ShapesMaterials"Shapes.ShapesMaterialsü
+ú
+N7 N(F
+%68void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%67Shapes.ShapesMaterials*
+
+Rect*
+CORNER_RADIUS
+}
+N" N(aH
+Shapes.ShapesMaterialUtils"(
+matRectRoundedShapes.ShapesMaterials"__id*!
+
+%67Shapes.ShapesMaterialsCA
+O2 O([
+%69Shapes.ShapesMaterials"Shapes.ShapesMaterialsö
+ó
+O6 O(E
+%70void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%69Shapes.ShapesMaterials*
+
+Rect*
+
+BORDERED~
+|
+O" O([G
+Shapes.ShapesMaterialUtils"'
+matRectBorderShapes.ShapesMaterials"__id*!
+
+%69Shapes.ShapesMaterialsCA
+P9 P(s
+%71Shapes.ShapesMaterials"Shapes.ShapesMaterialsØ
+¨
+P= P(L
+%72void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%71Shapes.ShapesMaterials*
+
+Rect*
+CORNER_RADIUS*
+
+BORDEREDÜ
+É
+P" P(sN
+Shapes.ShapesMaterialUtils".
+matRectBorderRoundedShapes.ShapesMaterials"__id*!
+
+%71Shapes.ShapesMaterialsCA
+Q7 Q(X
+%73Shapes.ShapesMaterials"Shapes.ShapesMaterialsî
+ë
+Q; Q(J
+%74void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%73Shapes.ShapesMaterials*
+
+Triangle* |
+z
+Q) Q(XE
+Shapes.ShapesMaterialUtils"%
+matTriangleShapes.ShapesMaterials"__id*!
+
+%73Shapes.ShapesMaterialsCA
+R3 R(P
+%75Shapes.ShapesMaterials"Shapes.ShapesMaterialsê
+ç
+R7 R(F
+%76void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%75Shapes.ShapesMaterials*
+
+Quad* x
+v
+R) R(PA
+Shapes.ShapesMaterialUtils"!
+matQuadShapes.ShapesMaterials"__id*!
+
+%75Shapes.ShapesMaterialsCA
+S5 S(T
+%77Shapes.ShapesMaterials"Shapes.ShapesMaterialsí
+è
+S9 S(H
+%78void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%77Shapes.ShapesMaterials*
+
+Sphere* z
+x
+S) S(TC
+Shapes.ShapesMaterialUtils"#
+	matSphereShapes.ShapesMaterials"__id*!
+
+%77Shapes.ShapesMaterialsCA
+T3 T(P
+%79Shapes.ShapesMaterials"Shapes.ShapesMaterialsê
+ç
+T7 T(F
+%80void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%79Shapes.ShapesMaterials*
+
+Cone* x
+v
+T) T(PA
+Shapes.ShapesMaterialUtils"!
+matConeShapes.ShapesMaterials"__id*!
+
+%79Shapes.ShapesMaterialsCA
+U5 U(T
+%81Shapes.ShapesMaterials"Shapes.ShapesMaterialsí
+è
+U9 U(H
+%82void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%81Shapes.ShapesMaterials*
+
+Cuboid* z
+x
+U) U(TC
+Shapes.ShapesMaterialUtils"#
+	matCuboidShapes.ShapesMaterials"__id*!
+
+%81Shapes.ShapesMaterialsCA
+V4 V(R
+%83Shapes.ShapesMaterials"Shapes.ShapesMaterialsë
+é
+V8 V(G
+%84void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%83Shapes.ShapesMaterials*	
+Torus* y
+w
+V) V(RB
+Shapes.ShapesMaterialUtils""
+matTorusShapes.ShapesMaterials"__id*!
+
+%83Shapes.ShapesMaterialsCA
+W6 W(V
+%85Shapes.ShapesMaterials"Shapes.ShapesMaterialsì
+ê
+W: W(I
+%86void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%85Shapes.ShapesMaterials*	
+Polygon* {
+y
+W) W(VD
+Shapes.ShapesMaterialUtils"$
+
+matPolygonShapes.ShapesMaterials"__id*!
+
+%85Shapes.ShapesMaterialsCA
+X= X(e
+%87Shapes.ShapesMaterials"Shapes.ShapesMaterialsõ
+ò
+XA X(P
+%88void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%87Shapes.ShapesMaterials*
+Regular Polygon* É
+Ä
+X) X(eK
+Shapes.ShapesMaterialUtils"+
+matRegularPolygonShapes.ShapesMaterials"__id*!
+
+%87Shapes.ShapesMaterialsCA
+Y6 Y(V
+%89Shapes.ShapesMaterials"Shapes.ShapesMaterialsì
+ê
+Y: Y(I
+%90void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%89Shapes.ShapesMaterials*	
+Texture* {
+y
+Y) Y(VD
+Shapes.ShapesMaterialUtils"$
+
+matTextureShapes.ShapesMaterials"__id*!
+
+%89Shapes.ShapesMaterialsCA
+\ \(#
+%91Shapes.ShapesMaterials"Shapes.ShapesMaterialsì
+ê
+\ \(
+%92void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%91Shapes.ShapesMaterials*	
+Line 2D* CA
+] ](1
+%93Shapes.ShapesMaterials"Shapes.ShapesMaterialsü
+ú
+] ](
+%94void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%93Shapes.ShapesMaterials*	
+Line 2D*
+
+CAP_SQUARECA
+^ ^(0
+%95Shapes.ShapesMaterials"Shapes.ShapesMaterialsû
+õ
+^ ^(
+%96void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*!
+
+%95Shapes.ShapesMaterials*	
+Line 2D*
+	CAP_ROUNDGE
+[7 _(
+%97Shapes.ShapesMaterials[]"Shapes.ShapesMaterials[]õ
+ò
+[7 _(
+%98"7System.Collections.Generic.ICollection<T>.this[int].set*#!
+
+%97Shapes.ShapesMaterials[]*2 *!
+
+%91Shapes.ShapesMaterialsù
+ö
+[7 _(
+%99"7System.Collections.Generic.ICollection<T>.this[int].set*#!
+
+%97Shapes.ShapesMaterials[]*2*!
+
+%93Shapes.ShapesMaterialsû
+õ
+[7 _(
+%100"7System.Collections.Generic.ICollection<T>.this[int].set*#!
+
+%97Shapes.ShapesMaterials[]*2*!
+
+%95Shapes.ShapesMaterials}
+{
+[, _(D
+Shapes.ShapesMaterialUtils"$
+matsLineShapes.ShapesMaterials[]"__id*#!
+
+%97Shapes.ShapesMaterials[]DB
+b b(#
+%101Shapes.ShapesMaterials"Shapes.ShapesMaterialsï
+í
+b b(
+%102void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*" 
+
+%101Shapes.ShapesMaterials*	
+Line 3D* DB
+c c(1
+%103Shapes.ShapesMaterials"Shapes.ShapesMaterials°
+û
+c c(
+%104void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*" 
+
+%103Shapes.ShapesMaterials*	
+Line 3D*
+
+CAP_SQUAREDB
+d d(0
+%105Shapes.ShapesMaterials"Shapes.ShapesMaterials†
+ù
+d d(
+%106void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*" 
+
+%105Shapes.ShapesMaterials*	
+Line 3D*
+	CAP_ROUNDHF
+a9 e( 
+%107Shapes.ShapesMaterials[]"Shapes.ShapesMaterials[]û
+õ
+a9 e(
+%108"7System.Collections.Generic.ICollection<T>.this[int].set*$"
+ 
+%107Shapes.ShapesMaterials[]*2 *" 
+
+%101Shapes.ShapesMaterials†
+ù
+a9 e(
+%109"7System.Collections.Generic.ICollection<T>.this[int].set*$"
+ 
+%107Shapes.ShapesMaterials[]*2*" 
+
+%103Shapes.ShapesMaterials†
+ù
+a9 e(
+%110"7System.Collections.Generic.ICollection<T>.this[int].set*$"
+ 
+%107Shapes.ShapesMaterials[]*2*" 
+
+%105Shapes.ShapesMaterialsÄ
+~
+a, e(F
+Shapes.ShapesMaterialUtils"&
+
+matsLine3DShapes.ShapesMaterials[]"__id*$"
+ 
+%107Shapes.ShapesMaterials[]DB
+h h('
+%111Shapes.ShapesMaterials"Shapes.ShapesMaterialsô
+ñ
+h h(
+%112void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*" 
+
+%111Shapes.ShapesMaterials*
+Polyline 2D* DB
+i i(5
+%113Shapes.ShapesMaterials"Shapes.ShapesMaterials•
+¢
+i i(
+%114void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*" 
+
+%113Shapes.ShapesMaterials*
+Polyline 2D*
+
+JOIN_MITERDB
+j j(5
+%115Shapes.ShapesMaterials"Shapes.ShapesMaterials•
+¢
+j j(
+%116void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*" 
+
+%115Shapes.ShapesMaterials*
+Polyline 2D*
+
+JOIN_ROUNDDB
+k k(5
+%117Shapes.ShapesMaterials"Shapes.ShapesMaterials•
+¢
+k k(
+%118void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*" 
+
+%117Shapes.ShapesMaterials*
+Polyline 2D*
+
+JOIN_BEVELHF
+g3 l( 
+%119Shapes.ShapesMaterials[]"Shapes.ShapesMaterials[]û
+õ
+g3 l(
+%120"7System.Collections.Generic.ICollection<T>.this[int].set*$"
+ 
+%119Shapes.ShapesMaterials[]*2 *" 
+
+%111Shapes.ShapesMaterials†
+ù
+g3 l(
+%121"7System.Collections.Generic.ICollection<T>.this[int].set*$"
+ 
+%119Shapes.ShapesMaterials[]*2*" 
+
+%113Shapes.ShapesMaterials†
+ù
+g3 l(
+%122"7System.Collections.Generic.ICollection<T>.this[int].set*$"
+ 
+%119Shapes.ShapesMaterials[]*2*" 
+
+%115Shapes.ShapesMaterials†
+ù
+g3 l(
+%123"7System.Collections.Generic.ICollection<T>.this[int].set*$"
+ 
+%119Shapes.ShapesMaterials[]*2*" 
+
+%117Shapes.ShapesMaterialsÉ
+Ä
+g$ l(H
+Shapes.ShapesMaterialUtils"(
+matsPolylineShapes.ShapesMaterials[]"__id*$"
+ 
+%119Shapes.ShapesMaterials[]DB
+o o(7
+%124Shapes.ShapesMaterials"Shapes.ShapesMaterialsß
+§
+o o(
+%125void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*" 
+
+%124Shapes.ShapesMaterials*
+Polyline 2D*
+IS_JOIN_MESHDB
+p p(E
+%126Shapes.ShapesMaterials"Shapes.ShapesMaterialsπ
+∂
+p p(
+%127void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*" 
+
+%126Shapes.ShapesMaterials*
+Polyline 2D*
+IS_JOIN_MESH*
+
+JOIN_MITERDB
+q q(E
+%128Shapes.ShapesMaterials"Shapes.ShapesMaterialsπ
+∂
+q q(
+%129void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*" 
+
+%128Shapes.ShapesMaterials*
+Polyline 2D*
+IS_JOIN_MESH*
+
+JOIN_ROUNDDB
+r r(E
+%130Shapes.ShapesMaterials"Shapes.ShapesMaterialsπ
+∂
+r r(
+%131void"?Shapes.ShapesMaterials.ShapesMaterials(string, params string[])*" 
+
+%130Shapes.ShapesMaterials*
+Polyline 2D*
+IS_JOIN_MESH*
+
+JOIN_BEVELHF
+n7 s( 
+%132Shapes.ShapesMaterials[]"Shapes.ShapesMaterials[]û
+õ
+n7 s(
+%133"7System.Collections.Generic.ICollection<T>.this[int].set*$"
+ 
+%132Shapes.ShapesMaterials[]*2 *" 
+
+%124Shapes.ShapesMaterials†
+ù
+n7 s(
+%134"7System.Collections.Generic.ICollection<T>.this[int].set*$"
+ 
+%132Shapes.ShapesMaterials[]*2*" 
+
+%126Shapes.ShapesMaterials†
+ù
+n7 s(
+%135"7System.Collections.Generic.ICollection<T>.this[int].set*$"
+ 
+%132Shapes.ShapesMaterials[]*2*" 
+
+%128Shapes.ShapesMaterials†
+ù
+n7 s(
+%136"7System.Collections.Generic.ICollection<T>.this[int].set*$"
+ 
+%132Shapes.ShapesMaterials[]*2*" 
+
+%130Shapes.ShapesMaterialsá
+Ñ
+n$ s(L
+Shapes.ShapesMaterialUtils",
+matsPolylineJoinShapes.ShapesMaterials[]"__id*$"
+ 
+%132Shapes.ShapesMaterials[]" 
+		 µ(
+implicit returnB"
+Shapes.ShapesMaterialUtils

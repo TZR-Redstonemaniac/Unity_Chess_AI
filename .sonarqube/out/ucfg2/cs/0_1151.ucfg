@@ -1,18 +1,31 @@
 
-=Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillColorEnd.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csë, ë(/"0*´
+Shapes.Quad.IsUsingAutoD.setz
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csž ž("0*
 0
-ë0 ë(0¬
-©
+ž ž(*
+1*³
+1
+Ÿ  (J
+H
 
-ë, ë(0d
-Shapes.MpbRegularPolygon"F
- Shapes.IFillableMpb.fillColorEnd"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"t
+Ÿ Ÿ(!
+Shapes.Quad"
+autoSetDbool"__id*
 
-ë, ë(0f*d
-Shapes.MpbRegularPolygon"F
- Shapes.IFillableMpb.fillColorEnd"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+valueboolQ
+O
+
+   (
+
+%0void"Shapes.Quad.AutoSetD()*
+
+   (
+Shapes.Quad*
+2*2
+2
+¡ ¡("!
+
+¡ ¡(
+implicit return:
+valueboolB
+Shapes.Quad

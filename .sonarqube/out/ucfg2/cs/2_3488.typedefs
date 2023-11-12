@@ -1,9 +1,5 @@
-≥
-Shapes.IMColorPickerInteractionUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.Objectobject4
-Update()(Shapes.IMColorPickerInteraction.Update():
-OnDisable()+Shapes.IMColorPickerInteraction.OnDisable()à
-2RaycastInteract(UnityEngine.Ray, bool, bool, bool)RShapes.IMColorPickerInteraction.RaycastInteract(UnityEngine.Ray, bool, bool, bool)p
-&UpdatePickerColor(UnityEngine.Vector2)FShapes.IMColorPickerInteraction.UpdatePickerColor(UnityEngine.Vector2)r
-'GetPickerElementAt(UnityEngine.Vector2)GShapes.IMColorPickerInteraction.GetPickerElementAt(UnityEngine.Vector2)n
-%HueStripContains(UnityEngine.Vector2)EShapes.IMColorPickerInteraction.HueStripContains(UnityEngine.Vector2)X
-IMColorPickerInteraction():Shapes.IMColorPickerInteraction.IMColorPickerInteraction()
+è
+Shapes.ProceduralTreeShapes.ImmediateModeShapeDrawerUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectV
+DrawShapes(UnityEngine.Camera)4Shapes.ProceduralTree.DrawShapes(UnityEngine.Camera)\
+!BranchFrom(UnityEngine.Matrix4x4)7Shapes.ProceduralTree.BranchFrom(UnityEngine.Matrix4x4):
+ProceduralTree()&Shapes.ProceduralTree.ProceduralTree()

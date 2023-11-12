@@ -1,33 +1,30 @@
 
-Shapes.Line.ThicknessSpace.setx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs[ [("0*
-0[ [(*
-1*ø
-1[
- [(^p
-n
-[D [(Z8
-Shapes.Line"'
-thicknessSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpaceñ
-î
-[
- [(^
-
-%0void"(Shapes.ShapeRenderer.SetIntNow(int, int)*
-[
- [(
-Shapes.Line*G
-[ [(;;*9
-Shapes.ShapesMaterialUtils"
-propThicknessSpaceint*F
-[= [(\:*8
-Shapes.Line"'
-thicknessSpaceShapes.ThicknessSpace*
-2*.
-2[_ [(_"
-[^ [(_
-implicit return: 
-valueShapes.ThicknessSpaceB
-Shapes.Line
+Shapes.Draw.StencilComp.get†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csY Y("0*
+0Y Y(*
+1*‚
+1Y! Y(>Z
+X
+Y! Y(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylem
+k
+Y! Y(2
+%1Shapes.RenderState"__id*?=*;
+
+%0Shapes.DrawStyle"!
+renderStateShapes.RenderState¢
+Ÿ
+Y! Y(>-
+%ret%UnityEngine.Rendering.CompareFunction"__id*^
+Y! Y(>R*P
+
+%1Shapes.RenderState"4
+stencilComp%UnityEngine.Rendering.CompareFunction*
+2*J
+2Y? Y(?";
+Y> Y(?/
+-
+%ret%UnityEngine.Rendering.CompareFunctionB"
+Shapes.Draw

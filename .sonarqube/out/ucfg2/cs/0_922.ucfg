@@ -1,16 +1,37 @@
 
-5Shapes.MpbTriangle.Shapes.IDashableMpb.dashOffset.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs¹( ¹(+"0*í
+Shapes.Draw.TextLineSpacing.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csš š("0*
 0
-¹, ¹(,¡
-ž
+š š(*
+1*·
+1
+š! š(D\
+Z
 
-¹( ¹(,(
-%0"System.Collections.Generic.List<T>"__id*`^*\
-Shapes.MpbTriangle"D
-Shapes.IDashableMpb.dashOffset"System.Collections.Generic.List<T>"8
+š! š(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylei
+g
 
-¹( ¹(,*
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbTriangle
+š! š(0
+%1Shapes.TextStyle"__id*;9*7
+
+%0Shapes.DrawStyle"
+	textStyleShapes.TextStyleX
+V
+
+š! š(D.
+
+%1Shapes.TextStyle"
+lineSpacingfloat"__id*
+
+valuefloat*
+2*2
+2
+šE š(E"!
+
+šD š(E
+implicit return:
+valuefloatB"
+Shapes.Draw

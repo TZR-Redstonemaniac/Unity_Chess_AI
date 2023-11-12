@@ -1,15 +1,42 @@
 
-Shapes.ShapeGroup.IsEnabled.set~
-tC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeGroup.cs) (,"0*–
-0- (-O
-M
-! (-(
-Shapes.ShapeGroup"
-	IsEnabledbool"__id*
-
-valuebool"6
-! (-**(
-Shapes.ShapeGroup"
-	IsEnabledbool:
-valueboolB
-Shapes.ShapeGroup
+>Shapes.DiscColors.Radial(UnityEngine.Color, UnityEngine.Color)‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DiscColors.cs& &(!"0*
+0& &(*
+1*„
+1&A &(m86
+&A &(m
+%0Shapes.DiscColors"Shapes.DiscColorsß
+Ü
+&A &(m
+%1Shapes.DiscColors"hShapes.DiscColors.DiscColors(UnityEngine.Color, UnityEngine.Color, UnityEngine.Color, UnityEngine.Color)*%
+&A &(m
+
+%0Shapes.DiscColors*(
+&Q &(V
+
+innerUnityEngine.Color*(
+&X &(]
+
+outerUnityEngine.Color*(
+&_ &(d
+
+innerUnityEngine.Color*(
+&f &(k
+
+outerUnityEngine.ColorT
+R
+&A &(m
+%retShapes.DiscColors"__id*%
+&A &(m
+
+%0Shapes.DiscColors*
+2*6
+2&n &(n"'
+&m &(n
+
+%retShapes.DiscColors:&
+&# &(.
+innerUnityEngine.Color:&
+&0 &(;
+outerUnityEngine.ColorB"
+Shapes.DiscColors

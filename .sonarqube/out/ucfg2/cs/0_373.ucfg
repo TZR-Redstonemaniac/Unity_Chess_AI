@@ -1,50 +1,21 @@
 
-$Shapes.RegularPolygon.DashOffset.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csú ú("0*
-0
-ú ú(*
-1*Ì
-1
-ú
- ú(Uj
+Shapes.Line.End.getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.csJ J("0*
+0J J(*
+1*~
+1J
+ J(j
 h
-
-ú; ú(D
-%0Shapes.DashStyle"__id*<:*8
-Shapes.RegularPolygon"
-	dashStyleShapes.DashStyleS
-Q
-
-ú; ú(S)
-
-%0Shapes.DashStyle"
-offsetfloat"__id*
-
-valuefloatô
-ñ
-
-ú
- ú(U
-
-%1void",Shapes.ShapeRenderer.SetFloatNow(int, float)*'
-
-ú
- ú(
-Shapes.RegularPolygon*E
-
-ú ú(97*5
-Shapes.ShapesMaterialUtils"
-propDashOffsetint*9
-
-ú; ú(S+*)
-
-%0Shapes.DashStyle"
-offsetfloat*
-2*2
-2
-úV ú(V"!
-
-úU ú(V
-implicit return:
-valuefloatB
-Shapes.RegularPolygon
+J
+ J(
+%retUnityEngine.Vector3"__id*9
+J
+ J(-*+
+Shapes.Line"
+endUnityEngine.Vector3*
+2*8
+2J J(")
+J J(
+
+%retUnityEngine.Vector3B
+Shapes.Line

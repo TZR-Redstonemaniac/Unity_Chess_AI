@@ -123,6 +123,49 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!21 &1082153
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom/RenderBoard
+  m_Shader: {fileID: 4800000, guid: 2d9d2ce64ecb45d38dad2753c8a79516, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Drop: 0
+    - _DropMouseX: -1
+    - _DropMouseY: -1
+    - _Pickup: 0
+    - _PickupMouseX: -1
+    - _PickupMouseY: -1
+    m_Colors:
+    - _DarkColor: {r: 0.66, g: 0.48, b: 0.4, a: 1}
+    - _DarkDropColor: {r: 0.7490196, g: 0.63529414, b: 0.3372549, a: 1}
+    - _DarkPickupColor: {r: 0.74509805, g: 0.5764706, b: 0.33333334, a: 1}
+    - _LightColor: {r: 0.94, g: 0.846, b: 0.752, a: 1}
+    - _LightDropColor: {r: 0.85490197, g: 0.78039217, b: 0.44705883, a: 1}
+    - _LightPickupColor: {r: 0.8666667, g: 0.7019608, b: 0.42352942, a: 1}
+  m_BuildTextureStacks: []
 --- !u!1 &31607779
 GameObject:
   m_ObjectHideFlags: 0
@@ -264,7 +307,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 1846957366}
+  m_Material: {fileID: 1082153}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -471,6 +514,7 @@ GameObject:
   - component: {fileID: 926002376}
   - component: {fileID: 926002377}
   - component: {fileID: 926002378}
+  - component: {fileID: 926002379}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -518,7 +562,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 31607781}
-  pickedUp: 0
+  boardRenderer: {fileID: 1633788384}
+  audioManager: {fileID: 926002379}
+--- !u!114 &926002379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 926002375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08368a0d76a2af440a97032f9733e4c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pickupSoundEffect: {fileID: 0}
+  dropSoundEffect: {fileID: 0}
 --- !u!1 &1633788382
 GameObject:
   m_ObjectHideFlags: 0
@@ -579,7 +638,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   boardShader: {fileID: 4800000, guid: 2d9d2ce64ecb45d38dad2753c8a79516, type: 3}
   lightColor: {r: 0.94, g: 0.846, b: 0.752, a: 1}
+  lightPickupColor: {r: 0.8666667, g: 0.7019608, b: 0.42352942, a: 1}
+  lightDropColor: {r: 0.85490197, g: 0.78039217, b: 0.44705883, a: 1}
   darkColor: {r: 0.66, g: 0.48, b: 0.4, a: 1}
+  darkPickupColor: {r: 0.74509805, g: 0.5764706, b: 0.33333334, a: 1}
+  darkDropColor: {r: 0.7490196, g: 0.63529414, b: 0.3372549, a: 1}
   background: {fileID: 152367186}
 --- !u!4 &1633788385
 Transform:
@@ -596,39 +659,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!21 &1846957366
-Material:
-  serializedVersion: 8
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: Custom/RenderBoard
-  m_Shader: {fileID: 4800000, guid: 2d9d2ce64ecb45d38dad2753c8a79516, type: 3}
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
-  m_InvalidKeywords: []
-  m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_LockedProperties: 
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Ints: []
-    m_Floats: []
-    m_Colors:
-    - _DarkColor: {r: 0.66, g: 0.48, b: 0.4, a: 1}
-    - _LightColor: {r: 0.94, g: 0.846, b: 0.752, a: 1}
-  m_BuildTextureStacks: []
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

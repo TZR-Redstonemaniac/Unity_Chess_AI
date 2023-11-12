@@ -1,21 +1,54 @@
 
-Shapes.Line.ColorMode.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.cs+ +("0*
-0+ +(*
-1*
-1+
- +(|
-z
-+
- +(!
-%retShapes.Line.LineColorMode"__id*E
-+
- +(9*7
-Shapes.Line"&
-	colorModeShapes.Line.LineColorMode*
-2*>
-2+ +("/
-+ +(#
-!
-%retShapes.Line.LineColorModeB
-Shapes.Line
+"Shapes.Polygon.FillLinearStart.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs° °("0*
+0
+° °(*
+1*ü
+1
+± ²(Td
+b
+
+± ±(
+%0Shapes.GradientFill"__id*31*/
+Shapes.Polygon"
+fillShapes.GradientFillw
+u
+
+± ±(?
+
+%0Shapes.GradientFill""
+linearStartUnityEngine.Vector3"__id* 
+
+valueUnityEngine.Vector3—
+”
+
+²6 ²(Q
+%1UnityEngine.Vector4"*Shapes.GradientFill.GetShaderStartVector()*?
+
+²6 ²(:1*/
+Shapes.Polygon"
+fillShapes.GradientFillì
+é
+
+² ²(S
+
+%2void"<Shapes.ShapeRenderer.SetVector4Now(int, UnityEngine.Vector4)* 
+
+² ²(
+Shapes.Polygon*D
+
+² ²(46*4
+Shapes.ShapesMaterialUtils"
+propFillStartint*)
+
+²6 ²(Q
+
+%1UnityEngine.Vector4*
+2*2
+2
+³ ³("!
+
+³ ³(
+implicit return:
+valueUnityEngine.Vector3B
+Shapes.Polygon

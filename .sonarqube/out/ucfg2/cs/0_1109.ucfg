@@ -1,37 +1,23 @@
 
-%Shapes.ShapeRenderer.SortingOrder.setÅ
-wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs) )("0*
-0) )(*
-1*ç
-1)
- )(H¯
-ı
-)
- )(3
-%1UnityEngine.MeshRenderer"@Shapes.ShapeRenderer.MakeSureComponentExists<T>(ref T, out bool)*$
-)
- )(!
-Shapes.ShapeRenderer*G
-)# )(*;*9
-Shapes.ShapeRenderer"
-rndUnityEngine.MeshRenderer*
-), )(1
-
-
-%0bool~
-|
-)
- )(H	
-%2int"%UnityEngine.Renderer.sortingOrder.set*,
-)
- )(3 
-
-%1UnityEngine.MeshRenderer*
-
-valueint*
-2*.
-2)I )(I"
-)H )(I
-implicit return:
-valueintB
-Shapes.ShapeRenderer
+ Shapes.TextElement.TextElement()É
+yC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\TextElement.cs	 ("1*
+10 (0*
+0*◊
+0 (/Q
+O
+$ (/	
+%0int"Shapes.TextElement.GetNextId()*"
+Shapes.TextElementD
+B
+ (/!
+Shapes.TextElement"	
+idint"__id*
+	
+%0int"/
+ (/#*!
+Shapes.TextElement"	
+idint*.
+20 (0"
+/ (0
+implicit returnB
+Shapes.TextElement

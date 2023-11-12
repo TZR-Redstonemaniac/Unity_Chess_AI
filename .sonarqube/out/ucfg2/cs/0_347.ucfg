@@ -1,64 +1,52 @@
 
-Shapes.Triangle.DashSpacing.get˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csø ø("0*
+!Shapes.Polygon.FillColorStart.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs» »("0*
 0
-ø ø(*
-1*
+» »(*
+1*ø
 1
-ø
- ø( *
-2
-3*Ñ
+»
+ »(Od
+b
+
+»6 »(:
+%0Shapes.GradientFill"__id*31*/
+Shapes.Polygon"
+fillShapes.GradientFillr
+p
+
+»6 »(M<
+
+%0Shapes.GradientFill"
+
+colorStartUnityEngine.Color"__id*
+
+valueUnityEngine.Color‡
+„
+
+»
+ »(O
+
+%1void"8Shapes.ShapeRenderer.SetColorNow(int, UnityEngine.Color)* 
+
+»
+ »(
+Shapes.Polygon*@
+
+» »(42*0
+Shapes.ShapesMaterialUtils"
+	propColorint*L
+
+»6 »(M>*<
+
+%0Shapes.GradientFill"
+
+colorStartUnityEngine.Color*
+2*2
 2
-ø# ø(1d
-b
+»P »(P"!
 
-ø# ø(,
-%0Shapes.DashStyle"__id*64*2
-Shapes.Triangle"
-	dashStyleShapes.DashStyleU
-S
-
-ø# ø(1
-	%capture0float"__id*+)*'
-
-%0Shapes.DashStyle"
-sizefloat*
-4*Ô
-3
-ø4 ø(Ed
-b
-
-ø4 ø(=
-%1Shapes.DashStyle"__id*64*2
-Shapes.Triangle"
-	dashStyleShapes.DashStyleX
-V
-
-ø4 ø(E
-	%capture0float"__id*.,**
-
-%1Shapes.DashStyle"
-spacingfloat*
-4*]
-4
-ø
- ø(EG
-E
-
-ø
- ø(E
-%retfloat"__id*"
-
-ø
- ø(E
-
-	%capture0float*
-5*.
-5
-øF ø(F"
-
-øE ø(F
-
-%retfloatB
-Shapes.Triangle
+»O »(P
+implicit return:
+valueUnityEngine.ColorB
+Shapes.Polygon

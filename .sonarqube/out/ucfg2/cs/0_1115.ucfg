@@ -1,33 +1,27 @@
 
-'Shapes.Draw.RectangleThicknessSpace.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csœ œ("0*
+Shapes.Triangle.Roundness.get~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs“ “("0*
 0
-œ œ(*
-1*ï
+“ “(*
+1*r
 1
-œ
- œ(&\
+“
+ “(\
 Z
 
-œ
- œ(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyle{
-y
+“
+ “(
+%retfloat"__id*7
 
-œ
- œ(&A
-
-%0Shapes.DrawStyle"'
-thicknessSpaceShapes.ThicknessSpace"__id*" 
-
-valueShapes.ThicknessSpace*
-2*2
+“
+ “()*'
+Shapes.Triangle"
+	roundnessfloat*
+2*.
 2
-œ' œ('"!
+“ “("
 
-œ& œ('
-implicit return: 
-valueShapes.ThicknessSpaceB"
-Shapes.Draw
+“ “(
+
+%retfloatB
+Shapes.Triangle

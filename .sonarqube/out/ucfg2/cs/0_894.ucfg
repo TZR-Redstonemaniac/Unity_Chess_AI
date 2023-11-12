@@ -1,16 +1,18 @@
 
-/Shapes.MpbRect.Shapes.IFillableMpb.fillType.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csÈ& È()"0*ç
+BShapes.MpbRegularPolygon.Shapes.IDashableMpb.dashShapeModifier.set‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csó/ ó(2"0*¾
 0
-È* È(*›
-˜
+ó3 ó(3±
+®
 
-È& È(*(
-%0"System.Collections.Generic.List<T>"__id*ZX*V
-Shapes.MpbRect"B
-Shapes.IFillableMpb.fillType"System.Collections.Generic.List<T>"8
+ó/ ó(3i
+Shapes.MpbRegularPolygon"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"__id*/-
++
+value"System.Collections.Generic.List<T>"y
 
-È& È(**
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbRect
+ó/ ó(3k*i
+Shapes.MpbRegularPolygon"K
+%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>:-+
+value"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

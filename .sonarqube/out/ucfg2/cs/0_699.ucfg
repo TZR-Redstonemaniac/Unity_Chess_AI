@@ -1,38 +1,21 @@
 
-!Shapes.Draw.DashShapeModifier.getˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs´ ´("0*
-0
-´ ´(*
-1*Ä
-1
-´! ´(>\
-Z
-
-´! ´(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylei
-g
-
-´! ´(0
-%1Shapes.DashStyle"__id*;9*7
-
-%0Shapes.DrawStyle"
-	dashStyleShapes.DashStylee
-c
-
-´! ´(>
-%retfloat"__id*@
-
-´! ´(>2*0
-
-%1Shapes.DashStyle"
-shapeModifierfloat*
-2*.
-2
-´? ´(?"
-
-´> ´(?
-
-%retfloatB"
-Shapes.Draw
+Shapes.Polyline.Joins.get|
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.cs- -("0*
+0- -(*
+1*†
+1-
+ -(r
+p
+-
+ -(
+%retShapes.PolylineJoins"__id*@
+-
+ -(4*2
+Shapes.Polyline"
+joinsShapes.PolylineJoins*
+2*9
+2- -("*
+- -(
+
+%retShapes.PolylineJoinsB
+Shapes.Polyline

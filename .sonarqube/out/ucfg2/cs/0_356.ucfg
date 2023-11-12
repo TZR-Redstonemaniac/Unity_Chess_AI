@@ -1,64 +1,53 @@
 
- Shapes.Rectangle.DashSpacing.getò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÏ Ï("0*
+ Shapes.Rectangle.DashSpacing.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csÌ Ì("0*
 0
-Ï Ï(*
-1*
+Ì Ì(*
+1*ç
 1
-Ï
- Ï( *
-2
-3*“
-2
-Ï# Ï(1e
+Ó Ô(Le
 c
 
-Ï# Ï(,
+Ó Ó(
 %0Shapes.DashStyle"__id*75*3
 Shapes.Rectangle"
-	dashStyleShapes.DashStyleU
-S
+	dashStyleShapes.DashStyleT
+R
 
-Ï# Ï(1
-	%capture0float"__id*+)*'
+Ó Ó(*
 
-%0Shapes.DashStyle"
-sizefloat*
-4*’
-3
-Ï4 Ï(Ee
+%0Shapes.DashStyle"
+spacingfloat"__id*
+
+valuefloate
 c
 
-Ï4 Ï(=
-%1Shapes.DashStyle"__id*75*3
-Shapes.Rectangle"
-	dashStyleShapes.DashStyleX
-V
+Ô6 Ô(I
+%1float"$Shapes.Rectangle.GetNetDashSpacing()*"
 
-Ï4 Ï(E
-	%capture0float"__id*.,**
-
-%1Shapes.DashStyle"
-spacingfloat*
-4*]
-4
-Ï
- Ï(EG
-E
+Ô6 Ô(G
+Shapes.Rectangle“
+œ
 
-Ï
- Ï(E
-%retfloat"__id*"
+Ô Ô(K
 
-Ï
- Ï(E
-
-	%capture0float*
-5*.
-5
-ÏF Ï(F"
+%2void",Shapes.ShapeRenderer.SetFloatNow(int, float)*"
 
-ÏE Ï(F
+Ô Ô(
+Shapes.Rectangle*F
 
-%retfloatB
+Ô Ô(48*6
+Shapes.ShapesMaterialUtils"
+propDashSpacingint*
+
+Ô6 Ô(I
+
+%1float*
+2*2
+2
+ ("!
+
+ (
+implicit return:
+valuefloatB
 Shapes.Rectangle

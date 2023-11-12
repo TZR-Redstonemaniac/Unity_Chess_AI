@@ -1,30 +1,50 @@
 
-Shapes.Draw.DetailLevel.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs” ”("0*
+#Shapes.RegularPolygon.FillSpace.set˜
+‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csª ª("0*
 0
-” ”(*
-1*æ
+ª ª(*
+1*í
 1
-”! ”(:\
-Z
+ª
+ ª(Uk
+i
 
-”! ”(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyler
-p
+ª? ª(C
+%0Shapes.GradientFill"__id*:8*6
+Shapes.RegularPolygon"
+fillShapes.GradientFillk
+i
 
-”! ”(:;
-
-%0Shapes.DrawStyle"!
-detailLevelShapes.DetailLevel"__id*
-
-valueShapes.DetailLevel*
+ª? ª(Q6
+
+%0Shapes.GradientFill"
+spaceShapes.FillSpace"__id*
+
+valueShapes.FillSpaceü
+ù
+
+ª
+ ª(U
+
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*'
+
+ª
+ ª(
+Shapes.RegularPolygon*D
+
+ª ª(66*4
+Shapes.ShapesMaterialUtils"
+propFillSpaceint*F
+
+ª8 ª(S8*6
+
+%0Shapes.GradientFill"
+spaceShapes.FillSpace*
 2*2
 2
-”; ”(;"!
+ªV ª(V"!
 
-”: ”(;
-implicit return:
-valueShapes.DetailLevelB"
-Shapes.Draw
+ªU ª(V
+implicit return:
+valueShapes.FillSpaceB
+Shapes.RegularPolygon

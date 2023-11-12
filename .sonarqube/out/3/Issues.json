@@ -20,6 +20,27 @@
           }
         },
         {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/PointGenerator.cs",
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S3903",
           "level": "warning",
           "message": "Move 'PointGenerator' into a named namespace.",
@@ -62,18 +83,39 @@
           }
         },
         {
-          "ruleId": "S1128",
+          "ruleId": "S3903",
           "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
+          "message": "Move 'Visualize' into a named namespace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/PointGenerator.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Visualize.cs",
                 "region": {
-                  "startLine": 1,
-                  "startColumn": 1,
-                  "endLine": 1,
-                  "endColumn": 26
+                  "startLine": 3,
+                  "startColumn": 14,
+                  "endLine": 3,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'Converter' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Convenience/Converter.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 14,
+                  "endLine": 3,
+                  "endColumn": 23
                 }
               }
             }
@@ -104,18 +146,39 @@
           }
         },
         {
-          "ruleId": "S3903",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Move 'Converter' into a named namespace.",
+          "message": "Make 'biasDict' private.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Convenience/Converter.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NetworkManager.cs",
                 "region": {
-                  "startLine": 3,
-                  "startColumn": 14,
-                  "endLine": 3,
-                  "endColumn": 23
+                  "startLine": 8,
+                  "startColumn": 35,
+                  "endLine": 8,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1659",
+          "level": "warning",
+          "message": "Declare 'numNodesOut' in a separate statement.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/Layer.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 38,
+                  "endLine": 5,
+                  "endColumn": 49
                 }
               }
             }
@@ -148,15 +211,183 @@
         {
           "ruleId": "S2357",
           "level": "warning",
-          "message": "Make 'biasDict' private.",
+          "message": "Make 'm_objectColorArrayDictionary' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/SerializableDictionaryExample.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 36,
+                  "endLine": 16,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3967",
+          "level": "warning",
+          "message": "Change this multidimensional array to a jagged array.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/Layer.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 32,
+                  "endLine": 7,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'NeuralNetwork' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NeuralNetwork.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 14,
+                  "endLine": 5,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2357",
+          "level": "warning",
+          "message": "Make 'm_objectColorDictionary' private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/SerializableDictionaryExample.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 31,
+                  "endLine": 15,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4004",
+          "level": "warning",
+          "message": "Make the 'StringStringDictionary' property read-only by removing the property setter or making it private.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/SerializableDictionaryExample.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 37,
+                  "endLine": 9,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'NetworkManager' into a named namespace.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NetworkManager.cs",
                 "region": {
-                  "startLine": 8,
-                  "startColumn": 35,
-                  "endLine": 8,
+                  "startLine": 5,
+                  "startColumn": 14,
+                  "endLine": 5,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'Layer' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/Layer.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 14,
+                  "endLine": 3,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1450",
+          "level": "warning",
+          "message": "Remove the field 'layers' and declare it as a local variable in the relevant methods.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NetworkManager.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 21,
+                  "endLine": 12,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'SerializableDictionaryExample' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/SerializableDictionaryExample.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 14,
+                  "endLine": 5,
                   "endColumn": 43
                 }
               }
@@ -230,48 +461,6 @@
           }
         },
         {
-          "ruleId": "S1659",
-          "level": "warning",
-          "message": "Declare 'numNodesOut' in a separate statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/Layer.cs",
-                "region": {
-                  "startLine": 5,
-                  "startColumn": 38,
-                  "endLine": 5,
-                  "endColumn": 49
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3967",
-          "level": "warning",
-          "message": "Change this multidimensional array to a jagged array.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/Layer.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 32,
-                  "endLine": 7,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S105",
           "level": "warning",
           "message": "Replace all tab characters in this file by sequences of white-spaces.",
@@ -284,48 +473,6 @@
                   "startColumn": 1,
                   "endLine": 6,
                   "endColumn": 1
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NeuralNetwork.cs",
-                "region": {
-                  "startLine": 1,
-                  "startColumn": 1,
-                  "endLine": 1,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NeuralNetwork.cs",
-                "region": {
-                  "startLine": 3,
-                  "startColumn": 1,
-                  "endLine": 3,
-                  "endColumn": 19
                 }
               }
             }
@@ -356,102 +503,18 @@
           }
         },
         {
-          "ruleId": "S3903",
+          "ruleId": "S2357",
           "level": "warning",
-          "message": "Move 'NeuralNetwork' into a named namespace.",
+          "message": "Make 'data' private.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NeuralNetwork.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
                 "region": {
-                  "startLine": 5,
-                  "startColumn": 14,
-                  "endLine": 5,
-                  "endColumn": 27
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3903",
-          "level": "warning",
-          "message": "Move 'NetworkManager' into a named namespace.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NetworkManager.cs",
-                "region": {
-                  "startLine": 5,
-                  "startColumn": 14,
-                  "endLine": 5,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/Layer.cs",
-                "region": {
-                  "startLine": 1,
-                  "startColumn": 1,
-                  "endLine": 1,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1450",
-          "level": "warning",
-          "message": "Remove the field 'layers' and declare it as a local variable in the relevant methods.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NetworkManager.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 21,
-                  "endLine": 12,
-                  "endColumn": 27
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1128",
-          "level": "warning",
-          "message": "Remove this unnecessary 'using'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/SerializableDictionaryExample.cs",
-                "region": {
-                  "startLine": 1,
-                  "startColumn": 1,
-                  "endLine": 1,
-                  "endColumn": 26
+                  "startLine": 100,
+                  "startColumn": 12,
+                  "endLine": 100,
+                  "endColumn": 16
                 }
               }
             }
@@ -488,12 +551,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Renderers/RenderBoard.cs",
                 "region": {
                   "startLine": 1,
                   "startColumn": 1,
                   "endLine": 1,
-                  "endColumn": 26
+                  "endColumn": 16
                 }
               }
             }
@@ -509,11 +572,11 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NeuralNetwork.cs",
                 "region": {
-                  "startLine": 2,
+                  "startLine": 1,
                   "startColumn": 1,
-                  "endLine": 2,
+                  "endLine": 1,
                   "endColumn": 34
                 }
               }
@@ -524,16 +587,16 @@
           }
         },
         {
-          "ruleId": "S3903",
+          "ruleId": "S1128",
           "level": "warning",
-          "message": "Move 'Layer' into a named namespace.",
+          "message": "Remove this unnecessary 'using'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/Layer.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NeuralNetwork.cs",
                 "region": {
                   "startLine": 3,
-                  "startColumn": 14,
+                  "startColumn": 1,
                   "endLine": 3,
                   "endColumn": 19
                 }
@@ -551,75 +614,33 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/Layer.cs",
                 "region": {
-                  "startLine": 2,
+                  "startLine": 1,
                   "startColumn": 1,
-                  "endLine": 2,
+                  "endLine": 1,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/SerializableDictionaryExample.cs",
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
                   "endColumn": 26
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S4004",
-          "level": "warning",
-          "message": "Make the 'StringStringDictionary' property read-only by removing the property setter or making it private.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/SerializableDictionaryExample.cs",
-                "region": {
-                  "startLine": 9,
-                  "startColumn": 37,
-                  "endLine": 9,
-                  "endColumn": 59
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2357",
-          "level": "warning",
-          "message": "Make 'm_objectColorDictionary' private.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/SerializableDictionaryExample.cs",
-                "region": {
-                  "startLine": 15,
-                  "startColumn": 31,
-                  "endLine": 15,
-                  "endColumn": 54
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2357",
-          "level": "warning",
-          "message": "Make 'm_objectColorArrayDictionary' private.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/SerializableDictionaryExample.cs",
-                "region": {
-                  "startLine": 16,
-                  "startColumn": 36,
-                  "endLine": 16,
-                  "endColumn": 64
                 }
               }
             }
@@ -631,37 +652,16 @@
         {
           "ruleId": "S3903",
           "level": "warning",
-          "message": "Move 'SerializableDictionaryExample' into a named namespace.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/SerializableDictionaryExample.cs",
-                "region": {
-                  "startLine": 5,
-                  "startColumn": 14,
-                  "endLine": 5,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2357",
-          "level": "warning",
-          "message": "Make 'data' private.",
+          "message": "Move 'SerializableDictionary' into a named namespace.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
                 "region": {
-                  "startLine": 100,
-                  "startColumn": 12,
-                  "endLine": 100,
-                  "endColumn": 16
+                  "startLine": 96,
+                  "startColumn": 21,
+                  "endLine": 96,
+                  "endColumn": 43
                 }
               }
             }
@@ -692,18 +692,39 @@
           }
         },
         {
-          "ruleId": "S3903",
+          "ruleId": "S1128",
           "level": "warning",
-          "message": "Move 'ObjectColorDictionary' into a named namespace.",
+          "message": "Remove this unnecessary 'using'.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
                 "region": {
-                  "startLine": 10,
-                  "startColumn": 14,
-                  "endLine": 10,
-                  "endColumn": 35
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 1,
+                  "endLine": 2,
+                  "endColumn": 34
                 }
               }
             }
@@ -736,16 +757,37 @@
         {
           "ruleId": "S3903",
           "level": "warning",
-          "message": "Move 'SerializableDictionary' into a named namespace.",
+          "message": "Move 'ObjectColorDictionary' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 14,
+                  "endLine": 10,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
                 "region": {
-                  "startLine": 96,
-                  "startColumn": 21,
-                  "endLine": 96,
-                  "endColumn": 43
+                  "startLine": 2,
+                  "startColumn": 1,
+                  "endLine": 2,
+                  "endColumn": 26
                 }
               }
             }
@@ -799,79 +841,16 @@
         {
           "ruleId": "S3903",
           "level": "warning",
-          "message": "Move 'StringColorArrayDictionary' into a named namespace.",
+          "message": "Move 'AudioManager' into a named namespace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/AudioManager.cs",
                 "region": {
-                  "startLine": 16,
+                  "startLine": 3,
                   "startColumn": 14,
-                  "endLine": 16,
-                  "endColumn": 40
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3903",
-          "level": "warning",
-          "message": "Move 'SerializableDictionary' into a named namespace.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
-                "region": {
-                  "startLine": 73,
-                  "startColumn": 14,
-                  "endLine": 73,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3903",
-          "level": "warning",
-          "message": "Move 'SerializableDictionaryBase' into a named namespace.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 23,
-                  "endLine": 7,
-                  "endColumn": 49
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3903",
-          "level": "warning",
-          "message": "Move 'SerializableDictionary' into a named namespace.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
-                "region": {
-                  "startLine": 104,
-                  "startColumn": 14,
-                  "endLine": 104,
-                  "endColumn": 36
+                  "endLine": 3,
+                  "endColumn": 26
                 }
               }
             }
@@ -926,43 +905,6 @@
               "resultFile": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
                 "region": {
-                  "startLine": 10,
-                  "startColumn": 14,
-                  "endLine": 10,
-                  "endColumn": 35
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
-                "region": {
-                  "startLine": 10,
-                  "startColumn": 8,
-                  "endLine": 10,
-                  "endColumn": 13
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": "Add a 'protected' constructor 'ObjectColorDictionary(SerializationInfo, StreamingContext)'."
-            }
-          }
-        },
-        {
-          "ruleId": "S3925",
-          "level": "warning",
-          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
-                "region": {
                   "startLine": 19,
                   "startColumn": 14,
                   "endLine": 19,
@@ -1000,10 +942,10 @@
               "resultFile": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
                 "region": {
-                  "startLine": 16,
+                  "startLine": 10,
                   "startColumn": 14,
-                  "endLine": 16,
-                  "endColumn": 40
+                  "endLine": 10,
+                  "endColumn": 35
                 }
               }
             }
@@ -1013,9 +955,9 @@
               "physicalLocation": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
                 "region": {
-                  "startLine": 16,
+                  "startLine": 10,
                   "startColumn": 8,
-                  "endLine": 16,
+                  "endLine": 10,
                   "endColumn": 13
                 }
               }
@@ -1024,7 +966,7 @@
           "properties": {
             "warningLevel": 1,
             "customProperties": {
-              "0": "Add a 'protected' constructor 'StringColorArrayDictionary(SerializationInfo, StreamingContext)'."
+              "0": "Add a 'protected' constructor 'ObjectColorDictionary(SerializationInfo, StreamingContext)'."
             }
           }
         },
@@ -1066,9 +1008,30 @@
           }
         },
         {
-          "ruleId": "S3925",
+          "ruleId": "S3903",
           "level": "warning",
-          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "message": "Move 'SerializableDictionaryBase' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 23,
+                  "endLine": 7,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'SerializableDictionary' into a named namespace.",
           "locations": [
             {
               "resultFile": {
@@ -1082,24 +1045,8 @@
               }
             }
           ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
-                "region": {
-                  "startLine": 73,
-                  "startColumn": 8,
-                  "endLine": 73,
-                  "endColumn": 13
-                }
-              }
-            }
-          ],
           "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": "Add 'System.SerializableAttribute' attribute on 'SerializableDictionary' because it implements 'ISerializable'."
-            }
+            "warningLevel": 1
           }
         },
         {
@@ -1111,9 +1058,9 @@
               "resultFile": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
                 "region": {
-                  "startLine": 104,
+                  "startLine": 73,
                   "startColumn": 14,
-                  "endLine": 104,
+                  "endLine": 73,
                   "endColumn": 36
                 }
               }
@@ -1124,9 +1071,9 @@
               "physicalLocation": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
                 "region": {
-                  "startLine": 104,
+                  "startLine": 73,
                   "startColumn": 8,
-                  "endLine": 104,
+                  "endLine": 73,
                   "endColumn": 13
                 }
               }
@@ -1161,24 +1108,61 @@
           }
         },
         {
-          "ruleId": "S2436",
+          "ruleId": "S3903",
           "level": "warning",
-          "message": "Reduce the number of generic parameters in the 'SerializableDictionary' class to no more than the 2 authorized.",
+          "message": "Move 'StringColorArrayDictionary' into a named namespace.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
                 "region": {
-                  "startLine": 104,
+                  "startLine": 16,
                   "startColumn": 14,
-                  "endLine": 104,
-                  "endColumn": 36
+                  "endLine": 16,
+                  "endColumn": 40
                 }
               }
             }
           ],
           "properties": {
             "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 14,
+                  "endLine": 16,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/Example/UserSerializableDictionaries.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 8,
+                  "endLine": 16,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add a 'protected' constructor 'StringColorArrayDictionary(SerializationInfo, StreamingContext)'."
+            }
           }
         },
         {
@@ -1200,6 +1184,85 @@
           ],
           "properties": {
             "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'SerializableDictionary' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 14,
+                  "endLine": 104,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3900",
+          "level": "warning",
+          "message": "Refactor this method to add validation of parameter 'layerSizes' before using it.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NeuralNetwork.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 28,
+                  "endLine": 10,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 14,
+                  "endLine": 104,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 8,
+                  "endLine": 104,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add 'System.SerializableAttribute' attribute on 'SerializableDictionary' because it implements 'ISerializable'."
+            }
           }
         },
         {
@@ -1228,48 +1291,6 @@
           }
         },
         {
-          "ruleId": "S3900",
-          "level": "warning",
-          "message": "Refactor this method to add validation of parameter 'layerSizes' before using it.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NeuralNetwork.cs",
-                "region": {
-                  "startLine": 10,
-                  "startColumn": 28,
-                  "endLine": 10,
-                  "endColumn": 38
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1940",
-          "level": "warning",
-          "message": "Use the opposite operator ('<=') instead.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NeuralNetwork.cs",
-                "region": {
-                  "startLine": 31,
-                  "startColumn": 17,
-                  "endLine": 31,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S3442",
           "level": "warning",
           "message": "Change the visibility of this constructor to 'protected'.",
@@ -1282,6 +1303,27 @@
                   "startColumn": 2,
                   "endLine": 14,
                   "endColumn": 8
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2436",
+          "level": "warning",
+          "message": "Reduce the number of generic parameters in the 'SerializableDictionary' class to no more than the 2 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 14,
+                  "endLine": 104,
+                  "endColumn": 36
                 }
               }
             }
@@ -1333,18 +1375,43 @@
           }
         },
         {
-          "ruleId": "S3900",
+          "ruleId": "S3240",
           "level": "warning",
-          "message": "Refactor this method to add validation of parameter 'storage' before using it.",
+          "message": "Use the '?:' operator here.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Visualize.cs",
                 "region": {
-                  "startLine": 118,
-                  "startColumn": 10,
-                  "endLine": 118,
-                  "endColumn": 17
+                  "startLine": 25,
+                  "startColumn": 17,
+                  "endLine": 25,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "IsNullCoalesceAssignmentSupported": "True",
+              "SimplifiedOperator": "?:"
+            }
+          }
+        },
+        {
+          "ruleId": "S4055",
+          "level": "warning",
+          "message": "Replace this string literal with a string retrieved through an instance of the 'ResourceManager' class.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Visualize.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 28,
+                  "endLine": 11,
+                  "endColumn": 54
                 }
               }
             }
@@ -1366,27 +1433,6 @@
                   "startColumn": 2,
                   "endLine": 18,
                   "endColumn": 8
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3900",
-          "level": "warning",
-          "message": "Refactor this method to add validation of parameter 'storage' before using it.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
-                "region": {
-                  "startLine": 87,
-                  "startColumn": 10,
-                  "endLine": 87,
-                  "endColumn": 17
                 }
               }
             }
@@ -1425,10 +1471,31 @@
               "resultFile": {
                 "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
                 "region": {
-                  "startLine": 123,
-                  "startColumn": 3,
-                  "endLine": 123,
-                  "endColumn": 10
+                  "startLine": 87,
+                  "startColumn": 10,
+                  "endLine": 87,
+                  "endColumn": 17
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3900",
+          "level": "warning",
+          "message": "Refactor this method to add validation of parameter 'storage' before using it.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 10,
+                  "endLine": 118,
+                  "endColumn": 17
                 }
               }
             }
@@ -1461,6 +1528,48 @@
         {
           "ruleId": "S3900",
           "level": "warning",
+          "message": "Refactor this method to add validation of parameter 'storage' before using it.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/SerializableDictionary/SerializableDictionary.cs",
+                "region": {
+                  "startLine": 123,
+                  "startColumn": 3,
+                  "endLine": 123,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1940",
+          "level": "warning",
+          "message": "Use the opposite operator ('<=') instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Neural%20Network/NeuralNetwork.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 17,
+                  "endLine": 31,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3900",
+          "level": "warning",
           "message": "Refactor this method to add validation of parameter 'dict' before using it.",
           "locations": [
             {
@@ -1470,6 +1579,27 @@
                   "startLine": 34,
                   "startColumn": 23,
                   "endLine": 34,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1227",
+          "level": "warning",
+          "message": "Refactor the code in order to remove this break statement.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Managers/MovementManager.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 21,
+                  "endLine": 76,
                   "endColumn": 27
                 }
               }
@@ -1492,6 +1622,48 @@
                   "startColumn": 34,
                   "endLine": 25,
                   "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S131",
+          "level": "warning",
+          "message": "Add a 'default' clause to this 'switch' statement.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Renderers/RenderPieces.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 21,
+                  "endLine": 67,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S131",
+          "level": "warning",
+          "message": "Add a 'default' clause to this 'switch' statement.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/kdeen/OneDrive/Documents/Coding%20Projects/Computer-IA/Assets/Scripts/Chess/Renderers/RenderPieces.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 21,
+                  "endLine": 92,
+                  "endColumn": 27
                 }
               }
             }
@@ -1583,6 +1755,38 @@
           "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-113",
           "properties": {
             "category": "Minor Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1227": {
+          "id": "S1227",
+          "shortDescription": "break statements should not be used except for switch cases",
+          "fullDescription": "break; is an unstructured control flow statement which makes code harder to read.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1227",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S131": {
+          "id": "S131",
+          "shortDescription": "\"switch/Select\" statements should contain a \"default/Case Else\" clauses",
+          "fullDescription": "The requirement for a final default clause is defensive programming. The clause should either take appropriate action, or contain a suitable comment as to why no action is taken. Even when the switch covers all current values of an enum, a default case should still be used because there is no guarantee that the enum won’t be extended.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-131",
+          "properties": {
+            "category": "Critical Code Smell",
             "isEnabledByDefault": false,
             "tags": [
               "C#",
@@ -1847,6 +2051,21 @@
               "C#",
               "MainSourceScope",
               "TestSourceScope"
+            ]
+          }
+        },
+        "S4055": {
+          "id": "S4055",
+          "shortDescription": "Literals should not be passed as localized parameters",
+          "fullDescription": "String literals embedded in the source code will not be localized properly.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4055",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope"
             ]
           }
         },

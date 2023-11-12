@@ -1,35 +1,50 @@
 
-Shapes.Polygon.FillSpace.getò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csù ù("0*
+Shapes.Polygon.FillSpace.setò
+ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csû û("0*
 0
-ù ù(*
-1*Ú
+û û(*
+1*ﬂ
 1
-ù
- ù(d
+û
+ û(Ud
 b
 
-ù
- ù(
+û? û(C
 %0Shapes.GradientFill"__id*31*/
 Shapes.Polygon"
-fillShapes.GradientFillv
-t
+fillShapes.GradientFillk
+i
 
-ù
- ù(
-%retShapes.FillSpace"__id*F
+û? û(Q6
+
+%0Shapes.GradientFill"
+spaceShapes.FillSpace"__id*
+
+valueShapes.FillSpaceı
+Ú
 
-ù
- ù(8*6
+û
+ û(U
+
+%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)* 
+
+û
+ û(
+Shapes.Polygon*D
+
+û û(66*4
+Shapes.ShapesMaterialUtils"
+propFillSpaceint*F
+
+û8 û(S8*6
 
 %0Shapes.GradientFill"
 spaceShapes.FillSpace*
-2*9
+2*2
 2
-ù ù("(
+ûV û(V"!
 
-ù ù(
-
-%retShapes.FillSpaceB
+ûU û(V
+implicit return:
+valueShapes.FillSpaceB
 Shapes.Polygon

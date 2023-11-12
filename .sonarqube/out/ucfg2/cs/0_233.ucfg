@@ -1,11 +1,41 @@
 
-8Shapes.DestroyOnAssemblyReload.DestroyOnAssemblyReload()å
-ÅC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DestroyOnAssemblyReload.cs (%"0*t
-0	 	(D
-B
+Shapes.MpbCone.MpbCone()Ö
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs	 	("0*«
+0 (j
+h
+) (:(
+%0"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbÉ
+Ä
+  (:@
+Shapes.MpbCone",
+length"System.Collections.Generic.List<T>"__id*,*
+(
+%0"System.Collections.Generic.List<T>j
+h
+) (:(
+%1"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbÉ
+Ä
+  (:@
+Shapes.MpbCone",
+radius"System.Collections.Generic.List<T>"__id*,*
+(
+%1"System.Collections.Generic.List<T>j
+h
+, (=(
+%2"System.Collections.Generic.List<T>"Shapes.MetaMpb.InitList<T>()*"
+Shapes.MetaMpbÜ
+É
+  (=C
+Shapes.MpbCone"/
+	sizeSpace"System.Collections.Generic.List<T>"__id*,*
+(
+%2"System.Collections.Generic.List<T>>
+<
 
-%0void"System.Attribute.Attribute()*
-System.Attribute"
- 	(
-implicit returnB" 
-Shapes.DestroyOnAssemblyReload
+%3void"Shapes.MetaMpb.MetaMpb()*
+Shapes.MetaMpb"
+	 (
+implicit returnB
+Shapes.MpbCone

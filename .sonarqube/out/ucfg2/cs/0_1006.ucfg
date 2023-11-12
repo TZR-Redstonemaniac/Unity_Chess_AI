@@ -1,27 +1,48 @@
 
-%Shapes.DashStyle.DefaultDashStyle.get
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.csÑ Ñ("0*
-0
-Ñ Ñ(*
-1*ê
-1
-Ñ
- Ñ(z
-x
+6Shapes.PolylinePath.SetPoint(int, UnityEngine.Vector3)Ñ
+zC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PolylinePath.cs ("0*
+0 (*
+1*“
+1 (—
+Œ
+ ( 
+%0Shapes.PolylinePoint"7System.Collections.Generic.ICollection<T>.this[int].get*Q
+ (E*C
+Shapes.PolylinePath"*
+path"System.Collections.Generic.List<T>*
+ (
+
+indexintM
+K
+ ( 
+pShapes.PolylinePoint"__id*
+
+%0Shapes.PolylinePointo
+m
+ (9
+
+pShapes.PolylinePoint"
+pointUnityEngine.Vector3"__id* 
+
+pointUnityEngine.Vector3©
+¶
+ (
 
-Ñ
- Ñ(
-%retShapes.DashStyle"__id*J
-
-Ñ
- Ñ(<*:
-Shapes.DashStyle"$
-defaultDashStyleShapes.DashStyle*
-2*9
-2
-Ñ Ñ("(
-
-Ñ Ñ(
-
-%retShapes.DashStyleB"
-Shapes.DashStyle
+%1void"$Shapes.PointPath<T>.SetPoint(int, T)*#
+ (
+Shapes.PolylinePath*
+ (
+
+indexint*'
+ (
+
+pShapes.PolylinePoint*
+2*.
+2 ("
+ (
+implicit return:
+ (!
+indexint:(
+# (0
+pointUnityEngine.Vector3B
+Shapes.PolylinePath

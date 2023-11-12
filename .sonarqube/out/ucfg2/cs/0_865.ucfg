@@ -1,35 +1,48 @@
 
-Shapes.Polyline.this[int].get|
-rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polyline.csR R("0*
-0R R(*
-1*º
-1R
- R(À
-»
-R
- R(
-%0Shapes.PolylinePoint"7System.Collections.Generic.ICollection<T>.this[int].get*O
-R
- R(C*A
-Shapes.Polyline",
-points"System.Collections.Generic.List<T>*
-R R(
+*Shapes.MpbSphere.TransferShapeProperties()á
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csé é(1"0*
+0
+é é(*
+1*‹
+1
+è ê(@ú
+ô
 
-
-iintZ
-X
-R
- R(
-%retShapes.PolylinePoint"__id*(
-R
- R(
-
-%0Shapes.PolylinePoint*
-2*9
-2R R("*
-R R(
-
-%retShapes.PolylinePoint:
-
-iintB
-Shapes.Polyline
+è è(5
+
+%0void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*"
+
+è è(
+Shapes.MpbSphere*A
+
+è è(+3*1
+Shapes.ShapesMaterialUtils"
+
+propRadiusint*R
+
+è- è(3D*B
+Shapes.MpbSphere",
+radius"System.Collections.Generic.List<T>¶
+£
+
+ê ê(?
+
+%1void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*"
+
+ê ê(
+Shapes.MpbSphere*F
+
+ê ê(08*6
+Shapes.ShapesMaterialUtils"
+propRadiusSpaceint*W
+
+ê2 ê(=I*G
+Shapes.MpbSphere"1
+radiusSpace"System.Collections.Generic.List<T>*
+2*2
+2
+ë ë("!
+
+ë ë(
+implicit returnB
+Shapes.MpbSphere

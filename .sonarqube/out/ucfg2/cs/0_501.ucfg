@@ -1,54 +1,30 @@
 
-%Shapes.Rectangle.FillRadialOrigin.set˜
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs¨ ¨("0*
+Shapes.Draw.ScaleMode.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csŽ Ž("0*
 0
-¨ ¨(*
-1*ƒ
+Ž Ž(*
+1*à
 1
-© ª(Tf
-d
+Ž! Ž(8\
+Z
 
-© ©(
-%0Shapes.GradientFill"__id*53*1
-Shapes.Rectangle"
-fillShapes.GradientFillx
-v
+Ž! Ž(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStylel
+j
 
-© ©(@
+Ž! Ž(87
+
+%0Shapes.DrawStyle"
+	scaleModeShapes.ScaleMode"__id*
 
-%0Shapes.GradientFill"#
-radialOriginUnityEngine.Vector3"__id* 
-
-valueUnityEngine.Vector3™
-–
-
-ª6 ª(Q
-%1UnityEngine.Vector4"*Shapes.GradientFill.GetShaderStartVector()*A
-
-ª6 ª(:3*1
-Shapes.Rectangle"
-fillShapes.GradientFillî
-ë
-
-ª ª(S
-
-%2void"<Shapes.ShapeRenderer.SetVector4Now(int, UnityEngine.Vector4)*"
-
-ª ª(
-Shapes.Rectangle*D
-
-ª ª(46*4
-Shapes.ShapesMaterialUtils"
-propFillStartint*)
-
-ª6 ª(Q
-
-%1UnityEngine.Vector4*
+valueShapes.ScaleMode*
 2*2
 2
-« «("!
+Ž9 Ž(9"!
 
-« «(
-implicit return:
-valueUnityEngine.Vector3B
-Shapes.Rectangle
+Ž8 Ž(9
+implicit return:
+valueShapes.ScaleModeB"
+Shapes.Draw

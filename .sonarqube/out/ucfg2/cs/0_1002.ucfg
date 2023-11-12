@@ -1,21 +1,33 @@
 
-Shapes.Quad.A.getx
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csw w("0*
-0w w(*
-1*|
-1w
- w(h
-f
-w
- w(
-%retUnityEngine.Vector3"__id*7
-w
- w(+*)
-Shapes.Quad"
-aUnityEngine.Vector3*
-2*8
-2w w(")
-w w(
-
-%retUnityEngine.Vector3B
-Shapes.Quad
+'Shapes.Draw.RegularPolygonShapeFill.setˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csà à("0*
+0
+à à(*
+1*é
+1
+à
+ à($\
+Z
+
+à
+ à(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleu
+s
+
+à
+ à($=
+
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFill"__id* 
+
+valueShapes.GradientFill*
+2*2
+2
+à% à(%"!
+
+à$ à(%
+implicit return:
+valueShapes.GradientFillB"
+Shapes.Draw

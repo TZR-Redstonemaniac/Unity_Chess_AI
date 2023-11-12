@@ -56,8 +56,8 @@
      <Compile Include="Assets\Shapes\Scripts\Runtime\Microtypes\DiscType.cs" />
      <Compile Include="Assets\Shapes\Scripts\Runtime\Components\Line.cs" />
      <Compile Include="Assets\Shapes\Scripts\Runtime\Immediate Mode\ShapesRenderFeature.cs" />
-     <Compile Include="Assets\Shapes\Scripts\Runtime\Microtypes\PolylineJoins.cs" />
      <Compile Include="Assets\Shapes\Scripts\Runtime\Microtypes\PolylinePoint.cs" />
+     <Compile Include="Assets\Shapes\Scripts\Runtime\Microtypes\PolylineJoins.cs" />
      <Compile Include="Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.cs" />
      <Compile Include="Assets\Shapes\Scripts\Runtime\Utils\UnityInfo.cs" />
      <Compile Include="Assets\Shapes\Scripts\Runtime\Microtypes\RenderState.cs" />
@@ -98,8 +98,8 @@
      <Compile Include="Assets\Shapes\Scripts\Runtime\Immediate Mode\ShapeDrawState.cs" />
      <Compile Include="Assets\Shapes\Scripts\Runtime\Immediate Mode\PolylinePath.cs" />
      <Compile Include="Assets\Shapes\Scripts\Runtime\Immediate Mode\ImmediateModeShapeDrawer.cs" />
-     <Compile Include="Assets\Shapes\Scripts\Runtime\Immediate Mode\MatrixStack.cs" />
      <Compile Include="Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs" />
+     <Compile Include="Assets\Shapes\Scripts\Runtime\Immediate Mode\MatrixStack.cs" />
      <Compile Include="Assets\Shapes\Scripts\Runtime\Utils\ShapesIO.cs" />
      <Compile Include="Assets\Shapes\Scripts\Runtime\Immediate Mode\PointPath.cs" />
      <Compile Include="Assets\Shapes\Scripts\Runtime\Utils\ShapesMath.cs" />

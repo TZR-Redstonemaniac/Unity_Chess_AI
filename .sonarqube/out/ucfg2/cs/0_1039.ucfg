@@ -1,24 +1,35 @@
 
-)Shapes.DashStyle.DefaultDashStyleLine.set
-sC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\DashStyle.cs ("0*
+Shapes.Draw.DiscRadiusSpace.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs÷ ÷("0*
 0
- (*
-1*a
+÷ ÷(*
+1*ù
 1
-
- (K
-I
+÷
+ ÷(\
+Z
 
-
- (
-%0Shapes.DashStyle"__id*
-
-valueShapes.DashStyle*
-2*2
+÷
+ ÷(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyle„
+
+
+÷
+ ÷(
+%retShapes.ThicknessSpace"__id*N
+
+÷
+ ÷(@*>
+
+%0Shapes.DrawStyle"$
+radiusSpaceShapes.ThicknessSpace*
+2*>
 2
- ("!
+÷ ÷("-
 
- (
-implicit return:
-valueShapes.DashStyleB"
-Shapes.DashStyle
+÷ ÷(
+
+%retShapes.ThicknessSpaceB"
+Shapes.Draw

@@ -1,27 +1,16 @@
 
-Shapes.Quad.D.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.cs’ ’("0*
+3Shapes.MpbTriangle.Shapes.IDashableMpb.dashSize.get‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs»& »()"0*ë
 0
-’ ’(*
-1*‚
-1
-’
- ’(l
-j
+»* »(*Ÿ
+œ
 
-’
- ’(
-%retUnityEngine.Vector3"__id*9
+»& »(*(
+%0"System.Collections.Generic.List<T>"__id*^\*Z
+Shapes.MpbTriangle"B
+Shapes.IDashableMpb.dashSize"System.Collections.Generic.List<T>"8
 
-’
- ’(+*)
-Shapes.Quad"
-dUnityEngine.Vector3*
-2*<
-2
-’ ’("+
-
-’ ’(
-
-%retUnityEngine.Vector3B
-Shapes.Quad
+»& »(**
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbTriangle

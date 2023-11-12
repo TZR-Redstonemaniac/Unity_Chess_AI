@@ -1,13 +1,31 @@
 
-:Shapes.MpbLine2D.Shapes.IDashableMpb.dashShapeModifier.getÖ
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csX/ X(2"0*Ï
-0X3 X(3§
-°
-X/ X(3(
-%0"System.Collections.Generic.List<T>"__id*ec*a
-Shapes.MpbLine2D"K
-%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"6
-X/ X(3*
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbLine2D
+Shapes.Draw.PolylineJoins.getà
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs‘ ‘("0*
+0
+‘ ‘(*
+1*˘
+1
+‘! ‘(4\
+Z
+
+‘! ‘(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyleÑ
+Å
+
+‘! ‘(4
+%retShapes.PolylineJoins"__id*O
+
+‘! ‘(4A*?
+
+%0Shapes.DrawStyle"%
+polylineJoinsShapes.PolylineJoins*
+2*=
+2
+‘5 ‘(5",
+
+‘4 ‘(5
+
+%retShapes.PolylineJoinsB"
+Shapes.Draw

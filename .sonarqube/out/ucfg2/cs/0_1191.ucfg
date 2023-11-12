@@ -1,18 +1,29 @@
 
-<Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSpacing.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs÷) ÷(,"0*²
-0
-÷- ÷(-«
-¨
+.Shapes.StyleStack.StyleStack(Shapes.DrawStyle)‚
+xC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\StyleStack.cs ("1*
+1A (A*
+0*Ï
+0, (>ˆ
+…
+, (2)
+%0#System.Collections.Generic.Stack<T>"__id*HF*D
+Shapes.StyleStack"-
+styles#System.Collections.Generic.Stack<T>š
+—
+, (@
 
-÷) ÷(-c
-Shapes.MpbRegularPolygon"E
-Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"s
+%1void"1System.Collections.Generic.ICollection<T>.Push(T)*-+
+)
+%0#System.Collections.Generic.Stack<T>*
+
+styleShapes.DrawStyle"
+, (@
 
-÷) ÷(-e*c
-Shapes.MpbRegularPolygon"E
-Shapes.IDashableMpb.dashSpacing"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+
+%1void*.
+2A (A"
+@ (A
+implicit return:%
+ (&
+styleShapes.DrawStyleB
+Shapes.StyleStack

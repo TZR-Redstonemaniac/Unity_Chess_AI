@@ -1,0 +1,147 @@
+
+*Renderers.RenderBoard.RenderBoard()!staticu
+kC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Scripts\Chess\Renderers\RenderBoard.cs ("0*È
+0I I(m
+k
+1 (S	
+%0int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_DropMouseXO
+M
+$ (S,
+Renderers.RenderBoard"
+
+DropMouseXint"__id*
+	
+%0intm
+k
+1 (S	
+%1int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_DropMouseYO
+M
+$ (S,
+Renderers.RenderBoard"
+
+DropMouseYint"__id*
+	
+%1into
+m
+3 (W	
+%2int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_PickupMouseXQ
+O
+$ (W.
+Renderers.RenderBoard"
+PickupMouseXint"__id*
+	
+%2into
+m
+3 (W	
+%3int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_PickupMouseYQ
+O
+$ (W.
+Renderers.RenderBoard"
+PickupMouseYint"__id*
+	
+%3intm
+k
+ 1  (S	
+%4int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_LightColorO
+M
+ $  (S,
+Renderers.RenderBoard"
+
+LightColorint"__id*
+	
+%4ints
+q
+!7 !(_	
+%5int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_LightPickupColorU
+S
+!$ !(_2
+Renderers.RenderBoard"
+LightPickupColorint"__id*
+	
+%5intq
+o
+"5 "([	
+%6int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_LightDropColorS
+Q
+"$ "([0
+Renderers.RenderBoard"
+LightDropColorint"__id*
+	
+%6intl
+j
+$0 $(Q	
+%7int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+
+_DarkColorN
+L
+$$ $(Q+
+Renderers.RenderBoard"
+	DarkColorint"__id*
+	
+%7intr
+p
+%6 %(]	
+%8int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_DarkPickupColorT
+R
+%$ %(]1
+Renderers.RenderBoard"
+DarkPickupColorint"__id*
+	
+%8intp
+n
+&4 &(Y	
+%9int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*
+_DarkDropColorR
+P
+&$ &(Y/
+Renderers.RenderBoard"
+DarkDropColorint"__id*
+	
+%9intj
+h
+(- ((K
+
+%10int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*	
+_PickupL
+J
+($ ((K(
+Renderers.RenderBoard"
+Pickupint"__id*
+
+
+%10inth
+f
+)+ )(G
+
+%11int"'UnityEngine.Shader.PropertyToID(string)*"
+UnityEngine.Shader*	
+_DropJ
+H
+)$ )(G&
+Renderers.RenderBoard"
+Dropint"__id*
+
+
+%11int"
+ I(
+implicit returnB"
+Renderers.RenderBoard

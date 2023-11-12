@@ -1,27 +1,18 @@
 
-Shapes.Quad.ColorTop.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csÃ Ã("0*
-0
-Ã Ã(*
-1*ƒ
-1
-Ã
- Ã(m
-k
-
-Ã
- Ã(
-%retUnityEngine.Color"__id*<
-
-Ã
- Ã(.*,
-Shapes.Quad"
-colorBUnityEngine.Color*
-2*:
-2
-Ã Ã(")
-
-Ã Ã(
-
-%retUnityEngine.ColorB
-Shapes.Quad
+Shapes.TextElement.GetNextId()ƒ
+yC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\TextElement.cs ("0*
+0 (*
+1*k
+1# (.W
+U
+# (.
+%retint"__id*6
+# (.**(
+Shapes.TextElement"
+	idCounterint*
+2*(
+2/ (/"
+. (/
+
+%retintB"
+Shapes.TextElement

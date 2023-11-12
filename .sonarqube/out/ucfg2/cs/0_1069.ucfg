@@ -1,41 +1,23 @@
 
-<Shapes.DisposableMesh.ReleaseFromCommand(Shapes.DrawCommand)†
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DisposableMesh.cs2 2(""0*
-02 2(*
-1*
-13 4( Ö
-Ó
-3 3(
+.Shapes.MatrixStack.Push(UnityEngine.Matrix4x4)ƒ
+yC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MatrixStack.cs ("0*
+0 (*
+1*ê
+16 (PÕ
+Ò
+6 (P
 
-%0bool"3System.Collections.Generic.ICollection<T>.Remove(T)*]
-3 3(Q*O
-Shapes.DisposableMesh"4
-usedByCommands"System.Collections.Generic.List<T>*'
-3 3(
-
-cmdShapes.DrawCommand¬
-©
-4 4(	
-%1int"3System.Collections.Generic.ICollection<T>.Count.get*]
-4 4(Q*O
-Shapes.DisposableMesh"4
-usedByCommands"System.Collections.Generic.List<T>*
-2
-4*
-24$ 4(<*
-3
-4*t
-35 5(`
-^
-5 5(
-
-%2void"Shapes.DisposableMesh.Dispose()*%
-5 5(
-Shapes.DisposableMesh*
-4*.
-46 6("
-6 6(
-implicit return:%
-2$ 2(3
-cmdShapes.DrawCommandB
-Shapes.DisposableMesh
+%0void"1System.Collections.Generic.ICollection<T>.Push(T)*U
+6 (>I*G
+Shapes.MatrixStack"/
+matrices#System.Collections.Generic.Stack<T>*0
+E (N$
+"
+	prevStateUnityEngine.Matrix4x4*
+2*.
+2Q (Q"
+P (Q
+implicit return:.
+ (0"
+	prevStateUnityEngine.Matrix4x4B"
+Shapes.MatrixStack

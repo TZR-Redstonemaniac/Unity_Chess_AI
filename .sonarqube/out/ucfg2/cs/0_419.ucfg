@@ -1,50 +1,17 @@
 
-Shapes.Triangle.DashType.setò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csè è("0*
-0
-è è(*
-1*‘
-1
-è
- è(Xd
-b
+Shapes.ShapeGroup.OnValidate()~
+tC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeGroup.cs+ +("0*
+0+ +(*
+1*v
+1+ +(*b
+`
++ +(*
 
-è> è(G
-%0Shapes.DashStyle"__id*64*2
-Shapes.Triangle"
-	dashStyleShapes.DashStylee
-c
-
-è> è(T1
-
-%0Shapes.DashStyle"
-typeShapes.DashType"__id*
-
-valueShapes.DashType
-Ì
-
-è
- è(X
-
-%1void"(Shapes.ShapeRenderer.SetIntNow(int, int)*!
-
-è
- è(
-Shapes.Triangle*C
-
-è è(55*3
-Shapes.ShapesMaterialUtils"
-propDashTypeint*A
-
-è7 è(V3*1
-
-%0Shapes.DashStyle"
-typeShapes.DashType*
-2*2
-2
-èY è(Y"!
-
-èX è(Y
-implicit return:
-valueShapes.DashTypeB
-Shapes.Triangle
+%0void"%Shapes.ShapeGroup.UpdateChildShapes()*!
++ +((
+Shapes.ShapeGroup*
+2*.
+2++ +(+"
++* +(+
+implicit returnB
+Shapes.ShapeGroup

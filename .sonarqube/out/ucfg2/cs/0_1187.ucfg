@@ -1,16 +1,35 @@
 
-:Shapes.MpbRegularPolygon.Shapes.IDashableMpb.dashSpace.get‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csö' ö(*"0*ò
+Shapes.Draw.CuboidSizeSpace.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.cs¹ ¹("0*
 0
-ö+ ö(+¦
-£
+¹ ¹(*
+1*ö
+1
+¹
+ ¹(\
+Z
 
-ö' ö(+(
-%0"System.Collections.Generic.List<T>"__id*ec*a
-Shapes.MpbRegularPolygon"C
-Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>"8
+¹
+ ¹(
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyle
+
 
-ö' ö(+*
-(
-%0"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+¹
+ ¹(
+%retShapes.ThicknessSpace"__id*L
+
+¹
+ ¹(>*<
+
+%0Shapes.DrawStyle""
+	sizeSpaceShapes.ThicknessSpace*
+2*>
+2
+¹ ¹("-
+
+¹ ¹(
+
+%retShapes.ThicknessSpaceB"
+Shapes.Draw

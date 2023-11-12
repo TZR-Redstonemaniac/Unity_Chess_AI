@@ -1,35 +1,21 @@
 
-%Shapes.Triangle.DashShapeModifier.getò
-ãC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csí í("0*
-0
-í í(*
-1*·
-1
-í
- í(!d
-b
-
-í
- í(
-%0Shapes.DashStyle"__id*64*2
-Shapes.Triangle"
-	dashStyleShapes.DashStylee
-c
-
-í
- í(!
-%retfloat"__id*@
-
-í
- í(!2*0
-
-%0Shapes.DashStyle"
-shapeModifierfloat*
-2*.
-2
-í" í(""
-
-í! í("
-
-%retfloatB
-Shapes.Triangle
+Shapes.Line.ThicknessSpace.getx
+nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Line.csZ Z("0*
+0Z Z(*
+1*ç
+1Z
+ Z(y
+w
+Z
+ Z(
+%retShapes.ThicknessSpace"__id*F
+Z
+ Z(:*8
+Shapes.Line"'
+thicknessSpaceShapes.ThicknessSpace*
+2*:
+2Z Z("+
+Z Z(
+
+%retShapes.ThicknessSpaceB
+Shapes.Line

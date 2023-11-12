@@ -1,33 +1,16 @@
 
- Shapes.Draw.PolygonShapeFill.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÚ Ú("0*
+4Shapes.MpbTriangle.Shapes.IDashableMpb.dashSpace.get‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs½' ½(*"0*ì
 0
-Ú Ú(*
-1*é
-1
-Ú
- Ú($\
-Z
+½+ ½(+ 
+
 
-Ú
- Ú(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleu
-s
+½' ½(+(
+%0"System.Collections.Generic.List<T>"__id*_]*[
+Shapes.MpbTriangle"C
+Shapes.IDashableMpb.dashSpace"System.Collections.Generic.List<T>"8
 
-Ú
- Ú($=
-
-%0Shapes.DrawStyle"#
-gradientFillShapes.GradientFill"__id* 
-
-valueShapes.GradientFill*
-2*2
-2
-Ú% Ú(%"!
-
-Ú$ Ú(%
-implicit return:
-valueShapes.GradientFillB"
-Shapes.Draw
+½' ½(+*
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbTriangle

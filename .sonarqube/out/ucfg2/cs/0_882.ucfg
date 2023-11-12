@@ -1,26 +1,16 @@
 
-!Shapes.RenderState.Equals(object)
-uC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Microtypes\RenderState.cs_ _("0*Y
-0_/ _(GB
-@
-_/ _(G
-otherShapes.RenderState"__id*
+:Shapes.MpbRegularPolygon.Shapes.IFillableMpb.fillStart.get‡
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csî) î(,"0*ò
+0
+î- î(-¦
+£
 
-objobject*
-1
-2*˜
-1_K _(Xƒ
-€
-_K _(Z
+î) î(-(
+%0"System.Collections.Generic.List<T>"__id*ec*a
+Shapes.MpbRegularPolygon"C
+Shapes.IFillableMpb.fillStart"System.Collections.Generic.List<T>"8
 
-%0bool"-Shapes.RenderState.Equals(Shapes.RenderState)*
-Shapes.RenderState*
-
-otherShapes.RenderState*
-2*.
-2_[ _(["
-_Z _([
-implicit return:
-_ _()
-objobjectB
-Shapes.RenderState
+î) î(-*
+(
+%0"System.Collections.Generic.List<T>B
+Shapes.MpbRegularPolygon

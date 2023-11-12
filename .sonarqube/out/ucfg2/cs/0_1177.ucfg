@@ -1,18 +1,27 @@
 
-BShapes.MpbRegularPolygon.Shapes.IDashableMpb.dashShapeModifier.set‡
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.csó/ ó(2"0*¾
+Shapes.Triangle.ColorC.get~
+rC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Triangle.cs® ®("0*
 0
-ó3 ó(3±
-®
+® ®(*
+1*‡
+1
+®
+ ®(q
+o
 
-ó/ ó(3i
-Shapes.MpbRegularPolygon"K
-%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"y
+®
+ ®(
+%retUnityEngine.Color"__id*@
 
-ó/ ó(3k*i
-Shapes.MpbRegularPolygon"K
-%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbRegularPolygon
+®
+ ®(2*0
+Shapes.Triangle"
+colorCUnityEngine.Color*
+2*:
+2
+® ®(")
+
+® ®(
+
+%retUnityEngine.ColorB
+Shapes.Triangle

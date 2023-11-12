@@ -1,33 +1,48 @@
 
-Shapes.Draw.DiscRadius.setˆ
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csÎ Î("0*
-0
-Î Î(*
-1*Ç
-1
-Î
- Î(\
-Z
+4Shapes.PolylinePath.SetColor(int, UnityEngine.Color)„
+zC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\PolylinePath.cs! !("0*
+0! !(*
+1*Î
+1" $(Ñ
+Î
+" "( 
+%0Shapes.PolylinePoint"7System.Collections.Generic.ICollection<T>.this[int].get*Q
+" "(E*C
+Shapes.PolylinePath"*
+path"System.Collections.Generic.List<T>*
+" "(
+
+indexintM
+K
+" "( 
+pShapes.PolylinePoint"__id*
+
+%0Shapes.PolylinePointk
+i
+# #(7
+
+pShapes.PolylinePoint"
+colorUnityEngine.Color"__id*
+
+colorUnityEngine.Color©
+¦
+$ $(
 
-Î
- Î(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStyleS
-Q
-
-Î
- Î()
-
-%0Shapes.DrawStyle"
-radiusfloat"__id*
-
-valuefloat*
-2*2
-2
-Î Î("!
-
-Î Î(
-implicit return:
-valuefloatB"
-Shapes.Draw
+%1void"$Shapes.PointPath<T>.SetPoint(int, T)*#
+$ $(
+Shapes.PolylinePath*
+$ $(
+
+indexint*'
+$ $(
+
+pShapes.PolylinePoint*
+2*.
+2% %("
+% %(
+implicit return:
+! !(!
+indexint:&
+!# !(.
+colorUnityEngine.ColorB
+Shapes.PolylinePath

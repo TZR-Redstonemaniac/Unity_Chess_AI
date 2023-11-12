@@ -1,27 +1,178 @@
 
-Shapes.Quad.ColorRight.getz
-nC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Quad.csÀ À("0*
+,Shapes.MpbTriangle.TransferShapeProperties()á
+{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs¡ ¡(1"0*
 0
-À À(*
-1*É
+¡ ¡(*
+1*º
 1
-À
- À(m
-k
+¬ À(F§
+°
 
-À
- À(
-%retUnityEngine.Color"__id*<
+¬ ¬(+
 
-À
- À(.*,
-Shapes.Quad"
-colorCUnityEngine.Color*
-2*:
+%0void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*$
+
+¬ ¬(
+Shapes.MpbTriangle*<
+
+¬ ¬(&.*,
+Shapes.ShapesMaterialUtils"
+propAint*O
+
+¬( ¬()A*?
+Shapes.MpbTriangle"'
+a"System.Collections.Generic.List<T>§
+°
+
+√ √(+
+
+%1void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*$
+
+√ √(
+Shapes.MpbTriangle*<
+
+√ √(&.*,
+Shapes.ShapesMaterialUtils"
+propBint*O
+
+√( √()A*?
+Shapes.MpbTriangle"'
+b"System.Collections.Generic.List<T>§
+°
+
+ƒ ƒ(+
+
+%2void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*$
+
+ƒ ƒ(
+Shapes.MpbTriangle*<
+
+ƒ ƒ(&.*,
+Shapes.ShapesMaterialUtils"
+propCint*O
+
+ƒ( ƒ()A*?
+Shapes.MpbTriangle"'
+c"System.Collections.Generic.List<T>Æ
+´
+
+≈ ≈(5
+
+%3void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*$
+
+≈ ≈(
+Shapes.MpbTriangle*A
+
+≈ ≈(+3*1
+Shapes.ShapesMaterialUtils"
+
+propColorBint*T
+
+≈- ≈(3F*D
+Shapes.MpbTriangle",
+colorB"System.Collections.Generic.List<T>Æ
+´
+
+∆ ∆(5
+
+%4void"RShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<UnityEngine.Vector4>)*$
+
+∆ ∆(
+Shapes.MpbTriangle*A
+
+∆ ∆(+3*1
+Shapes.ShapesMaterialUtils"
+
+propColorCint*T
+
+∆- ∆(3F*D
+Shapes.MpbTriangle",
+colorC"System.Collections.Generic.List<T>†
+ù
+
+« «(5
+
+%5void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*$
+
+« «(
+Shapes.MpbTriangle*A
+
+« «(+3*1
+Shapes.ShapesMaterialUtils"
+
+propBorderint*T
+
+«- «(3F*D
+Shapes.MpbTriangle",
+hollow"System.Collections.Generic.List<T>¶
+£
+
+» »(;
+
+%6void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*$
+
+» »(
+Shapes.MpbTriangle*D
+
+» »(.6*4
+Shapes.ShapesMaterialUtils"
+propRoundnessint*W
+
+»0 »(9I*G
+Shapes.MpbTriangle"/
+	roundness"System.Collections.Generic.List<T>¶
+£
+
+… …(;
+
+%7void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*$
+
+… …(
+Shapes.MpbTriangle*D
+
+… …(.6*4
+Shapes.ShapesMaterialUtils"
+propScaleModeint*W
+
+…0 …(9I*G
+Shapes.MpbTriangle"/
+	scaleMode"System.Collections.Generic.List<T>¶
+£
+
+   (;
+
+%8void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*$
+
+   (
+Shapes.MpbTriangle*D
+
+   (.6*4
+Shapes.ShapesMaterialUtils"
+propThicknessint*W
+
+ 0  (9I*G
+Shapes.MpbTriangle"/
+	thickness"System.Collections.Generic.List<T>∞
+≠
+
+À À(E
+
+%9void"DShapes.MetaMpb.Transfer(int, System.Collections.Generic.List<float>)*$
+
+À À(
+Shapes.MpbTriangle*I
+
+À À(3;*9
+Shapes.ShapesMaterialUtils"
+propThicknessSpaceint*\
+
+À5 À(CN*L
+Shapes.MpbTriangle"4
+thicknessSpace"System.Collections.Generic.List<T>*
+2*2
 2
-À À(")
+Ã Ã("!
 
-À À(
-
-%retUnityEngine.ColorB
-Shapes.Quad
+Ã Ã(
+implicit returnB
+Shapes.MpbTriangle

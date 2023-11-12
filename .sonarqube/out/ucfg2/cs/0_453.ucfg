@@ -1,30 +1,35 @@
 
- Shapes.Draw.StencilWriteMask.set†
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csn n("0*
-0n n(*
-1*º
-1n! n(KZ
-X
-n! n(&
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylem
-k
-n! n(2
-%1Shapes.RenderState"__id*?=*;
-
-%0Shapes.DrawStyle"!
-renderStateShapes.RenderState[
-Y
-n! n(K4
-
-%1Shapes.RenderState"
-stencilWriteMaskbyte"__id*
+Shapes.Polygon.this[int].get{
+qC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Polygon.cs1 1("0*
+01 1(*
+1*¸
+11
+ 1(É
+Æ
+1
+ 1(
+%0UnityEngine.Vector2"7System.Collections.Generic.ICollection<T>.this[int].get*N
+1
+ 1(B*@
+Shapes.Polygon",
+points"System.Collections.Generic.List<T>*
+1 1(
 
-valuebyte*
-2*.
-2nL n(L"
-nK n(L
-implicit return:
-valuebyteB"
-Shapes.Draw
+
+iintX
+V
+1
+ 1(
+%retUnityEngine.Vector2"__id*'
+1
+ 1(
+
+%0UnityEngine.Vector2*
+2*8
+21 1(")
+1 1(
+
+%retUnityEngine.Vector2:
+
+iintB
+Shapes.Polygon

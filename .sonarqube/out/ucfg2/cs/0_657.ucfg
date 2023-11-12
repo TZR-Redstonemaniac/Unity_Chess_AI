@@ -1,21 +1,35 @@
 
-Shapes.Sphere.RadiusSpace.getz
-pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Sphere.cs ("0*
-0 (*
-1*Œ
-1
- (x
-v
-
- (
-%retShapes.ThicknessSpace"__id*E
-
- (9*7
-Shapes.Sphere"$
-radiusSpaceShapes.ThicknessSpace*
-2*:
-2 ("+
- (
-
-%retShapes.ThicknessSpaceB
-Shapes.Sphere
+(Shapes.Cuboid.SetAllMaterialProperties()z
+pC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Cuboid.cs" (:"0*
+0 (*
+1*ð
+1 (?ð
+í
+ (3
+
+%0void"9Shapes.ShapeRenderer.SetVector3(int, UnityEngine.Vector3)*
+ (
+Shapes.Cuboid*=
+ (+1*/
+Shapes.ShapesMaterialUtils"
+propSizeint*<
+- (10*.
+Shapes.Cuboid"
+sizeUnityEngine.Vector3è
+å
+ (>
+
+%1void"%Shapes.ShapeRenderer.SetInt(int, int)*
+ (	
+Shapes.Cuboid*B
+ (,6*4
+Shapes.ShapesMaterialUtils"
+propSizeSpaceint*C
+. (<7*5
+Shapes.Cuboid""
+	sizeSpaceShapes.ThicknessSpace*
+2*.
+2 ("
+ (
+implicit returnB
+Shapes.Cuboid

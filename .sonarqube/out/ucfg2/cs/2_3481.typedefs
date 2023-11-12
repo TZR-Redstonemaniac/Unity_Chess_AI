@@ -1,5 +1,4 @@
-‘
-Shapes.SpinningColorDiscsShapes.ImmediateModeShapeDrawerUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectZ
-DrawShapes(UnityEngine.Camera)8Shapes.SpinningColorDiscs.DrawShapes(UnityEngine.Camera)J
-GetDiscPosition(float)0Shapes.SpinningColorDiscs.GetDiscPosition(float)F
-SpinningColorDiscs().Shapes.SpinningColorDiscs.SpinningColorDiscs()
+ñ
+Shapes.CompassUnityEngine.MonoBehaviourUnityEngine.BehaviourUnityEngine.ComponentUnityEngine.ObjectobjectS
+ DrawCompass(UnityEngine.Vector3)/Shapes.Compass.DrawCompass(UnityEngine.Vector3)%
+	Compass()Shapes.Compass.Compass()

@@ -1,15 +1,21 @@
 
-8Shapes.MpbDisc.Shapes.IDashableMpb.dashShapeModifier.set…
-{C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\MetaMpbShapes.cs4/ 4(2"0*¤
-043 4(3¥
-¢
-4/ 4(3_
-Shapes.MpbDisc"K
-%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>"__id*/-
-+
-value"System.Collections.Generic.List<T>"m
-4/ 4(3a*_
-Shapes.MpbDisc"K
-%Shapes.IDashableMpb.dashShapeModifier"System.Collections.Generic.List<T>:-+
-value"System.Collections.Generic.List<T>B
-Shapes.MpbDisc
+!Shapes.DisposableMesh.ClearMesh()†
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DisposableMesh.csP P("0*
+0P P(*
+1*
+1Q Q(*
+2
+3*‰
+2R R(u
+s
+R R(
+
+%0void"UnityEngine.Mesh.Clear()*A
+R R(5*3
+Shapes.DisposableMesh"
+meshUnityEngine.Mesh*
+3*.
+3S S("
+S S(
+implicit returnB
+Shapes.DisposableMesh

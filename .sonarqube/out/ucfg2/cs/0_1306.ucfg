@@ -1,86 +1,116 @@
 
-'Shapes.Torus.SetAllMaterialProperties()y
-oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\Torus.cs6" 6(:"0*
-06 6(*
-1*æ
+~Shapes.ShapesMath.WeightedSum(UnityEngine.Vector4, UnityEngine.Color, UnityEngine.Color, UnityEngine.Color, UnityEngine.Color)y
+oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Utils\ShapesMath.cs%- %(8"0*
+0% %(*
+1*Ò
+1	%m %(’Ó
+Ð
+%m %(t
+%0UnityEngine.Color"6UnityEngine.Color.operator *(float, UnityEngine.Color)*"
+UnityEngine.Color*4
+%m %(p(*&
+
+wUnityEngine.Vector4"
 
-17 <(=Ô
+xfloat*$
+%s %(t
+
+aUnityEngine.ColorÓ
+Ð
+%w %(~
+%1UnityEngine.Color"6UnityEngine.Color.operator *(float, UnityEngine.Color)*"
+UnityEngine.Color*4
+%w %(z(*&
+
+wUnityEngine.Vector4"
+
+yfloat*$
+%} %(~
+
+bUnityEngine.ColorÑ
+Î
+%m %(~
+%2UnityEngine.Color"BUnityEngine.Color.operator +(UnityEngine.Color, UnityEngine.Color)*"
+UnityEngine.Color*%
+%m %(t
+
+%0UnityEngine.Color*%
+%w %(~
+
+%1UnityEngine.ColorÙ
+Ö
+
+% %(ˆ
+%3UnityEngine.Color"6UnityEngine.Color.operator *(float, UnityEngine.Color)*"
+UnityEngine.Color*6
+
+% %(„(*&
+
+wUnityEngine.Vector4"
+
+zfloat*&
+
+%‡ %(ˆ
+
+cUnityEngine.ColorÔ
 Ñ
-7 7(5
+	%m %(ˆ
+%4UnityEngine.Color"BUnityEngine.Color.operator +(UnityEngine.Color, UnityEngine.Color)*"
+UnityEngine.Color*%
+%m %(~
+
+%2UnityEngine.Color*'
 
-%0void")Shapes.ShapeRenderer.SetFloat(int, float)*
-7 7(
-Shapes.Torus*?
-7 7(+3*1
-Shapes.ShapesMaterialUtils"
+% %(ˆ
+
+%3UnityEngine.ColorÙ
+Ö
 
-propRadiusint*/
-7- 7(3#*!
-Shapes.Torus"
-radiusfloatÚ
-×
-8 8(;
+%‹ %(’
+%5UnityEngine.Color"6UnityEngine.Color.operator *(float, UnityEngine.Color)*"
+UnityEngine.Color*6
 
-%1void")Shapes.ShapeRenderer.SetFloat(int, float)*
-8 8(
-Shapes.Torus*B
-8 8(.6*4
-Shapes.ShapesMaterialUtils"
-propThicknessint*2
-80 8(9&*$
-Shapes.Torus"
-	thicknessfloatð
-í
-9 9(H
+%‹ %(Ž(*&
+
+wUnityEngine.Vector4"
 
-%2void"%Shapes.ShapeRenderer.SetInt(int, int)*
-9 9(	
-Shapes.Torus*G
-9 9(1;*9
-Shapes.ShapesMaterialUtils"
-propThicknessSpaceint*G
-93 9(F;*9
-Shapes.Torus"'
-thicknessSpaceShapes.ThicknessSpaceê
-ç
-: :(B
+wfloat*&
 
-%3void"%Shapes.ShapeRenderer.SetInt(int, int)*
-: :(	
-Shapes.Torus*D
-: :(.8*6
-Shapes.ShapesMaterialUtils"
-propRadiusSpaceint*D
-:0 :(@8*6
-Shapes.Torus"$
-radiusSpaceShapes.ThicknessSpaceß
-Ü
-; ;(@
+%‘ %(’
+
+dUnityEngine.ColorÕ
+Ò
+	%m %(’
+%6UnityEngine.Color"BUnityEngine.Color.operator +(UnityEngine.Color, UnityEngine.Color)*"
+UnityEngine.Color*&
+	%m %(ˆ
+
+%4UnityEngine.Color*'
 
-%4void")Shapes.ShapeRenderer.SetFloat(int, float)*
-; ;(
-Shapes.Torus*A
-; ;(-5*3
-Shapes.ShapesMaterialUtils"
-propAngStartint*8
-;/ ;(>,**
-Shapes.Torus"
-angRadiansStartfloatÛ
-Ø
-< <(<
+%‹ %(’
+
+%5UnityEngine.ColorV
+T
+	%m %(’
+%retUnityEngine.Color"__id*&
+	%m %(’
+
+%6UnityEngine.Color*
+2*:
+2
+%“ %(“")
 
-%5void")Shapes.ShapeRenderer.SetFloat(int, float)*
-< <(
-Shapes.Torus*?
-< <(+3*1
-Shapes.ShapesMaterialUtils"
-
-propAngEndint*6
-<- <(:**(
-Shapes.Torus"
-angRadiansEndfloat*
-2*.
-2= =("
-= =(
-implicit returnB
-Shapes.Torus
+%’ %(“
+
+%retUnityEngine.Color:$
+%: %(C
+wUnityEngine.Vector4:"
+%E %(L
+aUnityEngine.Color:"
+%N %(U
+bUnityEngine.Color:"
+%W %(^
+cUnityEngine.Color:"
+%` %(g
+dUnityEngine.ColorB"
+Shapes.ShapesMath

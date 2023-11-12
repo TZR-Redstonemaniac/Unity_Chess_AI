@@ -1,35 +1,37 @@
 
-"Shapes.Draw.RectangleThickness.getà
-|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csï ï("0*
-0
-ï ï(*
-1*’
-1
-ï
- ï(\
-Z
+%Shapes.ShapeRenderer.SortingOrder.setÅ
+wC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Components\ShapeRenderer.cs) )("0*
+0) )(*
+1*ç
+1)
+ )(H¯
+ı
+)
+ )(3
+%1UnityEngine.MeshRenderer"@Shapes.ShapeRenderer.MakeSureComponentExists<T>(ref T, out bool)*$
+)
+ )(!
+Shapes.ShapeRenderer*G
+)# )(*;*9
+Shapes.ShapeRenderer"
+rndUnityEngine.MeshRenderer*
+), )(1
 
-ï
- ï(
-%0Shapes.DrawStyle"__id*.,**
-Shapes.Draw"
-styleShapes.DrawStylea
-_
 
-ï
- ï(
-%retfloat"__id*<
-
-ï
- ï(.*,
-
-%0Shapes.DrawStyle"
-	thicknessfloat*
+%0bool~
+|
+)
+ )(H	
+%2int"%UnityEngine.Renderer.sortingOrder.set*,
+)
+ )(3 
+
+%1UnityEngine.MeshRenderer*
+
+valueint*
 2*.
-2
-ï ï("
-
-ï ï(
-
-%retfloatB"
-Shapes.Draw
+2)I )(I"
+)H )(I
+implicit return:
+valueintB
+Shapes.ShapeRenderer

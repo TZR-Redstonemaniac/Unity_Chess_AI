@@ -1,51 +1,38 @@
 
-Shapes.Line.DashSpacing.get–
-‹C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Interfaces\GeneratedInterfaceImplementations.csc c("0*
-0c c(*
-1*
-1c
- c( *
-2
-3*Ç
-2c# c(1^
-\
-c# c(,
-%0Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStyleS
-Q
-c# c(1
-	%capture0float"__id*+)*'
-
-%0Shapes.DashStyle"
-sizefloat*
-4*Ê
-3c4 c(E^
-\
-c4 c(=
-%1Shapes.DashStyle"__id*20*.
-Shapes.Line"
-	dashStyleShapes.DashStyleV
-T
-c4 c(E
-	%capture0float"__id*.,**
-
-%1Shapes.DashStyle"
-spacingfloat*
-4*W
-4c
- c(EC
-A
-c
- c(E
-%retfloat"__id* 
-c
- c(E
-
-	%capture0float*
-5**
-5cF c(F"
-cE c(F
+'Shapes.Draw.GradientFillLinearStart.getˆ
+|C:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Scripts\Runtime\Immediate Mode\DrawStateStyle.csß ß("0*
+0
+ß ß(*
+1*ì
+1
+ß! ß(?\
+Z
 
-%retfloatB
-Shapes.Line
+ß! ß(&
+%0Shapes.DrawStyle"__id*.,**
+Shapes.Draw"
+styleShapes.DrawStyler
+p
+
+ß! ß(3
+%1Shapes.GradientFill"__id*A?*=
+
+%0Shapes.DrawStyle"#
+gradientFillShapes.GradientFillƒ
+€
+
+ß! ß(?
+%retUnityEngine.Vector3"__id*O
+
+ß! ß(?A*?
+
+%1Shapes.GradientFill""
+linearStartUnityEngine.Vector3*
+2*<
+2
+ß@ ß(@"+
+
+ß? ß(@
+
+%retUnityEngine.Vector3B"
+Shapes.Draw

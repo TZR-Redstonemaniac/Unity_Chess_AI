@@ -1,19 +1,26 @@
 
-Shapes.AmmoBar.Awake()w
-mC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Samples\Assets\Scripts\AmmoBar.cs ("0*
-0 (*
-1*è
-1 (;$"
-$ (;
-%0float[]"float[]U
-S
- (;.
-Shapes.AmmoBar"
-bulletFireTimesfloat[]"__id*
+'Shapes.Crosshair.UpdateCrosshairDecay()y
+oC:\Users\kdeen\OneDrive\Documents\Coding Projects\Computer-IA\Assets\Shapes\Samples\Assets\Scripts\Crosshair.cs (""0*
+0 (*
+1*˝
+1 (t
+r
+ (
 
-%0float[]*
+%0void"Shapes.Decayer.Update()*A
+ (5*3
+Shapes.Crosshair"
+fireDecayerShapes.Decayers
+q
+ (
+
+%1void"Shapes.Decayer.Update()*@
+ (4*2
+Shapes.Crosshair"
+
+hitDecayerShapes.Decayer*
 2*.
-2< (<"
-; (<
-implicit returnB
-Shapes.AmmoBar
+2 ("
+ (
+implicit returnB
+Shapes.Crosshair
